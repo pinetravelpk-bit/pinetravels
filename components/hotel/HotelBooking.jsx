@@ -1,8 +1,9 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { Minus, Plus, Users, BedDouble, Maximize2, CalendarDays, CheckCircle2, MessageCircle, Home } from "lucide-react";
+import { Minus, Plus, Users, BedDouble, Maximize2, CalendarDays, CheckCircle2, MessageCircle, Home, Images, ChevronRight } from "lucide-react";
 import { CardScene } from "../Scenery";
+import RoomModal from "./RoomModal";
 import { formatPKR } from "../../lib/hotels";
 import { site } from "../../lib/data";
 
@@ -16,6 +17,7 @@ export default function HotelBooking({ hotel }) {
   const [guests, setGuests] = useState(2);
   const [qty, setQty] = useState({});
   const [done, setDone] = useState(false);
+  const [modalRoom, setModalRoom] = useState(null);
 
   const nights = nightsBetween(checkIn, checkOut);
   const selected = useMemo(
@@ -48,6 +50,7 @@ export default function HotelBooking({ hotel }) {
   };
 
   return (
+    <>
     <div className="grid gap-8 lg:grid-cols-[1fr_380px]">
       <div className="space-y-5">
         {hotel.rooms.map((r) => {
@@ -55,14 +58,24 @@ export default function HotelBooking({ hotel }) {
           return (
             <article key={r.id} className={`overflow-hidden rounded-2xl border bg-white shadow-card transition-colors ${count > 0 ? "border-pine-600/40 ring-1 ring-pine-600/20" : "border-pine-600/10"}`}>
               <div className="grid sm:grid-cols-[200px_1fr]">
-                <div className="relative h-40 sm:h-full">
-                  <CardScene tone={r.tone} className="h-full w-full" />
+                <button type="button" onClick={() => setModalRoom(r)} className="group relative h-40 w-full overflow-hidden text-left sm:h-full" aria-label={`View photos and details for ${r.name}`}>
+                  {r.photos?.length ? (
+                    <img src={r.photos[0]} alt={r.name} className="h-full w-full object-cover transition duration-300 group-hover:scale-105" loading="lazy" />
+                  ) : (
+                    <CardScene tone={r.tone} className="h-full w-full" />
+                  )}
                   <span className="absolute left-3 top-3 rounded-full bg-cream/90 px-3 py-1 text-[11px] font-semibold uppercase tracking-wider text-pine-700 backdrop-blur">{typeLabel[r.type]}</span>
-                </div>
+                  {r.photos?.length > 1 && (
+                    <span className="absolute right-3 top-3 inline-flex items-center gap-1 rounded-full bg-ink/55 px-2 py-1 text-[10.5px] font-semibold text-cream backdrop-blur"><Images className="h-3 w-3" /> {r.photos.length}</span>
+                  )}
+                  <span className="absolute inset-x-0 bottom-0 flex items-center justify-center gap-1.5 bg-ink/45 py-2 text-[12px] font-semibold text-cream opacity-0 backdrop-blur transition group-hover:opacity-100">
+                    <Images className="h-3.5 w-3.5" /> View photos &amp; details
+                  </span>
+                </button>
                 <div className="flex flex-col p-5">
                   <div className="flex flex-wrap items-start justify-between gap-2">
                     <div>
-                      <h3 className="font-display text-lg font-bold text-ink">{r.name}</h3>
+                      <button type="button" onClick={() => setModalRoom(r)} className="text-left font-display text-lg font-bold text-ink transition hover:text-pine-700">{r.name}</button>
                       {r.type === "cottage" && (
                         <p className="mt-0.5 inline-flex items-center gap-1.5 text-[13px] font-semibold text-maroon-600"><Home className="h-3.5 w-3.5" /> Includes {r.roomCount} rooms</p>
                       )}
@@ -81,7 +94,9 @@ export default function HotelBooking({ hotel }) {
                     {r.amenities.map((a) => (<span key={a} className="rounded-full bg-pine-50 px-2.5 py-1 text-[11.5px] font-medium text-pine-700">{a}</span>))}
                   </div>
                   <div className="mt-4 flex items-center justify-between border-t border-pine-600/10 pt-4">
-                    <span className="text-[13px] font-medium text-ink-soft">{count > 0 ? `${count} selected` : "Add to booking"}</span>
+                    <button type="button" onClick={() => setModalRoom(r)} className="inline-flex items-center gap-1 text-[13px] font-semibold text-pine-700 transition hover:text-pine-800">
+                      {count > 0 ? `${count} selected · details` : "View details & book"} <ChevronRight className="h-3.5 w-3.5" />
+                    </button>
                     <div className="flex items-center gap-3">
                       <button onClick={() => setCount(r.id, count - 1)} disabled={count === 0} className="grid h-9 w-9 place-items-center rounded-full border border-pine-600/20 text-pine-700 transition hover:bg-pine-50 disabled:opacity-30" aria-label={`Remove one ${r.name}`}><Minus className="h-4 w-4" /></button>
                       <span className="w-6 text-center font-display text-lg font-bold text-ink">{count}</span>
@@ -150,5 +165,7 @@ export default function HotelBooking({ hotel }) {
         </div>
       </aside>
     </div>
+    <RoomModal room={modalRoom} hotel={hotel} open={!!modalRoom} onClose={() => setModalRoom(null)} />
+    </>
   );
 }

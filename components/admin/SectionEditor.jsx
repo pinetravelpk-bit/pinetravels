@@ -2,7 +2,7 @@
 
 import { useState, useCallback } from "react";
 import {
-  Save, Loader2, Plus, Trash2, ChevronUp, ChevronDown,
+  Save, Loader2, Plus, Trash2, ChevronUp, ChevronDown, ChevronLeft, ChevronRight,
   CheckCircle2, AlertCircle, Upload, Code2, LayoutList,
 } from "lucide-react";
 
@@ -176,6 +176,78 @@ function StringList({ name, value, onChange }) {
   );
 }
 
+// A list of image URLs with real upload (multiple), reorder and delete.
+// Used for any array field whose name looks like media (photos, images…).
+function MediaList({ name, value, onChange }) {
+  const items = Array.isArray(value) ? value : [];
+  const [uploading, setUploading] = useState(false);
+  const [err, setErr] = useState("");
+
+  const setAt = (i, v) => onChange(items.map((x, k) => (k === i ? v : x)));
+  const removeAt = (i) => onChange(items.filter((_, k) => k !== i));
+  const move = (i, dir) => {
+    const j = i + dir;
+    if (j < 0 || j >= items.length) return;
+    const next = [...items];
+    [next[i], next[j]] = [next[j], next[i]];
+    onChange(next);
+  };
+
+  const uploadFiles = async (files) => {
+    const list = Array.from(files || []);
+    if (!list.length) return;
+    setUploading(true);
+    setErr("");
+    const urls = [];
+    for (const file of list) {
+      try {
+        const fd = new FormData();
+        fd.append("file", file);
+        const res = await fetch("/api/admin/media", { method: "POST", body: fd });
+        const json = await res.json().catch(() => ({}));
+        if (res.ok && json.url) urls.push(json.url);
+        else setErr(json.error || "Kuch images upload nahi huin.");
+      } catch {
+        setErr("Upload fail ho gaya.");
+      }
+    }
+    if (urls.length) onChange([...items, ...urls]);
+    setUploading(false);
+  };
+
+  return (
+    <div>
+      <span className="text-[11.5px] font-semibold uppercase tracking-wider text-ink-faint">
+        {label(name)} <span className="text-ink-faint/70">({items.length})</span>
+      </span>
+      <div className="mt-2 grid grid-cols-2 gap-2.5 sm:grid-cols-3">
+        {items.map((url, i) => (
+          <div key={i} className="group relative overflow-hidden rounded-xl border border-pine-600/15 bg-white">
+            <div className="aspect-[4/3] w-full bg-[#f5f6f4]">
+              {url ? <img src={url} alt="" className="h-full w-full object-cover" /> : null}
+            </div>
+            <div className="absolute inset-x-0 top-0 flex items-center justify-between gap-1 bg-ink/45 p-1 opacity-0 transition group-hover:opacity-100">
+              <span className="flex gap-1">
+                <button type="button" onClick={() => move(i, -1)} disabled={i === 0} className="grid h-6 w-6 place-items-center rounded bg-white/90 text-pine-700 disabled:opacity-30" aria-label="Move left"><ChevronLeft className="h-3.5 w-3.5" /></button>
+                <button type="button" onClick={() => move(i, 1)} disabled={i === items.length - 1} className="grid h-6 w-6 place-items-center rounded bg-white/90 text-pine-700 disabled:opacity-30" aria-label="Move right"><ChevronRight className="h-3.5 w-3.5" /></button>
+              </span>
+              <button type="button" onClick={() => removeAt(i)} className="grid h-6 w-6 place-items-center rounded bg-white/90 text-maroon-600" aria-label="Remove image"><Trash2 className="h-3.5 w-3.5" /></button>
+            </div>
+            {i === 0 && <span className="absolute bottom-1 left-1 rounded bg-pine-600/90 px-1.5 py-0.5 text-[9.5px] font-bold uppercase tracking-wide text-cream">Main</span>}
+            <input type="text" value={url ?? ""} onChange={(e) => setAt(i, e.target.value)} placeholder="/uploads/…" className="w-full border-t border-pine-600/10 bg-white px-2 py-1 text-[11px] text-ink-soft outline-none" />
+          </div>
+        ))}
+        <label className="flex aspect-[4/3] cursor-pointer flex-col items-center justify-center gap-1.5 rounded-xl border-2 border-dashed border-pine-600/25 bg-pine-50/40 text-pine-700 transition hover:bg-pine-50">
+          <input type="file" accept="image/*" multiple onChange={(e) => uploadFiles(e.target.files)} className="hidden" />
+          {uploading ? <Loader2 className="h-5 w-5 animate-spin" /> : <Upload className="h-5 w-5" />}
+          <span className="text-[12px] font-semibold">{uploading ? "Uploading…" : "Upload images"}</span>
+        </label>
+      </div>
+      {err && <p className="mt-1.5 text-[12px] text-maroon-600">{err}</p>}
+    </div>
+  );
+}
+
 function ObjectList({ name, value, onChange }) {
   const items = Array.isArray(value) ? value : [];
   const sample = items[0] || {};
@@ -250,11 +322,9 @@ function Fields({ data, onChange }) {
       {Object.entries(data).map(([key, value]) => {
         if (Array.isArray(value)) {
           const objectArray = value.length > 0 && value[0] !== null && typeof value[0] === "object";
-          return objectArray ? (
-            <ObjectList key={key} name={key} value={value} onChange={(v) => set(key, v)} />
-          ) : (
-            <StringList key={key} name={key} value={value} onChange={(v) => set(key, v)} />
-          );
+          if (objectArray) return <ObjectList key={key} name={key} value={value} onChange={(v) => set(key, v)} />;
+          if (isMediaKey(key)) return <MediaList key={key} name={key} value={value} onChange={(v) => set(key, v)} />;
+          return <StringList key={key} name={key} value={value} onChange={(v) => set(key, v)} />;
         }
         if (value !== null && typeof value === "object") {
           return (
@@ -280,7 +350,7 @@ function Fields({ data, onChange }) {
 
 /* ── main editor ───────────────────────────────────────────── */
 
-export default function SectionEditor({ sectionKey, title, description, initial }) {
+export default function SectionEditor({ sectionKey, title, description, initial, endpoint = "/api/admin/content", idKey = "key" }) {
   const [data, setData] = useState(() => clone(initial));
   const [status, setStatus] = useState(null);
   const [busy, setBusy] = useState(false);
@@ -303,10 +373,10 @@ export default function SectionEditor({ sectionKey, title, description, initial 
     setBusy(true);
     setStatus(null);
     try {
-      const res = await fetch("/api/admin/content", {
+      const res = await fetch(endpoint, {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ key: sectionKey, data: payload }),
+        body: JSON.stringify({ [idKey]: sectionKey, data: payload }),
       });
       const json = await res.json().catch(() => ({}));
       setStatus(res.ok ? { ok: true } : { ok: false, msg: json.error || "Save nahi hua." });
@@ -314,7 +384,7 @@ export default function SectionEditor({ sectionKey, title, description, initial 
       setStatus({ ok: false, msg: "Server se rabta nahi ho saka." });
     }
     setBusy(false);
-  }, [data, raw, rawText, sectionKey]);
+  }, [data, raw, rawText, sectionKey, endpoint, idKey]);
 
   const toggleRaw = () => {
     if (!raw) setRawText(JSON.stringify(data, null, 2));

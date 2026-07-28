@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 import {
   LayoutDashboard, Settings, Image as ImageIcon, Inbox, LogOut,
-  Menu, X, Home, ExternalLink, Layers,
+  Menu, X, Home, ExternalLink, Layers, BedDouble,
 } from "lucide-react";
 
 const NAV = [
@@ -13,6 +13,7 @@ const NAV = [
   { href: "/admin/sections/site", label: "Site Settings", Icon: Settings },
   { href: "/admin/sections/hero", label: "Hero & Video", Icon: Home },
   { href: "/admin/sections", label: "Page Sections", Icon: Layers, exact: true },
+  { href: "/admin/hotels", label: "Hotels", Icon: BedDouble },
   { href: "/admin/media", label: "Media", Icon: ImageIcon },
   { href: "/admin/enquiries", label: "Enquiries", Icon: Inbox },
 ];

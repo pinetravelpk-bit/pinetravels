@@ -16,7 +16,7 @@ export function HotelAbout({ hotel }) {
           <div className="mt-7 grid grid-cols-3 gap-4">
             {[
               { k: "Location", v: hotel.location },
-              { k: "Rating", v: `${hotel.rating} / 5` },
+              hotel.rating ? { k: "Rating", v: `${hotel.rating} / 5` } : { k: "Region", v: hotel.region },
               { k: "From", v: `${formatPKR(priceFrom(hotel))}/night` },
             ].map((f) => (
               <div key={f.k} className="rounded-xl border border-pine-600/10 grad-card p-4 shadow-card">
@@ -111,15 +111,21 @@ export function HotelFeatures({ hotel }) {
 }
 
 export function HotelGallery({ hotel }) {
+  const photos = hotel.photos || [];
+  const tiles = photos.length ? photos : hotel.gallery || [];
   return (
     <section className="grad-pine-soft py-20 sm:py-24">
       <div className="container-x">
-        <SectionHead center eyebrow="Gallery" title="A look around the property" intro="Swap these illustrated tiles for your own photos in public/images and update this section." />
+        <SectionHead center eyebrow="Gallery" title="A look around the property" intro={photos.length ? `A look around ${hotel.name}.` : "Swap these illustrated tiles for your own photos in public/images and update this section."} />
         <div className="mt-12 grid grid-cols-2 gap-4 md:grid-cols-3">
-          {hotel.gallery.map((tone, i) => (
+          {tiles.map((t, i) => (
             <Reveal key={i} delay={(i % 3) * 70}>
               <div className={`overflow-hidden rounded-2xl shadow-card ${i % 5 === 0 ? "md:col-span-2" : ""}`}>
-                <CardScene tone={tone} className="h-52 w-full" />
+                {photos.length ? (
+                  <img src={t} alt={`${hotel.name} — ${i + 1}`} className="h-52 w-full object-cover" loading="lazy" />
+                ) : (
+                  <CardScene tone={t} className="h-52 w-full" />
+                )}
               </div>
             </Reveal>
           ))}
@@ -131,6 +137,7 @@ export function HotelGallery({ hotel }) {
 
 export function HotelOffer({ hotel }) {
   const o = hotel.offer;
+  if (!o) return null;
   return (
     <section className="py-20 sm:py-24">
       <div className="container-x">
@@ -155,6 +162,7 @@ export function HotelOffer({ hotel }) {
 }
 
 export function HotelFeedback({ hotel }) {
+  if (!hotel.feedback?.length) return null;
   return (
     <section className="grad-pine-soft py-20 sm:py-24">
       <div className="container-x">
