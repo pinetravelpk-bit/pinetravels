@@ -4,14 +4,16 @@ import PageBanner from "../../components/PageBanner";
 import Reveal from "../../components/Reveal";
 import CTA from "../../components/CTA";
 import { CardScene } from "../../components/Scenery";
-import { hotels, priceFrom, formatPKR } from "../../lib/hotels";
+import { priceFrom, formatPKR } from "../../lib/hotels";
+import { getHotels } from "../../lib/cms";
 
 export const metadata = {
   title: "Hotels & Guest Houses",
   description: "Vetted hotels, resorts and guest houses across Hunza, Skardu, Naran and Northern Pakistan. Book multiple rooms or a whole cottage for several nights.",
 };
 
-export default function HotelsPage() {
+export default async function HotelsPage() {
+  const hotels = await getHotels();
   return (
     <>
       <PageBanner
@@ -25,7 +27,11 @@ export default function HotelsPage() {
             <Reveal key={h.slug} delay={(i % 3) * 90}>
               <Link href={`/hotels/${h.slug}`} className="group block overflow-hidden rounded-2xl border border-pine-600/10 bg-white shadow-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lift">
                 <div className="relative h-56 overflow-hidden">
-                  <CardScene tone={h.tone} className="h-full w-full transition-transform duration-500 group-hover:scale-105" />
+                  {h.photos?.length ? (
+                    <img src={h.photos[0]} alt={h.name} className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" />
+                  ) : (
+                    <CardScene tone={h.tone} className="h-full w-full transition-transform duration-500 group-hover:scale-105" />
+                  )}
                   <span className="absolute left-4 top-4 inline-flex items-center gap-1.5 rounded-full bg-cream/90 px-3 py-1 text-[11px] font-semibold uppercase tracking-wider text-pine-700 backdrop-blur">
                     <MapPin className="h-3 w-3" /> {h.region}
                   </span>

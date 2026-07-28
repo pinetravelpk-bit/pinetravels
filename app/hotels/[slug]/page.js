@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
-import { hotels, getHotel } from "../../../lib/hotels";
+import { hotels } from "../../../lib/hotels";
+import { getHotelBySlug } from "../../../lib/cms";
 import HotelHero from "../../../components/hotel/HotelHero";
 import HotelBooking from "../../../components/hotel/HotelBooking";
 import {
@@ -12,14 +13,14 @@ export function generateStaticParams() {
   return hotels.map((h) => ({ slug: h.slug }));
 }
 
-export function generateMetadata({ params }) {
-  const hotel = getHotel(params.slug);
+export async function generateMetadata({ params }) {
+  const hotel = await getHotelBySlug(params.slug);
   if (!hotel) return { title: "Hotel not found" };
   return { title: `${hotel.name} — ${hotel.location}`, description: hotel.short };
 }
 
-export default function HotelDetailPage({ params }) {
-  const hotel = getHotel(params.slug);
+export default async function HotelDetailPage({ params }) {
+  const hotel = await getHotelBySlug(params.slug);
   if (!hotel) notFound();
   return (
     <>
