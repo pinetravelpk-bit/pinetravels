@@ -29,9 +29,11 @@ export default function HotelsPage() {
                   <span className="absolute left-4 top-4 inline-flex items-center gap-1.5 rounded-full bg-cream/90 px-3 py-1 text-[11px] font-semibold uppercase tracking-wider text-pine-700 backdrop-blur">
                     <MapPin className="h-3 w-3" /> {h.region}
                   </span>
-                  <span className="absolute right-4 top-4 inline-flex items-center gap-1 rounded-full bg-pine-800/90 px-2.5 py-1 text-[12px] font-semibold text-cream backdrop-blur">
-                    <Star className="h-3 w-3 fill-current text-amber-300" /> {h.rating}
-                  </span>
+                  {h.rating && (
+                    <span className="absolute right-4 top-4 inline-flex items-center gap-1 rounded-full bg-pine-800/90 px-2.5 py-1 text-[12px] font-semibold text-cream backdrop-blur">
+                      <Star className="h-3 w-3 fill-current text-amber-300" /> {h.rating}
+                    </span>
+                  )}
                 </div>
                 <div className="p-6">
                   <div className="flex items-start justify-between gap-3">

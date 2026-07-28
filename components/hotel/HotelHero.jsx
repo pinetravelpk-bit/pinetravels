@@ -23,11 +23,13 @@ export default function HotelHero({ hotel }) {
           </p>
           <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3 text-[14px]">
             <span className="inline-flex items-center gap-1.5"><MapPin className="h-4 w-4 text-pine-200" /> {hotel.location}</span>
-            <span className="inline-flex items-center gap-1.5">
-              <Star className="h-4 w-4 fill-current text-amber-300" />
-              <span className="font-semibold">{hotel.rating}</span>
-              <span className="text-cream/60">({hotel.reviews} reviews)</span>
-            </span>
+            {hotel.rating && (
+              <span className="inline-flex items-center gap-1.5">
+                <Star className="h-4 w-4 fill-current text-amber-300" />
+                <span className="font-semibold">{hotel.rating}</span>
+                {hotel.reviews ? <span className="text-cream/60">({hotel.reviews} reviews)</span> : null}
+              </span>
+            )}
             <span className="text-cream/70">From <span className="font-display text-lg font-extrabold text-cream">{formatPKR(priceFrom(hotel))}</span>/night</span>
           </div>
           <div className="mt-8 flex flex-wrap gap-3">
