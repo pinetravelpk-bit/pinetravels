@@ -22,6 +22,14 @@ export function Reveal({
   ...rest
 }) {
   const M = motion[as] || motion.div;
+  const reduce = useReducedMotion();
+  if (reduce) {
+    return (
+      <M className={className} {...rest}>
+        {children}
+      </M>
+    );
+  }
   return (
     <M
       className={className}
@@ -38,6 +46,14 @@ export function Reveal({
 
 /* ----------------------------------------------------------------- Stagger */
 export function Stagger({ children, className = "", delay = 0, gap = 0.09, once = true, ...rest }) {
+  const reduce = useReducedMotion();
+  if (reduce) {
+    return (
+      <div className={className} {...rest}>
+        {children}
+      </div>
+    );
+  }
   return (
     <motion.div
       className={className}
@@ -57,6 +73,14 @@ export function Stagger({ children, className = "", delay = 0, gap = 0.09, once 
 
 export function StaggerItem({ children, className = "", y = 26, as = "div", ...rest }) {
   const M = motion[as] || motion.div;
+  const reduce = useReducedMotion();
+  if (reduce) {
+    return (
+      <M className={className} {...rest}>
+        {children}
+      </M>
+    );
+  }
   return (
     <M
       className={className}
@@ -177,6 +201,19 @@ export function TiltCard({ children, className = "", max = 8 }) {
 /* ------------------------------------------------------------- WordReveal */
 export function WordReveal({ text = "", className = "", highlight = [], delay = 0 }) {
   const words = text.split(" ");
+  const reduce = useReducedMotion();
+  if (reduce) {
+    return (
+      <span className={className}>
+        {words.map((w, i) => (
+          <span key={i} className={highlight.includes(w) ? "gradient-text" : ""}>
+            {w}
+            {i < words.length - 1 ? " " : ""}
+          </span>
+        ))}
+      </span>
+    );
+  }
   return (
     <span className={className}>
       {words.map((w, i) => (
