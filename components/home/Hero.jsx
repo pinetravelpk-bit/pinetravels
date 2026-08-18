@@ -16,7 +16,7 @@ function FloatCard({ className = "", delay = 0, rotate = "", children }) {
 
 export default function Hero() {
   return (
-    <section className="relative overflow-hidden grad-soft pt-[72px]">
+    <section className="relative overflow-hidden grad-soft pt-28">
       {/* aurora field */}
       <div className="aurora -left-24 top-10 h-[26rem] w-[26rem] bg-brand-400/40" aria-hidden="true" />
       <div className="aurora right-[-6rem] top-0 h-96 w-96 bg-azure-400/30" aria-hidden="true" />

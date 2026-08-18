@@ -1,95 +1,124 @@
+"use client";
+
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import { ArrowUpRight } from "lucide-react";
-import Icon from "../Icons";
-import Reveal from "../Reveal";
-import { whyUs } from "../../lib/site";
+import { ArrowUpRight, Heart, Star, Check } from "lucide-react";
+import { stats } from "../../lib/site";
+
+const bars = [
+  { label: "Creative campaigns", value: 94 },
+  { label: "Client retention", value: 98 },
+];
+
+function ProgressBar({ label, value, inView, delay = 0 }) {
+  return (
+    <div>
+      <div className="flex items-center justify-between">
+        <span className="text-sm font-bold text-ink">{label}</span>
+        <span className="font-display text-lg font-extrabold grad-text">{value}%</span>
+      </div>
+      <div className="mt-2 h-2.5 w-full overflow-hidden rounded-full bg-brand-100">
+        <div
+          className="h-full rounded-full grad-brand transition-[width] duration-[1200ms] ease-out"
+          style={{ width: inView ? `${value}%` : "0%", transitionDelay: `${delay}ms` }}
+        />
+      </div>
+    </div>
+  );
+}
 
 export default function About() {
+  const ref = useRef(null);
+  const [inView, setInView] = useState(false);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el || typeof IntersectionObserver === "undefined") { setInView(true); return; }
+    const io = new IntersectionObserver(
+      ([e]) => { if (e.isIntersecting) { setInView(true); io.disconnect(); } },
+      { threshold: 0.25 }
+    );
+    io.observe(el);
+    return () => io.disconnect();
+  }, []);
+
   return (
-    <section className="relative overflow-hidden py-20 lg:py-28">
-      <div className="container-x grid items-center gap-14 lg:grid-cols-2">
-        {/* Visual panel */}
-        <Reveal className="relative">
-          <div className="relative aspect-[4/3.4] w-full overflow-hidden rounded-xl3 grad-ink p-8 shadow-lift">
-            <div className="absolute inset-0 grid-lines opacity-40" aria-hidden="true" />
-            <div className="aurora -right-10 -top-10 h-56 w-56 bg-brand-500/50" aria-hidden="true" />
-            <div className="aurora -bottom-10 -left-8 h-52 w-52 bg-azure-500/40" aria-hidden="true" />
+    <section ref={ref} className="relative overflow-hidden py-20 lg:py-28">
+      <div className="aurora left-1/4 top-10 h-72 w-96 bg-brand-300/30" aria-hidden="true" />
+      <div className="container-x relative grid items-center gap-14 lg:grid-cols-2">
+        {/* Left: copy + progress */}
+        <div className="reveal is-visible flex flex-col gap-6">
+          <span className="tagline">About Us</span>
+          <h2 className="font-display text-3xl font-extrabold leading-tight text-ink sm:text-4xl md:text-[42px]">
+            We're a strategic <span className="grad-text">creative marketing</span> agency
+          </h2>
+          <p className="text-lg leading-relaxed text-ink-muted">
+            To scale customer acquisition and retention for modern brands, we work across the entire
+            journey — video, design, campaigns and creators — with a track record of helping brands grow.
+          </p>
 
-            <div className="relative flex h-full flex-col justify-between">
-              <div>
-                <p className="text-xs font-bold uppercase tracking-eyebrow text-brand-200">Since 2019</p>
-                <p className="mt-3 max-w-xs font-display text-2xl font-bold leading-snug text-white">
-                  One creative team. Every channel that matters.
-                </p>
-              </div>
-
-              <div className="grid grid-cols-2 gap-3">
-                <div className="rounded-2xl bg-white/10 p-4 backdrop-blur ring-1 ring-white/10">
-                  <p className="font-display text-3xl font-extrabold text-white">98%</p>
-                  <p className="mt-1 text-xs text-brand-100/70">client retention</p>
-                </div>
-                <div className="rounded-2xl bg-white/10 p-4 backdrop-blur ring-1 ring-white/10">
-                  <p className="font-display text-3xl font-extrabold text-white">48h</p>
-                  <p className="mt-1 text-xs text-brand-100/70">reel turnaround</p>
-                </div>
-                <div className="col-span-2 flex items-center gap-3 rounded-2xl grad-brand p-4">
-                  <span className="font-display text-3xl font-extrabold text-white">+38%</span>
-                  <span className="text-sm text-white/85">average lift in conversions across retainers</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          {/* floating badge */}
-          <div className="absolute -bottom-5 -right-4 hidden rounded-2xl bg-white p-4 shadow-lift ring-1 ring-ink/5 sm:block">
-            <div className="flex items-center gap-3">
-              <span className="grid h-11 w-11 place-items-center rounded-xl grad-aurora text-white">
-                <Icon name="spark" className="h-5 w-5" />
-              </span>
-              <div>
-                <p className="font-display text-lg font-extrabold leading-none text-ink">1,200+</p>
-                <p className="text-xs text-ink-muted">projects shipped</p>
-              </div>
-            </div>
-          </div>
-        </Reveal>
-
-        {/* Copy + why-us */}
-        <div className="flex flex-col gap-6">
-          <Reveal>
-            <span className="eyebrow">Why InventiveClicks</span>
-          </Reveal>
-          <Reveal delay={80}>
-            <h2 className="font-display text-3xl font-extrabold leading-tight text-ink sm:text-4xl">
-              Creative that's <span className="grad-text">felt</span> — and proven to{" "}
-              <span className="grad-text">perform.</span>
-            </h2>
-          </Reveal>
-          <Reveal delay={140}>
-            <p className="text-lg leading-relaxed text-ink-muted">
-              We're the creative partner brands call when "nice-looking" isn't enough. Every idea we
-              ship carries a target and a way to measure it — so beauty and results never trade off.
-            </p>
-          </Reveal>
-
-          <div className="mt-2 grid gap-5 sm:grid-cols-2">
-            {whyUs.map((w, i) => (
-              <Reveal key={w.title} delay={i * 80} className="flex gap-4">
-                <span className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-brand-50 text-brand-600">
-                  <Icon name={w.icon} className="h-5 w-5" />
-                </span>
-                <div>
-                  <h3 className="font-display text-base font-bold text-ink">{w.title}</h3>
-                  <p className="mt-1 text-sm leading-relaxed text-ink-muted">{w.text}</p>
-                </div>
-              </Reveal>
+          <div className="mt-2 grid gap-6 rounded-2xl border border-line bg-white/60 p-6 sm:grid-cols-2">
+            {bars.map((b, i) => (
+              <ProgressBar key={b.label} {...b} inView={inView} delay={i * 200} />
             ))}
           </div>
 
-          <Reveal delay={120}>
-            <Link href="/about" className="btn-ghost mt-2 w-fit">
-              More about us <ArrowUpRight className="h-4 w-4" />
+          <div>
+            <Link href="/about" className="btn-primary mt-1 w-fit">
+              About us <ArrowUpRight className="h-4 w-4" />
             </Link>
-          </Reveal>
+          </div>
+        </div>
+
+        {/* Right: original social-proof visual */}
+        <div className="reveal is-visible relative mx-auto w-full max-w-md">
+          {/* organic blob backdrop */}
+          <div className="absolute inset-0 grad-brand opacity-90 blur-[2px]" style={{ borderRadius: "42% 58% 46% 54% / 52% 44% 56% 48%" }} aria-hidden="true" />
+          <div className="absolute inset-0 grid-lines opacity-20" style={{ borderRadius: "42% 58% 46% 54% / 52% 44% 56% 48%" }} aria-hidden="true" />
+
+          <div className="relative flex aspect-square items-center justify-center p-8">
+            {/* central glass panel */}
+            <div className="w-full max-w-[15rem] rounded-3xl bg-white/95 p-6 shadow-lift backdrop-blur">
+              <div className="flex items-center gap-3">
+                <span className="grid h-12 w-12 place-items-center rounded-2xl grad-aurora text-white">
+                  <Star className="h-6 w-6 fill-white" />
+                </span>
+                <div>
+                  <p className="font-display text-xl font-extrabold leading-none text-ink">4.9/5</p>
+                  <p className="text-xs text-ink-muted">from 600+ reviews</p>
+                </div>
+              </div>
+              <div className="mt-5 space-y-3">
+                {stats.slice(0, 2).map((s) => (
+                  <div key={s.label} className="flex items-center gap-2 text-sm">
+                    <span className="grid h-5 w-5 place-items-center rounded-full bg-brand-50 text-brand-600">
+                      <Check className="h-3 w-3" />
+                    </span>
+                    <span className="font-semibold text-ink">{s.value}</span>
+                    <span className="text-ink-muted">{s.label.toLowerCase()}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* floating like badge */}
+            <div className="absolute left-2 top-6 flex items-center gap-2 rounded-full bg-white px-3.5 py-2 shadow-lift animate-floaty">
+              <span className="grid h-7 w-7 place-items-center rounded-full bg-coral text-white">
+                <Heart className="h-3.5 w-3.5 fill-white" />
+              </span>
+              <span className="font-display text-sm font-extrabold text-ink">999</span>
+            </div>
+
+            {/* floating happy-clients pill */}
+            <div className="absolute bottom-6 right-0 flex items-center gap-2.5 rounded-full bg-white px-4 py-2.5 shadow-lift animate-floaty" style={{ animationDelay: "1.2s" }}>
+              <div className="flex -space-x-2">
+                {["grad-brand", "grad-aurora", "bg-azure-500", "bg-coral"].map((c, i) => (
+                  <span key={i} className={`h-6 w-6 rounded-full ring-2 ring-white ${c}`} />
+                ))}
+              </div>
+              <span className="font-display text-sm font-bold text-ink">1.5k Happy Clients</span>
+            </div>
+          </div>
         </div>
       </div>
     </section>

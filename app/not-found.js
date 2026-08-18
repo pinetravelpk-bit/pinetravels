@@ -5,7 +5,7 @@ export const metadata = { title: "Page not found" };
 
 export default function NotFound() {
   return (
-    <section className="relative flex min-h-[80vh] items-center overflow-hidden grad-soft pt-[72px]">
+    <section className="relative flex min-h-[80vh] items-center overflow-hidden grad-soft pt-28">
       <div className="aurora -left-20 top-10 h-96 w-96 bg-brand-400/40" aria-hidden="true" />
       <div className="aurora right-0 top-0 h-80 w-80 bg-azure-400/30" aria-hidden="true" />
       <div className="absolute inset-0 dot-grid opacity-50" aria-hidden="true" />

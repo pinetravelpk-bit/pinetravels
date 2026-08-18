@@ -5,7 +5,7 @@ import Reveal from "./Reveal";
 // Inner-page banner with breadcrumb + decorative aurora on a dark panel.
 export default function PageHero({ eyebrow, title, accent, lead, crumbs = [] }) {
   return (
-    <section className="relative overflow-hidden grad-ink pt-[72px]">
+    <section className="relative overflow-hidden grad-ink pt-28">
       <div className="aurora -left-24 top-0 h-80 w-80 bg-brand-600/40" aria-hidden="true" />
       <div className="aurora right-0 -top-10 h-72 w-72 bg-azure-500/30" aria-hidden="true" />
       <div className="absolute inset-0 grid-lines opacity-40" aria-hidden="true" />
