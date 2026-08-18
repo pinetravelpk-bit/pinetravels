@@ -1,0 +1,40 @@
+# InventiveClicks
+
+> InventiveClicks is a creative digital marketing agency that helps brands turn
+> attention into growth through video animation, graphic design, creative
+> marketing campaigns and influencer marketing. Tagline: "Ideas that click."
+
+## About
+InventiveClicks is a full-service creative digital marketing agency founded in 2019.
+One team covers strategy, motion, design, influence and web — so campaigns move
+fast and stay consistent. Creative work always ships with a measurable target
+attached. Serves brands worldwide.
+
+Website: https://inventiveclicks.com
+Contact: hello@inventiveclicks.com
+
+## Services
+- Video Animation — 2D & 3D motion graphics, explainer videos, product animation, social reels and VFX. https://inventiveclicks.com/services/video-animation
+- Graphic Design — brand identity, social creative, packaging, print and brand systems. https://inventiveclicks.com/services/graphic-design
+- Creative Marketing — full-funnel campaign strategy, performance creative, landing pages and A/B testing. https://inventiveclicks.com/services/creative-marketing
+- Influencer Marketing — vetted creator partnerships, UGC, whitelisting and end-to-end campaign management. https://inventiveclicks.com/services/influencer-marketing
+- Social Media Marketing — channel management, content production, community management and paid social. https://inventiveclicks.com/services/social-media-marketing
+- Web Design & Development — fast, SEO-first marketing websites and landing pages built with structured data. https://inventiveclicks.com/services/web-design-development
+
+## Key pages
+- Home: https://inventiveclicks.com/
+- Services overview: https://inventiveclicks.com/services
+- Work / portfolio: https://inventiveclicks.com/work
+- About: https://inventiveclicks.com/about
+- Contact: https://inventiveclicks.com/contact
+
+## Facts
+- Founded: 2019
+- Brands served: 250+
+- Projects delivered: 1,200+
+- Vetted creators in network: 5,000+
+- Areas served: Worldwide (remote-first)
+
+## Contact
+For new projects and partnerships, email hello@inventiveclicks.com or use the
+contact form at https://inventiveclicks.com/contact.

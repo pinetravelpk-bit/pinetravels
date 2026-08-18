@@ -1,37 +1,64 @@
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import { site } from "../lib/site";
+import { JsonLd, organizationSchema, websiteSchema } from "../lib/seo";
 
 export const metadata = {
-  metadataBase: new URL("https://pinetravels.com"),
+  metadataBase: new URL(site.url),
   title: {
-    default: "Pine Travel — Northern Pakistan Tours, Weddings & Travel Services",
-    template: "%s | Pine Travel",
+    default: "InventiveClicks — Creative Digital Marketing Agency",
+    template: "%s | InventiveClicks",
   },
-  description:
-    "Pine Travel is a Rawalpindi-based travel agency offering group, family, customized and corporate tours across Northern Pakistan, plus destination weddings, hotel booking, rent-a-car and rent-a-jeep, guest houses and local guides.",
+  description: site.description,
+  applicationName: site.name,
   keywords: [
-    "Pine Travel", "Northern Pakistan tours", "Hunza tour packages", "Skardu tours",
-    "destination wedding Pakistan", "rent a jeep Fairy Meadows", "Naran Kaghan tours",
-    "Rawalpindi travel agency", "hotel booking Hunza",
+    "digital marketing agency",
+    "video animation agency",
+    "motion graphics",
+    "graphic design agency",
+    "creative marketing",
+    "influencer marketing agency",
+    "social media marketing",
+    "UGC content",
+    "performance marketing",
+    "brand identity design",
+    "InventiveClicks",
   ],
+  authors: [{ name: site.name, url: site.url }],
+  creator: site.name,
+  publisher: site.name,
+  category: "Marketing",
+  alternates: { canonical: "/" },
   openGraph: {
-    title: "Pine Travel — Journeys through the north, done right.",
-    description: "Group, family, customized & corporate tours, destination weddings, hotels, rentals and guides across Northern Pakistan.",
-    url: "https://pinetravels.com",
-    siteName: "Pine Travel",
     type: "website",
-    locale: "en_PK",
+    url: site.url,
+    siteName: site.name,
+    title: "InventiveClicks — Ideas that click.",
+    description: site.description,
+    locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Pine Travel — Northern Pakistan Tours & Weddings",
-    description: "Curated tours, destination weddings and travel services across the mountains of Northern Pakistan.",
+    title: "InventiveClicks — Creative Digital Marketing Agency",
+    description: site.description,
+    creator: "@inventiveclicks",
   },
-  icons: { icon: "/images/pine-travel-logo.png", apple: "/images/pine-travel-logo.png" },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 },
+  },
+  icons: {
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
+    apple: "/icon.svg",
+  },
 };
 
-export const viewport = { themeColor: "#005902" };
+export const viewport = {
+  themeColor: "#0D0821",
+  colorScheme: "light",
+};
 
 export default function RootLayout({ children }) {
   return (
@@ -39,7 +66,16 @@ export default function RootLayout({ children }) {
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap"
+          rel="stylesheet"
+        />
+        <JsonLd data={organizationSchema()} />
+        <JsonLd data={websiteSchema()} />
+        {/* Ensure scroll-reveal content is visible when JS is disabled. */}
+        <noscript>
+          <style>{`.reveal{opacity:1 !important;transform:none !important}`}</style>
+        </noscript>
       </head>
       <body>
         <Header />
