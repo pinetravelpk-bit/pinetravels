@@ -4,51 +4,52 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // Signature violet
+        // Signature violet (Growim-aligned base #5B3AEE)
         brand: {
-          DEFAULT: "#7C4DFF",
-          50: "#F4F1FF",
-          100: "#EBE5FF",
-          200: "#D7CBFF",
-          300: "#BBA5FF",
-          400: "#9B78FF",
-          500: "#7C4DFF",
-          600: "#6A32F0",
-          700: "#5A25D6",
-          800: "#4A1FAD",
-          900: "#331674",
+          DEFAULT: "#5B3AEE",
+          50: "#EFEBFE",
+          100: "#E1DAFC",
+          200: "#C7BAF9",
+          300: "#A48FF4",
+          400: "#8163F0",
+          500: "#5B3AEE",
+          600: "#4B27E2",
+          700: "#3D1FC0",
+          800: "#331A9E",
+          900: "#241270",
         },
-        // Electric blue accent
+        // Electric blue accent (#219BE4)
         azure: {
-          DEFAULT: "#1BA5EC",
-          300: "#7FD8FB",
-          400: "#38C6F4",
-          500: "#1BA5EC",
-          600: "#1587CC",
-          700: "#146AA3",
+          DEFAULT: "#219BE4",
+          300: "#7CCBF2",
+          400: "#47B0EA",
+          500: "#219BE4",
+          600: "#1A82C4",
+          700: "#14669B",
         },
         // Creative spark (used sparingly in gradients / highlights)
         coral: "#FF6A5A",
         pink: "#FF5DA2",
         // Deep near-black violet — dark panels + display text
         ink: {
-          DEFAULT: "#0D0821",
-          soft: "#171233",
-          muted: "#56526B",
-          faint: "#8B8799",
+          DEFAULT: "#17012C",
+          soft: "#2A0A45",
+          muted: "#504E4E",
+          faint: "#89868D",
         },
-        cloud: "#F6F5FB",
-        mist: "#EEEBF9",
+        cloud: "#F7FAFE",
+        mist: "#ECF8FF",
+        line: "#EAF3F8",
       },
       fontFamily: {
-        display: ["Sora", "ui-sans-serif", "system-ui", "sans-serif"],
+        display: ["Plus Jakarta Sans", "ui-sans-serif", "system-ui", "sans-serif"],
         body: ["Plus Jakarta Sans", "ui-sans-serif", "system-ui", "sans-serif"],
       },
       letterSpacing: { eyebrow: "0.2em" },
       boxShadow: {
-        card: "0 1px 2px rgba(13,8,33,0.05), 0 18px 40px -20px rgba(74,31,173,0.28)",
-        lift: "0 30px 60px -24px rgba(74,31,173,0.42)",
-        glow: "0 20px 50px -12px rgba(124,77,255,0.55)",
+        card: "0 1px 2px rgba(23,1,44,0.05), 0 18px 40px -20px rgba(91,58,238,0.24)",
+        lift: "0 30px 60px -24px rgba(91,58,238,0.38)",
+        glow: "0 20px 50px -12px rgba(91,58,238,0.5)",
       },
       borderRadius: { xl2: "1.5rem", xl3: "2rem" },
       keyframes: {

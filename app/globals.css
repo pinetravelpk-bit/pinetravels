@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 :root {
-  --brand: #7c4dff;
-  --brand-600: #6a32f0;
-  --azure: #1ba5ec;
-  --ink: #0d0821;
-  --cloud: #f6f5fb;
+  --brand: #5b3aee;
+  --brand-600: #4b27e2;
+  --azure: #219be4;
+  --ink: #17012c;
+  --cloud: #f7fafe;
 }
 
 html {
@@ -16,7 +16,7 @@ html {
 
 body {
   background-color: var(--cloud);
-  color: #56526b;
+  color: #504e4e;
   font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -24,14 +24,14 @@ body {
 }
 
 ::selection {
-  background: rgba(124, 77, 255, 0.22);
-  color: #0d0821;
+  background: rgba(91, 58, 238, 0.2);
+  color: #17012c;
 }
 
 @layer base {
   h1, h2, h3, h4, h5 {
-    font-family: "Sora", ui-sans-serif, system-ui, sans-serif;
-    color: #140a2e;
+    font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+    color: #17012c;
     letter-spacing: -0.02em;
     font-weight: 700;
   }
@@ -48,6 +48,14 @@ body {
   .eyebrow-dark {
     @apply inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3.5 py-1.5 font-body text-[11px] font-bold uppercase tracking-eyebrow text-brand-200 backdrop-blur;
   }
+  /* Growim-style gradient tagline (small, uppercase) */
+  .tagline {
+    @apply inline-flex items-center gap-2 font-body text-xs font-bold uppercase tracking-eyebrow;
+    background-image: linear-gradient(90deg, #5b3aee 0%, #219be4 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
 
   /* ── Buttons ─────────────────────────────────────────────── */
   .btn {
@@ -55,16 +63,16 @@ body {
   }
   .btn-primary {
     @apply btn text-white hover:-translate-y-0.5;
-    background-image: linear-gradient(120deg, #8a5bff 0%, #7c4dff 45%, #6a32f0 100%);
-    box-shadow: 0 16px 34px -14px rgba(124, 77, 255, 0.85);
+    background-image: linear-gradient(120deg, #6b4bf0 0%, #5b3aee 45%, #4b27e2 100%);
+    box-shadow: 0 16px 34px -14px rgba(91, 58, 238, 0.85);
   }
   .btn-primary:hover {
-    box-shadow: 0 22px 44px -14px rgba(124, 77, 255, 0.95);
+    box-shadow: 0 22px 44px -14px rgba(91, 58, 238, 0.95);
   }
   .btn-azure {
     @apply btn text-white hover:-translate-y-0.5;
-    background-image: linear-gradient(120deg, #38c6f4 0%, #1ba5ec 55%, #1587cc 100%);
-    box-shadow: 0 16px 34px -14px rgba(27, 165, 236, 0.8);
+    background-image: linear-gradient(120deg, #47b0ea 0%, #219be4 55%, #1a82c4 100%);
+    box-shadow: 0 16px 34px -14px rgba(33, 155, 228, 0.8);
   }
   .btn-dark {
     @apply btn bg-ink text-white hover:-translate-y-0.5 hover:bg-ink-soft;
@@ -80,19 +88,19 @@ body {
   }
 
   /* ── Gradient system ─────────────────────────────────────── */
-  .grad-brand   { background-image: linear-gradient(120deg, #7c4dff 0%, #6a32f0 45%, #1ba5ec 115%); }
-  .grad-aurora  { background-image: linear-gradient(130deg, #ff5da2 0%, #7c4dff 45%, #1ba5ec 100%); }
-  .grad-ink     { background-image: linear-gradient(155deg, #140b34 0%, #0d0821 55%, #16093a 100%); }
-  .grad-soft    { background-image: linear-gradient(180deg, #ffffff 0%, #f6f5fb 60%, #eeebf9 100%); }
-  .grad-card    { background-image: linear-gradient(160deg, #ffffff 0%, #faf9ff 100%); }
+  .grad-brand   { background-image: linear-gradient(120deg, #6b4bf0 0%, #5b3aee 45%, #219be4 120%); }
+  .grad-aurora  { background-image: linear-gradient(130deg, #ff5da2 0%, #5b3aee 45%, #219be4 100%); }
+  .grad-ink     { background-image: linear-gradient(155deg, #220a3e 0%, #17012c 55%, #1c0740 100%); }
+  .grad-soft    { background-image: linear-gradient(180deg, #ffffff 0%, #f2f9fe 60%, #ecf8ff 100%); }
+  .grad-card    { background-image: linear-gradient(160deg, #ffffff 0%, #f8fbff 100%); }
   .grad-text {
-    background-image: linear-gradient(100deg, #7c4dff 0%, #a15bff 40%, #1ba5ec 100%);
+    background-image: linear-gradient(100deg, #5b3aee 0%, #7a52f0 35%, #219be4 100%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
   }
   .grad-text-aurora {
-    background-image: linear-gradient(100deg, #ff5da2 0%, #7c4dff 50%, #38c6f4 100%);
+    background-image: linear-gradient(100deg, #ff5da2 0%, #5b3aee 50%, #219be4 100%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
@@ -100,20 +108,20 @@ body {
   .grad-border {
     border: 1px solid transparent;
     background-image: linear-gradient(#fff, #fff),
-      linear-gradient(140deg, rgba(124, 77, 255, 0.55), rgba(27, 165, 236, 0.45));
+      linear-gradient(140deg, rgba(91, 58, 238, 0.5), rgba(33, 155, 228, 0.45));
     background-origin: border-box;
     background-clip: padding-box, border-box;
   }
   .grad-border-dark {
     border: 1px solid transparent;
-    background-image: linear-gradient(#120a30, #120a30),
-      linear-gradient(140deg, rgba(124, 77, 255, 0.6), rgba(27, 165, 236, 0.35));
+    background-image: linear-gradient(#1d0838, #1d0838),
+      linear-gradient(140deg, rgba(91, 58, 238, 0.6), rgba(33, 155, 228, 0.35));
     background-origin: border-box;
     background-clip: padding-box, border-box;
   }
 
   .card {
-    @apply rounded-xl2 bg-white shadow-card ring-1 ring-ink/5 transition-all duration-300;
+    @apply rounded-xl2 bg-white shadow-card ring-1 ring-brand-900/5 transition-all duration-300;
   }
   .card-hover {
     @apply hover:-translate-y-1.5 hover:shadow-lift;
@@ -142,14 +150,14 @@ body {
   position: absolute;
   border-radius: 9999px;
   filter: blur(70px);
-  opacity: 0.55;
+  opacity: 0.5;
   pointer-events: none;
   animation: drift 18s ease-in-out infinite;
 }
 
 /* ── Decorative dotted grid + noise ────────────────────────── */
 .dot-grid {
-  background-image: radial-gradient(rgba(124, 77, 255, 0.16) 1px, transparent 1px);
+  background-image: radial-gradient(rgba(91, 58, 238, 0.16) 1px, transparent 1px);
   background-size: 22px 22px;
 }
 .grid-lines {
@@ -186,9 +194,9 @@ body {
 .rail::-webkit-scrollbar { display: none; }
 .rail > * { scroll-snap-align: start; }
 
-/* ── Animated conic ring (used on stat / process badges) ───── */
+/* ── Animated conic ring ───────────────────────────────────── */
 .conic-ring {
-  background: conic-gradient(from 0deg, #7c4dff, #1ba5ec, #ff5da2, #7c4dff);
+  background: conic-gradient(from 0deg, #5b3aee, #219be4, #ff5da2, #5b3aee);
 }
 
 @media (prefers-reduced-motion: reduce) {

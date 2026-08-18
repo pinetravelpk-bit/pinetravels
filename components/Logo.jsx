@@ -15,9 +15,9 @@ export function LogoMark({ className = "h-9 w-9" }) {
       <circle cx="27.5" cy="27.5" r="1.5" fill="url(#ic-grad)" />
       <defs>
         <linearGradient id="ic-grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
-          <stop stopColor="#8A5BFF" />
-          <stop offset="0.55" stopColor="#7C4DFF" />
-          <stop offset="1" stopColor="#1BA5EC" />
+          <stop stopColor="#6B4BF0" />
+          <stop offset="0.55" stopColor="#5B3AEE" />
+          <stop offset="1" stopColor="#219BE4" />
         </linearGradient>
       </defs>
     </svg>
