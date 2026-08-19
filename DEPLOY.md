@@ -1,36 +1,31 @@
-# Deploying InventiveClicks (for a developer)
+# Deploying InventiveClicks
 
-The InventiveClicks marketing site (Next.js) lives on this branch:
+The InventiveClicks marketing site (Next.js) lives on branch
 **`claude/modest-dirac-bho65g`** of repo `pinetravelpk-bit/pinetravels`.
-
 Keep it fully separate from `pinetravels` (the `main` branch / pinetravels.com).
 **Do not modify `main`.**
 
-## Option A — Vercel (fastest, recommended)
-A Vercel project already exists (imported from this repo) and the domain
-`inventiveclicks.com` points to it, but it is deploying the wrong branch
-(`main` = old Pine Travel). To fix:
+This repo is configured for **static export** (`output: 'export'` in
+`next.config.js`) — the whole site is plain HTML/CSS/JS with no server needed.
 
-1. Open the Vercel project → **Settings → Git**.
-2. Set **Production Branch** to `claude/modest-dirac-bho65g` → **Save**.
-   (Newer Vercel UI: alternatively, go to **Deployments**, open the latest
-   deployment built from `claude/modest-dirac-bho65g`, click **⋯ → Promote to
-   Production**.)
-3. **Settings → Domains** → make sure `inventiveclicks.com` and
-   `www.inventiveclicks.com` are added.
-4. Vercel auto-issues SSL. Confirm `inventiveclicks.com` shows the violet/blue
-   InventiveClicks site.
+## Option A — Static hosting (simplest, recommended)
+Host it exactly like an ordinary website on any hosting (shared/cPanel/VPS/panel):
 
-DNS for Vercel (Hostinger → DNS Zone for inventiveclicks.com):
-- `A  @  → 76.76.21.21`
-- `CNAME  www  → cname.vercel-dns.com`
-
-## Option B — On a server / VPS (Node)
 ```bash
-git clone https://github.com/pinetravelpk-bit/pinetravels.git
-cd pinetravels && git checkout claude/modest-dirac-bho65g
-npm install && npm run build
-npm i -g pm2 && pm2 start npm --name inventiveclicks -- start   # serves :3000
+npm install
+npm run build      # generates the ./out folder (static site)
 ```
-Then reverse-proxy `inventiveclicks.com` → `http://localhost:3000` in the
-server's web server / panel, and issue SSL. Do not disturb other sites on the box.
+Upload **everything inside `out/`** (index.html, `_next/`, `about/`, `services/`,
+`contact/`, `work/`, `insights/`, …) into the web root of `inventiveclicks.com`
+(usually `public_html`). Point the domain's DNS at that host. Done — no Node,
+no reverse proxy, no build step on the server.
+
+## Option B — Managed platform
+Vercel / Netlify / Cloudflare Pages: connect the repo, set the production branch
+to `claude/modest-dirac-bho65g`, deploy. They build and serve it automatically
+with SSL. Add the domain `inventiveclicks.com` in the platform, then point DNS as
+that platform instructs.
+
+## Editing content later
+All copy/services/work/testimonials live in `lib/site.js`. Edit there, run
+`npm run build` again, re-upload `out/`.
