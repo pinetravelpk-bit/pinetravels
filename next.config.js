@@ -13,9 +13,9 @@ const nextConfig = {
   //
   // Vercel par deploy kar rahe hain to inhe comment hi rehne dein.
   // ─────────────────────────────────────────────────────────────
-  // output: 'export',
-  // trailingSlash: true,
-  // images: { unoptimized: true },
+  output: 'export',
+  trailingSlash: true,
+  images: { unoptimized: true },
 };
 
 module.exports = nextConfig;

@@ -1,31 +1,41 @@
-import Hero from "../components/Hero";
-import { Offers, FeaturedDestinations } from "../components/Discover";
-import { WhyUs, QuoteBanner, CustomizePackage, Partners, Counters, InquiryBand } from "../components/Bands";
-import { PopularPackages, LastMinuteDeals, OneDayTrips } from "../components/PackageSections";
-import { Inspirations, Testimonials, FAQ } from "../components/Stories";
-import Services from "../components/Services";
-import CTA from "../components/CTA";
+import Hero from "../components/home/Hero";
+import Clients from "../components/home/Clients";
+import Services from "../components/home/Services";
+import About from "../components/home/About";
+import Process from "../components/home/Process";
+import Work from "../components/home/Work";
+import MarqueeText from "../components/home/MarqueeText";
+import Testimonials from "../components/home/Testimonials";
+import Pricing from "../components/home/Pricing";
+import FAQ from "../components/home/FAQ";
+import Insights from "../components/home/Insights";
+import { JsonLd, webPageSchema, faqSchema } from "../lib/seo";
+import { faqs } from "../lib/site";
+
+export const metadata = {
+  title: "Creative Digital Marketing Agency — Video, Design, Influence",
+  description:
+    "InventiveClicks is a creative digital marketing agency. We craft video animation, graphic design, creative marketing campaigns and influencer marketing that turn attention into measurable growth.",
+  alternates: { canonical: "/" },
+};
 
 export default function HomePage() {
   return (
     <>
+      <JsonLd data={webPageSchema({ path: "/", name: "InventiveClicks — Creative Digital Marketing Agency", description: metadata.description })} />
+      <JsonLd data={faqSchema(faqs)} />
+
       <Hero />
-      <Offers />
-      <FeaturedDestinations />
-      <WhyUs />
-      <PopularPackages />
-      <QuoteBanner />
-      <LastMinuteDeals />
-      <CustomizePackage />
-      <Partners />
-      <OneDayTrips />
+      <Clients />
       <Services />
-      <Inspirations />
+      <About />
+      <Process />
+      <Work />
+      <MarqueeText />
       <Testimonials />
+      <Pricing />
       <FAQ />
-      <Counters />
-      <InquiryBand />
-      <CTA />
+      <Insights />
     </>
   );
 }
