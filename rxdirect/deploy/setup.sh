@@ -76,13 +76,12 @@ else
   as_app "git clone --depth 1 --branch '$BRANCH' '$REPO' '$SRC_DIR'"
 fi
 
-say "Building the site (about 2,100 pages — this can take 10-20 minutes)"
-as_app "cd '$APP_DIR' && npm ci --no-audit --no-fund && NODE_OPTIONS=--max-old-space-size=3072 npm run build"
-[ -f "$APP_DIR/out/index.html" ] || { echo "Build did not produce out/index.html"; exit 1; }
-
-say "Publishing the new build"
-# --delay-updates swaps files in at the end, so visitors never see a half-copied site.
-rsync -a --delete --delay-updates "$APP_DIR/out/" "$WEB_ROOT/"
+say "Preparing the web folder"
+if [ ! -f "$WEB_ROOT/index.html" ]; then
+  cat > "$WEB_ROOT/index.html" <<'HTML'
+<!doctype html><meta charset="utf-8"><title>RX Direct</title><p style="font-family:sans-serif;text-align:center;margin-top:20vh">RX Direct website is being updated. Please check back in a few minutes.</p>
+HTML
+fi
 
 say "Setting up the API service (contact form, comments, admin)"
 cat > /etc/systemd/system/rxdirect-api.service <<UNIT
@@ -121,7 +120,18 @@ client_max_body_size 1m;
 location ^~ /.netlify/functions/ {
     proxy_pass http://127.0.0.1:$API_PORT;
     proxy_set_header Host \$host;
+    proxy_set_header X-Real-IP \$remote_addr;
     proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
+}
+
+# Jobs, staff verification (document uploads), team and the admin panel API.
+location ^~ /api/ {
+    client_max_body_size 32m;
+    proxy_pass http://127.0.0.1:$API_PORT;
+    proxy_set_header Host \$host;
+    proxy_set_header X-Real-IP \$remote_addr;
+    proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
+    proxy_read_timeout 120s;
 }
 
 # Next.js build assets never change name, so cache them for a year.
@@ -183,12 +193,6 @@ ufw allow OpenSSH >/dev/null
 ufw allow 'Nginx Full' >/dev/null
 ufw --force enable >/dev/null
 
-say "Checking the site responds"
-code() { curl -s -o /dev/null -w '%{http_code}' -H "Host: $DOMAIN" "http://127.0.0.1$1"; }
-for p in / /about /services/cooks /blog; do echo "  $p -> $(code "$p")"; done
-for _ in $(seq 1 10); do curl -fs -o /dev/null "http://127.0.0.1:$API_PORT/.netlify/functions/list-comments?pageId=x" && break; sleep 1; done
-echo "  API -> $(code '/.netlify/functions/list-comments?pageId=x')"
-
 say "HTTPS certificate"
 SERVER_IP="$(curl -fs4 --max-time 10 https://api.ipify.org || hostname -I | awk '{print $1}')"
 resolve() { getent ahostsv4 "$1" | awk 'NR==1{print $1}'; }
@@ -197,17 +201,36 @@ if [ -n "$DNS_IP" ] && [ "$DNS_IP" = "$SERVER_IP" ]; then
   DOMAINS=(-d "$DOMAIN")
   [ "$(resolve "www.$DOMAIN" || true)" = "$SERVER_IP" ] && DOMAINS+=(-d "www.$DOMAIN")
   if [ -n "$EMAIL" ]; then MAIL=(-m "$EMAIL"); else MAIL=(--register-unsafely-without-email); fi
-  certbot --nginx --non-interactive --agree-tos --redirect --keep-until-expiring "${MAIL[@]}" "${DOMAINS[@]}"
-  URL="https://$DOMAIN"
+  if certbot --nginx --non-interactive --agree-tos --redirect --keep-until-expiring "${MAIL[@]}" "${DOMAINS[@]}"; then
+    URL="https://$DOMAIN"
+  else
+    echo "!! HTTPS certificate failed (see the certbot message above). The site still works on http://."
+    echo "   Check that ports 80 and 443 are open in Hostinger hPanel > VPS > Security > Firewall, then run this script again."
+    URL="http://$DOMAIN"
+  fi
 else
   echo "Skipped: $DOMAIN points to '${DNS_IP:-nothing}', but this server is $SERVER_IP."
   echo "Add DNS A records for $DOMAIN and www.$DOMAIN -> $SERVER_IP, wait for them to update, then run this script again."
   URL="http://$SERVER_IP"
 fi
 
+say "Building the site (about 2,100 pages — this can take 10-20 minutes)"
+as_app "cd '$APP_DIR' && npm ci --no-audit --no-fund && NODE_OPTIONS=--max-old-space-size=3072 npm run build"
+[ -f "$APP_DIR/out/index.html" ] || { echo "Build did not produce out/index.html"; exit 1; }
+
+say "Publishing the new build"
+# --delay-updates swaps files in at the end, so visitors never see a half-copied site.
+rsync -a --delete --delay-updates "$APP_DIR/out/" "$WEB_ROOT/"
+
+say "Checking the site responds"
+code() { curl -s -o /dev/null -w '%{http_code}' -H "Host: $DOMAIN" "http://127.0.0.1$1"; }
+for p in / /about /services/cooks /blog; do echo "  $p -> $(code "$p")"; done
+for _ in $(seq 1 10); do curl -fs -o /dev/null "http://127.0.0.1:$API_PORT/.netlify/functions/list-comments?pageId=x" && break; sleep 1; done
+echo "  API -> $(code '/.netlify/functions/list-comments?pageId=x')"
+
 say "Done"
 echo "Website:  $URL"
-echo "Admin:    $URL/admin/   (contact-form leads and blog comments)"
+echo "Admin:    $URL/admin/   (staff verification, jobs, applications, team, leads, comments)"
 if [ "${NEW_PASSWORD:-}" = 1 ]; then
   echo "Password: $ADMIN_PASSWORD   <-- save this now"
 else

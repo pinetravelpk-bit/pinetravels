@@ -5,6 +5,8 @@ import { useTranslation } from "@/i18n/LanguageContext";
 import { whatsappLink } from "@/data/business";
 import { WhatsAppIcon } from "@/components/icons";
 import SectionHeading from "@/components/SectionHeading";
+import JobsBoard from "@/components/JobsBoard";
+import { PageIntro } from "@/components/FormKit";
 
 export default function JobsPageClient() {
   const { t } = useTranslation();
@@ -24,6 +26,8 @@ export default function JobsPageClient() {
 
   return (
     <>
+      <PageIntro eyebrow={t("jobsBoard.eyebrow")} title={t("jobsBoard.title")} subtitle={t("jobsBoard.subtitle")} />
+      <JobsBoard />
       <section className="section-py container-px mx-auto max-w-3xl">
         <SectionHeading title={t("jobsPage.title")} subtitle={t("jobsPage.subtitle")} />
         <p className="mt-8 leading-relaxed text-gray-600">{t("jobsPage.intro")}</p>

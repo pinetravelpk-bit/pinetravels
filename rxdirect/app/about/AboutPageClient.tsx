@@ -87,6 +87,17 @@ export default function AboutPageClient() {
         </div>
       </section>
 
+      <section className="container-px mx-auto max-w-8xl pb-16">
+        <div className="flex flex-col items-start justify-between gap-4 rounded-2xl bg-brand-50 p-6 sm:flex-row sm:items-center sm:p-8">
+          <div>
+            <p className="eyebrow">{t("teamPage.eyebrow")}</p>
+            <p className="mt-2 text-xl font-extrabold text-navy">{t("teamPage.title")}</p>
+          </div>
+          <Link href="/team" className="btn-primary">
+            {t("menu.team")}
+          </Link>
+        </div>
+      </section>
       <CTABanner />
     </>
   );

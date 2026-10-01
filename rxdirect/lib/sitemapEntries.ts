@@ -39,6 +39,8 @@ export function getStaticPageEntries(): SitemapEntry[] {
     { url: url("/contact"), changeFrequency: "weekly", priority: 0.8 },
     { url: url("/pricing"), changeFrequency: "weekly", priority: 0.8 },
     { url: url("/jobs"), changeFrequency: "weekly", priority: 0.8 },
+    { url: url("/staff/register"), changeFrequency: "monthly", priority: 0.7 },
+    { url: url("/team"), changeFrequency: "monthly", priority: 0.6 },
     ...serviceGroups.map((g) => ({
       url: url(`/services/category/${g.slug}`),
       changeFrequency: "monthly" as const,

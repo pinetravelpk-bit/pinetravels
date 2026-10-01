@@ -14,6 +14,11 @@ A bilingual (English/Urdu), SEO-optimized website for RX Direct, built with Next
 - **WhatsApp-first contact**: floating WhatsApp button, WhatsApp links throughout, plus a contact form whose leads appear at `/admin/`.
 - **Deep local SEO**: 8 cities × 48 housing societies × 18 services, cross-linked hub pages, ~370 blog posts, blog archive pages by city/service/society/tag, `sitemap.xml`, `robots.txt`, `llms.txt`, and JSON-LD throughout.
 - **Moderated blog comments** (no login required to post): held as "pending" until approved at `/admin/` (Blog comments tab).
+- **Double menu**: icon tabs (Home, Services, For Businesses, Locations, Jobs, Verification, About Us, Contact) over a navy bar with each tab's sub-links.
+- **Jobs board** (`/jobs`): jobs posted from the admin panel appear instantly; candidates apply with an optional CV.
+- **Staff verification** (`/staff/register`, `/staff/status`): staff submit details, references and documents (CNIC, police and medical certificates). Admins tick off a 7-point checklist; approving issues an RX Direct Verified ID (`RXD-2026-0001`) and a printable ID card. Staff track progress with their reference and phone.
+- **Team profiles** (`/team`): managed from the admin panel, with photos.
+- **Admin panel** (`/admin/`): dashboard, staff verification, jobs, applications, contact leads, team and blog comments.
 
 ## Hosting on the VPS
 
@@ -24,11 +29,13 @@ curl -fsSL https://raw.githubusercontent.com/pinetravelpk-bit/pinetravels/main/r
 ```
 
 - nginx serves the static export (`out/`, copied to `/var/www/rxdirect`) with the same URL rules Netlify used (`/about` → `about.html`, `/about/` → 301 `/about`).
-- `server/api.mjs` (systemd service `rxdirect-api`) answers the old `/.netlify/functions/*` URLs: contact-form leads and blog comments, stored as JSON in `/var/lib/rxdirect/data`.
-- `/admin/` shows leads and lets you approve comments. Password: `ADMIN_PASSWORD` in `/etc/rxdirect.env` (printed once by the setup script).
+- `server/api.mjs` (systemd service `rxdirect-api`) serves `/api/*` (jobs, applications, staff verification, team) and the old `/.netlify/functions/*` URLs (contact leads, blog comments). Data is JSON in `/var/lib/rxdirect/data`; uploaded documents in `/var/lib/rxdirect/data/uploads/private` are only readable through the admin panel.
+- `/admin/` manages everything above. Password: `ADMIN_PASSWORD` in `/etc/rxdirect.env` (printed once by the setup script).
 - HTTPS via Let's Encrypt is added automatically once `rxdirect.pk` points at the server.
 
-Back up `/var/lib/rxdirect/data` — it holds all leads and comments.
+Back up `/var/lib/rxdirect/data` — it holds all leads, comments, staff documents, jobs and applications.
+
+The script sets up nginx and HTTPS **before** the long build, so SSL is in place even if a build fails.
 
 ## Local development
 

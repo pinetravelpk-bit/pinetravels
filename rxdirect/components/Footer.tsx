@@ -108,6 +108,7 @@ export default function Footer() {
 
           <Column title={t("redesign.aboutUs")}>
             <FooterLink href="/about">{t("nav.about")}</FooterLink>
+            <FooterLink href="/team">{t("menu.team")}</FooterLink>
             <FooterLink href="/how-it-works">{t("nav.howItWorks")}</FooterLink>
             <FooterLink href="/registration">{t("redesign.commitmentTitle")}</FooterLink>
             <FooterLink href="/blog">{t("nav.blog")}</FooterLink>
@@ -123,6 +124,8 @@ export default function Footer() {
                   <ArrowRight className="h-4 w-4 rtl:rotate-180" />
                 </Link>
               </li>
+              <FooterLink href="/staff/register">{t("menu.registerStaff")}</FooterLink>
+              <FooterLink href="/staff/status">{t("menu.checkStatus")}</FooterLink>
             </Column>
             <h3 className="mt-6 text-sm font-bold text-navy">{t("footer.getInTouch")}</h3>
             <ul className="mt-4 space-y-2.5 text-sm text-gray-600">
