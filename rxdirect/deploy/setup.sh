@@ -5,6 +5,8 @@
 #
 # It immediately continues in the background (closing the console is fine);
 # watch https://rxdirect.pk/deploy-status.txt, or set FOREGROUND=1 to run attached.
+# It also installs an auto-updater (systemd timer "rxdirect-update"): every 10
+# minutes new commits on the branch are deployed without anyone running this again.
 # Safe to re-run: it pulls the latest code, rebuilds and swaps the new site in.
 # Override any setting below with an env var, e.g.  BRANCH=dev bash setup.sh
 #
@@ -44,6 +46,13 @@ if [ -z "${RXDIRECT_DETACHED:-}" ] && [ "${FOREGROUND:-}" != 1 ]; then
   echo "Setup is running in the background (it keeps going even if this window closes)."
   echo "Follow progress in your browser:  http://$DOMAIN/deploy-status.txt"
   echo "Or here with:  tail -f $LOG_FILE"
+  exit 0
+fi
+
+# Only one update at a time (a manual run and the auto-updater can't collide).
+exec 9>/var/lock/rxdirect-setup.lock
+if ! flock -n 9; then
+  echo "Another RX Direct update is already running; see $LOG_FILE"
   exit 0
 fi
 
@@ -234,6 +243,51 @@ nginx -t
 systemctl enable nginx >/dev/null
 systemctl reload nginx || systemctl restart nginx
 
+say "Automatic updates"
+# Every 10 minutes: if the branch on GitHub has a new commit, deploy it.
+# A commit whose deploy failed is not retried automatically (run
+# "bash setup.sh" by hand once it's fixed).
+cat > /usr/local/bin/rxdirect-autoupdate <<AUTO
+#!/usr/bin/env bash
+set -euo pipefail
+BRANCH="\$(grep -s '^RXDIRECT_BRANCH=' $ENV_FILE | cut -d= -f2- || true)"
+BRANCH="\${BRANCH:-main}"
+remote="\$(git ls-remote '$REPO' "refs/heads/\$BRANCH" | cut -f1)"
+[ -n "\$remote" ] || exit 0
+# An update is already running (manual or earlier timer run): check again later.
+flock -n /var/lock/rxdirect-setup.lock true || exit 0
+[ "\$remote" = "\$(cat $HOME_DIR/deployed-commit 2>/dev/null || true)" ] && exit 0
+[ "\$remote" = "\$(cat $HOME_DIR/attempted-commit 2>/dev/null || true)" ] && exit 0
+echo "\$remote" > $HOME_DIR/attempted-commit
+cd /root && FOREGROUND=1 RXDIRECT_DETACHED=1 bash /root/setup.sh > $LOG_FILE 2>&1
+AUTO
+chmod 755 /usr/local/bin/rxdirect-autoupdate
+cat > /etc/systemd/system/rxdirect-update.service <<UNIT
+[Unit]
+Description=Deploy new RX Direct commits from GitHub
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/rxdirect-autoupdate
+TimeoutStartSec=3h
+Nice=10
+UNIT
+cat > /etc/systemd/system/rxdirect-update.timer <<UNIT
+[Unit]
+Description=Check GitHub for RX Direct updates every 10 minutes
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=10min
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+UNIT
+systemctl daemon-reload
+systemctl enable --now rxdirect-update.timer >/dev/null
+
 say "Firewall"
 ufw allow OpenSSH >/dev/null
 ufw allow 'Nginx Full' >/dev/null
@@ -263,9 +317,7 @@ fi
 # Keep /root/setup.sh in step with the repository's version for next time.
 # Written to a temp file and moved into place: bash is still reading the old
 # file, and replacing it (new inode) is safe where overwriting in place is not.
-if [ -f /root/setup.sh ]; then
-  cp "$APP_DIR/deploy/setup.sh" /root/setup.sh.new && mv /root/setup.sh.new /root/setup.sh
-fi
+cp "$APP_DIR/deploy/setup.sh" /root/setup.sh.new && mv /root/setup.sh.new /root/setup.sh
 
 say "Building the site (about 2,100 pages; 20-60 minutes on a 1-CPU server)"
 # Lint is skipped on the server (it runs in development); type checks still run.
@@ -289,6 +341,8 @@ code() { curl -s -o /dev/null -w '%{http_code}' -H "Host: $DOMAIN" "http://127.0
 for p in / /about /services/cooks /blog; do echo "  $p -> $(code "$p")"; done
 for _ in $(seq 1 10); do curl -fs -o /dev/null "http://127.0.0.1:$API_PORT/.netlify/functions/list-comments?pageId=x" && break; sleep 1; done
 echo "  API -> $(code '/.netlify/functions/list-comments?pageId=x')"
+
+runuser -u "$APP_USER" -- git -C "$SRC_DIR" rev-parse HEAD > "$HOME_DIR/deployed-commit" 2>/dev/null || true
 
 say "Done"
 status "DONE - the new version is live.
