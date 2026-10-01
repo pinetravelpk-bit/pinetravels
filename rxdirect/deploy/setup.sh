@@ -3,6 +3,8 @@
 #
 #   curl -fsSL https://raw.githubusercontent.com/pinetravelpk-bit/pinetravels/main/rxdirect/deploy/setup.sh -o setup.sh && bash setup.sh
 #
+# It immediately continues in the background (closing the console is fine);
+# watch https://rxdirect.pk/deploy-status.txt, or set FOREGROUND=1 to run attached.
 # Safe to re-run: it pulls the latest code, rebuilds and swaps the new site in.
 # Override any setting below with an env var, e.g.  BRANCH=dev bash setup.sh
 #
@@ -26,8 +28,37 @@ APP_DIR="$SRC_DIR/rxdirect"
 WEB_ROOT=/var/www/rxdirect
 ENV_FILE=/etc/rxdirect.env
 
-say() { printf '\n\033[1;32m==> %s\033[0m\n' "$*"; }
 [ "$(id -u)" -eq 0 ] || { echo "Run this script as root."; exit 1; }
+LOG_FILE=/root/setup.log
+STATUS_FILE="$WEB_ROOT/deploy-status.txt"
+
+# Run in the background so a dropped Web-console/SSH connection can't stop the
+# (long) build. Progress goes to $LOG_FILE and, in plain words, to
+# https://<domain>/deploy-status.txt so it can be followed from any browser.
+if [ -z "${RXDIRECT_DETACHED:-}" ] && [ "${FOREGROUND:-}" != 1 ]; then
+  RXDIRECT_DETACHED=1 nohup bash "$0" "$@" > "$LOG_FILE" 2>&1 < /dev/null &
+  echo
+  echo "Setup is running in the background (it keeps going even if this window closes)."
+  echo "Follow progress in your browser:  http://$DOMAIN/deploy-status.txt"
+  echo "Or here with:  tail -f $LOG_FILE"
+  exit 0
+fi
+
+STARTED="$(date '+%d %b %Y %H:%M')"
+STEP=""
+status() {
+  [ -d "$WEB_ROOT" ] || return 0
+  printf 'RX Direct website update\nStarted: %s\nNow:     %s\n%s\n' "$STARTED" "$(date '+%d %b %Y %H:%M')" "$*" > "$STATUS_FILE.tmp" && mv "$STATUS_FILE.tmp" "$STATUS_FILE"
+}
+say() { STEP="$*"; printf '\n\033[1;32m==> %s\033[0m\n' "$*"; status "Step: $*"; }
+on_exit() {
+  local code=$?
+  if [ "$code" -ne 0 ]; then
+    status "FAILED during: $STEP
+The live website was not changed. Details: tail -40 $LOG_FILE"
+  fi
+}
+trap on_exit EXIT
 export DEBIAN_FRONTEND=noninteractive
 
 say "Installing system packages"
@@ -140,6 +171,11 @@ location ^~ /_next/static/ {
     add_header Cache-Control "public, immutable";
 }
 
+location = /deploy-status.txt {
+    default_type text/plain;
+    add_header Cache-Control "no-store" always;
+}
+
 location ^~ /admin/ {
     add_header X-Robots-Tag "noindex" always;
     try_files \$uri \$uri.html \${uri}index.html =404;
@@ -214,13 +250,22 @@ else
   URL="http://$SERVER_IP"
 fi
 
-say "Building the site (about 2,100 pages — this can take 10-20 minutes)"
-as_app "cd '$APP_DIR' && npm ci --no-audit --no-fund && NODE_OPTIONS=--max-old-space-size=3072 npm run build"
+say "Building the site (about 2,100 pages; 20-60 minutes on a 1-CPU server)"
+# Lint is skipped on the server (it runs in development); type checks still run.
+# Page-generation progress is copied into the status file as it happens.
+as_app "cd '$APP_DIR' && npm ci --no-audit --no-fund && NODE_OPTIONS=--max-old-space-size=3072 npm run build -- --no-lint" 2>&1 |
+  while IFS= read -r line; do
+    printf '%s\n' "$line"
+    case "$line" in
+      *"Generating static pages"*) status "Step: $STEP
+Pages built: $(printf '%s' "$line" | grep -o '[0-9]*/[0-9]*' | tail -1)" ;;
+    esac
+  done
 [ -f "$APP_DIR/out/index.html" ] || { echo "Build did not produce out/index.html"; exit 1; }
 
 say "Publishing the new build"
 # --delay-updates swaps files in at the end, so visitors never see a half-copied site.
-rsync -a --delete --delay-updates "$APP_DIR/out/" "$WEB_ROOT/"
+rsync -a --delete --delay-updates --exclude deploy-status.txt "$APP_DIR/out/" "$WEB_ROOT/"
 
 say "Checking the site responds"
 code() { curl -s -o /dev/null -w '%{http_code}' -H "Host: $DOMAIN" "http://127.0.0.1$1"; }
@@ -229,6 +274,9 @@ for _ in $(seq 1 10); do curl -fs -o /dev/null "http://127.0.0.1:$API_PORT/.netl
 echo "  API -> $(code '/.netlify/functions/list-comments?pageId=x')"
 
 say "Done"
+status "DONE - the new version is live.
+Version: $(runuser -u "$APP_USER" -- git -C "$SRC_DIR" log -1 --format='%h %s' 2>/dev/null | cut -c1-80)
+Website: $URL"
 echo "Website:  $URL"
 echo "Admin:    $URL/admin/   (staff verification, jobs, applications, team, leads, comments)"
 if [ "${NEW_PASSWORD:-}" = 1 ]; then
