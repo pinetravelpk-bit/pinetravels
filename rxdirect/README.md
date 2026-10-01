@@ -7,14 +7,14 @@ A bilingual (English/Urdu), SEO-optimized website for RX Direct, built with Next
 ## What's included
 
 - **Multi-page site**: Home, About, Services (overview + 8 category pages), Cities (overview + Islamabad/Rawalpindi/Lahore/Karachi pages), How It Works, Blog, FAQs, Contact.
-- **Mega-menu navbar** with dropdowns for Services and Cities, full mobile menu, and an EN/UR language switcher with right-to-left (RTL) layout for Urdu.
+- **Mega menus** for Services, For Businesses, Locations and About Us, full mobile menu, and an EN/UR language switcher with right-to-left (RTL) layout for Urdu.
 - **SEO**: per-page metadata, Open Graph/Twitter cards, JSON-LD structured data (LocalBusiness, Service, Article, FAQPage, Breadcrumbs), auto-generated `sitemap.xml` and `robots.txt`.
 - **Blog**: Markdown posts in `content/blog/`, rendered as static pages. To add or edit a post, add/edit a `.md` file there (copy an existing one for the front-matter fields) and redeploy.
 - **Site-wide settings**: WhatsApp number, default WhatsApp message and social links live in [`content/settings/business.json`](content/settings/business.json); photo overrides in [`content/settings/images.json`](content/settings/images.json).
 - **WhatsApp-first contact**: floating WhatsApp button, WhatsApp links throughout, plus a contact form whose leads appear at `/admin/`.
 - **Deep local SEO**: 8 cities × 48 housing societies × 18 services, cross-linked hub pages, ~370 blog posts, blog archive pages by city/service/society/tag, `sitemap.xml`, `robots.txt`, `llms.txt`, and JSON-LD throughout.
 - **Moderated blog comments** (no login required to post): held as "pending" until approved at `/admin/` (Blog comments tab).
-- **Double menu**: icon tabs (Home, Services, For Businesses, Locations, Jobs, Verification, About Us, Contact) over a navy bar with each tab's sub-links.
+- **Two-line menu**: an upper navy line with all pages (Home, Jobs, Verification, Check status, Our team, Blog, FAQs, Contact) and a main line with four mega menus: Services, For Businesses, Locations, About Us.
 - **Jobs board** (`/jobs`): jobs posted from the admin panel appear instantly; candidates apply with an optional CV.
 - **Staff verification** (`/staff/register`, `/staff/status`): staff submit details, references and documents (CNIC, police and medical certificates). Admins tick off a 7-point checklist; approving issues an RX Direct Verified ID (`RXD-2026-0001`) and a printable ID card. Staff track progress with their reference and phone.
 - **Team profiles** (`/team`): managed from the admin panel, with photos.
