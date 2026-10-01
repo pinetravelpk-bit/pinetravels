@@ -90,10 +90,12 @@ systemctl restart rxdirect
 say "Configuring nginx"
 # certbot adds its own SSL settings to this file, so only write it the first time.
 if [ ! -f /etc/nginx/sites-available/rxdirect ]; then
+  # Skip IPv6 listeners on servers without IPv6, or nginx refuses to start.
+  if [ -s /proc/net/if_inet6 ]; then V6=""; else V6="# "; fi
   cat > /etc/nginx/sites-available/rxdirect <<NGINX
 server {
     listen 80;
-    listen [::]:80;
+    ${V6}listen [::]:80;
     server_name $DOMAIN www.$DOMAIN;
 
     client_max_body_size 10m;
@@ -111,7 +113,7 @@ server {
 # Visiting the bare IP address also shows the site (handy before DNS is set up).
 server {
     listen 80 default_server;
-    listen [::]:80 default_server;
+    ${V6}listen [::]:80 default_server;
     server_name _;
 
     client_max_body_size 10m;
