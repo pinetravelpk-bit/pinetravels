@@ -35,3 +35,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 /content/settings/available-images.json
+/public/images/blog-covers/

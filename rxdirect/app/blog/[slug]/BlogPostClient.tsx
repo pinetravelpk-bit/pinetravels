@@ -9,6 +9,7 @@ import { slugifyTag } from "@/lib/slug";
 import { formatDate } from "@/lib/date";
 import { business } from "@/data/business";
 import Comments from "@/components/Comments";
+import BlogGuide from "@/components/BlogGuide";
 
 export default function BlogPostClient({ post }: { post: BlogPost }) {
   const { t } = useTranslation();
@@ -41,7 +42,7 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
         </span>
       </div>
 
-      <div className="relative mt-8 aspect-[16/9] w-full overflow-hidden rounded-2xl">
+      <div className="relative mt-8 aspect-[1200/630] w-full overflow-hidden rounded-2xl bg-navy shadow-lg">
         <Image
           src={post.featuredImage}
           alt={post.title}
@@ -51,6 +52,8 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
           className="object-cover"
         />
       </div>
+
+      <BlogGuide slug={post.slug} serviceSlugs={post.services} citySlugs={post.cities} headings={post.headings} />
 
       <div
         className="prose-rxdirect prose mt-10 max-w-none prose-headings:font-heading prose-headings:font-bold prose-a:no-underline"

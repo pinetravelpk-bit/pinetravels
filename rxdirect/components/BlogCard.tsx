@@ -15,13 +15,13 @@ export default function BlogCard({ post }: { post: BlogPostMeta }) {
       href={`/blog/${post.slug}`}
       className="group flex flex-col overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-sm transition-all hover:-translate-y-1 hover:shadow-lg"
     >
-      <div className="relative h-48 w-full overflow-hidden">
+      <div className="relative aspect-[1200/630] w-full overflow-hidden bg-navy">
         <Image
           src={post.featuredImage}
           alt={post.title}
           fill
           sizes="(max-width: 768px) 100vw, 400px"
-          className="object-cover transition-transform duration-500 group-hover:scale-110"
+          className="object-cover transition-transform duration-500 group-hover:scale-105"
         />
       </div>
       <div className="flex flex-1 flex-col p-5">

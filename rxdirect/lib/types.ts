@@ -3,7 +3,8 @@ export interface BlogPostMeta {
   title: string;
   date: string;
   author: string;
-  featuredImage: string;
+  featuredImage: string; // designed cover (SVG)
+  photo: string; // original photo, used for social previews
   excerpt: string;
   tags: string[];
   cities?: string[]; // city slugs from data/cities.ts (a post can cover more than one)
@@ -17,4 +18,5 @@ export interface BlogPostMeta {
 
 export interface BlogPost extends BlogPostMeta {
   contentHtml: string;
+  headings: { id: string; text: string }[];
 }

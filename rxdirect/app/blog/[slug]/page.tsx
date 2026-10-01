@@ -20,7 +20,7 @@ export async function generateMetadata({
 
   const title = post.metaTitle || post.title;
   const description = post.metaDescription || post.excerpt;
-  const image = post.ogImage || post.featuredImage;
+  const image = post.ogImage || post.photo;
 
   return {
     title,
@@ -57,7 +57,7 @@ export default async function BlogPostPage({
         data={articleSchema({
           title: post.title,
           description: post.excerpt,
-          image: `${business.siteUrl}${post.featuredImage}`,
+          image: `${business.siteUrl}${post.ogImage || post.photo}`,
           url: `${business.siteUrl}/blog/${post.slug}`,
           datePublished: post.date,
           author: post.author,

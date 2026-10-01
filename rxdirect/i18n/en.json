@@ -420,5 +420,32 @@
     "empty": "Team profiles are coming soon.",
     "join": "Want to work with us?",
     "joinCta": "See open jobs"
+  },
+  "guide": {
+    "title": "Animated guide",
+    "inThisGuide": "In this guide",
+    "sections": "sections",
+    "reading": "You are reading",
+    "hiringTitle": "How hiring {service} works with RX Direct",
+    "hiringTitleGeneric": "How hiring works with RX Direct",
+    "inCity": "in {city}",
+    "typical": "Most requests are matched within 24–48 hours.",
+    "salaryTitle": "Typical starting salary",
+    "perMonth": "PKR / month",
+    "perJob": "Priced per job or visit",
+    "salaryNote": "Starting figures; experience, hours, city and live-in or live-out arrangements change the final salary.",
+    "checksTitle": {
+      "verify": "How we verify {service}",
+      "red-flags": "What we screen for before placing {service}",
+      "interview": "What to check when interviewing {service}",
+      "why-agency": "What an agency checks for you",
+      "become-verified": "Checks you'll go through to get verified",
+      "default": "Our checks for {service}"
+    },
+    "verifiedBadge": "RX Direct Verified",
+    "replay": "Play again",
+    "staffCta": "Start your verification",
+    "hireCta": "Request staff on WhatsApp",
+    "allStaff": "domestic staff"
   }
 }
