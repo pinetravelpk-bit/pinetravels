@@ -1,0 +1,129 @@
+import fs from "fs";
+import path from "path";
+import matter from "gray-matter";
+import { remark } from "remark";
+import html from "remark-html";
+import readingTime from "reading-time";
+import type { BlogPost, BlogPostMeta } from "@/lib/types";
+import { slugifyTag } from "@/lib/slug";
+
+const BLOG_DIR = path.join(process.cwd(), "content", "blog");
+
+function readSlugs(): string[] {
+  if (!fs.existsSync(BLOG_DIR)) return [];
+  return fs
+    .readdirSync(BLOG_DIR)
+    .filter((f) => f.endsWith(".md"))
+    .map((f) => f.replace(/\.md$/, ""));
+}
+
+function readRaw(slug: string) {
+  const filePath = path.join(BLOG_DIR, `${slug}.md`);
+  const raw = fs.readFileSync(filePath, "utf8");
+  return matter(raw);
+}
+
+// Blog images live in public/images/blog. If a post points at a file that
+// isn't there, fall back to the home hero photo rather than a broken image.
+const FALLBACK_IMAGE = "/images/home/hero.webp";
+function localImageOr(src: string): string {
+  if (!src.startsWith("/")) return src;
+  return fs.existsSync(path.join(process.cwd(), "public", src)) ? src : FALLBACK_IMAGE;
+}
+
+function toMeta(slug: string, data: Record<string, unknown>, content: string): BlogPostMeta {
+  return {
+    slug,
+    title: (data.title as string) ?? slug,
+    date: (data.date as string) ?? new Date().toISOString(),
+    author: (data.author as string) ?? "RX Direct Team",
+    featuredImage: localImageOr((data.featured_image as string) ?? "/images/blog/cover-default.webp"),
+    excerpt: (data.excerpt as string) ?? content.slice(0, 160).replace(/\n/g, " "),
+    tags: ((data.tags as string[]) ?? []).filter((t) => t && t.trim().length > 0),
+    cities: data.cities as string[] | undefined,
+    society: data.society as string | undefined,
+    services: data.services as string[] | undefined,
+    metaTitle: data.meta_title as string | undefined,
+    metaDescription: data.meta_description as string | undefined,
+    ogImage: data.og_image ? localImageOr(data.og_image as string) : undefined,
+    readingTime: Math.max(1, Math.round(readingTime(content).minutes)).toString(),
+  };
+}
+
+export function getAllPostsMeta(): BlogPostMeta[] {
+  const posts = readSlugs().map((slug) => {
+    const { data, content } = readRaw(slug);
+    return toMeta(slug, data, content);
+  });
+
+  return posts.sort((a, b) => (a.date < b.date ? 1 : -1));
+}
+
+export function getPostSlugs(): string[] {
+  return readSlugs();
+}
+
+export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
+  if (!fs.existsSync(path.join(BLOG_DIR, `${slug}.md`))) return null;
+  const { data, content } = readRaw(slug);
+  const processed = await remark().use(html).process(content);
+  const contentHtml = processed.toString();
+
+  return { ...toMeta(slug, data, content), contentHtml };
+}
+
+export function getPostsByCity(citySlug: string): BlogPostMeta[] {
+  return getAllPostsMeta().filter((p) => p.cities?.includes(citySlug));
+}
+
+export function getPostsByService(serviceSlug: string): BlogPostMeta[] {
+  return getAllPostsMeta().filter((p) => p.services?.includes(serviceSlug));
+}
+
+export function getPostsBySociety(societySlug: string): BlogPostMeta[] {
+  return getAllPostsMeta().filter((p) => p.society === societySlug);
+}
+
+export function getPostsByTagSlug(tagSlug: string): BlogPostMeta[] {
+  return getAllPostsMeta().filter((p) =>
+    p.tags.some((t) => slugifyTag(t) === tagSlug)
+  );
+}
+
+export function getAllCitySlugsWithPosts(): string[] {
+  const set = new Set<string>();
+  getAllPostsMeta().forEach((p) => p.cities?.forEach((c) => set.add(c)));
+  return Array.from(set);
+}
+
+export function getAllServiceSlugsWithPosts(): string[] {
+  const set = new Set<string>();
+  getAllPostsMeta().forEach((p) => p.services?.forEach((s) => set.add(s)));
+  return Array.from(set);
+}
+
+export function getAllSocietySlugsWithPosts(): string[] {
+  const set = new Set<string>();
+  getAllPostsMeta().forEach((p) => p.society && set.add(p.society));
+  return Array.from(set);
+}
+
+export function getAllTagsWithSlugs(): { tag: string; slug: string }[] {
+  const map = new Map<string, string>();
+  getAllPostsMeta().forEach((p) =>
+    p.tags.forEach((t) => map.set(slugifyTag(t), t))
+  );
+  return Array.from(map.entries()).map(([slug, tag]) => ({ tag, slug }));
+}
+
+export function getAllTagsWithSlugsAndCount(): { tag: string; slug: string; count: number }[] {
+  const map = new Map<string, { tag: string; count: number }>();
+  getAllPostsMeta().forEach((p) =>
+    p.tags.forEach((t) => {
+      const slug = slugifyTag(t);
+      const existing = map.get(slug);
+      map.set(slug, { tag: existing?.tag ?? t, count: (existing?.count ?? 0) + 1 });
+    })
+  );
+  return Array.from(map.entries()).map(([slug, { tag, count }]) => ({ tag, slug, count }));
+}

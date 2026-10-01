@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "image": "/images/blog/chatgpt-image-jul-26-2026-01_29_09-am.png",
+    "alt": "Happy family at home with trusted domestic staff support"
+  },
+  "services": {
+    "batman": {
+      "image": "/images/blog/pexels-kampus-8629082.jpg"
+    },
+    "helpers": {
+      "image": "/images/blog/pexels-michael-burrows-7129378.jpg"
+    },
+    "painters": {
+      "image": "/images/blog/1886f2de-4a30-4a8a-a45e-debea56a592c.png"
+    },
+    "drivers": {
+      "image": "/images/blog/1eea3397-0a33-4f28-ba4a-27d6cbfd881b.png"
+    },
+    "cooks": {
+      "image": "/images/blog/img-20260730-wa0009.jpg"
+    },
+    "chefs": {
+      "image": "/images/blog/file_00000000e0d081faa9b3f839e67ba05f.png"
+    },
+    "babysitters-nannies": {
+      "image": "/images/blog/c90faaa7-3a73-4e4a-afe3-f1b8ebd45f6e.png"
+    },
+    "gardeners": {
+      "image": "/images/blog/fb54971d-c5e7-4216-b827-6a0e090dfccc.png"
+    },
+    "couples": {
+      "image": "/images/blog/95892c04-df27-47b7-b560-1658fd556c21.png"
+    },
+    "carpenters": {
+      "image": "/images/blog/163fe213-51e8-4eec-91c9-8879fde9b29b.png"
+    },
+    "office-boys": {
+      "image": "/images/blog/bc706806-6d14-40c8-a1e4-497a51905c40.png"
+    },
+    "plumbers": {
+      "image": "/images/blog/0fbea7b1-0110-4457-94c0-e4a5989c14ad.png"
+    },
+    "caretakers": {
+      "image": "/images/blog/1be47604-fd5d-4010-927e-9e4a5609f01a.png"
+    },
+    "electricians": {
+      "image": "/images/blog/8eafe8e9-f844-4493-ac5b-5b4ec5942afc.png"
+    },
+    "cleaners": {
+      "image": "/images/blog/dd0f9736-8cfb-456f-a435-4acaf69481cc.png"
+    }
+  },
+  "cities": {}
+}

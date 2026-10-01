@@ -1,89 +1,90 @@
-# RxDirect — rxdirect.pk
+# RX Direct, Domestic Staff Provider Website
 
-Website for **RxDirect**, a healthcare & pharmacy staffing agency. Built with Next.js 14,
-Tailwind CSS and lucide-react. It is fully separate from the Pine Travel site in the repo root.
+A bilingual (English/Urdu), SEO-optimized website for RX Direct, built with Next.js (static export) and Tailwind CSS. Self-hosted on a VPS (nginx + a small Node API); see **Hosting on the VPS** below.
 
-## Pages
+> **2026 redesign:** the look follows the new blue design (top bar, photo-collage hero with staff search, registration section, locations, two-column FAQ). Every URL from the Netlify site is unchanged — same routes, same content, same sitemaps.
 
-| Route        | What it is                                                         |
-|--------------|--------------------------------------------------------------------|
-| `/`          | Home: hero, services, how it works, why us, latest jobs, testimonials |
-| `/services`  | Staffing services and hiring models                                |
-| `/jobs`      | Open positions, each with an **Apply now** button                  |
-| `/apply`     | Candidate application with CV upload (PDF/DOC/DOCX, 5 MB max)     |
-| `/employers` | Staff request form for hospitals, pharmacies and clinics           |
-| `/about`     | Company story and values                                           |
-| `/contact`   | Contact details and message form                                   |
-| `/admin`     | All form submissions, with CV downloads (password protected)      |
+## What's included
 
-## Editing content
+- **Multi-page site**: Home, About, Services (overview + 8 category pages), Cities (overview + Islamabad/Rawalpindi/Lahore/Karachi pages), How It Works, Blog, FAQs, Contact.
+- **Mega-menu navbar** with dropdowns for Services and Cities, full mobile menu, and an EN/UR language switcher with right-to-left (RTL) layout for Urdu.
+- **SEO**: per-page metadata, Open Graph/Twitter cards, JSON-LD structured data (LocalBusiness, Service, Article, FAQPage, Breadcrumbs), auto-generated `sitemap.xml` and `robots.txt`.
+- **Blog**: Markdown posts in `content/blog/`, rendered as static pages. To add or edit a post, add/edit a `.md` file there (copy an existing one for the front-matter fields) and redeploy.
+- **Site-wide settings**: WhatsApp number, default WhatsApp message and social links live in [`content/settings/business.json`](content/settings/business.json); photo overrides in [`content/settings/images.json`](content/settings/images.json).
+- **WhatsApp-first contact**: floating WhatsApp button, WhatsApp links throughout, plus a contact form whose leads appear at `/admin/`.
+- **Deep local SEO**: 8 cities × 48 housing societies × 18 services, cross-linked hub pages, ~370 blog posts, blog archive pages by city/service/society/tag, `sitemap.xml`, `robots.txt`, `llms.txt`, and JSON-LD throughout.
+- **Moderated blog comments** (no login required to post): held as "pending" until approved at `/admin/` (Blog comments tab).
 
-**Everything is in `lib/site.js`**: phone, WhatsApp, email, address, services, jobs,
-testimonials, stats. Change it, push, and run the update command below.
+## Hosting on the VPS
 
-> The phone number and WhatsApp in `lib/site.js` are placeholders (`+92 300 0000000`).
-> Replace them before you share the site.
-
-## Put it on the VPS (Hostinger, Ubuntu)
-
-### 1. Point the domain at the server
-
-At your domain registrar (PKNIC or whoever sells you `rxdirect.pk`), add two DNS records:
-
-| Type | Name  | Value           |
-|------|-------|-----------------|
-| A    | `@`   | `72.62.193.221` |
-| A    | `www` | `72.62.193.221` |
-
-DNS can take from a few minutes up to a few hours to update.
-
-### 2. Run the setup script
-
-Open the VPS terminal (Hostinger hPanel → VPS → **Web console**, or `ssh root@72.62.193.221`)
-and paste:
+`deploy/setup.sh` installs everything on a plain Ubuntu VPS and is also the update command:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/pinetravelpk-bit/pinetravels/main/rxdirect/deploy/setup.sh -o setup.sh && bash setup.sh
 ```
 
-It installs Node.js, nginx, the firewall and a free HTTPS certificate, builds the site and
-starts it as a service that restarts automatically. At the end it prints:
+- nginx serves the static export (`out/`, copied to `/var/www/rxdirect`) with the same URL rules Netlify used (`/about` → `about.html`, `/about/` → 301 `/about`).
+- `server/api.mjs` (systemd service `rxdirect-api`) answers the old `/.netlify/functions/*` URLs: contact-form leads and blog comments, stored as JSON in `/var/lib/rxdirect/data`.
+- `/admin/` shows leads and lets you approve comments. Password: `ADMIN_PASSWORD` in `/etc/rxdirect.env` (printed once by the setup script).
+- HTTPS via Let's Encrypt is added automatically once `rxdirect.pk` points at the server.
 
-- the website address
-- the admin address and **admin password** — copy it somewhere safe; it's only shown once.
+Back up `/var/lib/rxdirect/data` — it holds all leads and comments.
 
-If DNS hasn't updated yet, the site still works at `http://72.62.193.221`. Run the same
-command again once the domain points at the server, and it will add HTTPS.
-
-### 3. Updating the site later
-
-Push your changes to GitHub, then on the VPS run:
+## Local development
 
 ```bash
-bash setup.sh
-```
-
-The script is safe to re-run: it pulls the latest code, rebuilds and restarts. Submissions
-and CVs are kept.
-
-### Useful commands on the VPS
-
-```bash
-systemctl status rxdirect           # is the site running?
-journalctl -u rxdirect -n 100       # recent logs
-cat /etc/rxdirect.env               # admin password
-ls /var/lib/rxdirect/data           # submissions.jsonl + uploaded CVs
-```
-
-To change the admin password: edit `ADMIN_PASSWORD` in `/etc/rxdirect.env`, then
-`systemctl restart rxdirect`.
-
-**Back up** `/var/lib/rxdirect/data` regularly — it holds every application and CV.
-
-## Running locally
-
-```bash
-cd rxdirect
 npm install
-ADMIN_PASSWORD=test npm run dev     # http://localhost:3100, admin login: admin / test
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000).
+
+To test the contact form and comments locally, also run the API in a second terminal:
+
+```bash
+ADMIN_PASSWORD=test node server/api.mjs   # http://127.0.0.1:3101
+```
+
+## Before going live, things to update
+
+Everything below is centralized so you only need to edit one file per topic:
+
+| What | Where |
+|---|---|
+| WhatsApp number, default WhatsApp message, social media links | [`content/settings/business.json`](content/settings/business.json) |
+| Business name, email, address | [`data/business.ts`](data/business.ts), code-level, not exposed in the admin panel |
+| Site URL (used for canonical links, sitemap, OG tags) | `siteUrl` in [`data/business.ts`](data/business.ts) |
+| Contact form submissions | Stored by `server/api.mjs`, shown at `/admin/` |
+| Blog comments | Stored by `server/api.mjs`; nothing appears until approved at `/admin/` |
+| Service descriptions / pricing copy | [`data/services.ts`](data/services.ts) |
+| City descriptions / areas covered | [`data/cities.ts`](data/cities.ts) |
+| Testimonials | [`data/testimonials.ts`](data/testimonials.ts) |
+| FAQs | [`data/faqs.ts`](data/faqs.ts) |
+| UI/page translations (English & Urdu) | [`i18n/en.json`](i18n/en.json), [`i18n/ur.json`](i18n/ur.json) |
+
+The email address and the social media URLs currently contain **placeholder** values, update social links in `content/settings/business.json`, and search for `PLACEHOLDER` comments in `data/business.ts` for the rest.
+
+Stock photography is used throughout (`public/images/`, sourced from free-to-use Unsplash/Pexels/Wikimedia Commons). Swap in real photos of your team/staff whenever you have them, same file names, drop-in replacement.
+
+## Tech stack
+
+- **Next.js 14** (App Router, static export via `output: 'export'`), real per-page HTML for SEO/social previews, still React.
+- **Tailwind CSS** for styling, with `rtl:` variants for Urdu layout.
+- **server/api.mjs**: dependency-free Node API for leads and comments on the VPS.
+- **gray-matter** + **remark** for parsing/rendering blog markdown at build time.
+- Custom React Context i18n (`i18n/LanguageContext.tsx`), no external i18n library needed for this site's scope.
+
+## Project structure
+
+```
+/app, pages (App Router)
+/components, shared UI components
+/data, business info, services, cities, testimonials, FAQs
+/content/blog, blog posts (markdown)
+/i18n, English/Urdu translation dictionaries + language context
+/lib, markdown parsing, JSON-LD schema helpers
+/public/admin, leads & comment moderation page (talks to server/api.mjs)
+/server, VPS API server (replaces the old Netlify Functions)
+/deploy, VPS install/update script
+/public/images, stock photography, organized by section
 ```
