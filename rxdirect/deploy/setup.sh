@@ -17,6 +17,9 @@ set -euo pipefail
 
 DOMAIN="${DOMAIN:-rxdirect.pk}"
 REPO="${REPO:-https://github.com/pinetravelpk-bit/pinetravels.git}"
+# The branch is remembered in $ENV_FILE, so after the first run a plain
+# "bash setup.sh" keeps updating from the same branch.
+BRANCH="${BRANCH:-$(grep -s '^RXDIRECT_BRANCH=' /etc/rxdirect.env | cut -d= -f2- || true)}"
 BRANCH="${BRANCH:-main}"
 EMAIL="${EMAIL:-}"            # for Let's Encrypt expiry notices (optional)
 API_PORT="${API_PORT:-3101}"
@@ -97,6 +100,13 @@ PORT=$API_PORT
 ENV
   chmod 600 "$ENV_FILE"
   NEW_PASSWORD=1
+fi
+
+# Remember the branch for the next plain "bash setup.sh".
+if grep -q '^RXDIRECT_BRANCH=' "$ENV_FILE"; then
+  sed -i "s|^RXDIRECT_BRANCH=.*|RXDIRECT_BRANCH=$BRANCH|" "$ENV_FILE"
+else
+  echo "RXDIRECT_BRANCH=$BRANCH" >> "$ENV_FILE"
 fi
 
 say "Fetching code ($BRANCH)"
@@ -248,6 +258,13 @@ else
   echo "Skipped: $DOMAIN points to '${DNS_IP:-nothing}', but this server is $SERVER_IP."
   echo "Add DNS A records for $DOMAIN and www.$DOMAIN -> $SERVER_IP, wait for them to update, then run this script again."
   URL="http://$SERVER_IP"
+fi
+
+# Keep /root/setup.sh in step with the repository's version for next time.
+# Written to a temp file and moved into place: bash is still reading the old
+# file, and replacing it (new inode) is safe where overwriting in place is not.
+if [ -f /root/setup.sh ]; then
+  cp "$APP_DIR/deploy/setup.sh" /root/setup.sh.new && mv /root/setup.sh.new /root/setup.sh
 fi
 
 say "Building the site (about 2,100 pages; 20-60 minutes on a 1-CPU server)"
