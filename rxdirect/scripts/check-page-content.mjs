@@ -3,7 +3,7 @@
 //   - the article body has at least 1500 words
 //   - every target keyword appears (title, description, answer, body or FAQs)
 //   - no long dashes and none of the stock phrases that make copy read as machine-written
-// Usage: node scripts/check-page-content.mjs [--strict] [route-prefix]
+// Usage: node scripts/check-page-content.mjs [--strict] [--all] [route | route-prefix*]
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
@@ -26,7 +26,8 @@ const BANNED = [
 let failures = 0;
 const rows = [];
 for (const [route, info] of Object.entries(keywords)) {
-  if (prefix && !route.startsWith(prefix)) continue;
+  // An argument ending in * is a prefix; otherwise it is an exact route.
+  if (prefix && (prefix.endsWith("*") ? !route.startsWith(prefix.slice(0, -1)) : route !== prefix)) continue;
   const file = path.join(root, "content/pages", `${route === "/" ? "home" : route.slice(1)}.md`);
   if (!fs.existsSync(file)) {
     rows.push([route, "MISSING"]);
