@@ -1,12 +1,13 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { cities } from "@/data/cities";
 import { useTranslation } from "@/i18n/LanguageContext";
 import SectionHeading from "@/components/SectionHeading";
 import CityCard from "@/components/CityCard";
 import CTABanner from "@/components/CTABanner";
 
-export default function CitiesPageClient() {
+export default function CitiesPageClient({ article }: { article?: ReactNode } = {}) {
   const { t } = useTranslation();
 
   return (
@@ -19,6 +20,8 @@ export default function CitiesPageClient() {
           ))}
         </div>
       </div>
+      {article}
+
       <CTABanner />
     </>
   );

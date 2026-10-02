@@ -1,11 +1,12 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { MessageCircle, ListChecks, Users2, CheckCircle2, IdCard, UserCheck, Handshake, Briefcase } from "lucide-react";
 import { useTranslation } from "@/i18n/LanguageContext";
 import SectionHeading from "@/components/SectionHeading";
 import CTABanner from "@/components/CTABanner";
 
-export default function HowItWorksPageClient() {
+export default function HowItWorksPageClient({ article }: { article?: ReactNode } = {}) {
   const { t } = useTranslation();
 
   const clientSteps = [
@@ -76,6 +77,8 @@ export default function HowItWorksPageClient() {
           </div>
         </div>
       </section>
+
+      {article}
 
       <CTABanner />
     </>

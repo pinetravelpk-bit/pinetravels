@@ -1,12 +1,13 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { faqs } from "@/data/faqs";
 import { useTranslation } from "@/i18n/LanguageContext";
 import SectionHeading from "@/components/SectionHeading";
 import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
 
-export default function FAQsPageClient() {
+export default function FAQsPageClient({ article }: { article?: ReactNode } = {}) {
   const { t } = useTranslation();
 
   return (
@@ -17,6 +18,8 @@ export default function FAQsPageClient() {
           <FAQAccordion items={faqs} />
         </div>
       </section>
+      {article}
+
       <CTABanner />
     </>
   );

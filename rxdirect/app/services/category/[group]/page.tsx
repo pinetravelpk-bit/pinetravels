@@ -5,6 +5,9 @@ import { business, canonicalUrl } from "@/data/business";
 import JsonLd from "@/components/JsonLd";
 import { breadcrumbSchema } from "@/lib/schema";
 import GroupDetailClient from "./GroupDetailClient";
+import PageArticle from "@/components/PageArticle";
+import PageFaqSchema from "@/components/PageFaqSchema";
+import { getPageContent, pageMetadata } from "@/lib/pageContent";
 
 export function generateStaticParams() {
   return serviceGroups.map((g) => ({ group: g.slug }));
@@ -21,11 +24,11 @@ export async function generateMetadata({
   const title = `Hire ${group.name.en} in Pakistan`;
   const description = `${group.shortDesc.en} Background-verified and available across Islamabad, Rawalpindi, Lahore, Karachi and more.`;
 
-  return {
+  return pageMetadata(`/services/category/${group.slug}`, {
     title,
     description,
     alternates: { canonical: canonicalUrl(`/services/category/${group.slug}`) },
-  };
+  });
 }
 
 export default function GroupDetailPage({
@@ -45,7 +48,8 @@ export default function GroupDetailPage({
           { name: group.name.en, url: `${business.siteUrl}/services/category/${group.slug}` },
         ])}
       />
-      <GroupDetailClient group={group} />
+      <PageFaqSchema route={`/services/category/${group.slug}`} />
+      <GroupDetailClient group={group} article={<PageArticle page={getPageContent(`/services/category/${group.slug}`)} />} />
     </>
   );
 }

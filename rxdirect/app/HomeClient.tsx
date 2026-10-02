@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { useState } from "react";
 import Link from "next/link";
 import { ArrowRight, ChevronDown, FileText, FileCheck2, HardHat, Users } from "lucide-react";
@@ -83,7 +84,7 @@ function HomeFAQs() {
   );
 }
 
-export default function HomeClient({ posts }: { posts: BlogPostMeta[] }) {
+export default function HomeClient({ posts, article }: { posts: BlogPostMeta[]; article?: ReactNode }) {
   const { t, locale } = useTranslation();
   const featuredServices = FEATURED_SERVICES.map((slug) => services.find((s) => s.slug === slug)).filter(
     (s): s is NonNullable<typeof s> => Boolean(s)
@@ -199,6 +200,8 @@ export default function HomeClient({ posts }: { posts: BlogPostMeta[] }) {
           </div>
         </section>
       )}
+
+      {article}
 
       <CTABanner />
     </>

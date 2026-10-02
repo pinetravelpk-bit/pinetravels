@@ -4,18 +4,23 @@ import { ShieldCheck, FileText, BadgeCheck, ExternalLink, ArrowRight, HeartHands
 import { business, canonicalUrl } from "@/data/business";
 import JsonLd from "@/components/JsonLd";
 import { breadcrumbSchema } from "@/lib/schema";
+import PageArticle from "@/components/PageArticle";
+import PageFaqSchema from "@/components/PageFaqSchema";
+import { getPageContent, pageMetadata } from "@/lib/pageContent";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata("/registration", {
   title: "SECP Registration & Authenticity | Certified & Verified Company",
   description:
     "RX Direct is a certified, SECP-registered and verified company in Pakistan. View our official CUIN, verify our registration on SECP eServices, and download our incorporation certificate.",
   alternates: { canonical: canonicalUrl("/registration") },
-};
+});
 
 export default function RegistrationPage() {
   const { secp } = business;
 
   return (
+    <>
+    <PageFaqSchema route="/registration" />
     <div className="container-px mx-auto max-w-3xl py-14 lg:py-20">
       <JsonLd
         data={breadcrumbSchema([
@@ -171,5 +176,7 @@ export default function RegistrationPage() {
         </p>
       </div>
     </div>
+    <PageArticle page={getPageContent("/registration")} />
+    </>
   );
 }

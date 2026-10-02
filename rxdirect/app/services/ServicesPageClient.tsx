@@ -1,12 +1,13 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { services } from "@/data/services";
 import { useTranslation } from "@/i18n/LanguageContext";
 import SectionHeading from "@/components/SectionHeading";
 import ServiceCard from "@/components/ServiceCard";
 import CTABanner from "@/components/CTABanner";
 
-export default function ServicesPageClient() {
+export default function ServicesPageClient({ article }: { article?: ReactNode } = {}) {
   const { t } = useTranslation();
 
   return (
@@ -19,6 +20,8 @@ export default function ServicesPageClient() {
           ))}
         </div>
       </div>
+      {article}
+
       <CTABanner />
     </>
   );

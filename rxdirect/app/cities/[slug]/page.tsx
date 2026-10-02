@@ -6,6 +6,8 @@ import JsonLd from "@/components/JsonLd";
 import { breadcrumbSchema, faqPageSchema } from "@/lib/schema";
 import { cityFaqs } from "@/lib/contentTemplates";
 import CityDetailClient from "./CityDetailClient";
+import PageArticle from "@/components/PageArticle";
+import { getPageContent, mergedFaqs, pageMetadata } from "@/lib/pageContent";
 
 export function generateStaticParams() {
   return cities.map((c) => ({ slug: c.slug }));
@@ -22,7 +24,7 @@ export async function generateMetadata({
   const title = `Hire Domestic Staff in ${city.name.en} | Cooks, Drivers, Maids & More`;
   const description = `${city.shortDesc.en} Cooks, drivers, maids, cleaners, guards and office boys, background-verified and ready to work in ${city.name.en}.`;
 
-  return {
+  return pageMetadata(`/cities/${city.slug}`, {
     title,
     description,
     alternates: { canonical: canonicalUrl(`/cities/${city.slug}`) },
@@ -37,7 +39,7 @@ export async function generateMetadata({
       description,
       images: [city.image],
     },
-  };
+  });
 }
 
 export default function CityDetailPage({
@@ -59,10 +61,10 @@ export default function CityDetailPage({
       />
       <JsonLd
         data={faqPageSchema(
-          cityFaqs(city).map((f) => ({ question: f.question.en, answer: f.answer.en }))
+          mergedFaqs(`/cities/${city.slug}`, cityFaqs(city).map((f) => ({ question: f.question.en, answer: f.answer.en })))
         )}
       />
-      <CityDetailClient city={city} />
+      <CityDetailClient city={city} article={<PageArticle page={getPageContent(`/cities/${city.slug}`)} />} />
     </>
   );
 }

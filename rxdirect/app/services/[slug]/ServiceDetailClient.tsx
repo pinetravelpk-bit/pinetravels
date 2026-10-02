@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { CheckCircle2, ShieldCheck, ChevronRight, ArrowRight, MapPin } from "lucide-react";
@@ -21,7 +22,7 @@ import {
   serviceOverviewFaqs,
 } from "@/lib/contentTemplates";
 
-export default function ServiceDetailClient({ service }: { service: ServiceCategory }) {
+export default function ServiceDetailClient({ service, article }: { service: ServiceCategory; article?: ReactNode }) {
   const { t, locale } = useTranslation();
   const salary = getSalaryForService(service.slug);
   const related = services.filter((s) => s.slug !== service.slug).slice(0, 3);
@@ -193,6 +194,8 @@ export default function ServiceDetailClient({ service }: { service: ServiceCateg
           <FAQAccordion items={faqs} />
         </div>
       </section>
+
+      {article}
 
       <CTABanner
         title={t("servicesPage.detailCtaTitle", { service: service.name[locale] })}

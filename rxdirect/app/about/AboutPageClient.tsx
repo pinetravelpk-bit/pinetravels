@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { ShieldCheck, Eye, HeartHandshake, Clock, BadgeCheck } from "lucide-react";
@@ -8,7 +9,7 @@ import { useTranslation } from "@/i18n/LanguageContext";
 import SectionHeading from "@/components/SectionHeading";
 import CTABanner from "@/components/CTABanner";
 
-export default function AboutPageClient() {
+export default function AboutPageClient({ article }: { article?: ReactNode } = {}) {
   const { t } = useTranslation();
 
   const values = [
@@ -98,6 +99,8 @@ export default function AboutPageClient() {
           </Link>
         </div>
       </section>
+      {article}
+
       <CTABanner />
     </>
   );

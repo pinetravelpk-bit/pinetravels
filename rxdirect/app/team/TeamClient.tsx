@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Loader2, Mail, Phone } from "lucide-react";
@@ -17,7 +18,7 @@ const initials = (name: string) =>
     .join("")
     .toUpperCase();
 
-export default function TeamClient() {
+export default function TeamClient({ article }: { article?: ReactNode } = {}) {
   const { t } = useTranslation();
   const [team, setTeam] = useState<TeamMember[] | null>(null);
 
@@ -82,6 +83,8 @@ export default function TeamClient() {
           </Link>
         </div>
       </section>
+      {article}
+
       <CTABanner />
     </>
   );

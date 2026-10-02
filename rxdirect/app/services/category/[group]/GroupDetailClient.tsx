@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
 import type { ServiceGroup } from "@/data/serviceGroups";
@@ -9,7 +10,7 @@ import SectionHeading from "@/components/SectionHeading";
 import ServiceCard from "@/components/ServiceCard";
 import CTABanner from "@/components/CTABanner";
 
-export default function GroupDetailClient({ group }: { group: ServiceGroup }) {
+export default function GroupDetailClient({ group, article }: { group: ServiceGroup; article?: ReactNode }) {
   const { t, locale } = useTranslation();
   const groupServices = services.filter((s) => group.serviceSlugs.includes(s.slug));
 
@@ -43,6 +44,8 @@ export default function GroupDetailClient({ group }: { group: ServiceGroup }) {
           </Link>
         </div>
       </div>
+      {article}
+
       <CTABanner />
     </>
   );

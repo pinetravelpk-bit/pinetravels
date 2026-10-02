@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { ChevronRight, MapPin, ArrowRight, CheckCircle2, ShieldCheck } from "lucide-react";
@@ -24,9 +25,11 @@ import {
 export default function ServiceCityDetailClient({
   service,
   city,
+  article,
 }: {
   service: ServiceCategory;
   city: City;
+  article?: ReactNode;
 }) {
   const { t, locale } = useTranslation();
   const otherCities = cities.filter((c) => c.slug !== city.slug);
@@ -125,6 +128,8 @@ export default function ServiceCityDetailClient({
         <p className="leading-relaxed text-gray-600">{process[locale]}</p>
         <p className="leading-relaxed text-gray-600">{trust[locale]}</p>
       </section>
+
+      {article}
 
       <section className="section-py bg-gray-50">
         <div className="container-px mx-auto max-w-8xl">

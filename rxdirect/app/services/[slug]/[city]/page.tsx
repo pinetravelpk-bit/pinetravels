@@ -7,6 +7,8 @@ import JsonLd from "@/components/JsonLd";
 import { serviceSchema, breadcrumbSchema, faqPageSchema } from "@/lib/schema";
 import { serviceCityFaqs, variedServiceTitle } from "@/lib/contentTemplates";
 import ServiceCityDetailClient from "./ServiceCityDetailClient";
+import PageArticle from "@/components/PageArticle";
+import { getPageContent, mergedFaqs, pageMetadata } from "@/lib/pageContent";
 
 export function generateStaticParams() {
   return services.flatMap((s) =>
@@ -26,7 +28,7 @@ export async function generateMetadata({
   const title = variedServiceTitle(service.name.en, city.name.en, `${service.slug}-${city.slug}`);
   const description = `${service.shortDesc.en} Serving all of ${city.name.en}, background-verified and available within 24 hours.`;
 
-  return {
+  return pageMetadata(`/services/${service.slug}/${city.slug}`, {
     title,
     description,
     alternates: { canonical: canonicalUrl(`/services/${service.slug}/${city.slug}`) },
@@ -41,7 +43,7 @@ export async function generateMetadata({
       description,
       images: [service.image],
     },
-  };
+  });
 }
 
 export default function ServiceCityDetailPage({
@@ -52,6 +54,7 @@ export default function ServiceCityDetailPage({
   const service = getServiceBySlug(params.slug);
   const city = getCityBySlug(params.city);
   if (!service || !city) notFound();
+  const route = `/services/${service.slug}/${city.slug}`;
 
   return (
     <>
@@ -76,13 +79,16 @@ export default function ServiceCityDetailPage({
       />
       <JsonLd
         data={faqPageSchema(
-          serviceCityFaqs(service, city).map((f) => ({
-            question: f.question.en,
-            answer: f.answer.en,
-          }))
+          mergedFaqs(
+            route,
+            serviceCityFaqs(service, city).map((f) => ({
+              question: f.question.en,
+              answer: f.answer.en,
+            }))
+          )
         )}
       />
-      <ServiceCityDetailClient service={service} city={city} />
+      <ServiceCityDetailClient service={service} city={city} article={<PageArticle page={getPageContent(route)} />} />
     </>
   );
 }

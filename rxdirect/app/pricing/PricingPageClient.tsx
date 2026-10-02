@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import Link from "next/link";
 import { CheckCircle2 } from "lucide-react";
 import { useTranslation } from "@/i18n/LanguageContext";
@@ -93,7 +94,7 @@ const faqs = [
   },
 ];
 
-export default function PricingPageClient() {
+export default function PricingPageClient({ article }: { article?: ReactNode } = {}) {
   const { t, locale } = useTranslation();
 
   return (
@@ -177,6 +178,8 @@ export default function PricingPageClient() {
           </div>
         </div>
       </section>
+      {article}
+
       <CTABanner
         title={t("pricingPage.ctaTitle")}
         subtitle={t("servicesPage.detailCtaSubtitle")}

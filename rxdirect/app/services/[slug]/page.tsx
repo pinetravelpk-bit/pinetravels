@@ -6,6 +6,8 @@ import JsonLd from "@/components/JsonLd";
 import { serviceSchema, breadcrumbSchema, faqPageSchema } from "@/lib/schema";
 import { serviceOverviewFaqs } from "@/lib/contentTemplates";
 import ServiceDetailClient from "./ServiceDetailClient";
+import PageArticle from "@/components/PageArticle";
+import { getPageContent, mergedFaqs, pageMetadata } from "@/lib/pageContent";
 
 export function generateStaticParams() {
   return services.map((s) => ({ slug: s.slug }));
@@ -22,7 +24,7 @@ export async function generateMetadata({
   const title = `Hire ${service.name.en} in Islamabad, Rawalpindi & Pakistan`;
   const description = `${service.shortDesc.en} Background-verified and available across Islamabad, Rawalpindi, Lahore and Karachi.`;
 
-  return {
+  return pageMetadata(`/services/${service.slug}`, {
     title,
     description,
     alternates: { canonical: canonicalUrl(`/services/${service.slug}`) },
@@ -37,7 +39,7 @@ export async function generateMetadata({
       description,
       images: [service.image],
     },
-  };
+  });
 }
 
 export default function ServiceDetailPage({
@@ -66,10 +68,10 @@ export default function ServiceDetailPage({
       />
       <JsonLd
         data={faqPageSchema(
-          serviceOverviewFaqs(service).map((f) => ({ question: f.question.en, answer: f.answer.en }))
+          mergedFaqs(`/services/${service.slug}`, serviceOverviewFaqs(service).map((f) => ({ question: f.question.en, answer: f.answer.en })))
         )}
       />
-      <ServiceDetailClient service={service} />
+      <ServiceDetailClient service={service} article={<PageArticle page={getPageContent(`/services/${service.slug}`)} />} />
     </>
   );
 }

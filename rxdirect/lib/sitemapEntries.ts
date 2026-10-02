@@ -5,6 +5,7 @@ import { getAllPostsMeta, getAllTagsWithSlugsAndCount } from "@/lib/markdown";
 import { slugifyTag } from "@/lib/slug";
 import { business } from "@/data/business";
 import type { BlogPostMeta } from "@/lib/types";
+import { getPageContent } from "@/lib/pageContent";
 
 // Sitemaps are rebuilt on every deploy (and the VPS auto-deploys every new
 // commit), so a new post, city or service shows up automatically.
@@ -49,6 +50,9 @@ function day(value: unknown): string | null {
 const maxDate = (...dates: (string | null | undefined)[]) =>
   dates.filter((d): d is string => Boolean(d)).sort().at(-1) ?? SITE_UPDATED;
 
+// The long-form copy in content/pages carries its own "updated" date.
+const contentDate = (route: string) => getPageContent(route)?.updated ?? null;
+
 let postsCache: BlogPostMeta[] | null = null;
 const posts = () => (postsCache ??= getAllPostsMeta());
 const postDate = (p: BlogPostMeta) => day((p as BlogPostMeta & { updated?: string }).updated) ?? day(p.date) ?? SITE_UPDATED;
@@ -58,7 +62,7 @@ export function getStaticPageEntries(): SitemapEntry[] {
   const latestPost = newest(posts());
   const page = (path: string, priority: number, changeFrequency: SitemapEntry["changeFrequency"] = "monthly", lastmod = SITE_UPDATED): SitemapEntry => ({
     url: url(path),
-    lastmod,
+    lastmod: maxDate(lastmod, contentDate(path || "/")),
     changeFrequency,
     priority,
   });
@@ -74,6 +78,7 @@ export function getStaticPageEntries(): SitemapEntry[] {
     page("/contact", 0.8),
     page("/jobs", 0.8, "daily"),
     page("/staff/register", 0.7),
+    page("/staff/status", 0.5),
     page("/team", 0.6),
     page("/registration", 0.7),
     page("/registration/labour", 0.5, "yearly"),
@@ -92,14 +97,14 @@ export function getServiceEntries(): SitemapEntry[] {
     const svcPosts = forService(svc.slug);
     entries.push({
       url: url(`/services/${svc.slug}`),
-      lastmod: maxDate(SITE_UPDATED, newest(svcPosts)),
+      lastmod: maxDate(SITE_UPDATED, newest(svcPosts), contentDate(`/services/${svc.slug}`)),
       changeFrequency: "weekly",
       priority: 0.8,
       images: [{ loc: abs(svc.image), title: `${svc.name.en} – RX Direct` }],
     });
     for (const c of cities) {
       const cityPosts = svcPosts.filter((p) => p.cities?.includes(c.slug));
-      entries.push({ url: url(`/services/${svc.slug}/${c.slug}`), lastmod: maxDate(SITE_UPDATED, newest(cityPosts)), changeFrequency: "monthly", priority: 0.7 });
+      entries.push({ url: url(`/services/${svc.slug}/${c.slug}`), lastmod: maxDate(SITE_UPDATED, newest(cityPosts), contentDate(`/services/${svc.slug}/${c.slug}`)), changeFrequency: "monthly", priority: 0.7 });
       for (const s of c.societies) {
         const socPosts = cityPosts.filter((p) => p.society === s.slug);
         entries.push({ url: url(`/services/${svc.slug}/${c.slug}/${s.slug}`), lastmod: maxDate(SITE_UPDATED, newest(socPosts)), changeFrequency: "monthly", priority: 0.5 });
@@ -115,7 +120,7 @@ export function getCityEntries(): SitemapEntry[] {
     return [
       {
         url: url(`/cities/${c.slug}`),
-        lastmod: maxDate(SITE_UPDATED, newest(cityPosts)),
+        lastmod: maxDate(SITE_UPDATED, newest(cityPosts), contentDate(`/cities/${c.slug}`)),
         changeFrequency: "weekly" as const,
         priority: 0.8,
         images: [{ loc: abs(c.image), title: `Domestic staff in ${c.name.en}` }],

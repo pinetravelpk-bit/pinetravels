@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { ChevronRight, MapPin } from "lucide-react";
@@ -20,7 +21,7 @@ import {
   cityFaqs,
 } from "@/lib/contentTemplates";
 
-export default function CityDetailClient({ city }: { city: City }) {
+export default function CityDetailClient({ city, article }: { city: City; article?: ReactNode }) {
   const { t, locale } = useTranslation();
   const process = cityProcessParagraph(city);
   const audience = cityAudienceParagraph(city);
@@ -120,6 +121,8 @@ export default function CityDetailClient({ city }: { city: City }) {
           <FAQAccordion items={faqs} />
         </div>
       </section>
+
+      {article}
 
       <CTABanner
         subtitle={t("servicesPage.detailCtaSubtitle")}

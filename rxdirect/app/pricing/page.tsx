@@ -3,6 +3,8 @@ import JsonLd from "@/components/JsonLd";
 import { faqPageSchema } from "@/lib/schema";
 import PricingPageClient from "./PricingPageClient";
 import { canonicalUrl } from "@/data/business";
+import PageArticle from "@/components/PageArticle";
+import { getPageContent, mergedFaqs, pageMetadata } from "@/lib/pageContent";
 
 const faqs = [
   {
@@ -27,18 +29,18 @@ const faqs = [
   },
 ];
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata("/pricing", {
   title: "Pricing",
   description:
     "How pricing works for RX Direct's domestic staff and home repair services, cooks, drivers, maids, nurses, electricians and more, with transparent quotes and no hidden charges.",
   alternates: { canonical: canonicalUrl("/pricing") },
-};
+});
 
 export default function PricingPage() {
   return (
     <>
-      <JsonLd data={faqPageSchema(faqs)} />
-      <PricingPageClient />
+      <JsonLd data={faqPageSchema(mergedFaqs("/pricing", faqs))} />
+      <PricingPageClient article={<PageArticle page={getPageContent("/pricing")} />} />
     </>
   );
 }
