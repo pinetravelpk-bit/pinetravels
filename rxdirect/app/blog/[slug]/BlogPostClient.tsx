@@ -10,12 +10,14 @@ import { formatDate } from "@/lib/date";
 import { business } from "@/data/business";
 import Comments from "@/components/Comments";
 import BlogGuide from "@/components/BlogGuide";
+import BlogHireForm from "@/components/BlogHireForm";
 
 export default function BlogPostClient({ post }: { post: BlogPost }) {
   const { t } = useTranslation();
 
   return (
-    <article className="section-py container-px mx-auto max-w-3xl">
+    <div className="section-py container-px mx-auto grid max-w-7xl gap-10 lg:grid-cols-[minmax(0,1fr)_340px] xl:gap-14">
+    <article className="min-w-0">
       <Link
         href="/blog"
         className="mb-8 inline-flex items-center gap-1.5 text-sm font-semibold text-brand-600 hover:text-brand-700"
@@ -48,7 +50,7 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
           alt={post.title}
           fill
           priority
-          sizes="(max-width: 768px) 100vw, 768px"
+          sizes="(max-width: 1024px) 100vw, 800px"
           className="object-cover"
         />
       </div>
@@ -80,5 +82,12 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
         pageUrl={`${business.siteUrl}/blog/${post.slug}`}
       />
     </article>
+
+      <aside className="lg:pt-14">
+        <div className="lg:sticky lg:top-[136px] lg:max-h-[calc(100vh-150px)] lg:overflow-y-auto lg:rounded-2xl">
+          <BlogHireForm postSlug={post.slug} postTitle={post.title} serviceSlugs={post.services} citySlugs={post.cities} />
+        </div>
+      </aside>
+    </div>
   );
 }

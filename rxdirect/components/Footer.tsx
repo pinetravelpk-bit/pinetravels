@@ -53,7 +53,7 @@ export default function Footer() {
       <div className="container-px mx-auto max-w-8xl py-14">
         <div className="grid grid-cols-2 gap-10 md:grid-cols-3 lg:grid-cols-[1.6fr_1fr_1fr_1fr_1fr_1fr]">
           <div className="col-span-2 md:col-span-3 lg:col-span-1">
-            <Logo className="h-12 w-auto" />
+            <Logo className="h-12 w-auto" priority={false} />
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-gray-600">{t("footer.description")}</p>
             <div className="mt-5 flex gap-2.5">
               {socialLinks.map(({ key, label, Icon }) =>

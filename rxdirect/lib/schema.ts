@@ -16,7 +16,7 @@ export function localBusinessSchema() {
     telephone: `+${business.phoneRaw}`,
     email: business.email,
     url: canonicalOrigin,
-    logo: `${canonicalOrigin}/brand/icon-square-512.png`,
+    logo: `${canonicalOrigin}/brand/rxdirect-logo-full.png`,
     image: `${canonicalOrigin}/brand/icon-square-512.png`,
     address: {
       "@type": "PostalAddress",

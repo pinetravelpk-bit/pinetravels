@@ -21,6 +21,8 @@ A bilingual (English/Urdu), SEO-optimized website for RX Direct, built with Next
 - **Staff verification** (`/staff/register`, `/staff/status`): staff submit details, references and documents (CNIC, police and medical certificates). Admins tick off a 7-point checklist; approving issues an RX Direct Verified ID (`RXD-2026-0001`) and a printable ID card. Staff track progress with their reference and phone.
 - **Team profiles** (`/team`): managed from the admin panel, with photos.
 - **Admin panel** (`/admin/`): dashboard, staff verification, jobs, applications, contact leads, team and blog comments.
+- **Hire Staff form beside every blog post** (`components/BlogHireForm.tsx`): prefilled with the post's service and city; requests appear under Leads in `/admin/`.
+- **Auto-updating sitemaps**: `/sitemap.xml` is an index of 5 child sitemaps (`lib/sitemapEntries.ts`) rebuilt on every deploy, with real per-page `lastmod` dates (post dates; hubs use their newest post) and image entries. New posts, cities and services are added automatically. Bump `SITE_UPDATED` there after site-wide content changes.
 
 ## Hosting on the VPS
 

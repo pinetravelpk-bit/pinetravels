@@ -447,5 +447,28 @@
     "staffCta": "Start your verification",
     "hireCta": "Request staff on WhatsApp",
     "allStaff": "domestic staff"
+  },
+  "blogForm": {
+    "title": "Hire verified staff",
+    "subtitle": "Tell us what you need. We'll call you back, usually within a few hours.",
+    "name": "Your name",
+    "phone": "Phone / WhatsApp",
+    "service": "Staff needed",
+    "city": "City",
+    "message": "Details (optional)",
+    "messagePlaceholder": "e.g. live-in cook for a family of 5, start next week",
+    "submit": "Request staff",
+    "sending": "Sending…",
+    "success": "Request received!",
+    "successText": "Our team will call you shortly on the number you gave.",
+    "another": "Send another request",
+    "error": "Couldn't send. Please try again or message us on WhatsApp.",
+    "or": "or",
+    "whatsapp": "Chat on WhatsApp",
+    "call": "Call",
+    "trust1": "SECP-registered company",
+    "trust2": "CNIC, reference & interview checked",
+    "trust3": "Free replacement within 6 months",
+    "any": "Any / not sure"
   }
 }

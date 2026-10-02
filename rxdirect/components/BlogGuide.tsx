@@ -331,14 +331,14 @@ export default function BlogGuide({
   const widget = kind.widget === "salary" && !hasSalary ? "hiring" : kind.widget;
 
   return (
-    <section ref={ref} className="blog-guide mt-8 rounded-3xl p-1 lg:-mx-24" style={{ background: `linear-gradient(135deg, ${kind.color}22, #eff5ff)` }} aria-label={t("guide.title")}>
+    <section ref={ref} className="blog-guide mt-8 rounded-3xl p-1" style={{ background: `linear-gradient(135deg, ${kind.color}22, #eff5ff)` }} aria-label={t("guide.title")}>
       <div className="flex items-center gap-2 px-4 pb-2 pt-3">
         <span className="h-2 w-2 animate-pulse rounded-full" style={{ background: kind.color }} />
         <span className="text-xs font-bold uppercase tracking-widest" style={{ color: kind.color }}>
           {t("guide.title")} · {kind.label[locale]}
         </span>
       </div>
-      <div className={`grid gap-3 p-2 ${headings.length >= 2 ? "lg:grid-cols-2" : ""}`}>
+      <div className={`grid gap-3 p-2 ${headings.length >= 2 ? "xl:grid-cols-2" : ""}`}>
         {widget === "salary" ? (
           <SalaryWidget accent={kind.color} serviceSlugs={serviceSlugs} run={run} replay={replay} />
         ) : widget === "checks" ? (
