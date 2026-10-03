@@ -37,7 +37,7 @@ export default function BlogHireForm({
     const serviceSlug = String(data.get("service") || "");
     data.set("service", services.find((s) => s.slug === serviceSlug)?.name.en ?? serviceSlug);
     const note = String(data.get("message") || "").trim();
-    data.set("message", `${note}${note ? "\n\n" : ""}(Sent from blog post: ${postTitle} – /blog/${postSlug})`);
+    data.set("message", `${note}${note ? "\n\n" : ""}(Sent from blog post: ${postTitle}, /blog/${postSlug})`);
     setStatus("sending");
     try {
       const res = await fetch("/.netlify/functions/submit-lead", { method: "POST", body: data });

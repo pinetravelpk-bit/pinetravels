@@ -63,7 +63,7 @@ og_image: /images/blog/1eea3397-0a33-4f28-ba4a-27d6cbfd881b.png
 
 *The right employee depends on the duties, experience, working hours, accommodation requirements, salary, and location.*
 
-## *RX DIRECT – Domestic Staff Provider in Pakistan*
+## *RX DIRECT: Domestic Staff Provider in Pakistan*
 
 *RX DIRECT provides domestic staffing and placement services for clients looking for household and support staff.*
 
@@ -209,7 +209,7 @@ og_image: /images/blog/1eea3397-0a33-4f28-ba4a-27d6cbfd881b.png
 
 *You can contact RX DIRECT to discuss your staffing requirement and available staff.*
 
-***RX DIRECT – Domestic Staffing Agency**
+***RX DIRECT: Domestic Staffing Agency**
 **Chandni Chowk, Al Bilal Plaza, 2nd Floor, Office No. 4, Rawalpindi***
 
 ## *Choose the Right Domestic Staff for Your Requirements*
@@ -220,7 +220,7 @@ og_image: /images/blog/1eea3397-0a33-4f28-ba4a-27d6cbfd881b.png
 
 *Visit RX DIRECT at **Al Bilal Plaza, Chandni Chowk, Rawalpindi**, and discuss your domestic staffing needs with our team.*
 
-### *RX DIRECT – Domestic Staffing Agency*
+### *RX DIRECT: Domestic Staffing Agency*
 
 ***Reliable Staff. Professional Placement.***
 

@@ -100,7 +100,7 @@ export function getServiceEntries(): SitemapEntry[] {
       lastmod: maxDate(SITE_UPDATED, newest(svcPosts), contentDate(`/services/${svc.slug}`)),
       changeFrequency: "weekly",
       priority: 0.8,
-      images: [{ loc: abs(svc.image), title: `${svc.name.en} – RX Direct` }],
+      images: [{ loc: abs(svc.image), title: `${svc.name.en} | RX Direct` }],
     });
     for (const c of cities) {
       const cityPosts = svcPosts.filter((p) => p.cities?.includes(c.slug));

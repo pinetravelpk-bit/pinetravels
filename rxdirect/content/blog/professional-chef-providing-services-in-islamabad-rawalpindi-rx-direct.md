@@ -1,5 +1,5 @@
 ---
-title: Professional Chef Providing Services in Islamabad & Rawalpindi – RX DIRECT
+title: Professional Chef Providing Services in Islamabad & Rawalpindi | RX DIRECT
 date: 2026-09-20
 author: RX Direct Team
 featured_image: /images/blog/file_00000000e0d081faa9b3f839e67ba05f.png
@@ -45,7 +45,7 @@ meta_description: Looking for a professional home chef in Islamabad or
   your household requirements.
 og_image: /images/blog/file_00000000e0d081faa9b3f839e67ba05f.png
 ---
-# *Professional Chef Providing Services in Islamabad & Rawalpindi – RX DIRECT*
+# *Professional Chef Providing Services in Islamabad & Rawalpindi | RX DIRECT*
 
 *Finding a professional, experienced, and reliable chef for your home can be difficult. A good chef is not only someone who can cook food; a professional home chef should understand hygiene, kitchen management, food preparation, taste, timing, and the specific requirements of a family.*
 
@@ -191,7 +191,7 @@ og_image: /images/blog/file_00000000e0d081faa9b3f839e67ba05f.png
 
 *Our focus is on providing professional domestic staffing solutions for families.*
 
-## *RX DIRECT – Domestic Staffing Agency*
+## *RX DIRECT: Domestic Staffing Agency*
 
 *RX DIRECT is a domestic staffing agency serving clients in **Islamabad and Rawalpindi**. We provide domestic staff for different household requirements, including chefs and other household staff.*
 
@@ -209,7 +209,7 @@ og_image: /images/blog/file_00000000e0d081faa9b3f839e67ba05f.png
 
 ### *Contact RX DIRECT*
 
-***RX DIRECT – Domestic Staffing Agency***
+***RX DIRECT: Domestic Staffing Agency***
 
 *Serving **Islamabad & Rawalpindi***
 

@@ -61,7 +61,7 @@ og_image: /images/blog/file_00000000e0d081faa9b3f839e67ba05f.png
 
 *The main advantage is that clients have a structured hiring process instead of depending completely on informal recommendations.*
 
-## *RX DIRECT – Domestic Staffing Agency in Pakistan*
+## *RX DIRECT: Domestic Staffing Agency in Pakistan*
 
 ***RX DIRECT** provides domestic staffing services for families and businesses across Pakistan.*
 
@@ -249,6 +249,6 @@ og_image: /images/blog/file_00000000e0d081faa9b3f839e67ba05f.png
 
 ### *Contact RX DIRECT*
 
-***RX DIRECT – Domestic Staffing Agency***
+***RX DIRECT: Domestic Staffing Agency***
 
 *Office No. 4, 2nd Floor, Al-Bilal Plaza, Chandni Chowk, Rawalpindi, Pakistan*

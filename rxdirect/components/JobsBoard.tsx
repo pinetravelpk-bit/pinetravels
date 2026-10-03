@@ -193,7 +193,7 @@ export default function JobsBoard() {
                   {(jobs ?? []).map((j) => (
                     <option key={j.id} value={j.id}>
                       {j.title}
-                      {j.city ? ` — ${j.city}` : ""}
+                      {j.city ? `, ${j.city}` : ""}
                     </option>
                   ))}
                 </select>
@@ -206,7 +206,7 @@ export default function JobsBoard() {
               </Field>
               <Field label={t("jobsBoard.role")}>
                 <select name="role" className={inputClass} defaultValue="">
-                  <option value="">—</option>
+                  <option value="">{locale === "ur" ? "منتخب کریں" : "Select"}</option>
                   {services.map((s) => (
                     <option key={s.slug} value={s.slug}>
                       {s.name[locale]}
@@ -216,7 +216,7 @@ export default function JobsBoard() {
               </Field>
               <Field label={t("jobsBoard.city")}>
                 <select name="city" className={inputClass} defaultValue="">
-                  <option value="">—</option>
+                  <option value="">{locale === "ur" ? "منتخب کریں" : "Select"}</option>
                   {cities.map((c) => (
                     <option key={c.slug} value={c.name.en}>
                       {c.name[locale]}

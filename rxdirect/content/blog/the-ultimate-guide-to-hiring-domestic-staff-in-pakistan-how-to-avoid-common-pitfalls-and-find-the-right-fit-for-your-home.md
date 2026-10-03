@@ -41,7 +41,7 @@ services:
   - couples
 meta_title: Cook, Drivers, Helpers & Cleaners Provider in Islamabad & Rawalpindi
 meta_description: "At RX Direct, we believe that safety isn't built on trust
-  alone—it is built on verification. Before any candidate joins our roster to be
+  alone. It is built on verification. Before any candidate joins our roster to be
   placed in your home, they undergo a rigorous screening process:"
 og_image: /images/blog/pexels-michael-burrows-7129378.jpg
 ---

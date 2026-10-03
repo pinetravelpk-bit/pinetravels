@@ -10,7 +10,7 @@ export const faqs: FAQ[] = [
       ur: "آر ایکس ڈائریکٹ کتنی جلدی عملہ فراہم کر سکتا ہے؟",
     },
     answer: {
-      en: "Most requests are matched with shortlisted, verified candidates within 24–48 hours, depending on the city and staff type requested.",
+      en: "Most requests are matched with shortlisted, verified candidates within 24 to 48 hours, depending on the city and staff type requested.",
       ur: "شہر اور درکار عملے کی قسم کے مطابق، زیادہ تر درخواستیں 24 سے 48 گھنٹوں کے اندر منتخب اور تصدیق شدہ امیدواروں سے ملا دی جاتی ہیں۔",
     },
   },

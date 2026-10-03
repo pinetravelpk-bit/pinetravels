@@ -61,7 +61,7 @@ og_image: /images/blog/img-20260730-wa0009.jpg
 
 *At RX DIRECT, clients can tell the agency what type of staff they require, their location, working hours and other requirements. Suitable candidates can then be shortlisted according to those requirements.*
 
-## *RX DIRECT – Domestic Staffing Agency in Pakistan*
+## *RX DIRECT: Domestic Staffing Agency in Pakistan*
 
 ***RX DIRECT** is a domestic staffing and placement company serving families and businesses in Pakistan.*
 
@@ -370,7 +370,7 @@ og_image: /images/blog/img-20260730-wa0009.jpg
 
 ## *Contact RX DIRECT*
 
-***RX DIRECT – Domestic Staffing Agency***
+***RX DIRECT: Domestic Staffing Agency***
 
 ***Office:** Office No. 4, 2nd Floor, Al-Bilal Plaza, Chandni Chowk, Rawalpindi, Pakistan*
 
@@ -380,4 +380,4 @@ og_image: /images/blog/img-20260730-wa0009.jpg
 
 *Whether you are a family looking for a reliable cook or driver, or a business searching for support staff, contact RX DIRECT and explain your requirements.*
 
-***RX DIRECT – Connecting families and businesses with domestic and support staff across Pakistan.***
+***RX DIRECT: Connecting families and businesses with domestic and support staff across Pakistan.***

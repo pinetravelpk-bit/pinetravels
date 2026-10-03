@@ -76,7 +76,7 @@ export const business = {
     certificateType: "Taxpayer Registration Certificate (NTN)",
     ntn: "J499217",
     registrationDate: "24 July 2026",
-    issuingAuthority: "Federal Board of Revenue (FBR), Government of Pakistan — RTO Rawalpindi",
+    issuingAuthority: "Federal Board of Revenue (FBR), Government of Pakistan, RTO Rawalpindi",
     law: "Section 181C of the Income Tax Ordinance, 2001",
     establishmentAddress: "2nd Floor, Al-Bilal Plaza, Chandni Chowk, Rawalpindi, Pakistan",
     certificateUrl: "/documents/fbr-registration-certificate.pdf",

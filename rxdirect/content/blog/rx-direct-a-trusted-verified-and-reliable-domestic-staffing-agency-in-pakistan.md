@@ -1,5 +1,5 @@
 ---
-title: RX DIRECT – A Trusted, Verified and Reliable Domestic Staffing Agency in
+title: RX DIRECT | A Trusted, Verified and Reliable Domestic Staffing Agency in
   Pakistan
 date: 2026-09-20
 author: RX Direct Team
@@ -39,19 +39,19 @@ services:
   - caretakers
   - couples
   - batman
-meta_title: RX DIRECT – Trusted & Verified Domestic Staffing Agency in Pakistan
+meta_title: RX DIRECT | Trusted & Verified Domestic Staffing Agency in Pakistan
 meta_description: RX DIRECT is a trusted and verified domestic staffing agency
   in Rawalpindi, providing reliable cooks, drivers, helpers, batmans and other
   domestic staff.
 og_image: /images/blog/img-20260730-wa0009.jpg
 ---
-# *RX DIRECT – A Trusted, Verified and Reliable Domestic Staffing Agency in Pakistan*
+# *RX DIRECT: A Trusted, Verified and Reliable Domestic Staffing Agency in Pakistan*
 
 *Finding trustworthy and reliable domestic staff for your home can be challenging. Families need people they can depend on for important household responsibilities such as cooking, driving, cleaning, helping with daily chores, and taking care of household needs.*
 
 ***RX DIRECT Domestic Staffing Agency** is providing domestic staffing services from **Chandni Chowk, Al Bilal Plaza, Rawalpindi**, and has been serving customers for approximately **10 years**. The agency focuses on connecting families and employers with experienced, verified, and reliable domestic staff according to their requirements.*
 
-## *RX DIRECT – Trusted Domestic Staffing Agency*
+## *RX DIRECT: Trusted Domestic Staffing Agency*
 
 *RX DIRECT has built its services around one important goal: helping families find suitable domestic staff with greater confidence.*
 
@@ -149,7 +149,7 @@ og_image: /images/blog/img-20260730-wa0009.jpg
 
 ### *Contact RX DIRECT*
 
-***RX DIRECT – Domestic Staffing Agency**
+***RX DIRECT: Domestic Staffing Agency**
 **Office:** Office No. 4, 2nd Floor, Al Bilal Plaza, Chandni Chowk, Rawalpindi*
 
 *For domestic staffing requirements, contact RX DIRECT and discuss the type of staff you are looking for.*

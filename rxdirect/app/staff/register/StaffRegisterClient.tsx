@@ -77,7 +77,7 @@ export default function StaffRegisterClient() {
               </Field>
               <Field label={t("staffReg.gender")}>
                 <select name="gender" defaultValue="" className={inputClass}>
-                  <option value="">—</option>
+                  <option value="">{locale === "ur" ? "منتخب کریں" : "Select"}</option>
                   <option value="male">{t("staffReg.male")}</option>
                   <option value="female">{t("staffReg.female")}</option>
                 </select>
@@ -88,7 +88,7 @@ export default function StaffRegisterClient() {
               <Field label={t("staffReg.city")} required>
                 <select name="city" required defaultValue="" className={inputClass}>
                   <option value="" disabled>
-                    —
+                    {locale === "ur" ? "منتخب کریں" : "Select"}
                   </option>
                   {cities.map((c) => (
                     <option key={c.slug} value={c.name.en}>
@@ -107,7 +107,7 @@ export default function StaffRegisterClient() {
               <Field label={t("staffReg.role")} required>
                 <select name="role" required defaultValue="" className={inputClass}>
                   <option value="" disabled>
-                    —
+                    {locale === "ur" ? "منتخب کریں" : "Select"}
                   </option>
                   {services.map((s) => (
                     <option key={s.slug} value={s.slug}>
@@ -124,7 +124,7 @@ export default function StaffRegisterClient() {
               </Field>
               <Field label={t("staffReg.availability")}>
                 <select name="availability" defaultValue="" className={inputClass}>
-                  <option value="">—</option>
+                  <option value="">{locale === "ur" ? "منتخب کریں" : "Select"}</option>
                   <option value="live-in">{t("staffReg.live-in")}</option>
                   <option value="live-out">{t("staffReg.live-out")}</option>
                   <option value="either">{t("staffReg.either")}</option>

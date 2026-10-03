@@ -195,7 +195,7 @@
     "formSuccessDesc": "Your request has been received. Our team will contact you shortly, or message us on WhatsApp for a faster response.",
     "contactInfoTitle": "Contact Information",
     "officeHours": "Office Hours",
-    "officeHoursValue": "Monday – Saturday, 9:00 AM – 8:00 PM"
+    "officeHoursValue": "Monday to Saturday, 9:00 AM to 8:00 PM"
   },
   "blogPage": {
     "title": "RX Direct Blog",
@@ -429,7 +429,7 @@
     "hiringTitle": "How hiring {service} works with RX Direct",
     "hiringTitleGeneric": "How hiring works with RX Direct",
     "inCity": "in {city}",
-    "typical": "Most requests are matched within 24–48 hours.",
+    "typical": "Most requests are matched within 24 to 48 hours.",
     "salaryTitle": "Typical starting salary",
     "perMonth": "PKR / month",
     "perJob": "Priced per job or visit",
