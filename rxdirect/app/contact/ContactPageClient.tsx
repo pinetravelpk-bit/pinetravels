@@ -20,6 +20,8 @@ export default function ContactPageClient() {
     setStatus("submitting");
     const form = e.currentTarget;
     const data = new FormData(form);
+    data.set("source", "Contact page");
+    data.set("sourceUrl", "/contact");
 
     try {
       const res = await fetch("/.netlify/functions/submit-lead", {

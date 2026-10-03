@@ -11,19 +11,25 @@ import { WhatsAppIcon } from "@/components/icons";
 const inputClass =
   "w-full rounded-lg border border-gray-300 bg-white px-3 py-2.5 text-sm text-gray-800 placeholder:text-gray-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-500/20";
 
-// Hire Staff form shown beside every blog post. It posts to the same lead
-// endpoint as the contact page, so requests appear under Leads in /admin,
-// with the post they came from noted in the message.
+// Hire Staff form, used beside every blog post and on /hire-staff. It posts to
+// the same lead endpoint as the contact page, so requests appear under Leads in
+// /admin, with the page they came from saved as the lead's source.
 export default function BlogHireForm({
   postSlug,
   postTitle,
   serviceSlugs = [],
   citySlugs = [],
+  source,
+  sourceUrl,
+  waMessage,
 }: {
-  postSlug: string;
-  postTitle: string;
+  postSlug?: string;
+  postTitle?: string;
   serviceSlugs?: string[];
   citySlugs?: string[];
+  source?: string;
+  sourceUrl?: string;
+  waMessage?: string;
 }) {
   const { t, locale } = useTranslation();
   const [status, setStatus] = useState<"idle" | "sending" | "done" | "error">("idle");
@@ -36,8 +42,8 @@ export default function BlogHireForm({
     const data = new FormData(formEl);
     const serviceSlug = String(data.get("service") || "");
     data.set("service", services.find((s) => s.slug === serviceSlug)?.name.en ?? serviceSlug);
-    const note = String(data.get("message") || "").trim();
-    data.set("message", `${note}${note ? "\n\n" : ""}(Sent from blog post: ${postTitle}, /blog/${postSlug})`);
+    data.set("source", source ?? (postTitle ? `Blog post: ${postTitle}` : "Website"));
+    data.set("sourceUrl", sourceUrl ?? (postSlug ? `/blog/${postSlug}` : ""));
     setStatus("sending");
     try {
       const res = await fetch("/.netlify/functions/submit-lead", { method: "POST", body: data });
@@ -121,7 +127,7 @@ export default function BlogHireForm({
         <p className="mb-3 text-center text-xs font-semibold uppercase tracking-wider text-gray-400">{t("blogForm.or")}</p>
         <div className="grid grid-cols-2 gap-2">
           <a
-            href={whatsappLink(`Hi RX Direct, I read "${postTitle}" and need staff.`)}
+            href={whatsappLink(waMessage ?? (postTitle ? `Hi RX Direct, I read "${postTitle}" and need staff.` : undefined))}
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-1.5 rounded-lg bg-[#25D366] px-3 py-2.5 text-sm font-semibold text-white hover:bg-[#1ebe5b]"

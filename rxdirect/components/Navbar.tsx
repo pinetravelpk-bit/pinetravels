@@ -25,11 +25,10 @@ import {
 import { serviceGroups } from "@/data/serviceGroups";
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
-import { business, telLink, whatsappLink } from "@/data/business";
+import { business, telLink } from "@/data/business";
 import { useTranslation } from "@/i18n/LanguageContext";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import Logo from "@/components/Logo";
-import { WhatsAppIcon } from "@/components/icons";
 import ServicesMegaMenu from "@/components/ServicesMegaMenu";
 import CitiesMegaMenu from "@/components/CitiesMegaMenu";
 import LinkMegaMenu, { type MegaColumn } from "@/components/LinkMegaMenu";
@@ -223,10 +222,10 @@ export default function Navbar() {
 
         <div className="hidden items-center gap-3 lg:flex">
           <LanguageSwitcher />
-          <a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className="btn-primary">
+          <Link href="/hire-staff" className="btn-primary">
             {t("redesign.hireStaff")}
             <ArrowRight className="h-4 w-4 rtl:rotate-180" />
-          </a>
+          </Link>
         </div>
 
         <div className="flex items-center gap-1 lg:hidden">
@@ -288,10 +287,10 @@ export default function Navbar() {
           </div>
           <div className="flex items-center justify-between gap-3 px-4 pt-4">
             <LanguageSwitcher />
-            <a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className="btn-primary flex-1">
-              <WhatsAppIcon className="h-4 w-4" />
+            <Link href="/hire-staff" className="btn-primary flex-1">
               {t("redesign.hireStaff")}
-            </a>
+              <ArrowRight className="h-4 w-4 rtl:rotate-180" />
+            </Link>
           </div>
         </div>
       )}

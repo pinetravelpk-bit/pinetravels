@@ -13,7 +13,7 @@
 //   GET  /api/team               team profiles      GET /api/files/public/:name  team photos
 // Admin (Authorization: Bearer <ADMIN_PASSWORD>):
 //   /api/admin/summary, /api/admin/staff[/:id], /api/admin/jobs[/:id],
-//   /api/admin/applications[/:id], /api/admin/team[/:id], /api/admin/files/:name
+//   /api/admin/applications[/:id], /api/admin/leads/:id, /api/admin/team[/:id], /api/admin/files/:name
 import http from "node:http";
 import { randomBytes, randomUUID, timingSafeEqual } from "node:crypto";
 import { createReadStream, existsSync, mkdirSync, readFileSync, renameSync, statSync, unlinkSync, writeFileSync } from "node:fs";
@@ -286,16 +286,22 @@ route("POST", /^\/\.netlify\/functions\/submit-lead$/, async (req, res) => {
   if (str(data, "company")) return json(res, 201, { ok: true }); // honeypot
   const lead = {
     id: randomUUID(),
+    ref: ref("RXL"),
     name: str(data, "name", 120),
     phone: str(data, "phone", 40),
+    email: str(data, "email", 160),
     city: str(data, "city", 80),
     service: str(data, "service", 80),
     message: str(data, "message", 2000),
+    source: str(data, "source", 120),
+    sourceUrl: str(data, "sourceUrl", 300),
+    status: "new",
+    notes: "",
     createdAt: now(),
   };
   if (!lead.name || !lead.phone) fail(400, "Missing name or phone");
   await update("leads.json", [], (leads) => leads.push(lead));
-  json(res, 201, { ok: true });
+  json(res, 201, { ok: true, ref: lead.ref });
 });
 route("GET", /^\/\.netlify\/functions\/manage-leads$/, async (req, res) => {
   requireAdmin(req);
@@ -491,7 +497,7 @@ route("GET", /^\/api\/admin\/summary$/, async (req, res) => {
   const comments = Object.values(load("comments.json", {})).flat();
   const count = (list, key) => list.reduce((acc, x) => ((acc[x[key]] = (acc[x[key]] || 0) + 1), acc), {});
   json(res, 200, {
-    leads: load("leads.json", []).length,
+    leads: (() => { const l = load("leads.json", []).map((x) => ({ ...x, status: x.status || "new" })); return { total: l.length, ...count(l, "status") }; })(),
     staff: { total: staff.length, ...count(staff, "status") },
     applications: { total: apps.length, ...count(apps, "status") },
     jobs: { total: jobs.length, ...count(jobs, "status") },
@@ -588,6 +594,22 @@ route("DELETE", /^\/api\/admin\/jobs\/([\w-]+)$/, async (req, res, { params }) =
     list.splice(i, 1);
   });
   json(res, 200, { ok: true });
+});
+
+// leads (stored by the public lead form; listed and deleted via manage-leads)
+const LEAD_STATUSES = ["new", "contacted", "in_progress", "shortlist_sent", "placed", "closed", "spam"];
+route("PATCH", /^\/api\/admin\/leads\/([\w-]+)$/, async (req, res, { params }) => {
+  requireAdmin(req);
+  const body = await parseBody(req);
+  const lead = await update("leads.json", [], (list) => {
+    const l = list.find((x) => x.id === params[0]);
+    if (!l) fail(404, "Not found");
+    if (LEAD_STATUSES.includes(body.status)) l.status = body.status;
+    if ("notes" in body) l.notes = str(body, "notes", 4000);
+    l.updatedAt = now();
+    return l;
+  });
+  json(res, 200, lead);
 });
 
 // applications

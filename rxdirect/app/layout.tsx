@@ -92,6 +92,8 @@ export default function RootLayout({
           <Navbar />
           <main>{children}</main>
           <Footer />
+          {/* keeps the footer clear of the phone bottom bar */}
+          <div className="h-[72px] lg:hidden" aria-hidden="true" />
           <StickyWhatsApp />
         </LanguageProvider>
       </body>

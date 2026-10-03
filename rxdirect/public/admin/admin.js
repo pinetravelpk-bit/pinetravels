@@ -77,6 +77,7 @@
       setCount("staffPending", (s.staff.pending || 0) + (s.staff.in_review || 0));
       setCount("appsNew", s.applications.new || 0);
       setCount("commentsPending", s.comments.pending || 0);
+      setCount("leadsNew", (s.leads && s.leads.new) || 0);
     }).catch(function () {});
   }
   function setCount(key, n) { var el = document.querySelector('[data-count="' + key + '"]'); if (el) el.textContent = n ? String(n) : ""; }
@@ -98,7 +99,7 @@
         ["staff", "Staff applications", s.staff.total, (s.staff.pending || 0) + " pending · " + (s.staff.in_review || 0) + " in review · " + (s.staff.verified || 0) + " verified"],
         ["applications", "Job applications", s.applications.total, (s.applications.new || 0) + " new · " + (s.applications.hired || 0) + " hired"],
         ["jobs", "Jobs", s.jobs.total, (s.jobs.open || 0) + " open · " + (s.jobs.closed || 0) + " closed"],
-        ["leads", "Contact leads", s.leads, "From the contact form"],
+        ["leads", "Leads", s.leads.total, (s.leads.new || 0) + " new · " + (s.leads.contacted || 0) + " contacted · " + (s.leads.placed || 0) + " placed"],
         ["team", "Team members", s.team, "Shown on /team"],
         ["comments", "Blog comments", s.comments.total, (s.comments.pending || 0) + " waiting for approval"],
       ];
@@ -302,16 +303,70 @@
   }
 
   // ---------- leads ----------
+  var LEAD_STATUS = { new: "New", contacted: "Contacted", in_progress: "In progress", shortlist_sent: "Shortlist sent", placed: "Placed", closed: "Closed", spam: "Spam" };
+  var leadFilter = { q: "", status: "" };
+  // Older leads have no status/source fields; blog leads kept the post in the message.
+  function normLead(l) {
+    l = Object.assign({}, l);
+    l.status = l.status || "new";
+    if (!l.source && l.message) {
+      var m = l.message.match(/\n*\(Sent from blog post: ([\s\S]*?)[,–\-]\s*(\/blog\/[^\s)]+)\)\s*$/);
+      if (m) { l.source = "Blog post: " + m[1].trim(); l.sourceUrl = m[2]; l.message = l.message.slice(0, m.index).trim(); }
+    }
+    if (!l.source) l.source = "Contact page";
+    return l;
+  }
+  function tel(phone) { return "tel:" + String(phone || "").replace(/[^\d+]/g, ""); }
   function leadsView() {
-    api("/.netlify/functions/manage-leads").then(function (leads) {
-      $("view").innerHTML = leads.length ? leads.map(function (l) {
-        return '<div class="card" style="margin-bottom:10px"><b>' + esc(l.name) + "</b> · " + esc(l.phone) + (l.city ? " · " + esc(l.city) : "") + (l.service ? " · " + esc(l.service) : "") +
-          '<br><span class="muted">' + when(l.createdAt) + "</span>" + (l.message ? '<p style="white-space:pre-wrap">' + esc(l.message) + "</p>" : "") +
-          '<div class="actions" style="margin-top:8px"><a class="btn sm success" target="_blank" rel="noopener" href="' + wa(l.phone) + '">WhatsApp</a><button class="btn sm danger" data-del="' + esc(l.id) + '">Delete</button></div></div>';
-      }).join("") : '<div class="empty">No contact-form leads yet.</div>';
-      $("view").querySelectorAll("[data-del]").forEach(function (b) {
-        b.onclick = function () { if (confirm("Delete this lead?")) api("/.netlify/functions/manage-leads", { method: "POST", json: { id: b.dataset.del } }).then(leadsView).catch(onError); };
-      });
+    api("/.netlify/functions/manage-leads").then(function (raw) {
+      var list = raw.map(normLead);
+      var counts = list.reduce(function (a, l) { a[l.status] = (a[l.status] || 0) + 1; return a; }, {});
+      $("view").innerHTML =
+        '<div class="tabs">' + [["", "All", list.length]].concat(Object.keys(LEAD_STATUS).map(function (k) { return [k, LEAD_STATUS[k], counts[k] || 0]; })).map(function (t) {
+          return '<button class="tab' + (leadFilter.status === t[0] ? " active" : "") + '" data-tab="' + t[0] + '">' + esc(t[1]) + " <b>" + t[2] + "</b></button>";
+        }).join("") + "</div>" +
+        '<div class="toolbar"><input id="lq" placeholder="Search name, phone, city, service, ref…" value="' + esc(leadFilter.q) + '"></div><div id="leads"></div>';
+      var draw = function () {
+        var q = leadFilter.q.toLowerCase();
+        var rows = list.filter(function (l) {
+          return (!leadFilter.status || l.status === leadFilter.status) &&
+            (!q || [l.name, l.phone, l.email, l.city, l.service, l.ref, l.source, l.message].join(" ").toLowerCase().indexOf(q) >= 0);
+        });
+        $("leads").innerHTML = rows.length ? rows.map(function (l) {
+          var src = l.sourceUrl ? '<a href="' + esc(l.sourceUrl) + '" target="_blank" rel="noopener">' + esc(l.source) + " ↗</a>" : esc(l.source);
+          return '<div class="lead card">' +
+            '<div class="lead-head"><div><b class="lead-name">' + esc(l.name) + "</b>" + (l.ref ? ' <span class="muted mono">' + esc(l.ref) + "</span>" : "") +
+              '<div class="muted">Received ' + when(l.createdAt) + (l.updatedAt ? " · updated " + when(l.updatedAt) : "") + "</div></div>" + badge(l.status, LEAD_STATUS) + "</div>" +
+            '<div class="lead-grid">' +
+              '<div class="f"><span>Phone</span><b dir="ltr">' + esc(l.phone) + "</b></div>" +
+              (l.email ? '<div class="f"><span>Email</span><b>' + esc(l.email) + "</b></div>" : "") +
+              '<div class="f"><span>Staff needed</span><b>' + esc(l.service || "Not specified") + "</b></div>" +
+              '<div class="f"><span>City</span><b>' + esc(l.city || "Not specified") + "</b></div>" +
+              '<div class="f wide"><span>Source</span><b>' + src + "</b></div>" +
+            "</div>" +
+            (l.message ? '<div class="lead-msg"><span>Message</span><p>' + esc(l.message) + "</p></div>" : "") +
+            '<div class="lead-actions"><select data-st="' + esc(l.id) + '">' + options(LEAD_STATUS, l.status) + "</select>" +
+              '<input data-notes="' + esc(l.id) + '" placeholder="Internal notes (e.g. called, sent 3 cooks)" value="' + esc(l.notes) + '">' +
+              '<button class="btn sm primary" data-save="' + esc(l.id) + '">Save</button>' +
+              '<a class="btn sm" href="' + tel(l.phone) + '">Call</a>' +
+              '<a class="btn sm success" target="_blank" rel="noopener" href="' + wa(l.phone) + '">WhatsApp</a>' +
+              '<button class="btn sm danger" data-del="' + esc(l.id) + '">Delete</button></div>' +
+          "</div>";
+        }).join("") : '<div class="empty">No leads' + (q || leadFilter.status ? " match this filter." : " yet.") + "</div>";
+        $("leads").querySelectorAll("[data-save]").forEach(function (b) {
+          b.onclick = function () {
+            var id = b.dataset.save;
+            api("/api/admin/leads/" + id, { method: "PATCH", json: { status: document.querySelector('[data-st="' + id + '"]').value, notes: document.querySelector('[data-notes="' + id + '"]').value } })
+              .then(function () { toast("Lead updated"); refreshCounts(); leadsView(); }).catch(onError);
+          };
+        });
+        $("leads").querySelectorAll("[data-del]").forEach(function (b) {
+          b.onclick = function () { if (confirm("Delete this lead?")) api("/.netlify/functions/manage-leads", { method: "POST", json: { id: b.dataset.del } }).then(function () { refreshCounts(); leadsView(); }).catch(onError); };
+        });
+      };
+      $("view").querySelectorAll("[data-tab]").forEach(function (b) { b.onclick = function () { leadFilter.status = b.dataset.tab; leadsView(); }; });
+      $("lq").oninput = function () { leadFilter.q = this.value; draw(); };
+      draw();
     }).catch(onError);
   }
 

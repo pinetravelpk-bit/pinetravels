@@ -78,6 +78,7 @@ export function getStaticPageEntries(): SitemapEntry[] {
     page("/contact", 0.8),
     page("/jobs", 0.8, "daily"),
     page("/staff/register", 0.7),
+    page("/hire-staff", 0.9),
     page("/staff/status", 0.5),
     page("/team", 0.6),
     page("/registration", 0.7),

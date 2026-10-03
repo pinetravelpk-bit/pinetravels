@@ -470,5 +470,22 @@
     "trust2": "CNIC, reference & interview checked",
     "trust3": "Free replacement within 6 months",
     "any": "Any / not sure"
+  },
+  "hirePage": {
+    "eyebrow": "Hire Staff",
+    "title": "Hire verified domestic staff",
+    "subtitle": "Fill in the form and our team will call you back, usually within a few hours, with a shortlist of checked candidates.",
+    "howTitle": "How it works",
+    "step1": "Send your request with the staff you need and your city.",
+    "step2": "We call you to understand your home, hours and budget.",
+    "step3": "You get a shortlist of CNIC, reference and interview checked candidates, usually in 24 to 48 hours.",
+    "step4": "Interview, run a trial, and confirm. No fee until you confirm.",
+    "whyTitle": "Why families choose RX Direct",
+    "why1": "SECP-registered company, office in Rawalpindi",
+    "why2": "Every candidate is CNIC, address and reference checked",
+    "why3": "Free replacement within 6 months",
+    "why4": "Staff in Islamabad, Rawalpindi, Lahore, Karachi and 4 more cities",
+    "officeTitle": "Visit or call us",
+    "hours": "Monday to Saturday, 9:00 AM to 8:00 PM"
   }
 }
