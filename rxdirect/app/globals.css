@@ -99,3 +99,57 @@ html[dir="rtl"] h6 {
 
 /* Headings jumped to from the guide shouldn't hide under the sticky header. */
 .prose-rxdirect h2[id] { scroll-margin-top: 140px; }
+
+/* ---------- home hero slider scenes (components/HeroScenes.tsx) ---------- */
+.hs-scene :is([class*="hs-"]) { transform-box: view-box; }
+.hs-pan-slow { animation: hs-pan 18s linear infinite; }
+.hs-pan-fast { animation: hs-pan 6s linear infinite; }
+.hs-road { animation: hs-road 0.6s linear infinite; }
+.hs-spin { animation: hs-spin 0.5s linear infinite; }
+.hs-bob { animation: hs-bob 0.5s ease-in-out infinite alternate; }
+.hs-speed { animation: hs-speed 0.7s ease-in-out infinite; }
+.hs-blink { animation: hs-blink 1.6s ease-in-out infinite; }
+.hs-pulse { animation: hs-pulse 3s ease-in-out infinite; transform-origin: 400px 70px; }
+.hs-flame { animation: hs-flame 0.35s ease-in-out infinite alternate; }
+.hs-steam { animation: hs-steam 2.2s ease-out infinite; opacity: 0; }
+.hs-stir { animation: hs-stir 1.4s ease-in-out infinite; }
+.hs-sway { animation: hs-sway 3s ease-in-out infinite; }
+.hs-breathe { animation: hs-breathe 3.2s ease-in-out infinite; }
+.hs-pat { animation: hs-pat 1.8s ease-in-out infinite; }
+.hs-ecg { stroke-dasharray: 240; animation: hs-ecg 2s linear infinite; }
+.hs-heart { animation: hs-heart 3.6s ease-out infinite; opacity: 0; }
+.hs-clock { animation: hs-spin 8s linear infinite; }
+.hs-leaf { animation: hs-sway 4s ease-in-out infinite; }
+.hs-type { animation: hs-type 1.6s ease-in-out infinite; }
+.hs-walk { animation: hs-walk 4s ease-in-out infinite alternate; }
+.hs-leg-a { animation: hs-leg 0.5s ease-in-out infinite alternate; }
+.hs-leg-b { animation: hs-leg 0.5s ease-in-out infinite alternate-reverse; }
+
+@keyframes hs-pan { to { transform: translateX(-480px); } }
+@keyframes hs-road { to { stroke-dashoffset: -60; } }
+@keyframes hs-spin { to { transform: rotate(360deg); } }
+@keyframes hs-bob { from { transform: translateY(0); } to { transform: translateY(-3px); } }
+@keyframes hs-speed { 0%, 100% { opacity: 0.2; transform: translateX(10px); } 50% { opacity: 1; transform: translateX(-8px); } }
+@keyframes hs-blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+@keyframes hs-pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.08); } }
+@keyframes hs-flame { from { transform: scaleY(0.82); } to { transform: scaleY(1.12); } }
+@keyframes hs-steam { 0% { opacity: 0; transform: translateY(8px); } 30% { opacity: 0.9; } 100% { opacity: 0; transform: translateY(-26px); } }
+@keyframes hs-stir { 0%, 100% { transform: rotate(-6deg); } 50% { transform: rotate(8deg); } }
+@keyframes hs-sway { 0%, 100% { transform: rotate(-1.2deg); } 50% { transform: rotate(1.2deg); } }
+@keyframes hs-breathe { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.015); } }
+@keyframes hs-pat { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(-4deg); } }
+@keyframes hs-ecg { from { stroke-dashoffset: 240; } to { stroke-dashoffset: 0; } }
+@keyframes hs-heart { 0% { opacity: 0; transform: translateY(20px) scale(0.6); } 25% { opacity: 1; } 100% { opacity: 0; transform: translateY(-60px) scale(1.1); } }
+@keyframes hs-type { 0% { transform: scaleX(0.15); } 60%, 100% { transform: scaleX(1); } }
+@keyframes hs-walk { from { transform: translateX(14px); } to { transform: translateX(-14px); } }
+@keyframes hs-leg { from { transform: rotate(-12deg); } to { transform: rotate(12deg); } }
+
+/* paused when the slide is not showing, and for people who prefer less motion */
+.hs-scene:not(.is-active) * { animation-play-state: paused !important; }
+@keyframes hs-caret { 50% { opacity: 0; } }
+.hs-caret { animation: hs-caret 0.9s steps(1) infinite; }
+@keyframes hs-progress { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@media (prefers-reduced-motion: reduce) {
+  .hs-scene *, .hs-caret { animation: none !important; }
+  .hs-steam, .hs-heart { opacity: 0.6; }
+}

@@ -487,5 +487,18 @@
     "why4": "Staff in Islamabad, Rawalpindi, Lahore, Karachi and 4 more cities",
     "officeTitle": "Visit or call us",
     "hours": "Monday to Saturday, 9:00 AM to 8:00 PM"
+  },
+  "heroSlider": {
+    "label": "Our staff at work",
+    "hire": "Hire now",
+    "typedPrefix": "Hire verified",
+    "driverTitle": "Professional drivers",
+    "driverText": "Licence checked, road tested, safe on city roads",
+    "cookTitle": "Experienced cooks",
+    "cookText": "Desi, continental and BBQ, cooked fresh at home",
+    "nurseTitle": "Caring home nurses",
+    "nurseText": "Qualified nurses for patients and elderly parents",
+    "officeBoyTitle": "Reliable office boys",
+    "officeBoyText": "Tea, errands, banking and a tidy office every day"
   }
 }

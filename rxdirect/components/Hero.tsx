@@ -1,7 +1,6 @@
 "use client";
 
-import { useState } from "react";
-import Image from "next/image";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { ArrowRight, MapPin, Phone, Users } from "lucide-react";
@@ -10,19 +9,48 @@ import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 import { WhatsAppIcon } from "@/components/icons";
 import { useTranslation } from "@/i18n/LanguageContext";
-import { heroImage } from "@/data/siteImages";
+import HeroSlider, { HERO_SLIDE_MS, heroSlides } from "@/components/HeroSlider";
 
-const collageSlugs = ["cooks", "nurses", "drivers", "office-boys"];
+// Types the role name letter by letter whenever the slide changes.
+function TypedRole({ text }: { text: string }) {
+  const [shown, setShown] = useState(text);
+  useEffect(() => {
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      setShown(text);
+      return;
+    }
+    setShown("");
+    let i = 0;
+    const id = window.setInterval(() => {
+      i += 1;
+      setShown(Array.from(text).slice(0, i).join(""));
+      if (i >= Array.from(text).length) window.clearInterval(id);
+    }, 70);
+    return () => window.clearInterval(id);
+  }, [text]);
+  return (
+    <span className="relative inline-block bg-gradient-to-r from-brand-600 to-sky-500 bg-clip-text text-transparent">
+      {shown || "\u00a0"}
+      <span className="hs-caret ml-0.5 inline-block h-[0.9em] w-[3px] translate-y-[0.1em] rounded bg-brand-600 align-baseline" aria-hidden="true" />
+    </span>
+  );
+}
 
 export default function Hero() {
   const { t, locale } = useTranslation();
   const router = useRouter();
   const [role, setRole] = useState("");
   const [city, setCity] = useState("");
+  const [slide, setSlide] = useState(0);
+  const [paused, setPaused] = useState(false);
 
-  const collage = collageSlugs
-    .map((slug) => services.find((s) => s.slug === slug))
-    .filter((s): s is NonNullable<typeof s> => Boolean(s));
+  useEffect(() => {
+    if (paused) return;
+    const id = window.setTimeout(() => setSlide((i) => (i + 1) % heroSlides.length), HERO_SLIDE_MS);
+    return () => window.clearTimeout(id);
+  }, [slide, paused]);
+
+  const slideService = services.find((s) => s.slug === heroSlides[slide].slug);
 
   // Every role+city pair already has its own page (/services/cooks/lahore),
   // so the search just routes to the most specific existing page.
@@ -43,6 +71,9 @@ export default function Hero() {
           <h1 className="mt-4 text-balance text-4xl font-extrabold leading-[1.08] tracking-tight rtl:leading-[1.7] text-navy sm:text-5xl lg:text-[3.4rem]">
             {t("home.heroTitle")}
           </h1>
+          <p className="mt-4 text-2xl font-extrabold text-navy sm:text-3xl" aria-live="polite">
+            {t("heroSlider.typedPrefix")} <TypedRole text={slideService?.name[locale] ?? ""} />
+          </p>
           <p className="mt-5 max-w-xl text-balance text-base text-gray-600 sm:text-lg rtl:leading-loose">
             {t("home.heroSubtitle")}
           </p>
@@ -64,32 +95,8 @@ export default function Hero() {
         </div>
 
         <div className="relative">
-          <div className="grid grid-cols-2 gap-3 sm:gap-4">
-            {collage.map((s, i) => (
-              <div
-                key={s.slug}
-                className={`relative overflow-hidden shadow-lg ${
-                  i === 0
-                    ? "h-44 rounded-[1.75rem] rounded-tl-[4rem] sm:h-56 lg:h-60"
-                    : i === 1
-                    ? "mt-8 h-44 rounded-[1.75rem] rounded-tr-[4rem] sm:h-56 lg:h-60"
-                    : i === 2
-                    ? "-mt-8 h-44 rounded-[1.75rem] rounded-bl-[4rem] sm:h-56 lg:h-60"
-                    : "h-44 rounded-[1.75rem] rounded-br-[4rem] sm:h-56 lg:h-60"
-                }`}
-              >
-                <Image
-                  src={i === 0 ? heroImage.src : s.image}
-                  alt={i === 0 ? heroImage.alt : s.imageAlt[locale]}
-                  fill
-                  priority={i < 2}
-                  sizes="(max-width: 1024px) 50vw, 300px"
-                  className="object-cover"
-                />
-              </div>
-            ))}
-          </div>
-          <div className="absolute -bottom-4 right-2 flex items-center gap-3 rounded-2xl bg-white px-4 py-3 shadow-xl sm:right-6 rtl:left-2 rtl:right-auto">
+          <HeroSlider index={slide} onSelect={setSlide} paused={paused} onPause={setPaused} />
+          <div className="absolute -top-4 right-2 hidden items-center gap-3 rounded-2xl bg-white px-4 py-3 shadow-xl sm:flex sm:right-6 rtl:left-2 rtl:right-auto">
             <span className="flex h-10 w-10 items-center justify-center rounded-full bg-navy text-white">
               <Users className="h-5 w-5" />
             </span>
