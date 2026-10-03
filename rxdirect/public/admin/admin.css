@@ -144,3 +144,4 @@ dl.info dd { margin: 0; font-weight: 600; word-break: break-word; }
 .b-placed { background: #dcfce7; color: var(--green); }
 .b-spam { background: #fee2e2; color: var(--red); }
 .lead .b-new { background: #dbeafe; color: var(--blue); }
+#lq { min-width: 320px; flex: 1; max-width: 520px; }
