@@ -92,7 +92,7 @@ In homes with a busy family and frequent guests, the maid may take instructions 
 
 ## Looking after an empty house
 
-Some Gujranwala homes stay closed for months while the whole family lives abroad. Dust settles, damp creeps into corners, pipes can leak unnoticed and the house quickly feels neglected. A maid on a regular schedule, perhaps two or three days a week, can keep the house aired, dusted and ready for the family's return. Usually this works best alongside a resident guard or as part of a [domestic couple](/services/couples/gujranwala), so someone is always on the property. Agree a simple checklist for each visit, and ask the maid or guard to send photos once a week. It gives families abroad confidence that their home is being looked after.
+Some Gujranwala homes stay closed for months while the whole family lives abroad. Dust settles, damp creeps into corners, pipes can leak unnoticed and the house quickly feels neglected. A maid on a regular schedule, perhaps two or three days a week, can keep the house aired, dusted and ready for the family's return. Usually this works best alongside a resident guard or as part of a [domestic couple](/services/couples/gujranwala), so someone is always on the property. Agree a simple checklist for each visit, covering windows, bathrooms, kitchen, roof drains and a quick look for leaks, and ask the maid or guard to send photos once a week. It gives families abroad confidence that their home is being looked after.
 
 ## Laundry and fine clothes
 
