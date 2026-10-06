@@ -1,0 +1,18 @@
+{
+  "_comment": "Blog post types, matched against the post slug in order (first match wins). Used by scripts/generate-blog-covers.mjs for the cover design and by components/BlogGuide.tsx for the animated guide. 'widget' picks the guide animation: hiring | salary | checks.",
+  "kinds": [
+    { "key": "become-verified", "match": "^become-verified", "label": { "en": "For Staff: Get Verified", "ur": "عملے کے لیے: تصدیق" }, "color": "#0ea5e9", "widget": "checks" },
+    { "key": "cost", "match": "^cost-", "label": { "en": "Salary & Cost Guide", "ur": "تنخواہ اور لاگت" }, "color": "#16a34a", "widget": "salary" },
+    { "key": "verify", "match": "^verify-", "label": { "en": "Verification Guide", "ur": "تصدیق کی رہنمائی" }, "color": "#0d9488", "widget": "checks" },
+    { "key": "red-flags", "match": "^red-flags-", "label": { "en": "Red Flags to Watch", "ur": "خطرے کی علامات" }, "color": "#dc2626", "widget": "checks" },
+    { "key": "interview", "match": "^interview-checklist-", "label": { "en": "Interview Checklist", "ur": "انٹرویو چیک لسٹ" }, "color": "#7c3aed", "widget": "checks" },
+    { "key": "first-30", "match": "^first-30-days-", "label": { "en": "The First 30 Days", "ur": "پہلے 30 دن" }, "color": "#ea580c", "widget": "hiring" },
+    { "key": "ramadan", "match": "^ramadan-", "label": { "en": "Ramadan Guide", "ur": "رمضان رہنمائی" }, "color": "#a16207", "widget": "hiring" },
+    { "key": "wedding", "match": "^wedding-season-", "label": { "en": "Wedding Season", "ur": "شادیوں کا موسم" }, "color": "#db2777", "widget": "hiring" },
+    { "key": "livein", "match": "^livein[-_]liveout", "label": { "en": "Live-in vs Live-out", "ur": "رہائش کے ساتھ یا بغیر" }, "color": "#4f46e5", "widget": "salary" },
+    { "key": "why-agency", "match": "^why-agency-", "label": { "en": "Why Hire Through an Agency", "ur": "ایجنسی کیوں" }, "color": "#0891b2", "widget": "checks" },
+    { "key": "hire", "match": "^(hire-|hiring-)", "label": { "en": "Hiring Guide", "ur": "ملازمت کی رہنمائی" }, "color": "#2563eb", "widget": "hiring" },
+    { "key": "service", "match": "-service-|^[a-z-]+-services?-|providing-services|-providers?-|staffing-services", "label": { "en": "Service Guide", "ur": "سروس رہنمائی" }, "color": "#1d4ed8", "widget": "hiring" },
+    { "key": "guide", "match": ".", "label": { "en": "Domestic Staffing Guide", "ur": "گھریلو عملہ رہنمائی" }, "color": "#1e40af", "widget": "hiring" }
+  ]
+}
