@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Lahore | Verified Home Cooks | RX Direct"
-description: "Hire a verified home cook in Lahore for DHA, Gulberg, Model Town, Johar Town and Bahria Town. Cooks tested on real Lahori food, from PKR 36,000 a month."
-answer: "To hire a cook in Lahore, send RX Direct your area, family size, the dishes your family eats and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within 24 to 48 hours. You hold a trial at home, and home cooks in Lahore usually start around PKR 36,000 a month."
+description: "Hire a verified home cook in Lahore for DHA, Gulberg, Model Town, Johar Town and Bahria Town. Cooks tested on real Lahori food before placement."
+answer: "To hire a cook in Lahore, send RX Direct your area, family size, the dishes your family eats and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within 24 to 48 hours. You hold a trial at home."
 updated: 2026-10-03
 faqs:
   - q: "How much does a cook cost in Lahore?"
-    a: "A live-out home cook in Lahore usually starts at PKR 36,000 a month for two meals. Cooks for large families, live-in cooks and cooks with continental or BBQ skills typically earn PKR 42,000 to 60,000, more in DHA and Gulberg."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can your cooks make traditional Lahori food?"
     a: "Yes. We test cooks on everyday Punjabi cooking and on the dishes your family loves, from nihari and paye to karahi, haleem and halwa puri."
   - q: "Which areas of Lahore do you cover for cooks?"
@@ -66,15 +66,9 @@ Our cook service in Lahore follows five steps:
 
 Shortlists and interviews are free. The placement fee applies once you confirm.
 
-## Cook salary in Lahore in 2026
+## Cook salary in Lahore: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time cook, one meal | 18,000 to 25,000 |
-| Live-out cook, two meals | 36,000 to 42,000 |
-| Live-out cook, three meals | 40,000 to 50,000 |
-| Live-in cook | 40,000 to 55,000 |
-| Senior cook, BBQ, continental or large family | 50,000 to 65,000 |
+Every household is different, so the salary for a cook in Lahore is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 DHA and Gulberg are at the higher end. Cooks commuting long distances to Raiwind Road or Bedian Road societies may ask for transport costs. Most cooks also expect an Eid bonus and a yearly increase. See our [Pricing page](/pricing).
 

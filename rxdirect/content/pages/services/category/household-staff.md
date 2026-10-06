@@ -1,13 +1,13 @@
 ---
 title: "Household Staff Agency Pakistan | Hire Verified Home Staff"
 description: "Household staff agency in Pakistan for cooks, maids, nannies, helpers, cleaners, gardeners and couples. Verified, full time or live in, shortlist in 48 hours."
-answer: "RX Direct is a household staff agency in Pakistan that places cooks, chefs, maids, helpers, cleaners, nannies, gardeners, domestic couples and personal attendants. Staff are CNIC, address and reference checked, available full time, part time or live in, with salaries starting from PKR 25,000 a month and a 6 month replacement guarantee."
+answer: "RX Direct is a household staff agency in Pakistan that places cooks, chefs, maids, helpers, cleaners, nannies, gardeners, domestic couples and personal attendants. Staff are CNIC, address and reference checked, available full time, part time or live in."
 updated: 2026-10-02
 faqs:
   - q: "Which roles count as household staff?"
     a: "Household staff are the people who run the inside and outside of a home: cooks, chefs, maids, helpers, cleaners, babysitters and nannies, gardeners, domestic couples and personal attendants."
   - q: "How much does full time household staff cost in Pakistan?"
-    a: "Full time helpers, cleaners and gardeners start around PKR 25,000 a month, cooks and personal attendants around PKR 35,000, maids and nannies around PKR 40,000, chefs around PKR 50,000 and domestic couples around PKR 60,000 combined."
+    a: "There is no single fixed figure. Pay for a domestic worker varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do you provide live in household staff?"
     a: "Yes. Cooks, maids, nannies, helpers, caretakers and domestic couples are all available live in. You provide a clean room, bathroom access, meals and a weekly day off."
   - q: "How long does it take to hire household staff?"
@@ -104,19 +104,7 @@ Female live-in workers often prefer homes where another woman is present. Many m
 
 ## Domestic household staff Pakistan: salary guide
 
-These are the starting salaries we see most often in 2026. Experience, city, hours and live-in arrangements push the figures up.
-
-| Role | Starting salary (PKR per month) | Common range |
-|---|---|---|
-| Helper | 25,000 | 25,000 to 35,000 |
-| Cleaner (full time) | 25,000 | 25,000 to 35,000 |
-| Gardener (full time) | 25,000 | 25,000 to 35,000 |
-| Cook | 35,000 | 35,000 to 60,000 |
-| Personal attendant | 35,000 | 35,000 to 50,000 |
-| Maid | 40,000 | 40,000 to 55,000 |
-| Nanny | 40,000 | 40,000 to 65,000 |
-| Chef | 50,000 | 50,000 to 100,000 |
-| Domestic couple (combined) | 60,000 | 60,000 to 95,000 |
+Every household is different, so the salary for a domestic worker is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Domestic household staff in Islamabad, Lahore and Karachi tend to earn at the higher end. Faisalabad, Multan, Gujranwala and Peshawar are often a little lower. See our [Pricing page](/pricing) for the full guide.
 

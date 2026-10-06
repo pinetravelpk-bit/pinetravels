@@ -1,11 +1,11 @@
 ---
 title: "Hire Personal Attendant in Faisalabad | Batman for Home"
 description: "Hire a verified personal attendant (batman) in Faisalabad for elderly parents, industrialists and retired officers in Madina Town and Canal Road."
-answer: "To hire a personal attendant in Faisalabad, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, usually within two to four days. Personal attendants in Faisalabad usually start around PKR 34,000 to 40,000 a month, and ex-army attendants are available."
+answer: "To hire a personal attendant in Faisalabad, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a personal attendant cost in Faisalabad?"
-    a: "A personal attendant in Faisalabad usually starts at PKR 34,000 to 40,000 a month in 2026. Live-in attendants, ex-army batmen and attendants who also drive typically earn PKR 38,000 to 52,000."
+    a: "There is no single fixed figure. Pay for a batman in Faisalabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "What does a batman for home do?"
     a: "A batman serves one person's daily needs: preparing clothes, polishing shoes, keeping their room in order, serving tea and meals, managing medicines on schedule, running personal errands and accompanying them when needed."
   - q: "Can an attendant accompany a business owner to the mill or office?"
@@ -49,14 +49,9 @@ An attendant sees a great deal of a person's private life, including business ma
 
 Our personal attendant service in Faisalabad follows five steps. First, tell us who the attendant will serve, their daily routine, the duties, hours and whether the attendant will live in. Second, we shortlist two or three verified attendants, usually within two to four days. Third, you interview them at home or by video. Fourth, a short trial so you can see how they work and present themselves. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Personal attendant salaries in Faisalabad in 2026
+## Personal attendant salaries in Faisalabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out personal attendant | 34,000 to 40,000 |
-| Live-in personal attendant | 37,000 to 46,000 |
-| Attendant for elderly with care needs | 39,000 to 48,000 |
-| Attendant who also drives | 41,000 to 52,000 |
+Every household is different, so the salary for a batman in Faisalabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Uniforms, meals and accommodation for live-in attendants are usually provided by the family. See our [Pricing page](/pricing).
 

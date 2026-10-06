@@ -1,11 +1,11 @@
 ---
 title: "Hire Office Boy in Multan | Verified Office Support Staff"
 description: "Hire a verified office boy in Multan for pantry, tea, errands, banking and filing in offices on Abdali Road, Nusrat Road, Bosan Road and the Cantt."
-answer: "To hire an office boy in Multan, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within two to three days. Office boys in Multan usually start around PKR 25,000 to 28,000 a month, plus a transport allowance for errands, with a 6 month replacement guarantee."
+answer: "To hire an office boy in Multan, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does an office boy cost in Multan?"
-    a: "An office boy in Multan usually starts at PKR 25,000 to 28,000 a month in 2026. Office boys with banking, courier or reception duties typically earn PKR 28,000 to 33,000, plus a transport allowance for errands."
+    a: "It depends on the office boy's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Multan."
   - q: "Do you provide office boys for clinics and hospitals in Multan?"
     a: "Yes. We place support staff for private clinics, labs and hospitals near Nishtar Road, Abdali Road and across the city."
   - q: "Can an office boy handle bank and courier errands in Multan?"
@@ -48,14 +48,9 @@ Office boys handle cash, cheques and confidential documents, so references are a
 
 Our office boy service in Multan follows five steps. You tell us your office location, working hours, team size, main duties and salary range. We shortlist verified office boys, usually within two to three days. You interview them at your office or by video. A short trial follows so you can see how they work with your team. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Office boy salary in Multan in 2026
+## Office boy salary in Multan: what affects it
 
-| Role | Typical monthly salary (PKR) |
-|---|---|
-| Office boy, small office | 25,000 to 28,000 |
-| Pantry boy, larger office | 26,000 to 29,000 |
-| Office boy with banking and courier duties | 28,000 to 33,000 |
-| Office boy with reception duties | 28,000 to 33,000 |
+We do not publish fixed salary figures, because the right pay for an office boy in Multan changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 A transport allowance or fuel for errands is usually paid on top. If the office boy uses their own motorcycle, agree a fixed monthly fuel amount. See our [Pricing page](/pricing).
 

@@ -16,7 +16,6 @@ import {
 import kindsData from "@/data/blogKinds.json";
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
-import { salaries } from "@/data/salaries";
 import { whatsappLink } from "@/data/business";
 import { useTranslation } from "@/i18n/LanguageContext";
 import { ServiceIcon, WhatsAppIcon } from "@/components/icons";
@@ -51,28 +50,6 @@ function usePlay<T extends Element>() {
     return () => io.disconnect();
   }, []);
   return { ref, run, replay: () => setRun((r) => r + 1) };
-}
-
-// Counts up to `to` once `run` becomes truthy.
-function useCountUp(to: number, run: number, ms = 1600) {
-  const [value, setValue] = useState(0);
-  useEffect(() => {
-    if (!run) return;
-    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-      setValue(to);
-      return;
-    }
-    let frame = 0;
-    const start = performance.now();
-    const tick = (now: number) => {
-      const p = Math.min(1, (now - start) / ms);
-      setValue(Math.round(to * (1 - Math.pow(1 - p, 3))));
-      if (p < 1) frame = requestAnimationFrame(tick);
-    };
-    frame = requestAnimationFrame(tick);
-    return () => cancelAnimationFrame(frame);
-  }, [to, run, ms]);
-  return value;
 }
 
 function Panel({ title, icon, accent, children, onReplay, replayLabel }: { title: string; icon: ReactNode; accent: string; children: ReactNode; onReplay?: () => void; replayLabel?: string }) {
@@ -137,51 +114,6 @@ function HiringWidget({ accent, serviceSlug, cityName, run, replay }: { accent: 
       <p className="guide-step mt-5 rounded-lg bg-brand-50 px-3 py-2 text-sm font-semibold text-brand-800" style={{ animationDelay: "1.9s" }}>
         {t("guide.typical")}
       </p>
-    </Panel>
-  );
-}
-
-function SalaryWidget({ accent, serviceSlugs, run, replay }: { accent: string; serviceSlugs: string[]; run: number; replay: () => void }) {
-  const { t, locale } = useTranslation();
-  const rows = serviceSlugs
-    .map((slug) => ({ slug, svc: services.find((s) => s.slug === slug), sal: salaries[slug] }))
-    .filter((r) => r.svc && r.sal)
-    .slice(0, 4);
-  const max = Math.max(...rows.map((r) => r.sal!.amount ?? 0), 1);
-  const main = rows[0];
-  const count = useCountUp(main?.sal?.amount ?? 0, run);
-  if (!main) return null;
-  return (
-    <Panel title={t("guide.salaryTitle")} accent={accent} icon={<ServiceIcon name={main.svc!.icon} className="h-5 w-5" />} onReplay={replay} replayLabel={t("guide.replay")}>
-      <div className="rounded-xl p-5 text-white" style={{ background: `linear-gradient(135deg, #0b1f4d, ${accent})` }}>
-        <p className="text-sm font-semibold opacity-90">{main.svc!.name[locale]}</p>
-        {main.sal!.amount ? (
-          <p className="mt-1 font-mono text-4xl font-extrabold tracking-tight" dir="ltr">
-            {count.toLocaleString("en-PK")} <span className="text-base font-semibold opacity-80">{t("guide.perMonth")}</span>
-          </p>
-        ) : (
-          <p className="mt-1 text-2xl font-extrabold">{t("guide.perJob")}</p>
-        )}
-      </div>
-      {rows.length > 1 && (
-        <div key={run} className="mt-5 space-y-3" data-run={run ? "1" : "0"}>
-          {rows.map((r, i) => (
-            <div key={r.slug}>
-              <div className="flex justify-between text-sm">
-                <span className="font-semibold text-navy">{r.svc!.name[locale]}</span>
-                <span className="font-mono text-gray-600" dir="ltr">{r.sal!.amount ? `PKR ${r.sal!.amount.toLocaleString("en-PK")}+` : t("guide.perJob")}</span>
-              </div>
-              <div className="mt-1 h-2.5 overflow-hidden rounded-full bg-gray-100">
-                <div
-                  className="guide-bar h-full rounded-full"
-                  style={{ width: `${Math.max(12, ((r.sal!.amount ?? max * 0.5) / max) * 100)}%`, background: accent, animationDelay: `${i * 0.2}s` }}
-                />
-              </div>
-            </div>
-          ))}
-        </div>
-      )}
-      <p className="mt-4 text-xs leading-relaxed text-gray-500">{t("guide.salaryNote")}</p>
     </Panel>
   );
 }
@@ -327,8 +259,8 @@ export default function BlogGuide({
   const { ref, run, replay } = usePlay<HTMLElement>();
   const service = serviceSlugs.find((s) => services.some((x) => x.slug === s));
   const cityName = cities.find((c) => citySlugs.includes(c.slug))?.name[locale];
-  const hasSalary = serviceSlugs.some((s) => salaries[s]);
-  const widget = kind.widget === "salary" && !hasSalary ? "hiring" : kind.widget;
+  // Salary figures are not shown on the site, so salary posts get the hiring widget.
+  const widget = kind.widget === "salary" ? "hiring" : kind.widget;
 
   return (
     <section ref={ref} className="blog-guide mt-8 rounded-3xl p-1" style={{ background: `linear-gradient(135deg, ${kind.color}22, #eff5ff)` }} aria-label={t("guide.title")}>
@@ -339,9 +271,7 @@ export default function BlogGuide({
         </span>
       </div>
       <div className={`grid gap-3 p-2 ${headings.length >= 2 ? "xl:grid-cols-2" : ""}`}>
-        {widget === "salary" ? (
-          <SalaryWidget accent={kind.color} serviceSlugs={serviceSlugs} run={run} replay={replay} />
-        ) : widget === "checks" ? (
+        {widget === "checks" ? (
           <ChecksWidget accent={kind.color} kindKey={kind.key} serviceSlug={service} run={run} replay={replay} />
         ) : (
           <HiringWidget accent={kind.color} serviceSlug={service} cityName={cityName} run={run} replay={replay} />

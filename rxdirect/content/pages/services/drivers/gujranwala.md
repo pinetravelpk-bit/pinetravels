@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Gujranwala | Verified Family Drivers | RX Direct"
 description: "Hire a verified family driver in Gujranwala. Licence checked, road tested personal drivers for DHA, Model Town and GT Road trips, for parents and businesses."
-answer: "To hire a driver in Gujranwala, tell RX Direct your area, car type, daily routes and hours, including any GT Road or motorway trips. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test, usually within two to three days. Family drivers in Gujranwala usually start around PKR 30,000 to 35,000 a month."
+answer: "To hire a driver in Gujranwala, tell RX Direct your area, car type, daily routes and hours, including any GT Road or motorway trips. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a family driver cost in Gujranwala?"
-    a: "A family driver in Gujranwala usually starts at PKR 30,000 to 35,000 a month in 2026. Drivers with long days, regular trips to Lahore or Sialkot airport, or company duty typically earn PKR 36,000 to 46,000, or receive agreed overtime."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can I hire a driver for my parents while I live abroad?"
     a: "Yes. Many overseas families hire drivers for parents in Gujranwala through us, with video interviews, a relative at the trial and updates after placement."
   - q: "Do your drivers know the GT Road and airport routes?"
@@ -48,14 +48,9 @@ Every verified driver in Gujranwala placed by RX Direct goes through:
 
 Our driver service in Gujranwala follows five steps. You share your area, car type, routes, hours, airport and out of city needs, and salary range. We send two or three verified drivers, usually within two to three days. You interview them, and family members abroad can join by video. The driver works a trial day or two on your real schedule. Then you confirm, and our 6 month replacement guarantee begins.
 
-## Driver salary in Gujranwala in 2026
+## Driver salary in Gujranwala: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 30,000 to 35,000 |
-| Family driver, long days or regular airport runs | 35,000 to 42,000 |
-| Live-in driver | 33,000 to 42,000 |
-| Company or executive driver | 36,000 to 46,000 |
+Every household is different, so the salary for a driver in Gujranwala is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Overtime for late nights and airport runs is usually paid separately. See our [Pricing page](/pricing).
 

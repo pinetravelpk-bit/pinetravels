@@ -1,11 +1,11 @@
 ---
 title: "Hire Chef in Rawalpindi | Private and Home Chefs | RX Direct"
 description: "Hire a verified private chef in Rawalpindi for Bahria Town, DHA, Cantt and Chaklala. Home chefs for dinners, events and officers' homes, tested in person."
-answer: "To hire a chef in Rawalpindi, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. Our Chandni Chowk office tests every chef in person and checks CNIC, address and references. Full-time private chefs in Rawalpindi usually start around PKR 50,000 a month, and event chefs are priced per occasion."
+answer: "To hire a chef in Rawalpindi, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. Our Chandni Chowk office tests every chef in person and checks CNIC, address and references."
 updated: 2026-10-03
 faqs:
   - q: "How much does a private chef cost in Rawalpindi?"
-    a: "A full-time private chef in Rawalpindi usually starts around PKR 50,000 a month. Chefs with hotel, mess or multi-cuisine experience typically earn PKR 65,000 to 100,000."
+    a: "It depends on the chef's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Rawalpindi."
   - q: "Do you have chefs for military and officers' homes?"
     a: "Yes. Many of our Rawalpindi chefs have cooked in officers' messes, senior officers' homes or hotels, and understand formal dinners and punctual service."
   - q: "Can I hire a chef for a single event in Rawalpindi?"
@@ -63,14 +63,9 @@ As a chef provider in Rawalpindi, we follow four steps:
 3. **Tasting trial.** The chef cooks a meal in your kitchen.
 4. **Placement.** Confirm, with our 6 month replacement guarantee for full-time placements.
 
-## Home chef Rawalpindi: salary guide for 2026
+## Home chef Rawalpindi: salary and terms
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home chef, Pakistani and continental | 50,000 to 65,000 |
-| Chef with hotel or mess background | 65,000 to 90,000 |
-| Senior chef, several cuisines and kitchen management | 90,000 and above |
-| Event chef | Priced per event |
+Every household is different, so the salary for a chef in Rawalpindi is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 See our [Pricing page](/pricing) for more.
 

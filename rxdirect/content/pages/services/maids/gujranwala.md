@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Gujranwala | Verified House Maids | RX Direct"
 description: "Hire a verified house maid in Gujranwala for DHA, Model Town, Satellite Town and Citi Housing. Home maids for families and parents whose children live abroad."
-answer: "To hire a maid in Gujranwala, tell RX Direct your area, house size, household, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within two to three days, and you hold a trial at home. Full-time house maids in Gujranwala usually start around PKR 35,000 to 40,000 a month."
+answer: "To hire a maid in Gujranwala, tell RX Direct your area, house size, household, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within two to three days, and you hold a trial at home."
 updated: 2026-10-03
 faqs:
   - q: "What is a maid's salary in Gujranwala?"
-    a: "A full-time house maid in Gujranwala usually earns PKR 35,000 to 40,000 a month in 2026, more for live-in maids in large houses or maids with cooking or caring duties. Part-time maids usually earn PKR 14,000 to 20,000."
+    a: "It depends on the maid's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Gujranwala."
   - q: "Can I hire a maid for my parents in Gujranwala while I live abroad?"
     a: "Yes. Many overseas families hire maids for parents in Gujranwala through us, with video interviews, a relative at the trial and updates after placement."
   - q: "Which areas of Gujranwala do you cover for maids?"
@@ -49,14 +49,9 @@ Every verified maid in Gujranwala placed by RX Direct goes through:
 
 Our maid service in Gujranwala follows five steps. You share your area, house size, household, duties, hours, arrangement and salary range. We send two or three verified maids, usually within two to three days. You interview them, and family members abroad can join by video. Your chosen maid works a trial day, ideally with a relative present if parents live alone. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Maid salary in Gujranwala in 2026
+## Maid salary in Gujranwala: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 14,000 to 20,000 |
-| Full-time live-out maid | 35,000 to 40,000 |
-| Full-time live-in maid | 35,000 to 44,000 |
-| Maid with cooking or caring duties | 40,000 to 48,000 |
+Every household is different, so the salary for a maid in Gujranwala is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 See our [Pricing page](/pricing).
 

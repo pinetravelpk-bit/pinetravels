@@ -1,11 +1,11 @@
 ---
 title: "Hire Chef in Islamabad | Private and Home Chefs | RX Direct"
 description: "Hire a verified private chef in Islamabad for diplomatic homes, dinner parties and fine home dining. Skill tested home chefs for F-6, F-7, E-7, DHA and Bahria."
-answer: "To hire a chef in Islamabad, tell RX Direct your sector, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, embassy or large household experience who have passed a practical cooking test. Full-time private chefs in Islamabad usually start around PKR 55,000 a month."
+answer: "To hire a chef in Islamabad, tell RX Direct your sector, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, embassy or large household experience who have passed a practical cooking test."
 updated: 2026-10-03
 faqs:
   - q: "How much does a private chef cost in Islamabad?"
-    a: "A full-time private chef in Islamabad usually starts around PKR 55,000 a month. Chefs with five star hotel, embassy or multi-cuisine experience typically earn PKR 75,000 to 120,000 or more."
+    a: "It depends on the chef's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Islamabad."
   - q: "Do you have chefs for diplomatic and expat homes in Islamabad?"
     a: "Yes. We place chefs comfortable with continental, Mediterranean, Thai, Chinese and Middle Eastern cuisines, formal plated service and international guests."
   - q: "Can I hire a chef for one dinner party in Islamabad?"
@@ -69,14 +69,9 @@ As a chef provider in Islamabad, our process focuses on standards:
 3. **Tasting trial.** Your chosen chef cooks a trial meal in your kitchen, often planned as a small dinner.
 4. **Placement.** Confirm, with our 6 month replacement guarantee for full-time placements.
 
-## Home chef Islamabad: salary guide for 2026
+## Home chef Islamabad: salary and terms
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home chef, Pakistani and continental | 55,000 to 75,000 |
-| Chef with hotel or embassy background | 75,000 to 110,000 |
-| Senior chef, several cuisines, kitchen management | 110,000 and above |
-| Event chef | Priced per event by menu and guest numbers |
+Every household is different, so the salary for a chef in Islamabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 A home chef in Islamabad earns more than in most cities because of demand from diplomatic and senior households. Live-in chefs receive meals and accommodation. See our [Pricing page](/pricing).
 

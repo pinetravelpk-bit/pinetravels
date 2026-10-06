@@ -1,11 +1,11 @@
 ---
 title: "Hire Security Guard in Lahore | Verified Home Guards"
 description: "Hire a verified security guard in Lahore for homes, offices and shops in DHA, Gulberg, Model Town, Johar Town and Bahria Town. Police certificate checked."
-answer: "To hire a security guard in Lahore, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds, usually within 24 to 72 hours. Residential guards in Lahore usually start around PKR 26,000 to 31,000 a month for a 12 hour shift."
+answer: "To hire a security guard in Lahore, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds, usually within 24 to 72 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a security guard cost in Lahore?"
-    a: "A residential security guard in Lahore usually starts at PKR 26,000 to 31,000 a month for a 12 hour shift in 2026. Night guards and ex-army guards typically earn PKR 29,000 to 40,000. Round the clock cover needs two guards."
+    a: "There is no single fixed figure. Pay for a security guard in Lahore varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do your guards in Lahore have police certificates?"
     a: "Yes. A police character certificate is required for every guard we place, along with CNIC, address and reference checks, and the service record for ex-forces guards."
   - q: "Do I need to register my guard with Punjab Police?"
@@ -50,14 +50,9 @@ We also brief every guard before placement on visitor logs, ID checks, emergency
 
 Our security guard service in Lahore follows five steps. First, we assess your needs: premises type, size, number of gates, shift timings and any specific concerns. Second, we recommend how many guards and which shifts make sense. Third, we shortlist verified guards, usually within 24 to 72 hours. Fourth, you interview them in person or by video and start with a trial shift. Fifth, you confirm, and the 6 month replacement guarantee begins. Relief guards can be arranged for days off and leave.
 
-## Security guard salary in Lahore in 2026
+## Security guard salary in Lahore: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day guard, 12 hour shift | 26,000 to 32,000 |
-| Night guard, 12 hour shift | 29,000 to 35,000 |
-| Ex-army or ex-FC guard | 31,000 to 40,000 |
-| Supervisor for a team of guards | 42,000 and above |
+Pay for a security guard in Lahore is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Salaries are paid directly by the client. Uniforms, a torch, a whistle, a raincoat, winter clothing and a basic shelter at the gate are usually provided by the client. See our [Pricing page](/pricing) for more.
 

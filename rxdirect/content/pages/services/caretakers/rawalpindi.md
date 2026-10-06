@@ -1,11 +1,11 @@
 ---
 title: "Hire Caretaker in Rawalpindi | Elderly and Patient Caretakers"
 description: "Hire a verified elderly or patient caretaker in Rawalpindi for senior parents, stroke and dementia care in Bahria Town, DHA, Askari and Satellite Town."
-answer: "To hire a caretaker in Rawalpindi, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. Our Chandni Chowk office interviews every caretaker in person and checks CNIC, address and references. Most families get a shortlist within two to three days. Day shift caretakers in Rawalpindi usually start around PKR 30,000 to 36,000 a month, and live-in caretakers earn more."
+answer: "To hire a caretaker in Rawalpindi, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. Our Chandni Chowk office interviews every caretaker in person and checks CNIC, address and references. Most families get a shortlist within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a caretaker cost in Rawalpindi?"
-    a: "A day shift caretaker in Rawalpindi usually starts at PKR 30,000 to 36,000 a month in 2026. Live-in caretakers typically earn PKR 35,000 to 45,000, and caretakers for dementia or limited mobility earn PKR 40,000 to 50,000."
+    a: "It depends on the caretaker's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Rawalpindi."
   - q: "Can I meet the caretaker at your office in Rawalpindi?"
     a: "Yes. Many Rawalpindi families meet shortlisted caretakers at our Al-Bilal Plaza office in Chandni Chowk before a trial at home."
   - q: "Do you place caretakers for retired officers and veterans?"
@@ -49,14 +49,9 @@ We ask references very specific questions: How did the caretaker treat your pare
 
 Our caretaker service in Rawalpindi follows five steps. First, tell us about the person: age, health conditions, mobility, memory, daily routine and the help needed, plus hours and whether the caretaker will live in. Second, we shortlist two or three verified caretakers with matching experience, usually within two to three days. Third, you meet them at home or at our office, and family members abroad can join by video. Fourth, a trial day or two with a family member present. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Caretaker salary in Rawalpindi in 2026
+## Caretaker salary in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day shift caretaker | 30,000 to 38,000 |
-| Live-in caretaker | 35,000 to 45,000 |
-| Caretaker for dementia or limited mobility | 40,000 to 50,000 |
-| Night caretaker | 32,000 to 42,000 |
+Every household is different, so the salary for a caretaker in Rawalpindi is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Round the clock care usually needs a live-in caretaker with relief cover, or two caretakers on alternating shifts. See our [Pricing page](/pricing).
 

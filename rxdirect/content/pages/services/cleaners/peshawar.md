@@ -1,11 +1,11 @@
 ---
 title: "Hire Cleaner in Peshawar | Verified House Cleaners | RX Direct"
 description: "Hire a verified home cleaner in Peshawar for daily, weekly or deep cleaning in Hayatabad, University Town, DHA Peshawar, Cantt and offices across the city."
-answer: "To hire a cleaner in Peshawar, tell RX Direct your area, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist cleaners whose CNIC, address and references have been carefully checked, usually within two to three days. Full-time home cleaners in Peshawar usually start around PKR 25,000 to 28,000 a month, and deep cleans are quoted by size."
+answer: "To hire a cleaner in Peshawar, tell RX Direct your area, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist cleaners whose CNIC, address and references have been carefully checked, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a house cleaner cost in Peshawar?"
-    a: "A full-time cleaner in Peshawar usually starts at PKR 25,000 to 28,000 a month in 2026. Part-time cleaners cost less, and one-time deep cleans are quoted by property size and condition."
+    a: "There is no single fixed figure. Pay for a cleaner in Peshawar varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I hire a female cleaner in Peshawar?"
     a: "Yes. Many Peshawar families prefer female cleaners for the inside of the house, especially where women are at home during the day. Mention this in your brief."
   - q: "Can a cleaner also clean the hujra?"
@@ -52,14 +52,9 @@ Our cleaner service in Peshawar offers four arrangements. **Daily cleaners** com
 
 As a cleaner provider in Peshawar, we keep the process simple. You tell us your area, property type and size, whether you prefer a male or female cleaner, frequency, hours and budget. We shortlist verified cleaners, usually within two to three days. The cleaner does a trial session so you can see the standard. Then you confirm, and the 6 month replacement guarantee applies to regular placements. For deep cleans, we confirm scope and price, schedule the team, and you pay after the job is done.
 
-## Cleaner salaries and prices in Peshawar in 2026
+## Cleaner salaries and prices in Peshawar: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time daily cleaner | 25,000 to 32,000 per month |
-| Part-time, 3 days a week | 12,000 to 18,000 per month |
-| Part-time, 2 hours daily | 10,000 to 15,000 per month |
-| One-time deep clean | Quoted by size and condition |
+The salary for a cleaner in Peshawar depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing).
 

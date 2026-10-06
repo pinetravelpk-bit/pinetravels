@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Gujranwala | Verified Home Cooks | RX Direct"
 description: "Hire a verified home cook in Gujranwala for DHA, Model Town, Satellite Town and Citi Housing. Cooks tested on Punjabi food, for families and parents at home."
-answer: "To hire a cook in Gujranwala, send RX Direct your area, family size, meals needed and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days. Home cooks in Gujranwala usually start around PKR 30,000 to 35,000 a month, and overseas families can manage the hire remotely."
+answer: "To hire a cook in Gujranwala, send RX Direct your area, family size, meals needed and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a cook cost in Gujranwala?"
-    a: "A live-out home cook in Gujranwala usually starts at PKR 30,000 to 35,000 a month. Live-in cooks and cooks for large families typically earn PKR 36,000 to 48,000."
+    a: "There is no single fixed figure. Pay for a cook in Gujranwala varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I hire a cook for my parents in Gujranwala while I live abroad?"
     a: "Yes. Many overseas families hire cooks for parents in Gujranwala through us, with video interviews, a relative at the trial and updates after placement."
   - q: "Which areas of Gujranwala do you cover for cooks?"
@@ -62,15 +62,9 @@ Our cook service in Gujranwala follows five steps:
 4. **Trial.** The cook prepares the family's normal meals at home.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Cook salary in Gujranwala in 2026
+## Cook salary in Gujranwala: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time cook, one meal | 15,000 to 20,000 |
-| Live-out cook, two meals | 30,000 to 35,000 |
-| Live-out cook, three meals | 33,000 to 40,000 |
-| Live-in cook | 35,000 to 45,000 |
-| Senior cook, large family or events | 40,000 to 50,000 |
+Pay for a cook in Gujranwala is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 See our [Pricing page](/pricing) for more.
 

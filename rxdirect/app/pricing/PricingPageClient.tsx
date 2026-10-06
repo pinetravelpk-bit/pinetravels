@@ -1,40 +1,11 @@
 "use client";
 
 import type { ReactNode } from "react";
-import Link from "next/link";
 import { CheckCircle2 } from "lucide-react";
 import { useTranslation } from "@/i18n/LanguageContext";
 import SectionHeading from "@/components/SectionHeading";
 import CTABanner from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
-import { services } from "@/data/services";
-import { getSalaryForService } from "@/data/salaries";
-
-const salaryTableSlugs = [
-  "batman",
-  "cooks",
-  "chefs",
-  "maids",
-  "helpers",
-  "couples",
-  "drivers",
-  "cleaners",
-  "security-guards",
-  "office-boys",
-  "babysitters-nannies",
-  "gardeners",
-  "nurses",
-  "caretakers",
-];
-
-const salaryRows = salaryTableSlugs
-  .map((slug) => {
-    const service = services.find((s) => s.slug === slug);
-    const salary = getSalaryForService(slug);
-    if (!service || !salary) return null;
-    return { service, salary };
-  })
-  .filter((row): row is { service: (typeof services)[number]; salary: NonNullable<ReturnType<typeof getSalaryForService>> } => row !== null);
 
 const factors = {
   en: [
@@ -117,54 +88,6 @@ export default function PricingPageClient({ article }: { article?: ReactNode } =
             ))}
           </ul>
         </div>
-
-        <h2 className="mt-10 text-lg font-bold text-gray-900">{t("pricingPage.salaryTableTitle")}</h2>
-        <p className="mt-3 leading-relaxed text-gray-600">{t("pricingPage.salaryTableSubtitle")}</p>
-        <div className="mt-6 overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-sm">
-          <table className="w-full text-left text-sm">
-            <thead className="bg-gray-50 text-xs font-semibold uppercase tracking-wide text-gray-500">
-              <tr>
-                <th className="px-5 py-3">{t("pricingPage.tableColStaff")}</th>
-                <th className="px-5 py-3">{t("pricingPage.tableColSalary")}</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-gray-100">
-              {salaryRows.map(({ service, salary }) => (
-                <tr key={service.slug}>
-                  <td className="px-5 py-3">
-                    <Link href={`/services/${service.slug}`} className="font-semibold text-gray-900 hover:text-brand-600">
-                      {service.name[locale]}
-                    </Link>
-                  </td>
-                  <td className="px-5 py-3 text-gray-700">
-                    {salary.amount
-                      ? `PKR ${salary.amount.toLocaleString("en-US")}/${locale === "ur" ? "ماہ" : "mo"}`
-                      : locale === "ur"
-                        ? "فی کام قیمت"
-                        : "Priced per job"}
-                  </td>
-                </tr>
-              ))}
-              {["electricians", "plumbers", "carpenters", "painters"].map((slug) => {
-                const service = services.find((s) => s.slug === slug);
-                if (!service) return null;
-                return (
-                  <tr key={slug}>
-                    <td className="px-5 py-3">
-                      <Link href={`/services/${slug}`} className="font-semibold text-gray-900 hover:text-brand-600">
-                        {service.name[locale]}
-                      </Link>
-                    </td>
-                    <td className="px-5 py-3 text-gray-700">
-                      {locale === "ur" ? "فی کام قیمت" : "Priced per job"}
-                    </td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
-        </div>
-        <p className="mt-3 text-xs text-gray-500">{t("pricingPage.salaryTableNote")}</p>
 
         <p className="mt-8 leading-relaxed text-gray-600">{t("pricingPage.noHidden")}</p>
 

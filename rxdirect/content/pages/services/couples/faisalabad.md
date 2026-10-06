@@ -1,11 +1,11 @@
 ---
 title: "Hire Domestic Couple in Faisalabad | Husband Wife Staff"
 description: "Hire a verified domestic couple in Faisalabad: husband and wife staff for large homes in Madina Town, Peoples Colony and Canal Road, and farmhouses."
-answer: "To hire a domestic couple in Faisalabad, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days. Live-in domestic couples in Faisalabad usually start around PKR 58,000 to 68,000 a month combined."
+answer: "To hire a domestic couple in Faisalabad, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a domestic couple cost in Faisalabad?"
-    a: "Live-in domestic couples in Faisalabad usually start at PKR 58,000 to 68,000 a month combined in 2026. Couples with skilled roles such as cooking and driving typically earn PKR 68,000 to 90,000 together, plus accommodation."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you place couples for farmhouses near Faisalabad?"
     a: "Yes. Couples suit farmhouses along Canal Road, Jhang Road, Sargodha Road and Satiana Road, usually with the wife handling the house and the husband the gate, garden and livestock."
   - q: "What accommodation does a live-in couple need?"
@@ -58,14 +58,9 @@ Interviewing each partner separately helps us understand whether both are genuin
 
 Our domestic couple service in Faisalabad follows five steps. First, you tell us about the property, the duties for each partner, the accommodation available, whether children can live on site and your budget. Second, we shortlist verified couples, usually within three to five days. Third, you interview both partners at the property or by video. Fourth, a short trial, during which the couple moves into the quarter. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Domestic couple salaries in Faisalabad in 2026
+## Domestic couple salaries in Faisalabad: what affects it
 
-| Arrangement | Typical combined monthly salary (PKR) |
-|---|---|
-| Maid and helper or gardener | 58,000 to 68,000 |
-| Cook and driver | 68,000 to 86,000 |
-| Housekeeper and guard for farmhouse | 62,000 to 82,000 |
-| Senior couple, large household | 82,000 to 90,000 and above |
+Every household is different, so the salary for a domestic couple in Faisalabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Accommodation, utilities and meals are usually provided. Some families pay each partner separately, others pay a combined salary. Agree this clearly. See our [Pricing page](/pricing).
 

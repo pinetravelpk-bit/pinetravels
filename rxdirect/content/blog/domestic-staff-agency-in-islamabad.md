@@ -106,7 +106,7 @@ Write down what goes well and what does not. If something small bothers you, men
 
 There are two separate costs when you hire through an agency.
 
-**The salary**, which you pay directly to the worker every month. In 2026, salaries in Islamabad start around PKR 25,000 for helpers and cleaners, PKR 35,000 for cooks and drivers, PKR 40,000 for maids and nannies and PKR 60,000 for qualified home nurses, with experienced and live-in staff earning more. Our [pricing page](/pricing) has the full table.
+**The salary**, which you pay directly to the worker every month. Our [pricing page](/pricing) has the full table.
 
 **The placement fee**, which you pay to the agency once you confirm a candidate. At RX Direct, sharing your requirement and receiving a shortlist is free, the fee is shared with you before you meet anyone, and it is only charged after you confirm. We never take any part of the worker's salary and never charge workers to be placed.
 

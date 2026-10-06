@@ -1,11 +1,11 @@
 ---
 title: "Hire Nanny in Peshawar | Verified Nannies and Babysitters"
 description: "Hire a verified nanny or babysitter in Peshawar for newborns, toddlers and school children in Hayatabad, University Town, DHA and the Cantt. Day or live-in."
-answer: "To hire a nanny in Peshawar, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist Pashto and Urdu speaking nannies whose CNIC, address and childcare references have been carefully checked, usually within three to five days. Full-time nannies in Peshawar usually start around PKR 38,000 to 44,000 a month."
+answer: "To hire a nanny in Peshawar, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist Pashto and Urdu speaking nannies whose CNIC, address and childcare references have been carefully checked, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a nanny cost in Peshawar?"
-    a: "A full-time day nanny in Peshawar usually starts at PKR 38,000 to 44,000 a month in 2026. Newborn nannies and live-in nannies typically earn PKR 45,000 to 58,000. Babysitters for occasional hours are paid per visit."
+    a: "It depends on the nanny's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Peshawar."
   - q: "Do your nannies in Peshawar speak Pashto?"
     a: "Most nannies we place in Peshawar speak Pashto and Urdu, and some also speak Hindko. If you want your children to hear a particular language, mention it in your brief."
   - q: "Do you have nannies with newborn experience in Peshawar?"
@@ -53,15 +53,9 @@ We ask references very specific questions: How did the children react to her? Di
 
 Our nanny service in Peshawar follows five careful steps. First, your brief: children's ages, routines, hours, live-in or day, special needs and preferences such as language. Second, a shortlist of two or three verified nannies with relevant experience, usually within three to five days. Third, interviews, ideally with the mother and child present for part of the meeting. Fourth, a trial at home with a parent present. Fifth, placement, with our 6 month replacement guarantee.
 
-## Nanny salary in Peshawar in 2026
+## Nanny salary in Peshawar: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day nanny, toddler or school child | 38,000 to 45,000 |
-| Newborn nanny | 45,000 to 55,000 |
-| Live-in nanny | 43,000 to 55,000 |
-| Nanny for twins or night duty | 50,000 to 58,000 |
-| Babysitter, occasional | Per visit or hourly |
+Pay for a nanny in Peshawar is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 English speaking nannies and nannies with formal childcare training are at the higher end. See our [Pricing page](/pricing) for more.
 

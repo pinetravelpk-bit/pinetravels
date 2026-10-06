@@ -1,11 +1,13 @@
 import type { BlogPostMeta } from "@/lib/types";
 
-/** Match logic for the blog search box (components/BlogSearch.tsx). */
+/** Match logic for the blog search box (components/BlogSearch.tsx): every
+ *  word of the query must appear in the title, excerpt or tags, so
+ *  "cook islamabad" finds "Hire a Cook in Islamabad". */
 export function postMatchesQuery(post: BlogPostMeta, query: string): boolean {
-  const q = query.toLowerCase();
-  return (
-    post.title.toLowerCase().includes(q) ||
-    post.excerpt.toLowerCase().includes(q) ||
-    post.tags.some((t) => t.toLowerCase().includes(q))
-  );
+  const text = `${post.title} ${post.excerpt} ${post.tags.join(" ")}`.toLowerCase();
+  return query
+    .toLowerCase()
+    .split(/\s+/)
+    .filter(Boolean)
+    .every((word) => text.includes(word));
 }

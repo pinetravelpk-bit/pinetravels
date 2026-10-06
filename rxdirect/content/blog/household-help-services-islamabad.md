@@ -141,12 +141,12 @@ Many homes find they need one or two daily staff plus a few regular visits, rath
 
 ## What household help services cost in Islamabad
 
-- **Full-time staff:** monthly salaries, from around PKR 25,000 for helpers to PKR 60,000 and above for nurses in 2026
-- **Part-time staff:** monthly amounts for agreed hours, often PKR 15,000 to 25,000 for a part-time maid
+Daily and part-time staff are paid a monthly salary agreed with you, based on hours, duties and experience. Regular visits such as deep cleaning and garden care are usually agreed per visit or as a fixed monthly amount.
+
 - **One-off cleaning and event help:** priced per job or per day
 - **Trades:** priced per job, with materials extra
 
-See our [pricing page](/pricing) for salary details by role.
+See our [pricing page](/pricing) for what affects salary in each role.
 
 ## Checks for every kind of help
 

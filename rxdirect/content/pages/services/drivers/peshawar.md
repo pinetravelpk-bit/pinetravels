@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Peshawar | Verified Family Drivers | RX Direct"
 description: "Hire a verified family driver in Peshawar. Licence checked, security aware personal drivers for Hayatabad, University Town, DHA and Cantt, Pashto speaking."
-answer: "To hire a driver in Peshawar, tell RX Direct your area, car type, daily routes and hours. We shortlist Pashto speaking drivers whose CNIC, licence, address and references have been carefully checked and who have passed a road test, usually within two to three days. Family drivers in Peshawar usually start around PKR 30,000 to 36,000 a month."
+answer: "To hire a driver in Peshawar, tell RX Direct your area, car type, daily routes and hours. We shortlist Pashto speaking drivers whose CNIC, licence, address and references have been carefully checked and who have passed a road test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a family driver cost in Peshawar?"
-    a: "A family driver in Peshawar usually starts at PKR 30,000 to 36,000 a month in 2026. Drivers with long days, out of city trips or executive duty typically earn PKR 38,000 to 48,000, or receive agreed overtime."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Are your Peshawar drivers security conscious?"
     a: "We look for drivers who stay alert, vary routes when asked, avoid unnecessary stops, keep the family's movements private and follow security instructions."
   - q: "Which areas of Peshawar do you cover for drivers?"
@@ -50,14 +50,9 @@ Because security matters so much in Peshawar, we take extra care with address co
 
 Our driver service in Peshawar follows five steps. You share your area, car type, routes, hours, out of city needs and salary range. We send two or three verified drivers, usually within two to three days. You interview them and take a short test drive with your preferred candidate. The driver works a trial day or two on your real schedule. Then you confirm the placement, and our 6 month replacement guarantee begins.
 
-## Driver salary in Peshawar in 2026
+## Driver salary in Peshawar: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 30,000 to 36,000 |
-| Family driver, long days or weekends | 36,000 to 44,000 |
-| Live-in driver | 34,000 to 44,000 |
-| Executive or security conscious personal driver | 38,000 to 48,000 |
+Every household is different, so the salary for a driver in Peshawar is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Overtime for late nights and out of city trips is usually paid separately. See our [Pricing page](/pricing).
 

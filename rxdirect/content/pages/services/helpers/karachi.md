@@ -1,11 +1,11 @@
 ---
 title: "Hire Helper in Karachi | Domestic and Kitchen Helpers"
 description: "Hire a verified domestic helper in Karachi for kitchen help, dishes, errands and chores in Clifton, DHA, PECHS, Gulshan, North Nazimabad and Bahria Town."
-answer: "To hire a helper in Karachi, tell RX Direct your area, home type, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers who live within reach, usually within two to three days. Full-time home helpers in Karachi usually start around PKR 26,000 to 30,000 a month."
+answer: "To hire a helper in Karachi, tell RX Direct your area, home type, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers who live within reach, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a helper cost in Karachi?"
-    a: "A full-time domestic helper in Karachi usually starts at PKR 26,000 to 30,000 a month in 2026. Helpers trusted with errands, cash or children typically earn PKR 30,000 to 36,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can a helper manage water tanks and motors?"
     a: "Many Karachi helpers know how to check tank levels, switch motors on and off, coordinate tanker deliveries and avoid wasting water. We ask about this in interviews."
   - q: "Which areas of Karachi do you cover for helpers?"
@@ -46,14 +46,9 @@ A verified helper in Karachi placed through RX Direct has passed:
 
 Our helper service in Karachi follows five steps. You tell us your area, home type, main chores, who the helper will work with, hours and salary range. We send two or three verified helpers who live within reach, usually within two to three days. You interview them. A short trial follows. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Helper salary in Karachi in 2026
+## Helper salary in Karachi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 12,000 to 19,000 |
-| Full-time live-out helper | 26,000 to 31,000 |
-| Full-time live-in helper | 26,000 to 33,000 |
-| Helper with errands, cash or child support | 30,000 to 36,000 |
+The salary for a helper in Karachi depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Live-out helpers travelling far may expect a transport allowance. See our [Pricing page](/pricing).
 

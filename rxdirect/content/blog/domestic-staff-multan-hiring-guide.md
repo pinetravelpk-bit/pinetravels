@@ -53,7 +53,7 @@ For live-in roles particularly, a two- to four-week trial gives both the househo
 
 ## What Multan households request most
 
-Cooks and household helpers are the most consistently requested roles across Multan, particularly in the larger joint-family homes common in Gulgasht Colony and Cantt. Drivers see strong demand in DHA Multan given the distances involved in a 9,500-acre first phase, and guards are increasingly requested in the newer gated sections as those societies mature.
+Cooks and household helpers are the most consistently requested roles across Multan, particularly in the larger joint-family homes common in Gulgasht Colony and Cantt.
 
 ## Documents to ask for before hiring
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Karachi | Verified Home Cooks | RX Direct"
 description: "Hire a verified home cook in Karachi for Clifton, DHA, PECHS, Gulshan, North Nazimabad and Bahria Town. Cooks tested on your family's food, live-in or live-out."
-answer: "To hire a cook in Karachi, send RX Direct your area, home type, family size, community food style and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days. Home cooks in Karachi usually start around PKR 36,000 a month, and live-in cooks are common because of long commutes."
+answer: "To hire a cook in Karachi, send RX Direct your area, home type, family size, community food style and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a cook cost in Karachi?"
-    a: "A live-out home cook in Karachi usually starts at PKR 36,000 a month for two meals. Live-in cooks, cooks for large families and cooks skilled in biryani, seafood or continental food typically earn PKR 42,000 to 60,000."
+    a: "There is no single fixed figure. Pay for a cook in Karachi varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can your cooks make Karachi style biryani and nihari?"
     a: "Yes. We test cooks on the dishes your family eats, including biryani, nihari, haleem, karahi, seafood and everyday daal chawal, and match community food styles where possible."
   - q: "Which areas of Karachi do you cover for cooks?"
@@ -62,15 +62,9 @@ Our cook service in Karachi follows five steps:
 4. **Trial.** The cook prepares your family's normal meals at home.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Cook salary in Karachi in 2026
+## Cook salary in Karachi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time cook, one meal | 18,000 to 25,000 |
-| Live-out cook, two meals | 36,000 to 42,000 |
-| Live-out cook, three meals | 40,000 to 50,000 |
-| Live-in cook | 40,000 to 55,000 |
-| Senior cook, biryani, seafood, continental | 50,000 to 65,000 |
+Every household is different, so the salary for a cook in Karachi is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Live-out cooks travelling long distances often expect a transport allowance. Most cooks also expect an Eid bonus and a yearly increase. See our [Pricing page](/pricing).
 

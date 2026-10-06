@@ -1,11 +1,11 @@
 ---
 title: "Hire Office Boy in Gujranwala | Verified Office Support Staff"
 description: "Hire a verified office boy in Gujranwala for pantry, tea, errands, banking and filing in factory offices, showrooms and businesses on GT Road and in Model Town."
-answer: "To hire an office boy in Gujranwala, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within two to three days. Office boys in Gujranwala usually start around PKR 25,000 to 28,000 a month, plus a transport allowance for errands, with a 6 month replacement guarantee."
+answer: "To hire an office boy in Gujranwala, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does an office boy cost in Gujranwala?"
-    a: "An office boy in Gujranwala usually starts at PKR 25,000 to 28,000 a month in 2026. Office boys with banking, courier or reception duties typically earn PKR 28,000 to 33,000, plus a transport allowance for errands."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you provide office boys for factories and showrooms in Gujranwala?"
     a: "Yes. We place office support staff for factory offices, showrooms, dealerships and trading businesses along GT Road and in the industrial areas."
   - q: "Can an office boy handle remittance and bank errands?"
@@ -48,14 +48,9 @@ Office boys handle cash, cheques, stock and confidential documents, so reference
 
 Our office boy service in Gujranwala follows five steps. You tell us your office location, working hours, team size, main duties and salary range. We shortlist verified office boys, usually within two to three days. You interview them at your office or by video. A short trial follows so you can see how they work with your team. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Office boy salary in Gujranwala in 2026
+## Office boy salary in Gujranwala: what affects it
 
-| Role | Typical monthly salary (PKR) |
-|---|---|
-| Office boy, small office or showroom | 25,000 to 28,000 |
-| Pantry boy, larger office or factory | 26,000 to 29,000 |
-| Office boy with banking and courier duties | 28,000 to 33,000 |
-| Office boy with reception duties | 28,000 to 33,000 |
+The salary for an office boy in Gujranwala depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 A transport allowance or fuel for errands is usually paid on top. If the office boy uses their own motorcycle, agree a fixed monthly fuel amount. Factories outside the city often provide transport. See our [Pricing page](/pricing).
 

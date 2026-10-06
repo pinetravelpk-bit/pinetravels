@@ -1,11 +1,11 @@
 ---
 title: "Hire Office Boy in Lahore | Verified Office Support Staff"
 description: "Hire a verified office boy in Lahore for pantry, tea, errands, banking and filing in Gulberg, MM Alam Road, DHA, Johar Town and Arfa Tower. Reference checked."
-answer: "To hire an office boy in Lahore, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within 24 to 48 hours. Office boys in Lahore usually start around PKR 25,000 to 29,000 a month, plus a transport allowance for errands, with a 6 month replacement guarantee."
+answer: "To hire an office boy in Lahore, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does an office boy cost in Lahore?"
-    a: "An office boy in Lahore usually starts at PKR 25,000 to 29,000 a month in 2026. Office boys with banking, courier or reception duties typically earn PKR 29,000 to 35,000, plus a transport allowance for errands."
+    a: "It depends on the office boy's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Lahore."
   - q: "Do you provide office boys for software houses and startups in Lahore?"
     a: "Yes. We place office support staff for software houses, startups and coworking spaces in Gulberg, Johar Town, DHA and around Arfa Software Technology Park."
   - q: "Can an office boy handle bank and courier errands across Lahore?"
@@ -48,14 +48,9 @@ Office boys handle cash, cheques and confidential documents, so references are a
 
 Our office boy service in Lahore follows five steps. You tell us your office location, working hours, team size, main duties and salary range. We shortlist verified office boys, usually within 24 to 48 hours. You interview them at your office or by video. A short trial follows so you can see how they work with your team. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Office boy salary in Lahore in 2026
+## Office boy salary in Lahore: what affects it
 
-| Role | Typical monthly salary (PKR) |
-|---|---|
-| Office boy, small office | 25,000 to 29,000 |
-| Pantry boy, corporate floor | 26,000 to 31,000 |
-| Office boy with banking and courier duties | 29,000 to 35,000 |
-| Office boy with reception duties | 30,000 to 36,000 |
+Pay for an office boy in Lahore is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 A transport allowance or fuel for errands is usually paid on top. If the office boy uses their own motorcycle, agree a fixed monthly fuel amount. See our [Pricing page](/pricing).
 

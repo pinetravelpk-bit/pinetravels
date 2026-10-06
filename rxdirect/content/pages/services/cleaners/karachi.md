@@ -1,11 +1,11 @@
 ---
 title: "Hire Cleaner in Karachi | Verified House Cleaners | RX Direct"
 description: "Hire a verified home cleaner in Karachi for daily, weekly or deep cleaning in DHA, Clifton, PECHS, Gulshan, Bahria Town Karachi and offices across the city."
-answer: "To hire a cleaner in Karachi, tell RX Direct your area, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within 24 to 48 hours. Full-time home cleaners in Karachi usually start around PKR 27,000 to 32,000 a month, and deep cleans are quoted by size."
+answer: "To hire a cleaner in Karachi, tell RX Direct your area, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a house cleaner cost in Karachi?"
-    a: "A full-time cleaner in Karachi usually starts at PKR 27,000 to 32,000 a month in 2026. Part-time cleaners cost less, and one-time deep cleans are quoted by property size and condition."
+    a: "There is no single fixed figure. Pay for a cleaner in Karachi varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "How do Karachi cleaners deal with sea air and humidity?"
     a: "Near the sea, salt and humidity leave a sticky film on glass, grills and furniture, and metal rusts quickly. Cleaners wipe these surfaces more often, keep bathrooms dry and check cupboards for damp and mould."
   - q: "Can I hire a part-time cleaner for my apartment in Karachi?"
@@ -52,15 +52,9 @@ Our cleaner service in Karachi offers four arrangements. **Daily cleaners** come
 
 As a cleaner provider in Karachi, we keep the process simple. You tell us your area, property type and size, frequency, hours and budget. We shortlist verified cleaners, usually within 24 to 48 hours. The cleaner does a trial session so you can see the standard. Then you confirm, and the 6 month replacement guarantee applies to regular placements. For deep cleans, we confirm scope and price, schedule the team, and you pay after the job is done.
 
-## Cleaner salaries and prices in Karachi in 2026
+## Cleaner salaries and prices in Karachi: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time daily cleaner | 27,000 to 36,000 per month |
-| Part-time, 3 days a week | 14,000 to 20,000 per month |
-| Part-time, 2 hours daily | 12,000 to 17,000 per month |
-| One-time deep clean, flat | Quoted by size and condition |
-| One-time deep clean, bungalow | Quoted by size, usually a team |
+Pay for a cleaner in Karachi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Travel is a real cost in Karachi, so cleaners who commute long distances may ask for a little more or for a travel allowance. See our [Pricing page](/pricing).
 

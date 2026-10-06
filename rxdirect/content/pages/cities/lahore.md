@@ -7,7 +7,7 @@ faqs:
   - q: "How do I hire domestic staff in Lahore?"
     a: "Message RX Direct with your area in Lahore, the role, hours, live-in or live-out preference and salary range. We shortlist verified candidates, usually within 24 to 48 hours, you interview them, hold a trial at home and then confirm."
   - q: "How much do domestic staff cost in Lahore?"
-    a: "In 2026, helpers, cleaners and guards in Lahore usually start around PKR 26,000 to 30,000, cooks and drivers around PKR 36,000 to 42,000, maids and nannies around PKR 42,000 to 48,000 and home nurses around PKR 60,000 to 65,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Which areas of Lahore do you cover?"
     a: "DHA Phases 1 to 9, Gulberg, Model Town, Johar Town, Garden Town, Faisal Town, Bahria Town, Askari 10 and 11, Cantt, Cavalry Ground, Valencia, Lake City, Wapda Town, State Life, Bedian Road and Raiwind Road societies."
   - q: "Can I find a cook in Lahore who makes traditional Lahori food?"
@@ -84,18 +84,9 @@ As a household staff agency in Lahore, we cover:
 - **Allama Iqbal Town, Township and Green Town**
 - **Bedian Road, Airport Road and the newer eastern societies**
 
-## Domestic staff salaries in Lahore in 2026
+## Domestic staff salaries in Lahore: what affects it
 
-| Role | Typical starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy | 26,000 to 30,000 |
-| Security guard (12 hour shift) | 26,000 to 32,000 |
-| Caretaker | 30,000 to 38,000 |
-| Cook, driver, personal attendant | 36,000 to 42,000 |
-| Maid, nanny | 42,000 to 48,000 |
-| Chef | 55,000 and above |
-| Home nurse | 60,000 to 65,000 and above |
-| Domestic couple (combined) | 65,000 and above |
+Every household is different, so the salary for a domestic worker in Lahore is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Salaries in DHA and Gulberg are at the higher end. See our [Pricing page](/pricing) for details.
 

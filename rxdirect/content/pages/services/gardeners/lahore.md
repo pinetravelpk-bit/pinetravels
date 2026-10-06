@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Lahore | Verified Mali for Home | RX Direct"
 description: "Hire a verified gardener (mali) in Lahore for lawns, hedges, trees and seasonal flowers in DHA, Gulberg, Model Town, Cantt, Bahria Town and farmhouses."
-answer: "To hire a gardener in Lahore, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Lahore's plants and seasons, usually within two to three days. Full-time gardeners in Lahore usually start around PKR 25,000 to 29,000 a month, and visit based gardeners cost less."
+answer: "To hire a gardener in Lahore, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Lahore's plants and seasons, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a mali cost in Lahore?"
-    a: "A full-time gardener in Lahore usually starts at PKR 25,000 to 29,000 a month in 2026. Gardeners for farmhouses and large plots typically earn PKR 29,000 to 36,000. Visit based malis coming two or three times a week cost PKR 7,000 to 17,000 a month, depending on garden size."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "When should I plant winter flowers in Lahore?"
     a: "In Lahore, winter annuals such as petunias, pansies, calendula, dianthus and sweet alyssum are usually sown or planted from October to November, so they flower from January to March, the city's best garden season."
   - q: "Do you provide gardeners for farmhouses on Bedian Road and Barki Road?"
@@ -50,15 +50,9 @@ Our gardener service in Lahore offers three main arrangements. A **full-time mal
 
 As a gardener provider in Lahore, we keep the process simple. You tell us your area, garden size, what you grow, how often you need help and your budget. We shortlist verified gardeners, usually within two to three days. The gardener walks through the garden with you and suggests what needs doing, which tells you a lot about their knowledge. A short trial follows. Then you confirm, and the 6 month replacement guarantee applies to full-time placements.
 
-## Gardener salary in Lahore in 2026
+## Gardener salary in Lahore: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 25,000 to 33,000 per month |
-| Farmhouse or large plot gardener | 29,000 to 36,000 per month |
-| Gardener visiting 3 times a week | 11,000 to 17,000 per month |
-| Gardener visiting twice a week | 7,000 to 12,000 per month |
-| Seasonal or one-time work | Quoted by job |
+Pay for a gardener in Lahore is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Seeds, plants, fertiliser and tools are usually bought by the family. See our [Pricing page](/pricing).
 

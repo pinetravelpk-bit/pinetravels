@@ -41,11 +41,11 @@ A worker who has most of these, even with average skills, is often more valuable
 
 ## Why household staff leave
 
-To find and keep reliable household staff in Islamabad, it helps to understand why staff leave. From our experience placing and replacing workers across the city, the most common reasons are:
+To find and keep reliable household staff in Islamabad, it helps to understand why staff leave.
 
 ### 1. Pay that falls behind
 
-Salaries that were fair two years ago may now be well below the market. When a neighbour offers PKR 8,000 more, the worker goes. Inflation in recent years has made this the single biggest reason for turnover.
+Salaries that were fair two years ago may now be well below the market. Inflation in recent years has made this the single biggest reason for turnover.
 
 ### 2. Late or irregular salary
 

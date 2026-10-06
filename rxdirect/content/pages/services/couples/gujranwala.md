@@ -1,11 +1,11 @@
 ---
 title: "Hire Domestic Couple in Gujranwala | Husband Wife Staff"
 description: "Hire a verified domestic couple in Gujranwala: husband and wife staff for large homes in DHA, Model Town and Satellite Town, and homes of families abroad."
-answer: "To hire a domestic couple in Gujranwala, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days. Live-in domestic couples in Gujranwala usually start around PKR 58,000 to 68,000 a month combined, and overseas families can hire remotely."
+answer: "To hire a domestic couple in Gujranwala, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a domestic couple cost in Gujranwala?"
-    a: "Live-in domestic couples in Gujranwala usually start at PKR 58,000 to 68,000 a month combined in 2026. Couples with skilled roles such as cooking and driving typically earn PKR 68,000 to 90,000 together, plus accommodation."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can a couple look after my house in Gujranwala while I live abroad?"
     a: "Yes. This is one of the most common reasons families hire a couple in Gujranwala. The couple keeps the house lived in, clean and secure, sends regular photos and has it ready when the family returns."
   - q: "What accommodation does a live-in couple need?"
@@ -58,14 +58,9 @@ For couples who will look after an empty house or elderly parents with nobody el
 
 Our domestic couple service in Gujranwala follows five steps. First, you tell us about the property, the duties for each partner, the accommodation available, whether children can live on site and your budget. Second, we shortlist verified couples, usually within three to five days. Third, you interview both partners, and family members abroad join by video. Fourth, a short trial with a trusted relative present, during which the couple moves into the quarter. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Domestic couple salaries in Gujranwala in 2026
+## Domestic couple salaries in Gujranwala: what affects it
 
-| Arrangement | Typical combined monthly salary (PKR) |
-|---|---|
-| Maid and helper or gardener | 58,000 to 68,000 |
-| Cook and driver | 68,000 to 86,000 |
-| Housekeeper and guard for a closed house or farmhouse | 62,000 to 82,000 |
-| Senior couple, large household | 82,000 to 90,000 and above |
+Every household is different, so the salary for a domestic couple in Gujranwala is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Accommodation, utilities and meals are usually provided. Overseas families often send salaries through a relative or bank transfer on a fixed date. See our [Pricing page](/pricing).
 

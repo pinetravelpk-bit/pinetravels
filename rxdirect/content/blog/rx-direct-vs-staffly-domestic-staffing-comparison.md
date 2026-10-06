@@ -85,7 +85,7 @@ RX Direct places staff across eight major cities, Islamabad, Rawalpindi, Lahore,
 
 ## Pricing: one-time fee, nothing to browse candidates
 
-Browsing candidates and requesting a shortlist is free, with no obligation and no fee until you confirm a placement. Placement fees and staff salaries are agreed with you directly before anything is confirmed, no recurring commission, no hidden charges. See our [pricing page](/pricing) for typical starting salaries by role.
+Browsing candidates and requesting a shortlist is free, with no obligation and no fee until you confirm a placement. Placement fees and staff salaries are agreed with you directly before anything is confirmed, no recurring commission, no hidden charges. See our [pricing page](/pricing) for how salaries and fees work.
 
 ## How to verify any of this yourself
 

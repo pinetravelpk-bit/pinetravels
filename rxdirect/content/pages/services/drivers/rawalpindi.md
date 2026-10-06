@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Rawalpindi | Verified Family Drivers | RX Direct"
 description: "Hire a verified family driver in Rawalpindi. Licence checked, road tested personal drivers for Bahria Town, DHA, Cantt and Satellite Town, met in person."
-answer: "To hire a driver in Rawalpindi, tell RX Direct your area, car type, daily routes and hours. Our Chandni Chowk office interviews every driver in person, checks CNIC, licence, address and references, and road tests them on Rawalpindi's roads. Most families get a shortlist within 24 to 48 hours, and family drivers in Rawalpindi usually start around PKR 35,000 to 40,000 a month."
+answer: "To hire a driver in Rawalpindi, tell RX Direct your area, car type, daily routes and hours. Our Chandni Chowk office interviews every driver in person, checks CNIC, licence, address and references, and road tests them on Rawalpindi's roads. Most families get a shortlist within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a family driver cost in Rawalpindi?"
-    a: "A family driver in Rawalpindi usually starts at PKR 35,000 to 40,000 a month in 2026. Drivers with long days, weekend duty or corporate experience typically earn PKR 42,000 to 52,000, or receive agreed overtime."
+    a: "There is no single fixed figure. Pay for a driver in Rawalpindi varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do you have ex-army drivers in Rawalpindi?"
     a: "Yes. Many of our Rawalpindi drivers are ex-army, which suits military families and retired officers. We check discharge books along with licences."
   - q: "Do your drivers know the routes to Islamabad?"
@@ -60,14 +60,9 @@ Our driver service in Rawalpindi follows five steps:
 4. **Trial.** A day or two on your real schedule.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Driver salary in Rawalpindi in 2026
+## Driver salary in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 35,000 to 40,000 |
-| Family driver, long days or weekends | 40,000 to 48,000 |
-| Live-in driver | 38,000 to 48,000 |
-| Corporate or executive driver | 42,000 to 52,000 |
+Every household is different, so the salary for a driver in Rawalpindi is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Overtime for late nights and out of city trips is usually paid separately. See our [Pricing page](/pricing).
 

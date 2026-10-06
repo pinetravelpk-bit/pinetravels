@@ -1,94 +1,73 @@
 ---
-title: "Domestic Staff Salary Pakistan 2026 | Prices and Fees | RX Direct"
-description: "Domestic staff salary in Pakistan for 2026: maid, cook, driver, nanny and home nurse salaries by role and city, plus how RX Direct placement fees work."
-answer: "In 2026, domestic staff salaries in Pakistan start around PKR 25,000 a month for helpers, cleaners, guards and gardeners, PKR 35,000 for cooks and drivers, PKR 40,000 for maids and nannies, PKR 50,000 for chefs and PKR 60,000 for home nurses. RX Direct's placement fee is separate, shared before you confirm, and only charged once you go ahead with a candidate."
-updated: 2026-10-02
+title: "Domestic Staff Salary Pakistan | How Pay and Fees Work"
+description: "How domestic staff salary in Pakistan is decided for maids, cooks, drivers, nannies and nurses, what else to budget for, and how RX Direct placement fees work."
+answer: "Domestic staff salaries in Pakistan are agreed between the family and the worker and depend on the role, experience, hours, duties, city and whether the worker lives in. RX Direct advises on a fair salary for your requirement, the worker is paid in full directly by you, and our placement fee is separate, shared before you confirm and only charged once you go ahead with a candidate."
+updated: 2026-10-06
 faqs:
-  - q: "What is the average maid salary in Pakistan?"
-    a: "A full-time maid in Pakistan usually earns PKR 40,000 to 55,000 a month in 2026. Part-time maids who come for a few hours a day earn less, and experienced live-in maids in Islamabad, Lahore and Karachi earn more."
-  - q: "How much is a cook's salary in Pakistan?"
-    a: "Cook salaries in Pakistan typically start at PKR 35,000 a month for daily family cooking. Cooks with continental skills or ten years of experience usually earn PKR 45,000 to 65,000."
-  - q: "What is a driver's salary in Pakistan?"
-    a: "Family drivers usually start at PKR 35,000 a month. Corporate drivers and drivers working long hours or weekends earn more, with overtime agreed in advance."
-  - q: "How much does a nanny cost in Pakistan?"
-    a: "Nanny salaries start at around PKR 40,000 a month. Nannies with newborn experience, live-in nannies and English speaking nannies usually earn PKR 50,000 to 65,000."
-  - q: "What is a home nurse's salary in Pakistan?"
-    a: "A qualified home nurse usually starts at PKR 60,000 a month for a 12 hour shift. Night duty, live-in care and ICU level care cost more."
+  - q: "What decides a maid salary in Pakistan?"
+    a: "The size of the house, the duties, the hours and whether the maid lives in. Maids who also cook or look after children are paid more than those who only clean. Tell us your requirement and we will advise on a fair figure."
+  - q: "What affects a cook salary in Pakistan?"
+    a: "The number of meals, the size of the family, the cuisines required and experience. A cook who handles continental or Chinese food, guests and menu planning is paid more than one cooking simple daily meals."
+  - q: "What decides a driver salary in Pakistan?"
+    a: "Working hours, weekend duty, out of city trips and whether the driver is for a family or an executive. Overtime should be agreed in advance."
+  - q: "What affects a nanny salary in Pakistan?"
+    a: "The age of the child, with newborn care at the top, night duty, live-in arrangements, more than one child and spoken English all raise a nanny's salary."
+  - q: "What decides a home nurse salary in Pakistan?"
+    a: "Qualification, the patient's condition and clinical tasks, day or night shifts, live-in care and ICU level experience. Patients who mainly need help with daily living may only need a caretaker."
   - q: "Does RX Direct take a cut from the worker's salary?"
     a: "No. The salary is paid by the family directly to the worker in full. Our placement fee is charged to the client separately, and we never charge workers for a placement."
   - q: "Is there any charge for getting a shortlist?"
     a: "No. Sharing your requirements and receiving a shortlist is free. The placement fee only applies once you confirm a candidate."
 ---
 
-## Domestic staff salary Pakistan: what you will actually pay
+## Domestic staff salary Pakistan: how pay is decided
 
-The first question most families ask is "how much?" It is the right question, and it deserves a straight answer. Domestic staff salaries in Pakistan have risen sharply over the last few years along with inflation, petrol prices and rents. A cook who earned PKR 20,000 in 2020 now expects closer to PKR 35,000. Families who budget based on old numbers struggle to hire, or end up with whoever will accept the lowest pay.
+The first question most families ask is "how much?" It is the right question. The honest answer is that there is no single figure for any role. Domestic staff salary in Pakistan is agreed between the family and the worker, and it depends on the role, the worker's experience, the hours and duties, the city and whether the worker lives in. Salaries have also risen sharply over the last few years with inflation, petrol prices and rents, so families who budget on old numbers often struggle to hire, or end up with whoever will accept the lowest pay.
 
-This page sets out the salaries we see in 2026 for each role, how they change by city and arrangement, and how RX Direct's placement fee works. These figures come from our own placements across eight cities. They are a guide, not a fixed price list, because experience, hours and duties always change the final number.
+That is why we do not publish a fixed price list. Instead, when you share your requirement, we advise on a fair salary for your role, area and household, so you can make an offer that attracts good candidates and keeps them. This page explains what moves the salary for each common role, what else to budget for, how to pay staff properly and how RX Direct's placement fee works.
 
-## Domestic staff price Pakistan: starting salaries by role
+## Domestic staff price Pakistan: the factors that matter
 
-| Role | Starting salary (PKR per month) | Common range in 2026 |
-|---|---|---|
-| Helper | 25,000 | 25,000 to 35,000 |
-| Cleaner (full time) | 25,000 | 25,000 to 35,000 |
-| Gardener (full time) | 25,000 | 25,000 to 35,000 |
-| Security guard (12 hour shift) | 25,000 | 25,000 to 40,000 |
-| Office boy | 25,000 | 25,000 to 35,000 |
-| Caretaker | 30,000 | 30,000 to 45,000 |
-| Cook | 35,000 | 35,000 to 65,000 |
-| Driver | 35,000 | 35,000 to 55,000 |
-| Personal attendant (batman) | 35,000 | 35,000 to 50,000 |
-| Maid | 40,000 | 40,000 to 55,000 |
-| Nanny | 40,000 | 40,000 to 65,000 |
-| Chef | 50,000 | 50,000 to 100,000 |
-| Home nurse | 60,000 | 60,000 to 100,000 |
-| Domestic couple (combined) | 60,000 | 60,000 to 95,000 |
-| Electrician, plumber, carpenter, painter | Per job | Quoted by scope |
+The domestic staff price in Pakistan is made up of two parts: the monthly salary, which you pay directly to the worker, and the one-time placement fee, which you pay to us when you confirm a placement. The salary is shaped by a few main factors:
 
-The domestic staff price in Pakistan is made up of two parts: the monthly salary, which you pay directly to the worker, and the one-time placement fee, which you pay to us when you confirm a placement.
+- **The role.** A qualified nurse or a professional chef is paid more than a general helper because of training and responsibility.
+- **Experience and skills.** Years in good households, special cuisines, newborn care, English or ICU experience all raise pay.
+- **Hours and duties.** A worker covering two jobs, such as cleaning and cooking, should be paid for both.
+- **Live-in or live-out.** Live-in staff receive food and accommodation but are available for longer hours, so the cash salary is often similar.
+- **City and area.** Pay follows the cost of living, as explained below.
+- **Household size.** A large house with frequent guests needs more work than a small flat.
 
-## Maid salary Pakistan in detail
+## Maid salary Pakistan: what moves it
 
-A maid's salary depends mostly on the size of the house and whether she lives in. In 2026 a full-time live-out maid usually earns PKR 40,000 to 48,000 for an eight to nine hour day. A live-in maid, who has food and accommodation provided, often earns a similar cash salary because she is available for more hours. Maids who also handle cooking or childcare earn more, typically PKR 50,000 to 55,000.
+A maid salary in Pakistan depends mostly on the size of the house, the duties and whether she lives in. A maid who keeps a two bedroom flat clean for a few hours a day is paid far less than a full-time maid running a large house with laundry, ironing and guests. Maids who also cook or look after children earn more, and experienced live-in maids in Islamabad, Lahore and Karachi are at the top of the range. Part-time maids who come for three or four hours a day suit apartments and small households and cost much less than full-time staff.
 
-Part-time maids who come for three or four hours a day for cleaning and laundry usually earn PKR 15,000 to 25,000 a month. This suits apartments and small households.
+## Cook salary Pakistan: what moves it
 
-## Cook salary Pakistan in detail
+Cooks have the widest pay range of any household role, because skill levels vary so much. A cook salary in Pakistan for simple daily desi cooking for a small family is at the lower end. Cooks who handle three meals for a large family, cook for guests every week, or add continental, Chinese and baking skills are paid more. Senior cooks with experience in large households, embassies or restaurants are at the top. Part-time cooks who prepare one meal a day are a good option for working couples. Chefs, who plan menus and cook for events, sit above cooks.
 
-Cooks have the widest salary range of any household role, because skill levels vary so much. A cook salary in Pakistan for basic daily desi cooking for a small family starts around PKR 35,000. A cook who handles three meals for a large family, or adds continental and Chinese dishes, usually earns PKR 45,000 to 55,000. Senior cooks with experience in large households, embassies or restaurants can earn PKR 60,000 to 65,000.
+## Driver salary Pakistan: what moves it
 
-Part-time cooks who prepare one meal a day earn around PKR 18,000 to 25,000. Chefs, who plan menus and cook for events, start at PKR 50,000 and can go well above PKR 100,000 for top level experience.
+A driver salary in Pakistan for a family driver with fixed daytime hours is the starting point. Drivers who work long days, handle weekend duty, take regular out of city trips or drive for executives are paid more, or receive overtime on top of the base salary. Agree in advance how late evenings, airport runs and travel days will be paid. A driver who is honest with fuel and the car is worth paying well.
 
-## Driver salary Pakistan in detail
+## Nanny salary Pakistan: what moves it
 
-A driver salary in Pakistan for a family driver with fixed hours starts around PKR 35,000. Drivers who work long days, handle weekend duty or take regular out of city trips usually earn PKR 40,000 to 50,000, or receive overtime on top of the base salary. Corporate drivers for executives typically earn PKR 40,000 to 55,000.
+The nanny salary in Pakistan for daytime care of a toddler or school going child is the base. Newborn care, night duty, twins, live-in arrangements and spoken English all push the salary higher. Nannies trained in early childhood care, or with long references from families with infants, are at the top of the range. If a nanny is also asked to cook for the child or help with homework, include that when you agree the salary.
 
-Families usually cover fuel, and many pay a small meal allowance for long days. Agree on overtime rules at the start to avoid disputes later.
+## Home nurse salary Pakistan: what moves it
 
-## Nanny salary Pakistan in detail
-
-The nanny salary in Pakistan starts around PKR 40,000 for care of a toddler or school going child during the day. Newborn care, night duty, twins, or live-in arrangements push salaries to PKR 50,000 to 65,000. Nannies who speak good English, or who have trained in early childhood care, are at the top of the range.
-
-Babysitters for occasional evenings or a few hours a day are usually paid per visit or per hour.
-
-## Home nurse salary Pakistan in detail
-
-The home nurse salary in Pakistan starts around PKR 60,000 a month for a qualified nurse working a 12 hour day shift. Night shifts usually cost a little more. Live-in nurses, nurses with ICU or ventilator experience, and nurses caring for patients with complex conditions earn PKR 70,000 to 100,000. Short term placements after surgery may be priced per week.
-
-For patients who mainly need help with daily living rather than medical procedures, a caretaker at PKR 30,000 to 45,000 is often the better choice.
+The home nurse salary in Pakistan depends on qualification and the level of care. A qualified nurse on a 12 hour day shift is the base; night shifts, live-in care, ICU or ventilator experience and complex conditions cost more. Short term placements after surgery may be agreed per week. For patients who mainly need help with daily living rather than medical procedures, a caretaker is often the better and more affordable choice.
 
 ## Other roles: helpers, guards, office boys, caretakers and couples
 
-**Helpers, cleaners and gardeners** usually start at PKR 25,000 a month for full-time work. Helpers who are also trusted with errands, grocery shopping or looking after children earn a little more. Gardeners who visit several houses on a weekly schedule are paid per visit or a fixed monthly amount per house.
+**Helpers, cleaners and gardeners** are paid according to hours and the size of the house or garden. Helpers who are trusted with errands, grocery shopping or children earn a little more. Gardeners who visit several houses on a weekly schedule are often paid per visit or a fixed monthly amount per house.
 
-**Security guards** start around PKR 25,000 for a 12 hour shift. Night guards, ex-army guards and guards for larger premises often earn PKR 30,000 to 40,000. A home that needs cover around the clock needs two guards, so budget for both salaries.
+**Security guards** are paid per shift. Night guards, ex-army guards and guards for larger premises usually earn more. A home that needs cover around the clock needs two guards, so budget for both salaries.
 
-**Office boys** start around PKR 25,000. Office boys who also handle reception, banking or courier runs across the city usually earn more, and most offices pay a small allowance for errands that need transport.
+**Office boys** who also handle reception, banking or courier runs across the city usually earn more, and most offices pay an allowance for errands that need transport.
 
-**Caretakers** start around PKR 30,000 for day shifts. Live-in caretakers for elderly parents usually earn PKR 35,000 to 45,000, more if the parent has dementia or limited mobility.
+**Caretakers** for elderly parents are paid more for live-in care, dementia, limited mobility or night duty.
 
-**Domestic couples** start around PKR 60,000 combined. A couple where one partner cooks and the other drives typically earns PKR 70,000 to 95,000 together, with accommodation provided.
+**Domestic couples** are paid a combined salary. A couple where one partner cooks and the other drives covers two roles and shares one set of quarters, which often works out well for large houses.
 
 ## Paying salaries the right way
 
@@ -102,13 +81,7 @@ How you pay matters almost as much as how much you pay. A few simple habits prot
 
 ## How salaries change by city
 
-Salaries follow the cost of living. In our experience:
-
-- **Islamabad, Karachi and Lahore** are at the higher end, especially in DHA, Bahria Town, Clifton, Gulberg and the F and E sectors.
-- **Rawalpindi** is close to Islamabad but slightly lower for many roles.
-- **Faisalabad, Multan, Gujranwala and Peshawar** are often PKR 3,000 to 8,000 lower for the same role.
-
-Live-in staff who relocate from another city sometimes ask for a travel allowance for visits home.
+Salaries follow the cost of living. Islamabad, Karachi and Lahore are at the higher end, especially in DHA, Bahria Town, Clifton, Gulberg and the F and E sectors. Rawalpindi is close to Islamabad. Faisalabad, Multan, Gujranwala and Peshawar are usually somewhat lower for the same role. Live-in staff who relocate from another city sometimes ask for a travel allowance for visits home, and live-out staff in large cities often ask for help with transport when they travel a long way each day.
 
 ## Domestic staff hiring cost Pakistan: our placement fee
 
@@ -149,8 +122,8 @@ You do not always need the most expensive arrangement. Some ways families contro
 - **Hire a domestic couple** instead of two separate workers for large houses.
 - **Be clear on duties.** A maid hired for cleaning should not be expected to cook and babysit without a salary that reflects it.
 
-## Getting an exact quote
+## Getting advice for your requirement
 
-Every household is different. To get an exact salary and fee estimate, send us your city, area, the role, hours and whether you need live-in or live-out on WhatsApp at +92 322 1223666. We usually reply the same day with a clear figure and, if you want, a shortlist.
+Every household is different. Send us your city, area, the role, hours and whether you need live-in or live-out on WhatsApp at +92 322 1223666. We usually reply the same day with advice on a fair salary for your situation, our placement fee for the role and, if you want, a shortlist.
 
 You can also read about our [services](/services), [how the process works](/how-it-works), or browse staff by [city](/cities).

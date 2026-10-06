@@ -131,7 +131,7 @@ export default function StaffRegisterClient() {
                 </select>
               </Field>
               <Field label={t("staffReg.expectedSalary")}>
-                <input name="expectedSalary" placeholder="PKR 35,000" maxLength={60} className={inputClass} />
+                <input name="expectedSalary" maxLength={60} className={inputClass} />
               </Field>
               <Field label={t("staffReg.about")} wide>
                 <textarea name="about" rows={3} maxLength={1500} className={inputClass} />

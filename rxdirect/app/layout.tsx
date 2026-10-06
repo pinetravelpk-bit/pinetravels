@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import Script from "next/script";
 import "./globals.css";
 import { LanguageProvider } from "@/i18n/LanguageContext";
 import Navbar from "@/components/Navbar";
@@ -37,7 +36,11 @@ const notoNastaliq = localFont({
   display: "swap",
 });
 
+const GA_ID = "G-L8M3D1L9PB";
+
 export const metadata: Metadata = {
+  // Google Search Console ownership check (google-site-verification meta tag).
+  verification: { google: "lgTWnBUdznVt5iMTLsRqx6z08jrZkE1Vg6TbGY7DX9A" },
   metadataBase: new URL(business.siteUrl),
   title: {
     default: `${business.name} | Certified & SECP-Registered Domestic Staffing in Pakistan`,
@@ -71,21 +74,22 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" dir="ltr">
+      <head>
+        {/* Google tag (gtag.js), placed first in <head> as Google asks. One tag per page. */}
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '${GA_ID}');`,
+          }}
+        />
+      </head>
       <body
         className={`${inter.variable} ${poppins.variable} ${notoNastaliq.variable} antialiased`}
       >
-        {/* Google Analytics (GA4), afterInteractive so it never blocks first
-            paint/LCP; still fires well before a user could navigate away. */}
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-51YPC4GHHX"
-          strategy="afterInteractive"
-        />
-        <Script id="ga4-init" strategy="afterInteractive">
-          {`window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-51YPC4GHHX');`}
-        </Script>
         <JsonLd data={localBusinessSchema()} />
         <JsonLd data={websiteSchema()} />
         <LanguageProvider>

@@ -1,11 +1,11 @@
 ---
 title: "Hire Helper in Peshawar | Domestic and Kitchen Helpers"
 description: "Hire a verified domestic helper in Peshawar for kitchen help, dishes, errands, hujra service and chores in Hayatabad, University Town, DHA and Cantt."
-answer: "To hire a helper in Peshawar, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist Pashto speaking helpers whose CNIC, address and references have been carefully checked, usually within two to three days. Full-time home helpers in Peshawar usually start around PKR 22,000 to 26,000 a month."
+answer: "To hire a helper in Peshawar, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist Pashto speaking helpers whose CNIC, address and references have been carefully checked, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a helper cost in Peshawar?"
-    a: "A full-time domestic helper in Peshawar usually starts at PKR 22,000 to 26,000 a month in 2026. Helpers trusted with errands, cash or hujra duties typically earn PKR 26,000 to 32,000."
+    a: "It depends on the helper's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Peshawar."
   - q: "Can a helper serve guests in the hujra?"
     a: "Yes. Male helpers often serve qehwa, tea and food to guests in the hujra and keep it tidy. We brief them on conduct and hospitality customs."
   - q: "Which areas of Peshawar do you cover for helpers?"
@@ -48,14 +48,9 @@ Because security matters so much in Peshawar, we take address and reference chec
 
 Our helper service in Peshawar follows five steps. You tell us your area, main chores, who the helper will work with, whether hujra service is involved, hours and salary range. We send two or three verified helpers, usually within two to three days. You interview them. A short trial follows. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Helper salary in Peshawar in 2026
+## Helper salary in Peshawar: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 10,000 to 16,000 |
-| Full-time live-out helper | 22,000 to 27,000 |
-| Full-time live-in helper | 22,000 to 29,000 |
-| Helper with errands, cash or hujra duties | 26,000 to 32,000 |
+The salary for a helper in Peshawar depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing).
 

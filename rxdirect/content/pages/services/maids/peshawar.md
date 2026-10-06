@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Peshawar | Verified House Maids | RX Direct"
 description: "Hire a verified female house maid in Peshawar for Hayatabad, University Town, DHA and Cantt. Pashto speaking home maids, live-in or live-out, checked first."
-answer: "To hire a maid in Peshawar, tell RX Direct your area, house size, household, duties and whether you need a live-in or live-out maid. We shortlist Pashto speaking female maids whose CNIC, address and references have been carefully checked, usually within two to three days, and you hold a trial at home. Full-time house maids in Peshawar usually start around PKR 35,000 to 42,000 a month."
+answer: "To hire a maid in Peshawar, tell RX Direct your area, house size, household, duties and whether you need a live-in or live-out maid. We shortlist Pashto speaking female maids whose CNIC, address and references have been carefully checked, usually within two to three days, and you hold a trial at home."
 updated: 2026-10-03
 faqs:
   - q: "What is a maid's salary in Peshawar?"
-    a: "A full-time house maid in Peshawar usually earns PKR 35,000 to 42,000 a month in 2026, more for live-in maids in large homes or maids with extra duties. Part-time maids usually earn PKR 14,000 to 22,000."
+    a: "It depends on the maid's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Peshawar."
   - q: "Do you have Pashto speaking maids?"
     a: "Yes. Most of our Peshawar maids speak Pashto, and many also speak Urdu or Hindko."
   - q: "Are your maids suitable for homes that observe purdah?"
@@ -51,14 +51,9 @@ Because security and privacy matter so much in Peshawar, we take address and ref
 
 Our maid service in Peshawar follows five steps. You share your area, house size, household, duties, hours, arrangement and any customs the maid should know about. We send two or three verified maids, usually within two to three days. You interview them, ideally with a female family member present. Your chosen maid works a trial day. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Maid salary in Peshawar in 2026
+## Maid salary in Peshawar: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 14,000 to 22,000 |
-| Full-time live-out maid | 35,000 to 42,000 |
-| Full-time live-in maid | 35,000 to 45,000 |
-| Maid with cooking or childcare duties | 42,000 to 50,000 |
+We do not publish fixed salary figures, because the right pay for a maid in Peshawar changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 See our [Pricing page](/pricing).
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Security Guard in Multan | Verified Home Guards"
 description: "Hire a verified security guard in Multan for homes, offices and farmhouses in DHA Multan, Bosan Road, Gulgasht and the Cantt. Police certificate checked."
-answer: "To hire a security guard in Multan, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds, usually within two to three days. Residential guards in Multan usually start around PKR 25,000 to 30,000 a month for a 12 hour shift."
+answer: "To hire a security guard in Multan, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a security guard cost in Multan?"
-    a: "A residential security guard in Multan usually starts at PKR 25,000 to 30,000 a month for a 12 hour shift in 2026. Night guards and ex-army guards typically earn PKR 28,000 to 38,000. Round the clock cover needs two guards."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you provide guards for farmhouses and agricultural land around Multan?"
     a: "Yes. We place live-in guards for farmhouses, orchards and agricultural properties around Multan, usually alongside a caretaker or gardener."
   - q: "Do your guards have police certificates?"
@@ -50,14 +50,9 @@ We also brief every guard before placement on visitor logs, ID checks, emergency
 
 Our security guard service in Multan follows five steps. First, we assess your needs: premises type, size, number of gates, shift timings and any specific concerns. Second, we recommend how many guards and which shifts make sense. Third, we shortlist verified guards, usually within two to three days. Fourth, you interview them in person or by video and start with a trial shift. Fifth, you confirm, and the 6 month replacement guarantee begins. Relief guards can be arranged for days off and leave.
 
-## Security guard salary in Multan in 2026
+## Security guard salary in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day guard, 12 hour shift | 25,000 to 31,000 |
-| Night guard, 12 hour shift | 28,000 to 34,000 |
-| Ex-army or ex-FC guard | 30,000 to 38,000 |
-| Live-in farmhouse guard | 26,000 to 34,000 plus accommodation |
+Every household is different, so the salary for a security guard in Multan is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Salaries are paid directly by the client. Uniforms, a torch, a whistle, a raincoat, a fan or air cooler at the gate shelter and winter clothing are usually provided by the client. See our [Pricing page](/pricing) for more.
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Karachi | Verified Mali for Home | RX Direct"
 description: "Hire a verified gardener (mali) in Karachi for lawns, hedges, palms and potted plants in DHA, Clifton, PECHS, Gulshan, Bahria Town and on balconies and roofs."
-answer: "To hire a gardener in Karachi, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Karachi's salty soil, humidity and water shortages, usually within two to three days. Full-time gardeners in Karachi usually start around PKR 27,000 to 31,000 a month, and visit based gardeners cost less."
+answer: "To hire a gardener in Karachi, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Karachi's salty soil, humidity and water shortages, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a mali cost in Karachi?"
-    a: "A full-time gardener in Karachi usually starts at PKR 27,000 to 31,000 a month in 2026. Gardeners for large bungalows and farmhouses typically earn PKR 31,000 to 38,000. Visit based malis coming two or three times a week cost PKR 8,000 to 18,000 a month, depending on garden size."
+    a: "It depends on the gardener's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Karachi."
   - q: "Which plants grow well in Karachi's salty air?"
     a: "Bougainvillea, frangipani, hibiscus, palms, ixora, oleander, lantana, portulaca and many succulents cope well with Karachi's salt, heat and humidity. A good mali will suggest plants that suit your exact location."
   - q: "Can a gardener look after plants in a flat?"
@@ -50,15 +50,9 @@ Our gardener service in Karachi offers three main arrangements. A **full-time ma
 
 As a gardener provider in Karachi, we keep the process simple. You tell us your area, whether it is a house or flat, garden size, what you grow, how often you need help and your budget. We shortlist verified gardeners, usually within two to three days. The gardener walks through the garden with you and suggests what needs doing, which tells you a lot about their knowledge. A short trial follows. Then you confirm, and the 6 month replacement guarantee applies to full-time placements.
 
-## Gardener salary in Karachi in 2026
+## Gardener salary in Karachi: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 27,000 to 35,000 per month |
-| Large bungalow or farmhouse gardener | 31,000 to 38,000 per month |
-| Gardener visiting 3 times a week | 12,000 to 18,000 per month |
-| Gardener visiting twice a week | 8,000 to 13,000 per month |
-| Seasonal or one-time work | Quoted by job |
+The salary for a gardener in Karachi depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Seeds, plants, soil, fertiliser and tools are usually bought by the family. Visit based malis commuting long distances may ask for a travel allowance. See our [Pricing page](/pricing).
 

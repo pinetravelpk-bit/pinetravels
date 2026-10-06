@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Karachi | Verified Family Drivers | RX Direct"
 description: "Hire a verified family driver in Karachi. Licence checked, road tested personal drivers for Clifton, DHA, PECHS, Gulshan and Bahria Town, safe and punctual."
-answer: "To hire a driver in Karachi, tell RX Direct your area, car type, daily routes and hours. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test on Karachi's roads, usually within two to three days. Family drivers in Karachi usually start around PKR 36,000 to 42,000 a month."
+answer: "To hire a driver in Karachi, tell RX Direct your area, car type, daily routes and hours. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test on Karachi's roads, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a family driver cost in Karachi?"
-    a: "A family driver in Karachi usually starts at PKR 36,000 to 42,000 a month in 2026. Drivers with long days, weekend duty or corporate experience typically earn PKR 45,000 to 55,000, or receive agreed overtime."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do your drivers know Karachi's roads?"
     a: "Yes. We test drivers on Shahrah-e-Faisal, Sharea Faisal alternatives, the Lyari Expressway, Clifton and DHA's main roads, University Road and routes to major schools and hospitals."
   - q: "Which areas of Karachi do you cover for drivers?"
@@ -61,14 +61,9 @@ Our driver service in Karachi follows five steps:
 4. **Trial.** A day or two on your real schedule.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Driver salary in Karachi in 2026
+## Driver salary in Karachi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 36,000 to 42,000 |
-| Family driver, long days or weekends | 42,000 to 50,000 |
-| Live-in driver | 40,000 to 50,000 |
-| Corporate or executive driver | 45,000 to 55,000 |
+The salary for a driver in Karachi depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Drivers commuting long distances may expect a transport or meal allowance. Overtime is usually paid separately. See our [Pricing page](/pricing).
 

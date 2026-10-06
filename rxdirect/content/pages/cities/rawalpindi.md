@@ -7,7 +7,7 @@ faqs:
   - q: "Where is RX Direct's office in Rawalpindi?"
     a: "Office No. 4, 2nd Floor, Al-Bilal Plaza, Chandni Chowk, Murree Road, Rawalpindi. We are open Monday to Saturday, 9 am to 8 pm."
   - q: "How much do domestic staff cost in Rawalpindi?"
-    a: "In 2026, helpers, cleaners and guards in Rawalpindi usually start around PKR 25,000 to 28,000, cooks and drivers around PKR 35,000 to 40,000, maids and nannies around PKR 40,000 to 45,000 and home nurses around PKR 60,000."
+    a: "There is no single fixed figure. Pay for a domestic worker in Rawalpindi varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Which areas of Rawalpindi do you cover?"
     a: "Bahria Town Phases 1 to 8, DHA Phases 1 and 2, Askari schemes, Chaklala Scheme III, Airport Housing Society, Satellite Town, Westridge, Saddar, Peshawar Road, Gulraiz, Adiala Road, Gulzar-e-Quaid, Scheme 3 and the old city."
   - q: "How quickly can I get staff in Rawalpindi?"
@@ -83,18 +83,9 @@ As a household staff agency in Rawalpindi, we cover:
 - **Scheme 3, Shamsabad and Murree Road areas**
 - **Raja Bazaar and the old city**
 
-## Domestic staff salaries in Rawalpindi in 2026
+## Domestic staff salaries in Rawalpindi: what affects it
 
-| Role | Typical starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy | 25,000 to 28,000 |
-| Security guard (12 hour shift) | 25,000 to 30,000 |
-| Caretaker | 30,000 to 35,000 |
-| Cook, driver, personal attendant | 35,000 to 40,000 |
-| Maid, nanny | 40,000 to 45,000 |
-| Chef | 50,000 and above |
-| Home nurse | 60,000 and above |
-| Domestic couple (combined) | 60,000 and above |
+The salary for a domestic worker in Rawalpindi depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Rawalpindi salaries are close to Islamabad's but often a little lower for the same role. See our [Pricing page](/pricing) for details.
 

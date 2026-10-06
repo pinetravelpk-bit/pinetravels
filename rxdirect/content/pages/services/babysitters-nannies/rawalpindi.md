@@ -1,11 +1,11 @@
 ---
 title: "Hire Nanny in Rawalpindi | Verified Nannies and Babysitters"
 description: "Hire a verified nanny or babysitter in Rawalpindi for newborns, toddlers and school children in Bahria Town, DHA, Satellite Town and Askari. Live-in or day."
-answer: "To hire a nanny in Rawalpindi, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. Our Chandni Chowk office interviews every nanny in person and checks CNIC, address and childcare references. Most families get a shortlist within two to four days. Full-time nannies in Rawalpindi usually start around PKR 40,000 to 45,000 a month."
+answer: "To hire a nanny in Rawalpindi, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. Our Chandni Chowk office interviews every nanny in person and checks CNIC, address and childcare references. Most families get a shortlist within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a nanny cost in Rawalpindi?"
-    a: "A full-time day nanny in Rawalpindi usually starts at PKR 40,000 to 45,000 a month in 2026. Newborn nannies, live-in nannies and English speaking nannies typically earn PKR 48,000 to 62,000. Babysitters for occasional hours are paid per visit."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can I meet the nanny at your office in Rawalpindi?"
     a: "Yes. Many Rawalpindi families meet shortlisted nannies at our Al-Bilal Plaza office in Chandni Chowk, and some bring their child along for part of the meeting."
   - q: "Do you place nannies for military families in the Askari schemes?"
@@ -53,16 +53,9 @@ We ask references very specific questions: How did the children react to her? Di
 
 Our nanny service in Rawalpindi follows five careful steps. First, your brief: children's ages, routines, hours, live-in or day, special needs and preferences such as English. Second, a shortlist of two or three verified nannies with relevant experience, usually within two to four days. Third, interviews at home or at our office, ideally with your child present for part of the meeting. Fourth, a trial at home with you present. Fifth, placement, with our 6 month replacement guarantee.
 
-## Nanny salary in Rawalpindi in 2026
+## Nanny salary in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day nanny, toddler or school child | 40,000 to 47,000 |
-| Newborn nanny | 48,000 to 58,000 |
-| Live-in nanny | 45,000 to 58,000 |
-| English speaking nanny | 48,000 to 62,000 |
-| Nanny for twins or night duty | 54,000 to 64,000 |
-| Babysitter, occasional | Per visit or hourly |
+Pay for a nanny in Rawalpindi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Nannies with formal childcare training and long references are at the higher end. See our [Pricing page](/pricing) for more.
 

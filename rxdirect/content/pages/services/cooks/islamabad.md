@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Islamabad | Verified Home Cooks | RX Direct"
 description: "Hire a verified home cook in Islamabad. CNIC and reference checked cooks for daily family meals, live-in or live-out, shortlist in 24 to 48 hours."
-answer: "To hire a cook in Islamabad, send RX Direct your sector, family size, cuisine and timing on WhatsApp. We shortlist verified cooks within 24 to 48 hours, you hold a trial day at home, and salaries for a home cook in Islamabad usually start from PKR 35,000 a month."
+answer: "To hire a cook in Islamabad, send RX Direct your sector, family size, cuisine and timing on WhatsApp. We shortlist verified cooks within 24 to 48 hours, you hold a trial day at home."
 updated: 2026-10-02
 faqs:
   - q: "How much does a home cook cost in Islamabad?"
-    a: "A live-out home cook in Islamabad usually starts at PKR 35,000 a month for two meals a day. Cooks with ten years or more, continental skills or a live-in arrangement are normally in the PKR 45,000 to 60,000 range. The final figure depends on hours, menu and family size."
+    a: "It depends on the cook's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Islamabad."
   - q: "How quickly can I get a cook in Islamabad?"
     a: "Most families receive a shortlist of two or three verified cooks within 24 to 48 hours of sharing their requirements. Live-in cooks who need to move from another city can take a few days longer."
   - q: "Do your cooks in Islamabad live in or live out?"
@@ -64,17 +64,11 @@ The word "verified" gets used loosely. Here is exactly what it means when we cal
 
 If a cook cannot pass these checks, we do not send them to you. It is that simple. Families tell us this is the main reason they stopped hiring through word of mouth.
 
-## Cook salary in Islamabad in 2026
+## Cook salary in Islamabad: what affects it
 
-Salaries in Islamabad are a little higher than in most other cities because of the cost of transport and rent. These are the figures we see most often for a home cook in Islamabad. Treat them as a guide, since experience and duties change the final number.
+Salaries in Islamabad are a little higher than in most other cities because of the cost of transport and rent.
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out cook, 2 meals a day | 35,000 to 42,000 |
-| Live-out cook, 3 meals a day | 40,000 to 50,000 |
-| Live-in cook (food and room provided) | 38,000 to 55,000 |
-| Senior cook with continental or Chinese skills | 50,000 to 65,000 |
-| Part-time cook (one meal, 3 to 4 hours) | 18,000 to 25,000 |
+Pay for a cook in Islamabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Most cooks also expect a yearly increase, an Eid bonus and one day off each week. Live-out cooks coming from Rawalpindi often ask for a small transport allowance, especially if your home is in the far end of DHA Phase 2 or Bahria Enclave.
 

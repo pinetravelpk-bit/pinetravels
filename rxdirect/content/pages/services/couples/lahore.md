@@ -1,11 +1,11 @@
 ---
 title: "Hire Domestic Couple in Lahore | Husband Wife Staff"
 description: "Hire a verified domestic couple in Lahore: husband and wife staff for large homes in DHA, Gulberg, Model Town and the Cantt, and farmhouses on Bedian Road."
-answer: "To hire a domestic couple in Lahore, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days. Live-in domestic couples in Lahore usually start around PKR 60,000 to 70,000 a month combined."
+answer: "To hire a domestic couple in Lahore, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a domestic couple cost in Lahore?"
-    a: "Live-in domestic couples in Lahore usually start at PKR 60,000 to 70,000 a month combined in 2026. Couples with skilled roles such as cooking and driving typically earn PKR 70,000 to 95,000 together, plus accommodation."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you place couples for farmhouses on Bedian Road and Barki Road?"
     a: "Yes. Couples are ideal for farmhouses on Bedian Road, Barki Road and Raiwind Road, usually with the wife handling the house and the husband the garden, gate and maintenance."
   - q: "What accommodation does a live-in couple need?"
@@ -58,14 +58,9 @@ Interviewing each partner separately helps us understand whether both are genuin
 
 Our domestic couple service in Lahore follows five steps. First, you tell us about the property, the duties for each partner, the accommodation available, whether children can live on site and your budget. Second, we shortlist verified couples, usually within three to five days. Third, you interview both partners at the property or by video, and family members abroad can join. Fourth, a short trial, during which the couple moves into the quarter. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Domestic couple salaries in Lahore in 2026
+## Domestic couple salaries in Lahore: what affects it
 
-| Arrangement | Typical combined monthly salary (PKR) |
-|---|---|
-| Maid and helper or gardener | 60,000 to 70,000 |
-| Cook and driver | 70,000 to 90,000 |
-| Housekeeper and guard for farmhouse | 65,000 to 85,000 |
-| Senior couple, large household | 85,000 to 95,000 and above |
+Pay for a domestic couple in Lahore is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Accommodation, utilities and meals are usually provided. Some families pay each partner separately, others pay a combined salary. Agree this clearly. See our [Pricing page](/pricing).
 

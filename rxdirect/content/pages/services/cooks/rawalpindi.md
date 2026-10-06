@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Rawalpindi | Verified Home Cooks | RX Direct"
-description: "Hire a verified home cook in Rawalpindi. CNIC and reference checked cooks for Bahria Town, DHA, Askari, Satellite Town and Saddar. From PKR 35,000 a month."
-answer: "To hire a cook in Rawalpindi, send RX Direct your area, family size, the meals you need and timing on WhatsApp. Our office is at Chandni Chowk, so we interview every cook in person, test their cooking and check CNIC, address and references. Most families get a shortlist within 24 to 48 hours, and home cooks in Rawalpindi start around PKR 35,000 a month."
+description: "Hire a verified home cook in Rawalpindi. CNIC and reference checked cooks for Bahria Town, DHA, Askari, Satellite Town and Saddar, live-in or live-out."
+answer: "To hire a cook in Rawalpindi, send RX Direct your area, family size, the meals you need and timing on WhatsApp. Our office is at Chandni Chowk, so we interview every cook in person, test their cooking and check CNIC, address and references. Most families get a shortlist within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a cook cost in Rawalpindi?"
-    a: "A live-out home cook in Rawalpindi usually starts at PKR 35,000 a month for two meals. Cooks for large joint families, live-in cooks and cooks with continental skills typically earn PKR 40,000 to 55,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "How fast can I get a cook in Rawalpindi?"
     a: "Rawalpindi is our home city, so it is where we place cooks fastest. Most families receive two or three verified profiles within 24 to 48 hours."
   - q: "Can I meet the cook at your office first?"
@@ -65,15 +65,9 @@ Our cook service in Rawalpindi follows five steps:
 
 The shortlist and interviews are free. The placement fee applies only once you confirm.
 
-## Cook salary in Rawalpindi in 2026
+## Cook salary in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time cook, one meal | 18,000 to 24,000 |
-| Live-out cook, two meals | 35,000 to 40,000 |
-| Live-out cook, three meals | 38,000 to 48,000 |
-| Live-in cook | 38,000 to 52,000 |
-| Senior cook, continental or large family | 48,000 to 60,000 |
+We do not publish fixed salary figures, because the right pay for a cook in Rawalpindi changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Rawalpindi salaries are close to Islamabad's, usually a little lower. Cooks travelling to Bahria Town or DHA from the older city often ask for a small transport allowance. Most also expect an Eid bonus and a yearly increase. See our [Pricing page](/pricing).
 

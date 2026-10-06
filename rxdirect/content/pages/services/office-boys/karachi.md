@@ -1,11 +1,11 @@
 ---
 title: "Hire Office Boy in Karachi | Verified Office Support Staff"
 description: "Hire a verified office boy in Karachi for pantry, tea, errands, banking and filing on I.I. Chundrigar Road, Shahrah-e-Faisal, Clifton and DHA. Fully checked."
-answer: "To hire an office boy in Karachi, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within 24 to 48 hours. Office boys in Karachi usually start around PKR 27,000 to 31,000 a month, plus a transport allowance for errands, with a 6 month replacement guarantee."
+answer: "To hire an office boy in Karachi, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does an office boy cost in Karachi?"
-    a: "An office boy in Karachi usually starts at PKR 27,000 to 31,000 a month in 2026. Office boys with banking, courier or reception duties typically earn PKR 31,000 to 38,000, plus a transport allowance for errands."
+    a: "It depends on the office boy's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Karachi."
   - q: "Can an office boy handle bank and port related errands in Karachi?"
     a: "Yes. Experienced office boys handle bank deposits, pay orders, courier drop-offs and document runs to clearing agents and offices around I.I. Chundrigar Road and the port. We look for references that confirm honesty with money."
   - q: "Do you provide pantry boys for large corporate offices in Karachi?"
@@ -48,14 +48,9 @@ Office boys handle cash, cheques, pay orders and confidential documents, so refe
 
 Our office boy service in Karachi follows five steps. You tell us your office location, working hours, team size, main duties and salary range. We shortlist verified office boys, usually within 24 to 48 hours. You interview them at your office or by video. A short trial follows so you can see how they work with your team. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Office boy salary in Karachi in 2026
+## Office boy salary in Karachi: what affects it
 
-| Role | Typical monthly salary (PKR) |
-|---|---|
-| Office boy, small office | 27,000 to 31,000 |
-| Pantry boy, corporate floor | 28,000 to 33,000 |
-| Office boy with banking and courier duties | 31,000 to 38,000 |
-| Office boy with reception duties | 32,000 to 38,000 |
+We do not publish fixed salary figures, because the right pay for an office boy in Karachi changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 A transport allowance or fuel for errands is usually paid on top, and in Karachi it matters more than anywhere else because distances are long. If the office boy uses their own motorcycle, agree a fixed monthly fuel amount. See our [Pricing page](/pricing).
 

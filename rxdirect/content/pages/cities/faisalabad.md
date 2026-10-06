@@ -7,7 +7,7 @@ faqs:
   - q: "How do I hire domestic staff in Faisalabad?"
     a: "Message RX Direct with your area in Faisalabad, the role, hours, live-in or live-out preference and salary range. We shortlist verified candidates, usually within two to three days, you interview them and hold a trial before confirming."
   - q: "How much do domestic staff cost in Faisalabad?"
-    a: "In 2026, helpers, cleaners and guards in Faisalabad usually start around PKR 22,000 to 26,000, cooks and drivers around PKR 30,000 to 36,000, maids and nannies around PKR 35,000 to 42,000 and home nurses around PKR 55,000."
+    a: "It depends on the domestic worker's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Faisalabad."
   - q: "Which areas of Faisalabad do you cover?"
     a: "Peoples Colony, Madina Town, Wapda City, Eden Valley, Citi Housing, Jinnah Colony, Gulberg, Canal Road, Susan Road, Kohinoor City, D Ground, Satiana Road and nearby areas."
   - q: "Do you provide guards for factories in Faisalabad?"
@@ -77,18 +77,9 @@ As a household staff agency in Faisalabad, we cover:
 - **Satiana Road, Sargodha Road and Jhang Road areas**
 - **Millat Town, Samanabad and nearby neighbourhoods**
 
-## Domestic staff salaries in Faisalabad in 2026
+## Domestic staff salaries in Faisalabad: what affects it
 
-| Role | Typical starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy | 22,000 to 26,000 |
-| Security guard (12 hour shift) | 22,000 to 28,000 |
-| Caretaker | 27,000 to 33,000 |
-| Cook, driver, personal attendant | 30,000 to 36,000 |
-| Maid, nanny | 35,000 to 42,000 |
-| Chef | 45,000 and above |
-| Home nurse | 55,000 and above |
-| Domestic couple (combined) | 55,000 and above |
+Pay for a domestic worker in Faisalabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Experienced staff for large business family homes often earn closer to Lahore rates. See our [Pricing page](/pricing).
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Chef in Multan | Private and Home Chefs | RX Direct"
 description: "Hire a verified private chef in Multan for DHA Multan, Gulgasht and Cantt homes, family dawats and weddings at home. Home chefs tested before placement."
-answer: "To hire a chef in Multan, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, catering or large household experience who have passed a practical cooking test. Full-time private chefs in Multan usually start around PKR 45,000 to 50,000 a month."
+answer: "To hire a chef in Multan, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, catering or large household experience who have passed a practical cooking test."
 updated: 2026-10-03
 faqs:
   - q: "How much does a private chef cost in Multan?"
-    a: "A full-time private chef in Multan usually starts around PKR 45,000 to 50,000 a month. Chefs with hotel or catering experience typically earn PKR 60,000 to 85,000."
+    a: "It depends on the chef's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Multan."
   - q: "Can I hire a chef for a wedding or dawat at home in Multan?"
     a: "Yes. Event chefs for weddings, family dawats, Eid lunches and gatherings at home are available, usually with helpers."
   - q: "Which areas of Multan do you cover for chefs?"
@@ -63,14 +63,9 @@ As a chef provider in Multan, we follow four steps:
 3. **Tasting trial.** The chef cooks a meal in your kitchen.
 4. **Placement.** Confirm, with our 6 month replacement guarantee for full-time placements.
 
-## Home chef Multan: salary guide for 2026
+## Home chef Multan: salary and terms
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home chef, Pakistani and continental | 45,000 to 60,000 |
-| Chef with hotel or catering background | 60,000 to 80,000 |
-| Senior chef managing a large kitchen | 80,000 and above |
-| Event chef | Priced per event |
+We do not publish fixed salary figures, because the right pay for a chef in Multan changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 A home chef in Multan earns somewhat less than in Lahore, though chefs relocating from bigger cities may expect higher pay. See our [Pricing page](/pricing).
 

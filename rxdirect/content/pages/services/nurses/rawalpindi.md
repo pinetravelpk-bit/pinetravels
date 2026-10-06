@@ -1,11 +1,11 @@
 ---
 title: "Hire Home Nurse in Rawalpindi | Verified Private Nurses"
 description: "Hire a verified home nurse in Rawalpindi for patient care, post surgery recovery and elderly care in Bahria Town, DHA, Askari, Satellite Town and the Cantt."
-answer: "To hire a home nurse in Rawalpindi, share the patient's age, condition, the care needed, hours and area with RX Direct. Our Chandni Chowk office checks every nurse's diploma or degree, CNIC, address and hospital or family references, and most families get a shortlist within one to three days. Home nurses in Rawalpindi usually start around PKR 60,000 to 68,000 a month for a 12 hour shift."
+answer: "To hire a home nurse in Rawalpindi, share the patient's age, condition, the care needed, hours and area with RX Direct. Our Chandni Chowk office checks every nurse's diploma or degree, CNIC, address and hospital or family references, and most families get a shortlist within one to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a home nurse cost in Rawalpindi?"
-    a: "A qualified home nurse in Rawalpindi usually starts at PKR 60,000 to 68,000 a month in 2026 for a 12 hour shift. Night duty, live-in care and ICU level experience typically cost PKR 65,000 to 100,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can I meet the nurse at your office in Rawalpindi?"
     a: "Yes. Families can meet shortlisted nurses at our Al-Bilal Plaza office in Chandni Chowk, or we can arrange the meeting at home or at the hospital before discharge."
   - q: "Can a home nurse take over care after discharge from CMH or Holy Family?"
@@ -49,15 +49,9 @@ We ask previous hospitals and families very specific questions: Was the nurse pu
 
 Our home nurse service in Rawalpindi follows five steps. First, share the patient's details: age, diagnosis, the discharge summary or doctor's notes, care needed, hours and area. Second, we shortlist qualified nurses with matching experience, usually within one to three days, and sooner when a discharge date is fixed. Third, you meet the nurses at home, at our office or at the hospital. Fourth, the nurse starts with a trial shift, ideally with a family member present to hand over the patient's routine. Fifth, you confirm, and the 6 month replacement guarantee applies to monthly placements.
 
-## Home nurse salary in Rawalpindi in 2026
+## Home nurse salary in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home nurse, 12 hour day shift | 60,000 to 70,000 |
-| Home nurse, night shift | 65,000 to 75,000 |
-| Live-in home nurse | 70,000 to 90,000 |
-| ICU or ventilator level care | 80,000 to 100,000 and above |
-| Short term, post surgery | Weekly or monthly rates agreed in advance |
+Every household is different, so the salary for a home nurse in Rawalpindi is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Medical supplies, medicines and equipment are bought by the family. Round the clock care needs two nurses on alternating shifts. See our [Pricing page](/pricing).
 

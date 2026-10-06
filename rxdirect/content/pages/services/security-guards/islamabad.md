@@ -1,11 +1,11 @@
 ---
 title: "Hire Security Guard in Islamabad | Verified Home Guards"
 description: "Hire a verified security guard in Islamabad for homes, offices and farmhouses in F, E and G sectors, DHA and Bahria Town. Police certificate checked."
-answer: "To hire a security guard in Islamabad, tell RX Direct your sector, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds, usually within 24 to 72 hours. Residential guards in Islamabad usually start around PKR 27,000 to 32,000 a month for a 12 hour shift."
+answer: "To hire a security guard in Islamabad, tell RX Direct your sector, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds, usually within 24 to 72 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a security guard cost in Islamabad?"
-    a: "A residential security guard in Islamabad usually starts at PKR 27,000 to 32,000 a month for a 12 hour shift in 2026. Night guards and ex-army guards typically earn PKR 30,000 to 40,000. Round the clock cover needs two guards."
+    a: "It depends on the security guard's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Islamabad."
   - q: "Do your guards in Islamabad have police certificates?"
     a: "Yes. A police character certificate is required for every guard we place, along with CNIC, address and reference checks, and the service record for ex-forces guards."
   - q: "Do I need to register my guard with the police in Islamabad?"
@@ -50,14 +50,9 @@ We also brief every guard before placement on visitor logs, ID checks, emergency
 
 Our security guard service in Islamabad follows five steps. First, we assess your needs: premises type, plot size, number of gates, shift timings and any specific concerns. Second, we recommend how many guards and which shifts make sense. Third, we shortlist verified guards, usually within 24 to 72 hours. Fourth, you interview them, at home or at our Chandni Chowk office in Rawalpindi, and start with a trial shift. Fifth, you confirm, and the 6 month replacement guarantee begins. Relief guards can be arranged for days off and leave.
 
-## Security guard salary in Islamabad in 2026
+## Security guard salary in Islamabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day guard, 12 hour shift | 27,000 to 33,000 |
-| Night guard, 12 hour shift | 30,000 to 36,000 |
-| Ex-army or ex-FC guard | 32,000 to 40,000 |
-| Supervisor for a team of guards | 42,000 and above |
+Every household is different, so the salary for a security guard in Islamabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Salaries are paid directly by the client. Uniforms, a torch, a whistle, a raincoat, a heater for winter nights and a basic shelter at the gate are usually provided by the client. See our [Pricing page](/pricing) for more.
 

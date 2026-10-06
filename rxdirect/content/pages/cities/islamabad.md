@@ -7,7 +7,7 @@ faqs:
   - q: "How do I hire domestic staff in Islamabad?"
     a: "Send RX Direct your sector, the role, hours, live-in or live-out preference and salary range on WhatsApp. We shortlist verified candidates, usually within 24 to 48 hours, you interview them, hold a trial at home, then confirm the placement."
   - q: "How much do domestic staff cost in Islamabad?"
-    a: "In 2026, helpers, cleaners and guards in Islamabad usually start around PKR 27,000 to 30,000, cooks and drivers around PKR 37,000 to 42,000, maids and nannies around PKR 42,000 to 48,000 and home nurses around PKR 65,000. Islamabad salaries are among the highest in Pakistan."
+    a: "There is no single fixed figure. Pay for a domestic worker in Islamabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Which areas of Islamabad do you cover?"
     a: "All sectors in the E, F, G, H and I series, DHA Islamabad, Bahria Town and Bahria Enclave, Bani Gala, Chak Shahzad, Park Road, Gulberg Greens, the Islamabad Expressway societies, and surrounding areas."
   - q: "Where do domestic workers in Islamabad usually live?"
@@ -84,20 +84,11 @@ As a household staff agency in Islamabad, we cover the whole capital:
 - **Islamabad Expressway societies:** PWD, Police Foundation, Soan Garden and others
 - **Naval Anchorage, Ghauri Town and Askari 10, 11 and 14**
 
-## Domestic staff salaries in Islamabad in 2026
+## Domestic staff salaries in Islamabad: what affects it
 
 Islamabad salaries are among the highest in Pakistan, reflecting rents, transport costs and demand.
 
-| Role | Typical starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy | 27,000 to 30,000 |
-| Security guard (12 hour shift) | 28,000 to 32,000 |
-| Caretaker | 32,000 to 38,000 |
-| Cook, driver, personal attendant | 37,000 to 42,000 |
-| Maid, nanny | 42,000 to 48,000 |
-| Chef | 55,000 and above |
-| Home nurse | 65,000 and above |
-| Domestic couple (combined) | 65,000 and above |
+Pay for a domestic worker in Islamabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Live-out staff from Rawalpindi often ask for a transport allowance for far sectors and DHA Phase 2. See our [Pricing page](/pricing) for details.
 

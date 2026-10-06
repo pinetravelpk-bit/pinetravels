@@ -1,11 +1,11 @@
 ---
 title: "Hire Nanny in Karachi | Verified Nannies and Babysitters"
 description: "Hire a verified nanny or babysitter in Karachi for newborns, toddlers and school children in DHA, Clifton, PECHS, Gulshan and Bahria Town. Live-in or day."
-answer: "To hire a nanny in Karachi, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within two to four days. Full-time nannies in Karachi usually start around PKR 42,000 to 48,000 a month."
+answer: "To hire a nanny in Karachi, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a nanny cost in Karachi?"
-    a: "A full-time day nanny in Karachi usually starts at PKR 42,000 to 48,000 a month in 2026. Newborn nannies, live-in nannies and English speaking nannies typically earn PKR 50,000 to 68,000. Babysitters for occasional hours are paid per visit."
+    a: "It depends on the nanny's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Karachi."
   - q: "Do you have nannies for flats in Karachi?"
     a: "Yes. Many Karachi families live in flats in Clifton, DHA, Gulshan and PECHS. We place both day nannies and live-in nannies for flats, depending on space and building rules."
   - q: "Do you have English speaking nannies in Karachi?"
@@ -53,18 +53,13 @@ We ask references very specific questions: How did the children react to her? Di
 
 Our nanny service in Karachi follows five careful steps. First, your brief: children's ages, routines, hours, live-in or day, special needs and preferences such as English. Second, a shortlist of two or three verified nannies with relevant experience, usually within two to four days. Third, interviews, ideally with your child present for part of the meeting. Fourth, a trial at home with you present. Fifth, placement, with our 6 month replacement guarantee.
 
-## Nanny salary in Karachi in 2026
+## Nanny salary in Karachi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day nanny, toddler or school child | 42,000 to 50,000 |
-| Newborn nanny | 50,000 to 62,000 |
-| Live-in nanny | 47,000 to 62,000 |
-| English speaking nanny | 50,000 to 68,000 |
-| Nanny for twins or night duty | 56,000 to 68,000 |
-| Babysitter, occasional | Per visit or hourly |
+The salary for a nanny in Karachi depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Day nannies commuting long distances may ask for a travel allowance. See our [Pricing page](/pricing) for more.
+
+In Karachi, the things that move a nanny's salary most are the age of the child, with newborn care at the top, night duty, twins or more than one child, live-in arrangements, spoken English, and extra duties such as cooking for the child or helping with school work.
 
 ## Nanny provider Karachi: why checks matter most here
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Security Guard in Rawalpindi | Verified Home Guards"
 description: "Hire a verified security guard in Rawalpindi for homes, shops and offices in Bahria Town, DHA, Satellite Town and Saddar. Police certificate checked."
-answer: "To hire a security guard in Rawalpindi, tell RX Direct your area, premises type, shift timings and how many guards you need. Our Chandni Chowk office interviews every guard in person and checks CNIC, address, references and a police character certificate. Most families get a shortlist within 24 to 72 hours. Residential guards in Rawalpindi usually start around PKR 25,000 to 30,000 a month for a 12 hour shift."
+answer: "To hire a security guard in Rawalpindi, tell RX Direct your area, premises type, shift timings and how many guards you need. Our Chandni Chowk office interviews every guard in person and checks CNIC, address, references and a police character certificate. Most families get a shortlist within 24 to 72 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a security guard cost in Rawalpindi?"
-    a: "A residential security guard in Rawalpindi usually starts at PKR 25,000 to 30,000 a month for a 12 hour shift in 2026. Night guards and ex-army guards typically earn PKR 28,000 to 38,000. Round the clock cover needs two guards."
+    a: "It depends on the security guard's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Rawalpindi."
   - q: "Do you place ex-army guards in Rawalpindi?"
     a: "Yes. Rawalpindi has a large pool of retired soldiers, and many of our guards here are ex-army or ex-FC. We check their discharge book or service record."
   - q: "Can I meet the guard at your office?"
@@ -50,14 +50,9 @@ We also brief every guard before placement on visitor logs, ID checks, emergency
 
 Our security guard service in Rawalpindi follows five steps. First, we assess your needs: premises type, size, number of gates, shift timings and any specific concerns. Second, we recommend how many guards and which shifts make sense. Third, we shortlist verified guards, usually within 24 to 72 hours. Fourth, you meet them at home or at our office and start with a trial shift. Fifth, you confirm, and the 6 month replacement guarantee begins. Relief guards can be arranged for days off and leave.
 
-## Security guard salary in Rawalpindi in 2026
+## Security guard salary in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day guard, 12 hour shift | 25,000 to 31,000 |
-| Night guard, 12 hour shift | 28,000 to 34,000 |
-| Ex-army or ex-FC guard | 30,000 to 38,000 |
-| Supervisor for a team of guards | 40,000 and above |
+We do not publish fixed salary figures, because the right pay for a security guard in Rawalpindi changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Salaries are paid directly by the client. Uniforms, a torch, a whistle, a raincoat, winter clothing and a basic shelter at the gate are usually provided by the client. See our [Pricing page](/pricing) for more.
 

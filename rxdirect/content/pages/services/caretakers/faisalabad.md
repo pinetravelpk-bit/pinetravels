@@ -1,11 +1,11 @@
 ---
 title: "Hire Caretaker in Faisalabad | Elderly and Patient Caretakers"
 description: "Hire a verified elderly or patient caretaker in Faisalabad for senior parents, stroke and dementia care in Madina Town, Peoples Colony, Gulberg and Canal Road."
-answer: "To hire a caretaker in Faisalabad, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients, usually within two to three days. Day shift caretakers in Faisalabad usually start around PKR 30,000 to 35,000 a month, and live-in caretakers earn more."
+answer: "To hire a caretaker in Faisalabad, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a caretaker cost in Faisalabad?"
-    a: "A day shift caretaker in Faisalabad usually starts at PKR 30,000 to 35,000 a month in 2026. Live-in caretakers typically earn PKR 34,000 to 44,000, and caretakers for dementia or limited mobility earn PKR 38,000 to 48,000."
+    a: "There is no single fixed figure. Pay for a caretaker in Faisalabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "What does an elderly caretaker do?"
     a: "An elderly caretaker helps with walking, bathing, dressing, toileting, meals, medicines on time, light exercise, doctor visits and companionship. They do not give injections or handle medical procedures, which need a nurse."
   - q: "Can I hire a caretaker for my parents in Faisalabad while I live abroad?"
@@ -49,14 +49,9 @@ We ask references very specific questions: How did the caretaker treat your pare
 
 Our caretaker service in Faisalabad follows five steps. First, tell us about the person: age, health conditions, mobility, memory, daily routine and the help needed, plus hours and whether the caretaker will live in. Second, we shortlist two or three verified caretakers with matching experience, usually within two to three days. Third, you interview them at home or by video, and family members abroad can join. Fourth, a trial day or two with a family member present. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Caretaker salary in Faisalabad in 2026
+## Caretaker salary in Faisalabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day shift caretaker | 30,000 to 36,000 |
-| Live-in caretaker | 34,000 to 44,000 |
-| Caretaker for dementia or limited mobility | 38,000 to 48,000 |
-| Night caretaker | 32,000 to 40,000 |
+Every household is different, so the salary for a caretaker in Faisalabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Round the clock care usually needs a live-in caretaker with relief cover, or two caretakers on alternating shifts. See our [Pricing page](/pricing).
 

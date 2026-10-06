@@ -1,11 +1,11 @@
 ---
 title: "Hire Office Boy in Rawalpindi | Verified Office Support Staff"
 description: "Hire a verified office boy in Rawalpindi for pantry, tea, errands, banking and filing in Saddar, Murree Road, Satellite Town and Bahria Town. Reference checked."
-answer: "To hire an office boy in Rawalpindi, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. Our Chandni Chowk office interviews every candidate in person and checks CNIC, address and references. Most offices get a shortlist within 24 to 48 hours. Office boys in Rawalpindi usually start around PKR 25,000 to 28,000 a month, plus a transport allowance."
+answer: "To hire an office boy in Rawalpindi, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. Our Chandni Chowk office interviews every candidate in person and checks CNIC, address and references. Most offices get a shortlist within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does an office boy cost in Rawalpindi?"
-    a: "An office boy in Rawalpindi usually starts at PKR 25,000 to 28,000 a month in 2026. Office boys with banking, courier or reception duties typically earn PKR 28,000 to 34,000, plus a transport allowance for errands."
+    a: "There is no single fixed figure. Pay for an office boy in Rawalpindi varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I meet the office boy at your office?"
     a: "Yes. Many Rawalpindi businesses meet shortlisted office boys at our Al-Bilal Plaza office in Chandni Chowk before a trial."
   - q: "Do you provide office boys for clinics, schools and shops?"
@@ -48,14 +48,9 @@ Office boys handle cash, cheques and confidential documents, so references are a
 
 Our office boy service in Rawalpindi follows five steps. You tell us your office location, working hours, team size, main duties and salary range. We shortlist verified office boys, usually within 24 to 48 hours. You meet them at your office or at our office in Chandni Chowk. A short trial follows so you can see how they work with your team. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Office boy salary in Rawalpindi in 2026
+## Office boy salary in Rawalpindi: what affects it
 
-| Role | Typical monthly salary (PKR) |
-|---|---|
-| Office boy, small office or shop | 25,000 to 28,000 |
-| Pantry boy, larger office | 26,000 to 30,000 |
-| Office boy with banking and courier duties | 28,000 to 34,000 |
-| Office boy with reception duties | 30,000 to 35,000 |
+Every household is different, so the salary for an office boy in Rawalpindi is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 A transport allowance or fuel for errands is usually paid on top. If the office boy uses their own motorcycle, agree a fixed monthly fuel amount. See our [Pricing page](/pricing).
 

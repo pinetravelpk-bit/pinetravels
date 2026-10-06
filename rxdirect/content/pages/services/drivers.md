@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Pakistan | Verified Family Drivers | RX Direct"
 description: "Hire a verified family driver in Pakistan. Licence checked, road tested personal and private drivers for school runs, office and corporate duty."
-answer: "To hire a driver in Pakistan through RX Direct, share your city, area, car type, duty hours and routes. We shortlist drivers whose CNIC, address, references and driving licence have been checked and who have passed a road test in real traffic, usually within 24 to 48 hours. Family driver salaries start around PKR 35,000 a month."
+answer: "To hire a driver in Pakistan through RX Direct, share your city, area, car type, duty hours and routes. We shortlist drivers whose CNIC, address, references and driving licence have been checked and who have passed a road test in real traffic, usually within 24 to 48 hours."
 updated: 2026-10-02
 faqs:
   - q: "How much does a family driver cost in Pakistan?"
-    a: "A family driver in Pakistan usually starts at PKR 35,000 a month in 2026 for fixed daily hours. Drivers with long days, weekend duty or corporate experience typically earn PKR 40,000 to 55,000, or receive agreed overtime."
+    a: "There is no single fixed figure. Pay for a driver varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do you check the driver's licence?"
     a: "Yes. We check the licence category, validity and photo against the driver's CNIC, and test the driver's skills in real traffic before placement."
   - q: "Can I hire a driver who also does other work?"
@@ -64,14 +64,9 @@ Our driver service in Pakistan follows the same steps as every placement:
 4. **Trial.** The driver works a trial day or two on your real schedule.
 5. **Placement.** Confirm, and the 6 month replacement guarantee begins.
 
-## Driver salary in Pakistan in 2026
+## Driver salary in Pakistan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 35,000 to 42,000 |
-| Family driver, long days or weekends | 40,000 to 50,000 |
-| Live-in driver | 38,000 to 50,000 |
-| Corporate or executive driver | 40,000 to 55,000 |
+Every household is different, so the salary for a driver is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Overtime for late nights and out of city trips is usually paid separately. Families cover fuel and often provide a meal or meal allowance on long days. See our [Pricing page](/pricing) for more.
 

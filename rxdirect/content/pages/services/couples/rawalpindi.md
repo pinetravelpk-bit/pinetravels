@@ -1,11 +1,11 @@
 ---
 title: "Hire Domestic Couple in Rawalpindi | Husband Wife Staff"
 description: "Hire a verified domestic couple in Rawalpindi: husband and wife staff for large homes in Bahria Town, DHA, Askari and the Cantt, and farmhouses on Adiala Road."
-answer: "To hire a domestic couple in Rawalpindi, tell RX Direct your area, property type, the duties for each partner and the accommodation available. Our Chandni Chowk office interviews both partners in person and checks CNICs, marriage, address and references. Most families get a shortlist within three to five days. Live-in domestic couples in Rawalpindi usually start around PKR 60,000 to 70,000 a month combined."
+answer: "To hire a domestic couple in Rawalpindi, tell RX Direct your area, property type, the duties for each partner and the accommodation available. Our Chandni Chowk office interviews both partners in person and checks CNICs, marriage, address and references. Most families get a shortlist within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a domestic couple cost in Rawalpindi?"
-    a: "Live-in domestic couples in Rawalpindi usually start at PKR 60,000 to 70,000 a month combined in 2026. Couples with skilled roles such as cooking and driving typically earn PKR 70,000 to 95,000 together, plus accommodation."
+    a: "It depends on the domestic couple's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Rawalpindi."
   - q: "Can I meet the couple at your office in Rawalpindi?"
     a: "Yes. Both partners can be interviewed at our Al-Bilal Plaza office in Chandni Chowk, together and separately, before a trial at your home."
   - q: "What accommodation does a live-in couple need?"
@@ -58,14 +58,9 @@ Interviewing each partner separately helps us understand whether both are genuin
 
 Our domestic couple service in Rawalpindi follows five steps. First, you tell us about the property, the duties for each partner, the accommodation available, whether children can live on site and your budget. Second, we shortlist verified couples, usually within three to five days. Third, you meet both partners at home or at our office. Fourth, a short trial, during which the couple moves into the quarter. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Domestic couple salaries in Rawalpindi in 2026
+## Domestic couple salaries in Rawalpindi: what affects it
 
-| Arrangement | Typical combined monthly salary (PKR) |
-|---|---|
-| Maid and helper or gardener | 60,000 to 70,000 |
-| Cook and driver | 70,000 to 90,000 |
-| Housekeeper and guard for farmhouse | 65,000 to 85,000 |
-| Senior couple, large household | 85,000 to 95,000 and above |
+Pay for a domestic couple in Rawalpindi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Accommodation, utilities and meals are usually provided. Some families pay each partner separately, others pay a combined salary. Agree this clearly. See our [Pricing page](/pricing).
 

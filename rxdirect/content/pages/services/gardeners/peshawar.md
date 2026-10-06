@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Peshawar | Verified Mali for Home | RX Direct"
 description: "Hire a verified gardener (mali) in Peshawar for lawns, hedges, fruit trees and seasonal flowers in Hayatabad, University Town, DHA, the Cantt and farmhouses."
-answer: "To hire a gardener in Peshawar, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist gardeners whose CNIC, address and references have been carefully checked and who know Peshawar's plants and seasons, usually within two to three days. Full-time gardeners in Peshawar usually start around PKR 25,000 to 28,000 a month, and visit based gardeners cost less."
+answer: "To hire a gardener in Peshawar, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist gardeners whose CNIC, address and references have been carefully checked and who know Peshawar's plants and seasons, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a mali cost in Peshawar?"
-    a: "A full-time gardener in Peshawar usually starts at PKR 25,000 to 28,000 a month in 2026. Gardeners for farmhouses and large plots typically earn PKR 28,000 to 34,000. Visit based malis coming two or three times a week cost PKR 7,000 to 15,000 a month, depending on garden size."
+    a: "There is no single fixed figure. Pay for a gardener in Peshawar varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "When should I plant flowers in Peshawar?"
     a: "Winter annuals such as pansies, petunias, calendula and sweet peas are usually planted from October to November in Peshawar and flower from February to April. Summer flowers such as zinnia, marigold and portulaca are sown from March to May."
   - q: "Do your gardeners speak Pashto?"
@@ -50,15 +50,9 @@ Our gardener service in Peshawar offers three main arrangements. A **full-time m
 
 As a gardener provider in Peshawar, we keep the process simple. You tell us your area, garden size, what you grow, how often you need help and your budget. We shortlist verified gardeners, usually within two to three days. The gardener walks through the garden with you and suggests what needs doing, which tells you a lot about their knowledge. A short trial follows. Then you confirm, and the 6 month replacement guarantee applies to full-time placements.
 
-## Gardener salary in Peshawar in 2026
+## Gardener salary in Peshawar: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 25,000 to 31,000 per month |
-| Farmhouse or large plot gardener | 28,000 to 34,000 per month |
-| Gardener visiting 3 times a week | 10,000 to 15,000 per month |
-| Gardener visiting twice a week | 7,000 to 11,000 per month |
-| Seasonal or one-time work | Quoted by job |
+We do not publish fixed salary figures, because the right pay for a gardener in Peshawar changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Seeds, plants, fertiliser and tools are usually bought by the family. See our [Pricing page](/pricing).
 

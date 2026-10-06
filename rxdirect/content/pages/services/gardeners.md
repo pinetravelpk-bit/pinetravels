@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Pakistan | Verified Mali for Home | RX Direct"
-description: "Hire a verified gardener (mali) in Pakistan for lawns, plants, hedges and seasonal planting. Full-time or visit based garden maintenance staff from PKR 25,000."
-answer: "To hire a gardener in Pakistan through RX Direct, share your city, area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know local plants and seasons. Full-time gardeners start around PKR 25,000 a month, and visit based gardeners are paid per visit or a fixed monthly amount."
+description: "Hire a verified gardener (mali) in Pakistan for lawns, plants, hedges and seasonal planting. Full-time or visit based garden maintenance staff, checked."
+answer: "To hire a gardener in Pakistan through RX Direct, share your city, area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know local plants and seasons."
 updated: 2026-10-02
 faqs:
   - q: "How much does a mali cost in Pakistan?"
-    a: "A full-time gardener (mali) in Pakistan usually starts at PKR 25,000 a month in 2026. Visit based gardeners who come two or three times a week cost less, depending on garden size and work involved."
+    a: "There is no single fixed figure. Pay for a gardener varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "What does a home gardener do?"
     a: "A home gardener mows and waters the lawn, trims hedges, plants seasonal flowers, cares for potted plants, applies fertiliser, controls weeds and pests, and keeps outdoor areas tidy."
   - q: "Can a gardener look after indoor plants?"
@@ -73,14 +73,9 @@ As a gardener provider in Pakistan, our process is straightforward:
 3. **Trial.** A trial session so you can see their work.
 4. **Placement.** Confirm, with our 6 month replacement guarantee for regular placements.
 
-## Gardener salaries in 2026
+## Gardener salaries: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 25,000 to 35,000 per month |
-| Gardener visiting 3 times a week | 10,000 to 18,000 per month |
-| Gardener visiting twice a week | 7,000 to 12,000 per month |
-| Seasonal or one-time work | Quoted by job |
+We do not publish fixed salary figures, because the right pay for a gardener changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Seeds, plants, fertiliser and tools are usually bought by the family. See our [Pricing page](/pricing) for more.
 

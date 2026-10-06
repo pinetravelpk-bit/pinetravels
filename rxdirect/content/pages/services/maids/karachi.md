@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Karachi | Verified House Maids | RX Direct"
 description: "Hire a verified house maid in Karachi for Clifton, DHA, PECHS, Gulshan, North Nazimabad and Bahria Town. Live-in or live-out home maids, checked first."
-answer: "To hire a maid in Karachi, tell RX Direct your area, home type, house size, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked and who live within reach, usually within two to three days. Full-time house maids in Karachi usually start around PKR 42,000 to 48,000 a month."
+answer: "To hire a maid in Karachi, tell RX Direct your area, home type, house size, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked and who live within reach, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "What is a maid's salary in Karachi?"
-    a: "A full-time house maid in Karachi usually earns PKR 42,000 to 48,000 a month in 2026, more for live-in maids in large bungalows or maids with cooking or childcare duties. Part-time maids usually earn PKR 16,000 to 25,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Should I hire a live-in or live-out maid in Karachi?"
     a: "For apartments in Clifton, PECHS, Gulshan and North Nazimabad, a live-out maid who lives nearby works well. For DHA bungalows and Bahria Town, live-in maids are usually more reliable because commutes are long."
   - q: "Which areas of Karachi do you cover for maids?"
@@ -49,14 +49,9 @@ Every verified maid in Karachi placed by RX Direct goes through:
 
 Our maid service in Karachi follows five steps. You share your area, home type, house size, household, duties, hours, arrangement and salary range. We send two or three verified maids who live within reach, usually within two to three days. You interview them. Your chosen maid works a trial day. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Maid salary in Karachi in 2026
+## Maid salary in Karachi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 16,000 to 25,000 |
-| Full-time live-out maid | 42,000 to 48,000 |
-| Full-time live-in maid | 42,000 to 52,000 |
-| Maid with cooking or childcare duties | 50,000 to 58,000 |
+The salary for a maid in Karachi depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Live-out maids travelling long distances may expect a transport allowance. Most maids also expect an Eid bonus, a yearly increase and a weekly day off. See our [Pricing page](/pricing).
 

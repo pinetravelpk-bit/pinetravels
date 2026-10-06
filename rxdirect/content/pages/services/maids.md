@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Pakistan | Verified House Maids | RX Direct"
-description: "Hire a verified house maid in Pakistan for cleaning, laundry and daily upkeep. Live-in or live-out domestic maids, CNIC and reference checked. From PKR 40,000."
-answer: "To hire a maid in Pakistan through RX Direct, share your city, area, house size, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within 24 to 48 hours, and you hold a trial at home. Full-time maid salaries start around PKR 40,000 a month, with a 6 month replacement guarantee."
+description: "Hire a verified house maid in Pakistan for cleaning, laundry and daily upkeep. Live-in or live-out domestic maids, CNIC and reference checked before placement."
+answer: "To hire a maid in Pakistan through RX Direct, share your city, area, house size, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within 24 to 48 hours, and you hold a trial at home."
 updated: 2026-10-02
 faqs:
   - q: "What is a maid's salary in Pakistan?"
-    a: "A full-time maid in Pakistan usually earns PKR 40,000 to 55,000 a month in 2026, depending on the city, house size and duties. Part-time maids who come for a few hours a day usually earn PKR 15,000 to 25,000."
+    a: "There is no single fixed figure. Pay for a maid varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "What does a house maid do?"
     a: "A house maid handles cleaning, dusting, mopping, bathrooms, laundry, ironing, bed making and keeping the house organised. Cooking and childcare are separate duties that should be agreed and paid for if included."
   - q: "Are live-in maids safe to hire?"
@@ -65,14 +65,9 @@ Our maid service in Pakistan works in five steps:
 
 There is no charge for the shortlist or interviews. The placement fee applies only once you confirm.
 
-## Maid salary in Pakistan in 2026
+## Maid salary in Pakistan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 15,000 to 25,000 |
-| Full-time live-out maid | 40,000 to 48,000 |
-| Full-time live-in maid | 40,000 to 50,000 |
-| Maid with cooking or childcare duties | 48,000 to 55,000 |
+We do not publish fixed salary figures, because the right pay for a maid changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Salaries are higher in Islamabad, Lahore and Karachi and a little lower in smaller cities. Most maids also expect an Eid bonus, a yearly increase and a weekly day off. See our [Pricing page](/pricing) for details.
 

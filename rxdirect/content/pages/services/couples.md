@@ -1,13 +1,13 @@
 ---
 title: "Hire Domestic Couple in Pakistan | Husband Wife Staff"
-description: "Hire a verified domestic couple in Pakistan: husband and wife staff for large homes, farmhouses and empty houses. Live-in couples from PKR 60,000 combined."
-answer: "To hire a domestic couple in Pakistan through RX Direct, share your city, property type, the duties for each partner and accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked. A typical couple combines cooking and cleaning with driving, gardening or security, and live-in couples start around PKR 60,000 a month combined."
+description: "Hire a verified domestic couple in Pakistan: husband and wife staff for large homes, farmhouses and empty houses. Live-in couples, CNIC and reference checked."
+answer: "To hire a domestic couple in Pakistan through RX Direct, share your city, property type, the duties for each partner and accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked. A typical couple combines cooking and cleaning with driving, gardening or security."
 updated: 2026-10-02
 faqs:
   - q: "What is a domestic couple?"
     a: "A domestic couple is a husband and wife who work together for one household, usually living in. Common combinations are a cook and a driver, a maid and a gardener, or a housekeeper and a guard."
   - q: "How much does a domestic couple cost in Pakistan?"
-    a: "Live-in domestic couples in Pakistan usually start at PKR 60,000 a month combined in 2026. Couples with skilled roles such as cooking and driving typically earn PKR 70,000 to 95,000 together."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can a couple bring their children?"
     a: "Some couples have young children living with them. Discuss this openly before placement, including space, schooling and any conditions you have."
   - q: "Do you verify that the couple is married?"
@@ -64,14 +64,9 @@ Our domestic couple service in Pakistan follows these steps:
 4. **Trial.** A short trial covering both partners' duties.
 5. **Placement.** Confirm, with our 6 month replacement guarantee.
 
-## Domestic couple salaries in 2026
+## Domestic couple salaries: what affects it
 
-| Arrangement | Typical combined monthly salary (PKR) |
-|---|---|
-| Maid and helper or gardener | 60,000 to 70,000 |
-| Cook and driver | 70,000 to 90,000 |
-| Housekeeper and guard for farmhouse | 65,000 to 85,000 |
-| Senior couple, large household | 85,000 to 95,000 and above |
+The salary for a domestic couple depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Accommodation, utilities and meals are usually provided. Some families pay each partner separately; others pay a combined salary. Agree this clearly. See our [Pricing page](/pricing) for more.
 

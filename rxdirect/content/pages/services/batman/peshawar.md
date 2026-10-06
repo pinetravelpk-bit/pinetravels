@@ -1,11 +1,11 @@
 ---
 title: "Hire Personal Attendant in Peshawar | Batman for Home"
 description: "Hire a verified personal attendant (batman) in Peshawar for retired officers, elders who receive guests in the hujra and professionals in Hayatabad."
-answer: "To hire a personal attendant in Peshawar, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist Pashto speaking attendants whose CNIC, address and references have been carefully checked, many with army or FC experience, usually within two to four days. Personal attendants in Peshawar usually start around PKR 34,000 to 40,000 a month."
+answer: "To hire a personal attendant in Peshawar, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist Pashto speaking attendants whose CNIC, address and references have been carefully checked, many with army or FC experience, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a personal attendant cost in Peshawar?"
-    a: "A personal attendant in Peshawar usually starts at PKR 34,000 to 40,000 a month in 2026. Live-in attendants, ex-army or ex-FC batmen and attendants who also drive typically earn PKR 38,000 to 52,000."
+    a: "There is no single fixed figure. Pay for a batman in Peshawar varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can the attendant serve guests in the hujra?"
     a: "Yes. Attendants in Peshawar often receive guests, serve qehwa and meals in the hujra and look after the elder's comfort while visitors are present."
   - q: "Do you provide ex-army and ex-FC attendants in Peshawar?"
@@ -45,14 +45,9 @@ A verified personal attendant in Peshawar placed by RX Direct has passed:
 
 Our personal attendant service in Peshawar follows five steps. First, tell us who the attendant will serve, their daily routine, the duties, hours and whether the attendant will live in. Second, we shortlist two or three verified attendants, usually within two to four days. Third, you interview them at home or by video. Fourth, a short trial so you can see how they work and present themselves. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Personal attendant salaries in Peshawar in 2026
+## Personal attendant salaries in Peshawar: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out personal attendant | 34,000 to 40,000 |
-| Live-in personal attendant | 37,000 to 46,000 |
-| Attendant for elderly with care needs | 39,000 to 48,000 |
-| Attendant who also drives | 41,000 to 52,000 |
+Pay for a batman in Peshawar is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Uniforms, meals and accommodation for live-in attendants are usually provided by the family. See our [Pricing page](/pricing).
 

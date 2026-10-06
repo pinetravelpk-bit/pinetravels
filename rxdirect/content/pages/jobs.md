@@ -11,7 +11,7 @@ faqs:
   - q: "What documents do I need to apply?"
     a: "A valid CNIC and contact details of previous employers. Drivers need a valid driving licence, security guards need a police character certificate, and nurses need their nursing qualification."
   - q: "What salary can I expect?"
-    a: "Starting salaries in 2026 are around PKR 25,000 for helpers, cleaners and guards, PKR 35,000 for cooks and drivers, PKR 40,000 for maids and nannies, and PKR 60,000 for qualified home nurses. Experience and the city change the final salary."
+    a: "Salary is agreed with the family before you start and depends on your skills, hours and living arrangement. We never take any part of your salary."
   - q: "Can I find a live-in job through RX Direct?"
     a: "Yes. Many families need live-in cooks, maids, nannies, caretakers and domestic couples, with food and accommodation provided."
   - q: "How long does it take to get placed?"
@@ -32,51 +32,53 @@ Maid jobs in Pakistan are the most common requests we receive. Families need mai
 - **Live-in maid jobs** include a room, meals and a weekly day off.
 - **Part-time maid jobs** cover a few hours a day for cleaning and laundry.
 
-Starting salaries for full-time maids are around PKR 40,000 a month in 2026, higher in Islamabad, Lahore and Karachi and for experienced maids. Female workers can ask for homes where another woman is present, and we respect that.
+Female workers can ask for homes where another woman is present, and we respect that.
 
 ## Cook jobs Pakistan
 
 Cook jobs in Pakistan range from daily family cooking to senior roles in large households. Families look for cooks who can make good desi food and keep a clean kitchen. Cooks who can also make continental, Chinese or diet specific meals get better jobs and higher salaries.
 
-Starting salaries are around PKR 35,000 a month for daily family cooking, rising to PKR 50,000 to 65,000 for experienced cooks with wider skills. Chef jobs, for those with restaurant or catering experience, start around PKR 50,000. We test every cook's skills during the interview, so be ready to cook or explain a full menu.
+We test every cook's skills during the interview, so be ready to cook or explain a full menu.
 
 ## Driver jobs Pakistan
 
 Driver jobs in Pakistan include family drivers for school runs and errands, and corporate drivers for executives and company cars. To apply you need a valid driving licence, a clean record and good knowledge of your city's roads. We test your driving in real traffic before placing you.
 
-Family drivers usually start around PKR 35,000 a month. Corporate drivers and drivers who work longer hours or weekends earn more, with overtime agreed in advance. Honesty with fuel and the car is the most important thing families look for.
+Corporate drivers and drivers who work longer hours or weekends earn more, with overtime agreed in advance. Honesty with fuel and the car is the most important thing families look for.
 
 ## Nanny jobs Pakistan
 
 Nanny jobs in Pakistan involve caring for babies, toddlers and school going children: feeding, bathing, play, naps, school preparation and homework help. Families want nannies who are patient, clean, gentle and reliable. Experience with newborns, or speaking some English, helps you get better jobs.
 
-Starting salaries are around PKR 40,000 a month, rising to PKR 50,000 to 65,000 for experienced or live-in nannies and for newborn care.
+There is no fixed salary for every job. Pay depends on your skills, experience, working hours and whether food and accommodation are provided, and we share the offered salary with you before you accept a job.
 
 ## Home nurse jobs Pakistan
 
 Home nurse jobs in Pakistan are for qualified nurses with a diploma or degree in nursing, or LHV training. Work includes injections, wound care, catheter and NG tube care, monitoring vital signs and managing medicines for patients at home. Many jobs are for elderly patients or people recovering after surgery.
 
-Starting salaries are around PKR 60,000 a month for a 12 hour shift, with more for night duty, live-in care and ICU level experience. We check your qualification and call the hospitals or families where you have worked.
+We check your qualification and call the hospitals or families where you have worked.
+
+Nurses with ICU, ventilator or dementia care experience, and nurses willing to do night duty or live-in care, are in high demand. Keep copies of your certificates, your registration and the contact numbers of the hospitals or families where you worked, because families and agencies will ask for them. Short courses in first aid, elderly care or infection control also help you stand out.
 
 ## Domestic worker jobs Pakistan: other roles
 
 We also place workers in these domestic worker jobs in Pakistan:
 
-| Role | What the job involves | Starting salary (PKR per month) |
-|---|---|---|
-| Helper | Kitchen help, dishes, errands, light chores | 25,000 |
-| Cleaner | Daily or weekly cleaning of homes and offices | 25,000 |
-| Gardener | Lawn, plants and outdoor upkeep | 25,000 |
-| Security guard | Gate duty, visitor control, patrols | 25,000 |
-| Office boy | Pantry, errands, filing, banking | 25,000 |
-| Caretaker | Help for elderly people with daily living | 30,000 |
-| Personal attendant | Care for one person's daily needs | 35,000 |
-| Domestic couple | Husband and wife working together | 60,000 combined |
-| Electrician, plumber, carpenter, painter | Repairs and maintenance | Per job |
+| Role | What the job involves |
+|---|---|
+| Helper | Kitchen help, dishes, errands, light chores |
+| Cleaner | Daily or weekly cleaning of homes and offices |
+| Gardener | Lawn, plants and outdoor upkeep |
+| Security guard | Gate duty, visitor control, patrols |
+| Office boy | Pantry, errands, filing, banking |
+| Caretaker | Help for elderly people with daily living |
+| Personal attendant | Care for one person's daily needs |
+| Domestic couple | Husband and wife working together |
+| Electrician, plumber, carpenter, painter | Repairs and maintenance |
 
 ## Staff jobs near me Pakistan: we match by location
 
-When people search for staff jobs near me in Pakistan, they want work they can reach easily. We feel the same. For live-out jobs we try to place you close to where you live, so you do not spend hours travelling. For live-in jobs, distance matters less, but we still consider how you will travel home on leave. Tell us your area when you apply.
+When people search for staff jobs near me in Pakistan, they want work they can reach easily. We feel the same. For live-out jobs we try to place you close to where you live, so you do not spend hours travelling. For live-in jobs, distance matters less, but we still consider how you will travel home on leave. Tell us your area when you apply. If you are willing to work in another city, say so too, because some of the best live-in jobs are in Islamabad, Lahore and Karachi, and families there often help with the travel cost for your first trip.
 
 We have jobs in Islamabad, Rawalpindi, Lahore, Karachi, Faisalabad, Multan, Peshawar and Gujranwala, and sometimes in nearby towns and farmhouses.
 

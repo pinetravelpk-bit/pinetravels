@@ -1,11 +1,11 @@
 ---
 title: "Hire Helper in Multan | Domestic and Kitchen Helpers"
 description: "Hire a verified domestic helper in Multan for kitchen help, dishes, errands and chores in DHA Multan, Gulgasht, Cantt, Wapda Town and Bosan Road homes."
-answer: "To hire a helper in Multan, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within two to three days. Full-time home helpers in Multan usually start around PKR 22,000 to 26,000 a month, and Saraiki speaking helpers are available."
+answer: "To hire a helper in Multan, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a helper cost in Multan?"
-    a: "A full-time domestic helper in Multan usually starts at PKR 22,000 to 26,000 a month in 2026. Helpers trusted with errands, cash or farm trips typically earn PKR 26,000 to 32,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you have Saraiki speaking helpers?"
     a: "Yes. Many of our Multan helpers speak Saraiki along with Urdu and Punjabi."
   - q: "Which areas of Multan do you cover for helpers?"
@@ -46,14 +46,9 @@ A verified helper in Multan placed through RX Direct has passed:
 
 Our helper service in Multan follows five steps. You tell us your area, main chores, who the helper will work with, hours, language preference and salary range. We send two or three verified helpers, usually within two to three days. You interview them. A short trial follows. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Helper salary in Multan in 2026
+## Helper salary in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 10,000 to 16,000 |
-| Full-time live-out helper | 22,000 to 27,000 |
-| Full-time live-in helper | 22,000 to 29,000 |
-| Helper with errands, cash or farm duties | 26,000 to 32,000 |
+The salary for a helper in Multan depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing).
 

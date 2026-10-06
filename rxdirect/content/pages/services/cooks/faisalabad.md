@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Faisalabad | Verified Home Cooks | RX Direct"
 description: "Hire a verified home cook in Faisalabad for Peoples Colony, Madina Town, Wapda City and Canal Road. Cooks for joint families, tested before placement."
-answer: "To hire a cook in Faisalabad, send RX Direct your area, family size, the meals you need and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days. Home cooks in Faisalabad usually start around PKR 30,000 to 35,000 a month, with more for large joint family kitchens."
+answer: "To hire a cook in Faisalabad, send RX Direct your area, family size, the meals you need and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a cook cost in Faisalabad?"
-    a: "A live-out home cook in Faisalabad usually starts at PKR 30,000 to 35,000 a month. Cooks for large joint families and live-in cooks typically earn PKR 38,000 to 50,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can your cooks handle a joint family in Faisalabad?"
     a: "Yes. Many Faisalabad homes have ten or more people, and we shortlist cooks with experience in large kitchens, often recommending a helper alongside."
   - q: "Which areas of Faisalabad do you cover for cooks?"
@@ -64,15 +64,9 @@ Our cook service in Faisalabad follows five steps:
 
 Shortlists and interviews are free. The placement fee applies only when you confirm.
 
-## Cook salary in Faisalabad in 2026
+## Cook salary in Faisalabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time cook, one meal | 15,000 to 20,000 |
-| Live-out cook, two meals | 30,000 to 35,000 |
-| Live-out cook, three meals | 33,000 to 42,000 |
-| Live-in cook | 35,000 to 45,000 |
-| Senior cook, large joint family | 42,000 to 52,000 |
+Every household is different, so the salary for a cook in Faisalabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Faisalabad salaries are a few thousand rupees below Lahore for the same role, though cooks for large business family homes often earn close to Lahore rates. See our [Pricing page](/pricing).
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Nanny in Islamabad | Verified Nannies and Babysitters"
 description: "Hire a verified nanny or babysitter in Islamabad for newborns, toddlers and school children in F, E and G sectors, DHA and Bahria Town. Live-in or day."
-answer: "To hire a nanny in Islamabad, tell RX Direct your sector, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within two to four days. Full-time nannies in Islamabad usually start around PKR 42,000 to 48,000 a month."
+answer: "To hire a nanny in Islamabad, tell RX Direct your sector, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a nanny cost in Islamabad?"
-    a: "A full-time day nanny in Islamabad usually starts at PKR 42,000 to 48,000 a month in 2026. Newborn nannies, live-in nannies and English speaking nannies typically earn PKR 50,000 to 68,000. Babysitters for occasional hours are paid per visit."
+    a: "There is no single fixed figure. Pay for a nanny in Islamabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do you have English speaking nannies in Islamabad?"
     a: "Yes. Many Islamabad families, especially those in diplomatic, NGO and corporate roles, want a nanny who speaks basic or good English. Mention this in your brief and we test it at interview."
   - q: "Can I find a babysitter in Islamabad for an evening or a wedding?"
@@ -53,16 +53,9 @@ We ask references very specific questions: How did the children react to her? Di
 
 Our nanny service in Islamabad follows five careful steps. First, your brief: children's ages, routines, hours, live-in or day, special needs and preferences such as English. Second, a shortlist of two or three verified nannies with relevant experience, usually within two to four days. Third, interviews, ideally with your child present for part of the meeting. Fourth, a trial at home with you present, so you see how the nanny cares for your child. Fifth, placement, with our 6 month replacement guarantee.
 
-## Nanny salary in Islamabad in 2026
+## Nanny salary in Islamabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day nanny, toddler or school child | 42,000 to 50,000 |
-| Newborn nanny | 50,000 to 62,000 |
-| Live-in nanny | 47,000 to 62,000 |
-| English speaking nanny | 50,000 to 68,000 |
-| Nanny for twins or night duty | 56,000 to 68,000 |
-| Babysitter, occasional | Per visit or hourly |
+The salary for a nanny in Islamabad depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Nannies with formal childcare training and long references are at the higher end. See our [Pricing page](/pricing) for more.
 

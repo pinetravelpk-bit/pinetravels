@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Multan | Verified House Maids | RX Direct"
 description: "Hire a verified house maid in Multan for DHA Multan, Gulgasht, Cantt, Wapda Town and Bosan Road. Live-in or live-out home maids, Saraiki speaking available."
-answer: "To hire a maid in Multan, tell RX Direct your area, house size, household, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within two to three days, and you hold a trial at home. Full-time house maids in Multan usually start around PKR 35,000 to 40,000 a month."
+answer: "To hire a maid in Multan, tell RX Direct your area, house size, household, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within two to three days, and you hold a trial at home."
 updated: 2026-10-03
 faqs:
   - q: "What is a maid's salary in Multan?"
-    a: "A full-time house maid in Multan usually earns PKR 35,000 to 40,000 a month in 2026, more for live-in maids in large houses or maids with extra duties. Part-time maids usually earn PKR 14,000 to 20,000."
+    a: "It depends on the maid's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Multan."
   - q: "Do you have Saraiki speaking maids in Multan?"
     a: "Yes. Many of our Multan maids speak Saraiki as well as Urdu and Punjabi, which older family members often prefer."
   - q: "Which areas of Multan do you cover for maids?"
@@ -49,14 +49,9 @@ Every verified maid in Multan placed by RX Direct goes through:
 
 Our maid service in Multan follows five steps. You share your area, house size, household, duties, hours, arrangement, language preference and salary range. We send two or three verified maids, usually within two to three days. You interview them, and family members abroad can join by video. Your chosen maid works a trial day. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Maid salary in Multan in 2026
+## Maid salary in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 14,000 to 20,000 |
-| Full-time live-out maid | 35,000 to 40,000 |
-| Full-time live-in maid | 35,000 to 44,000 |
-| Maid with cooking or extra duties | 40,000 to 48,000 |
+We do not publish fixed salary figures, because the right pay for a maid in Multan changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 See our [Pricing page](/pricing).
 

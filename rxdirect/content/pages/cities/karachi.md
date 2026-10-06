@@ -7,7 +7,7 @@ faqs:
   - q: "How do I hire domestic staff in Karachi?"
     a: "Message RX Direct with your area in Karachi, the role, hours, live-in or live-out preference and salary range. We shortlist verified candidates, usually within two to three days, you interview them and hold a trial at home before confirming."
   - q: "How much do domestic staff cost in Karachi?"
-    a: "In 2026, helpers, cleaners and guards in Karachi usually start around PKR 26,000 to 30,000, cooks and drivers around PKR 36,000 to 42,000, maids and nannies around PKR 42,000 to 48,000 and home nurses around PKR 60,000 to 65,000."
+    a: "There is no single fixed figure. Pay for a domestic worker in Karachi varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Which areas of Karachi do you cover?"
     a: "Clifton, DHA Phases 1 to 8, PECHS, Bahadurabad, Gulshan-e-Iqbal, Gulistan-e-Jauhar, North Nazimabad, Federal B Area, KDA Scheme 1, Bahria Town Karachi, Askari 5 and Malir Cantt, and nearby areas."
   - q: "Are live-in staff more common in Karachi?"
@@ -81,18 +81,9 @@ As a household staff agency in Karachi, we cover:
 - **Karachi Cantt, Saddar and Garden**
 - **Scheme 33 and the newer societies near the Super Highway**
 
-## Domestic staff salaries in Karachi in 2026
+## Domestic staff salaries in Karachi: what affects it
 
-| Role | Typical starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy | 26,000 to 30,000 |
-| Security guard (12 hour shift) | 26,000 to 32,000 |
-| Caretaker | 30,000 to 38,000 |
-| Cook, driver, personal attendant | 36,000 to 42,000 |
-| Maid, nanny | 42,000 to 48,000 |
-| Chef | 55,000 and above |
-| Home nurse | 60,000 to 65,000 and above |
-| Domestic couple (combined) | 65,000 and above |
+Pay for a domestic worker in Karachi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Live-out workers travelling long distances often expect a transport allowance. See our [Pricing page](/pricing) for details.
 

@@ -163,11 +163,6 @@
     "noHidden": "Whatever the quote, there are no hidden charges added later, the price we confirm with you upfront is the price you pay, and it only applies once a placement is confirmed.",
     "categoriesTitle": "Pricing Across Our Service Categories",
     "categoriesText": "Household staff (cooks, chefs, maids, helpers, cleaners, nannies, gardeners) are typically priced by whether the role is live-in, live-out or part-time. Office and security staff (drivers, guards, office boys) are usually quoted per month, with adjustments for extra duties like overtime driving. Nursing and care staff (home nurses, caretakers) are priced by shift length and the level of medical or personal care involved. Home repair and trade staff (electricians, plumbers, carpenters, painters) can be booked per visit for a single repair or on a recurring maintenance basis, whichever suits your situation better.",
-    "salaryTableTitle": "Typical Starting Monthly Salaries",
-    "salaryTableSubtitle": "A transparent guide to starting monthly salaries by staff category. Your final quote depends on experience, live-in/live-out arrangement and city.",
-    "tableColStaff": "Staff Category",
-    "tableColSalary": "Starting Salary",
-    "salaryTableNote": "Figures are starting salaries in PKR for entry-to-mid-level experience. Highly experienced candidates, specialist skills or premium cities may cost more, we'll always confirm the exact number before you commit.",
     "ctaTitle": "Want a Quote for Your Requirements?"
   },
   "jobsPage": {
@@ -211,7 +206,11 @@
     "searchNoResults": "No articles match \"{query}\". Try a different city or service name.",
     "searchResultsCount": "{count} articles match \"{query}\"",
     "commentsTitle": "Comments",
-    "commentsSubtitle": "Comments are reviewed before they appear."
+    "commentsSubtitle": "Comments are reviewed before they appear.",
+    "pagination": "Blog pages",
+    "previous": "Previous",
+    "next": "Next",
+    "pageOf": "Page {page} of {total}"
   },
   "redesign": {
     "topBar": "Registered & Compliant",
@@ -430,10 +429,6 @@
     "hiringTitleGeneric": "How hiring works with RX Direct",
     "inCity": "in {city}",
     "typical": "Most requests are matched within 24 to 48 hours.",
-    "salaryTitle": "Typical starting salary",
-    "perMonth": "PKR / month",
-    "perJob": "Priced per job or visit",
-    "salaryNote": "Starting figures; experience, hours, city and live-in or live-out arrangements change the final salary.",
     "checksTitle": {
       "verify": "How we verify {service}",
       "red-flags": "What we screen for before placing {service}",

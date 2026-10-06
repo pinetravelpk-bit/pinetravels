@@ -9,13 +9,18 @@ import { useTranslation } from "@/i18n/LanguageContext";
 import SectionHeading from "@/components/SectionHeading";
 import BlogCard from "@/components/BlogCard";
 import BlogSearch from "@/components/BlogSearch";
+import BlogPagination from "@/components/BlogPagination";
 
 export default function BlogPageClient({
   posts,
+  page,
+  pageCount,
   browseCities,
   browseServices,
 }: {
-  posts: BlogPostMeta[];
+  posts: BlogPostMeta[]; // this page's posts, newest first
+  page: number;
+  pageCount: number;
   browseCities: City[];
   browseServices: ServiceCategory[];
 }) {
@@ -29,7 +34,6 @@ export default function BlogPageClient({
       <SectionHeading title={t("blogPage.title")} subtitle={t("blogPage.subtitle")} />
 
       <BlogSearch
-        posts={posts}
         onFilter={(filtered, query) => {
           setSearchResults(filtered);
           setSearchQuery(query);
@@ -94,6 +98,7 @@ export default function BlogPageClient({
               <BlogCard key={post.slug} post={post} />
             ))}
           </div>
+          {searchResults === null && <BlogPagination page={page} pageCount={pageCount} />}
         </>
       )}
     </div>

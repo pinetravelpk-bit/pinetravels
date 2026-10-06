@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Multan | Verified Mali for Home | RX Direct"
 description: "Hire a verified gardener (mali) in Multan for lawns, hedges, mango trees and seasonal flowers in DHA Multan, Bosan Road, Gulgasht, Cantt and farmhouses."
-answer: "To hire a gardener in Multan, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Multan's heat, soil and mango trees, usually within two to three days. Full-time gardeners in Multan usually start around PKR 25,000 to 28,000 a month, and visit based gardeners cost less."
+answer: "To hire a gardener in Multan, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Multan's heat, soil and mango trees, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a mali cost in Multan?"
-    a: "A full-time gardener in Multan usually starts at PKR 25,000 to 28,000 a month in 2026. Gardeners for farmhouses and orchards typically earn PKR 28,000 to 34,000. Visit based malis coming two or three times a week cost PKR 7,000 to 15,000 a month, depending on garden size."
+    a: "It depends on the gardener's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Multan."
   - q: "How do I keep my lawn alive in Multan's summer?"
     a: "Water deeply early in the morning or after sunset, mow less often and keep the grass a little longer, mulch flower beds, avoid fertilising in peak heat and shade delicate plants. A good mali adjusts the routine as temperatures climb."
   - q: "Can a gardener look after mango trees?"
@@ -50,17 +50,13 @@ Our gardener service in Multan offers three main arrangements. A **full-time mal
 
 As a gardener provider in Multan, we keep the process simple. You tell us your area, garden size, what you grow, how often you need help and your budget. We shortlist verified gardeners, usually within two to three days. The gardener walks through the garden with you and suggests what needs doing, which tells you a lot about their knowledge. A short trial follows. Then you confirm, and the 6 month replacement guarantee applies to full-time placements.
 
-## Gardener salary in Multan in 2026
+## Gardener salary in Multan: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 25,000 to 31,000 per month |
-| Farmhouse or orchard gardener | 28,000 to 34,000 per month |
-| Gardener visiting 3 times a week | 10,000 to 15,000 per month |
-| Gardener visiting twice a week | 7,000 to 11,000 per month |
-| Seasonal or one-time work | Quoted by job |
+We do not publish fixed salary figures, because the right pay for a gardener in Multan changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Seeds, plants, fertiliser and tools are usually bought by the family. See our [Pricing page](/pricing).
+
+For a gardener in Multan, pay mainly depends on the size of the lawn and grounds, whether there are fruit trees or a small orchard to look after, how many days a week the gardener comes, and whether watering must be done twice a day through the hottest months.
 
 ## Home gardener Multan: working with the heat
 

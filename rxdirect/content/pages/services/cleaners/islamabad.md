@@ -1,11 +1,11 @@
 ---
 title: "Hire Cleaner in Islamabad | Verified House Cleaners | RX Direct"
 description: "Hire a verified home cleaner in Islamabad for daily, weekly or deep cleaning. House cleaners for F, E and G sectors, DHA, Bahria Town and offices."
-answer: "To hire a cleaner in Islamabad, tell RX Direct your sector, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within 24 to 48 hours. Full-time home cleaners in Islamabad usually start around PKR 27,000 to 30,000 a month, and deep cleans are quoted by size."
+answer: "To hire a cleaner in Islamabad, tell RX Direct your sector, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a house cleaner cost in Islamabad?"
-    a: "A full-time cleaner in Islamabad usually starts at PKR 27,000 to 30,000 a month in 2026. Part-time cleaners coming two or three days a week cost less, and one-time deep cleans are quoted by property size and condition."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you offer deep cleaning in Islamabad?"
     a: "Yes. We arrange deep cleaning for moving in or out, before Eid or weddings, after renovation and when tenants leave, using a team for larger houses."
   - q: "Can I hire a cleaner for my apartment in Islamabad?"
@@ -52,15 +52,9 @@ Our cleaner service in Islamabad offers four arrangements. **Daily cleaners** co
 
 As a cleaner provider in Islamabad, we keep it simple. You tell us your sector, property type and size, frequency, hours and budget. We shortlist verified cleaners, usually within 24 to 48 hours. The cleaner does a trial session so you can see the standard. Then you confirm, and the 6 month replacement guarantee applies to regular placements. For deep cleans, we confirm scope and price, schedule the team, and you pay after the job is done.
 
-## Cleaner salaries and prices in Islamabad in 2026
+## Cleaner salaries and prices in Islamabad: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time daily cleaner | 27,000 to 35,000 per month |
-| Part-time, 3 days a week | 14,000 to 20,000 per month |
-| Part-time, 2 hours daily | 12,000 to 17,000 per month |
-| One-time deep clean, apartment | Quoted by size and condition |
-| One-time deep clean, large house | Quoted by size, usually a team |
+The salary for a cleaner in Islamabad depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing).
 

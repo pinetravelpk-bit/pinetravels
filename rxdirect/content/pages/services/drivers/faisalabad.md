@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Faisalabad | Verified Family Drivers | RX Direct"
 description: "Hire a verified family or company driver in Faisalabad. Licence checked, road tested personal drivers for Peoples Colony, Madina Town, Canal Road and mills."
-answer: "To hire a driver in Faisalabad, tell RX Direct your area, car type, daily routes and hours, and whether the driver is for the family, the business or both. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test, usually within two to three days. Family drivers in Faisalabad usually start around PKR 30,000 to 36,000 a month."
+answer: "To hire a driver in Faisalabad, tell RX Direct your area, car type, daily routes and hours, and whether the driver is for the family, the business or both. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a family driver cost in Faisalabad?"
-    a: "A family driver in Faisalabad usually starts at PKR 30,000 to 36,000 a month in 2026. Company drivers, drivers with long days or regular motorway trips typically earn PKR 38,000 to 48,000, or receive agreed overtime."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you provide drivers for mills and factories?"
     a: "Yes. We place company drivers for executives, staff transport and deliveries, as well as family drivers for business owners' homes."
   - q: "Do your drivers know the motorway to Lahore and Islamabad?"
@@ -61,14 +61,9 @@ Our driver service in Faisalabad follows five steps:
 4. **Trial.** A day or two on your real schedule.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Driver salary in Faisalabad in 2026
+## Driver salary in Faisalabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 30,000 to 36,000 |
-| Family driver, long days or weekends | 36,000 to 44,000 |
-| Live-in driver | 34,000 to 44,000 |
-| Company or executive driver | 38,000 to 48,000 |
+Pay for a driver in Faisalabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Overtime for late nights and out of city trips is usually paid separately. See our [Pricing page](/pricing).
 

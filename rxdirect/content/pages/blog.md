@@ -129,7 +129,7 @@ Business owners and office managers will find guides on hiring office boys, corp
 
 ## Salary guides
 
-Salaries change every year with inflation, so we update our salary posts regularly. For the latest figures across all roles, see our [Pricing page](/pricing). For role specific detail, each service page includes a salary section, and the city pages show how pay differs across Pakistan.
+Salaries change every year with inflation, and they depend on the role, experience, hours and city. Our salary posts explain what moves pay for each role, and our [Pricing page](/pricing) explains how salaries are agreed and how our placement fee works. For advice on a fair salary for your own requirement, message us on WhatsApp.
 
 ## Domestic staffing blog Pakistan: our editorial approach
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Chef in Gujranwala | Private and Home Chefs | RX Direct"
 description: "Hire a verified private chef in Gujranwala for DHA, Model Town and Satellite Town homes, family dawats, weddings and visits from relatives abroad."
-answer: "To hire a chef in Gujranwala, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, catering or large household experience who have passed a practical cooking test. Full-time private chefs in Gujranwala usually start around PKR 45,000 to 50,000 a month."
+answer: "To hire a chef in Gujranwala, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, catering or large household experience who have passed a practical cooking test."
 updated: 2026-10-03
 faqs:
   - q: "How much does a private chef cost in Gujranwala?"
-    a: "A full-time private chef in Gujranwala usually starts around PKR 45,000 to 50,000 a month. Chefs with hotel or catering experience typically earn PKR 60,000 to 85,000."
+    a: "It depends on the chef's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Gujranwala."
   - q: "Can I hire a chef when my family visits from abroad?"
     a: "Yes. Many Gujranwala families hire an event or short term chef for the weeks when relatives return from Europe, the UK or the Gulf."
   - q: "Do your chefs cook Gujranwala style BBQ and karahi?"
@@ -64,14 +64,9 @@ As a chef provider in Gujranwala, we follow four steps:
 3. **Tasting trial.** The chef cooks a meal in your kitchen.
 4. **Placement.** Confirm, with our 6 month replacement guarantee for full-time placements.
 
-## Home chef Gujranwala: salary guide for 2026
+## Home chef Gujranwala: salary and terms
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home chef, Pakistani and continental | 45,000 to 60,000 |
-| Chef with hotel or catering background | 60,000 to 80,000 |
-| Senior chef managing a large kitchen | 80,000 and above |
-| Short term or event chef | Priced per week or per event |
+The salary for a chef in Gujranwala depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing) for more.
 

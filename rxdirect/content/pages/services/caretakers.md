@@ -1,11 +1,11 @@
 ---
 title: "Hire Caretaker in Pakistan | Elderly and Patient Caretakers"
-description: "Hire a verified elderly caretaker in Pakistan for senior parents and patients. Patient caretakers and home caregivers, live-in or day shift, from PKR 30,000."
-answer: "To hire a caretaker in Pakistan through RX Direct, share the person's age, health, mobility, the help needed, hours and city. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients. Caretakers help with walking, bathing, toileting, meals, medicines on time and company, and salaries start around PKR 30,000 a month."
+description: "Hire a verified elderly caretaker in Pakistan for senior parents and patients. Patient caretakers and home caregivers, live-in or day shift, reference checked."
+answer: "To hire a caretaker in Pakistan through RX Direct, share the person's age, health, mobility, the help needed, hours and city. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients. Caretakers help with walking, bathing, toileting, meals, medicines on time and company."
 updated: 2026-10-02
 faqs:
   - q: "How much does an elderly caretaker cost in Pakistan?"
-    a: "A day shift caretaker in Pakistan usually starts at PKR 30,000 a month in 2026. Live-in caretakers typically earn PKR 35,000 to 45,000, more for parents with dementia, limited mobility or heavier care needs."
+    a: "It depends on the caretaker's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household."
   - q: "What does a caretaker do?"
     a: "A caretaker helps with daily living: getting up, walking, bathing, dressing, toileting, eating, giving tablets on time from a prepared schedule, keeping the room clean, accompanying the person to appointments and providing company."
   - q: "Is a caretaker the same as a nurse?"
@@ -62,14 +62,9 @@ Our caretaker service in Pakistan follows careful steps:
 4. **Meet and trial.** The caretaker meets the person and works a trial day with family present.
 5. **Placement.** Confirm, with our 6 month replacement guarantee.
 
-## Caretaker salary in Pakistan in 2026
+## Caretaker salary in Pakistan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day shift caretaker | 30,000 to 38,000 |
-| Live-in caretaker | 35,000 to 45,000 |
-| Caretaker for dementia or limited mobility | 40,000 to 50,000 |
-| Night caretaker | 32,000 to 42,000 |
+We do not publish fixed salary figures, because the right pay for a caretaker changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 See our [Pricing page](/pricing) for more.
 

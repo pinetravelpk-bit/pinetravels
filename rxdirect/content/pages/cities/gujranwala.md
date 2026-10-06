@@ -7,7 +7,7 @@ faqs:
   - q: "How do I hire domestic staff in Gujranwala?"
     a: "Message RX Direct with your area in Gujranwala, the role, hours, live-in or live-out preference and salary range. We shortlist verified candidates, usually within two to three days, you interview them and hold a trial before confirming."
   - q: "How much do domestic staff cost in Gujranwala?"
-    a: "In 2026, helpers, cleaners and guards in Gujranwala usually start around PKR 22,000 to 26,000, cooks and drivers around PKR 30,000 to 35,000, maids and nannies around PKR 35,000 to 40,000 and home nurses around PKR 55,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Which areas of Gujranwala do you cover?"
     a: "DHA Gujranwala, Model Town, Satellite Town, Citi Housing Gujranwala, Palm City, DC Colony, Peoples Colony, Wapda Town, Gulshan Colony, GT Road and nearby areas including Wazirabad and Kamoke."
   - q: "Do you place guards for houses whose owners live abroad?"
@@ -78,18 +78,11 @@ As a household staff agency in Gujranwala, we cover:
 - **GT Road, Sialkot Road and Pasrur Road areas**
 - **Nearby towns:** Wazirabad, Kamoke and Eminabad
 
-## Domestic staff salaries in Gujranwala in 2026
+## Domestic staff salaries in Gujranwala: what affects it
 
-| Role | Typical starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy | 22,000 to 26,000 |
-| Security guard (12 hour shift) | 22,000 to 28,000 |
-| Caretaker | 27,000 to 33,000 |
-| Cook, driver, personal attendant | 30,000 to 35,000 |
-| Maid, nanny | 35,000 to 40,000 |
-| Chef | 45,000 and above |
-| Home nurse | 55,000 and above |
-| Domestic couple (combined) | 55,000 and above |
+Pay for a domestic worker in Gujranwala is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
+
+In Gujranwala, the things that most often change the salary are the size of the house and the number of family members, whether the worker lives in or travels daily from nearby towns, how long the house is left in the worker's care while the family is abroad, and extra duties such as looking after elderly parents, driving or managing other staff. Clear duties agreed at the start make the right figure easy to settle.
 
 See our [Pricing page](/pricing) for more.
 

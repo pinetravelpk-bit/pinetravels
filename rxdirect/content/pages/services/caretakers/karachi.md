@@ -1,11 +1,11 @@
 ---
 title: "Hire Caretaker in Karachi | Elderly and Patient Caretakers"
 description: "Hire a verified elderly or patient caretaker in Karachi for senior parents, stroke and dementia care in DHA, Clifton, PECHS, Gulshan and North Nazimabad."
-answer: "To hire a caretaker in Karachi, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients, usually within two to three days. Day shift caretakers in Karachi usually start around PKR 32,000 to 39,000 a month, and live-in caretakers earn more."
+answer: "To hire a caretaker in Karachi, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a caretaker cost in Karachi?"
-    a: "A day shift caretaker in Karachi usually starts at PKR 32,000 to 39,000 a month in 2026. Live-in caretakers typically earn PKR 37,000 to 48,000, and caretakers for dementia or limited mobility earn PKR 42,000 to 53,000."
+    a: "It depends on the caretaker's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Karachi."
   - q: "Can a caretaker look after my parent living alone in a Karachi flat?"
     a: "Yes. Many elderly parents in Karachi live alone in flats in Clifton, PECHS, Gulshan and North Nazimabad. A live-in or day caretaker can support them, with a relative or neighbour checking in regularly."
   - q: "Can I hire a caretaker for my parents in Karachi while I live abroad?"
@@ -49,14 +49,9 @@ We ask references very specific questions: How did the caretaker treat your pare
 
 Our caretaker service in Karachi follows five steps. First, tell us about the person: age, health conditions, mobility, memory, daily routine and the help needed, plus hours and whether the caretaker will live in. Second, we shortlist two or three verified caretakers with matching experience, usually within two to three days. Third, you interview them at home or by video, and family members abroad can join. Fourth, a trial day or two with a family member present. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Caretaker salary in Karachi in 2026
+## Caretaker salary in Karachi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day shift caretaker | 32,000 to 40,000 |
-| Live-in caretaker | 37,000 to 48,000 |
-| Caretaker for dementia or limited mobility | 42,000 to 53,000 |
-| Night caretaker | 34,000 to 45,000 |
+Pay for a caretaker in Karachi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Day caretakers commuting long distances may ask for a travel allowance. Round the clock care usually needs a live-in caretaker with relief cover, or two caretakers on alternating shifts. See our [Pricing page](/pricing).
 

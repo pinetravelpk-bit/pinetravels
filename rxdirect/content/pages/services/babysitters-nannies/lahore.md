@@ -1,11 +1,11 @@
 ---
 title: "Hire Nanny in Lahore | Verified Nannies and Babysitters"
 description: "Hire a verified nanny or babysitter in Lahore for newborns, toddlers and school kids in DHA, Gulberg, Model Town, Johar Town and Bahria Town. Day or live-in."
-answer: "To hire a nanny in Lahore, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within two to four days. Full-time nannies in Lahore usually start around PKR 40,000 to 47,000 a month."
+answer: "To hire a nanny in Lahore, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a nanny cost in Lahore?"
-    a: "A full-time day nanny in Lahore usually starts at PKR 40,000 to 47,000 a month in 2026. Newborn nannies, live-in nannies and English speaking nannies typically earn PKR 48,000 to 65,000. Babysitters for occasional hours are paid per visit."
+    a: "It depends on the nanny's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Lahore."
   - q: "Can I find a babysitter in Lahore for a wedding?"
     a: "Yes. Lahore's wedding season is busy, and many families book a babysitter to look after children at the venue or at home during functions. Tell us the dates early."
   - q: "Do you have English speaking nannies in Lahore?"
@@ -53,16 +53,9 @@ We ask references very specific questions: How did the children react to her? Di
 
 Our nanny service in Lahore follows five careful steps. First, your brief: children's ages, routines, hours, live-in or day, special needs and preferences such as English. Second, a shortlist of two or three verified nannies with relevant experience, usually within two to four days. Third, interviews, ideally with your child present for part of the meeting. Fourth, a trial at home with you present. Fifth, placement, with our 6 month replacement guarantee.
 
-## Nanny salary in Lahore in 2026
+## Nanny salary in Lahore: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day nanny, toddler or school child | 40,000 to 48,000 |
-| Newborn nanny | 48,000 to 60,000 |
-| Live-in nanny | 45,000 to 60,000 |
-| English speaking nanny | 48,000 to 65,000 |
-| Nanny for twins or night duty | 55,000 to 65,000 |
-| Babysitter, occasional | Per visit or hourly |
+We do not publish fixed salary figures, because the right pay for a nanny in Lahore changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Nannies with formal childcare training and long references are at the higher end. See our [Pricing page](/pricing) for more.
 

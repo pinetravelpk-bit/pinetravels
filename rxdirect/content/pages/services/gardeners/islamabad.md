@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Islamabad | Verified Mali for Home | RX Direct"
 description: "Hire a verified gardener (mali) in Islamabad for lawns, hedges, trees and seasonal flowers in F, E and G sectors, DHA, Bahria Town and farmhouses."
-answer: "To hire a gardener in Islamabad, tell RX Direct your sector, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Islamabad's plants and seasons, usually within two to three days. Full-time gardeners in Islamabad usually start around PKR 26,000 to 30,000 a month, and visit based gardeners cost less."
+answer: "To hire a gardener in Islamabad, tell RX Direct your sector, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Islamabad's plants and seasons, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a mali cost in Islamabad?"
-    a: "A full-time gardener in Islamabad usually starts at PKR 26,000 to 30,000 a month in 2026. Gardeners for farmhouses and large plots typically earn PKR 30,000 to 38,000. Visit based malis coming two or three times a week cost PKR 8,000 to 18,000 a month, depending on garden size."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "When should I plant winter flowers in Islamabad?"
     a: "Winter annuals such as petunias, pansies, calendula and sweet peas are usually sown or planted from late September to November in Islamabad, so they flower from February to April."
   - q: "Can a gardener look after my farmhouse on Park Road or in Chak Shahzad?"
@@ -50,15 +50,9 @@ Our gardener service in Islamabad offers three main arrangements. A **full-time 
 
 As a gardener provider in Islamabad, we keep the process simple. You tell us your sector, garden size, what you grow, how often you need help and your budget. We shortlist verified gardeners, usually within two to three days. The gardener walks through the garden with you and suggests what needs doing, which tells you a lot about their knowledge. A short trial follows. Then you confirm, and the 6 month replacement guarantee applies to full-time placements.
 
-## Gardener salary in Islamabad in 2026
+## Gardener salary in Islamabad: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 26,000 to 34,000 per month |
-| Farmhouse or large plot gardener | 30,000 to 38,000 per month |
-| Gardener visiting 3 times a week | 12,000 to 18,000 per month |
-| Gardener visiting twice a week | 8,000 to 13,000 per month |
-| Seasonal or one-time work | Quoted by job |
+Pay for a gardener in Islamabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Seeds, plants, fertiliser and tools are usually bought by the family. See our [Pricing page](/pricing).
 

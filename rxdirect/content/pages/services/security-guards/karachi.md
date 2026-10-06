@@ -1,11 +1,11 @@
 ---
 title: "Hire Security Guard in Karachi | Verified Home Guards"
 description: "Hire a verified security guard in Karachi for homes, offices and shops in DHA, Clifton, PECHS, Gulshan and Bahria Town Karachi. Police certificate checked."
-answer: "To hire a security guard in Karachi, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army, FC or Rangers backgrounds, usually within 24 to 72 hours. Residential guards in Karachi usually start around PKR 28,000 to 33,000 a month for a 12 hour shift."
+answer: "To hire a security guard in Karachi, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army, FC or Rangers backgrounds, usually within 24 to 72 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a security guard cost in Karachi?"
-    a: "A residential security guard in Karachi usually starts at PKR 28,000 to 33,000 a month for a 12 hour shift in 2026. Night guards and ex-forces guards typically earn PKR 31,000 to 42,000. Round the clock cover needs two guards."
+    a: "It depends on the security guard's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Karachi."
   - q: "Do your guards in Karachi have police certificates?"
     a: "Yes. A police character certificate is required for every guard we place, along with CNIC, address and reference checks, and the service record for ex-forces guards."
   - q: "Do I need to register my guard with Sindh Police?"
@@ -50,14 +50,9 @@ We also brief every guard before placement on visitor logs, ID checks, emergency
 
 Our security guard service in Karachi follows five steps. First, we assess your needs: premises type, size, number of gates, shift timings and any specific concerns. Second, we recommend how many guards and which shifts make sense. Third, we shortlist verified guards, usually within 24 to 72 hours. Fourth, you interview them in person or by video and start with a trial shift. Fifth, you confirm, and the 6 month replacement guarantee begins. Relief guards can be arranged for days off and leave.
 
-## Security guard salary in Karachi in 2026
+## Security guard salary in Karachi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day guard, 12 hour shift | 28,000 to 34,000 |
-| Night guard, 12 hour shift | 31,000 to 37,000 |
-| Ex-army, FC or Rangers guard | 33,000 to 42,000 |
-| Supervisor for a team of guards | 45,000 and above |
+Pay for a security guard in Karachi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Salaries are paid directly by the client. Uniforms, a torch, a whistle, a raincoat and a basic shelter with a fan at the gate are usually provided by the client. Travel is a real cost in Karachi, so guards commuting long distances may ask for a travel allowance. See our [Pricing page](/pricing) for more.
 

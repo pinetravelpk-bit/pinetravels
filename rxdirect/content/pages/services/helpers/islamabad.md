@@ -1,11 +1,11 @@
 ---
 title: "Hire Helper in Islamabad | Domestic and Kitchen Helpers"
 description: "Hire a verified domestic helper in Islamabad for kitchen help, dishes, errands and chores. Home helpers for F, E and G sectors, DHA and Bahria Town."
-answer: "To hire a helper in Islamabad, tell RX Direct your sector, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within 24 to 48 hours. Full-time home helpers in Islamabad usually start around PKR 27,000 to 30,000 a month."
+answer: "To hire a helper in Islamabad, tell RX Direct your sector, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a helper cost in Islamabad?"
-    a: "A full-time domestic helper in Islamabad usually starts at PKR 27,000 to 30,000 a month in 2026. Helpers trusted with errands, cash or children typically earn PKR 30,000 to 38,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "What does a domestic helper do in Islamabad homes?"
     a: "Helpers wash dishes, help the cook with prep, sweep and dust, take out rubbish, carry groceries, run errands, serve tea to guests and help the maid with laundry."
   - q: "Can a helper support my cook in a busy kitchen?"
@@ -48,14 +48,9 @@ Helpers are often younger and earlier in their working lives, so references and 
 
 Our helper service in Islamabad follows five steps. You tell us your sector, the main chores, who the helper will work alongside, the hours and your salary range. We send two or three verified helpers, usually within 24 to 48 hours. You interview them, ideally with your cook or maid present. A short trial in your home follows. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Helper salary in Islamabad in 2026
+## Helper salary in Islamabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 13,000 to 20,000 |
-| Full-time live-out helper | 27,000 to 32,000 |
-| Full-time live-in helper | 27,000 to 34,000 |
-| Helper with errands, cash or child support | 30,000 to 38,000 |
+The salary for a helper in Islamabad depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Helpers also expect an Eid bonus, a weekly day off and fair treatment. See our [Pricing page](/pricing).
 

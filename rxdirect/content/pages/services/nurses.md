@@ -1,11 +1,11 @@
 ---
 title: "Hire Home Nurse in Pakistan | Verified Private Nurses"
-description: "Hire a verified home nurse in Pakistan for patient care, post surgery recovery and elderly care. Qualification checked private nurses from PKR 60,000 a month."
-answer: "To hire a home nurse in Pakistan through RX Direct, share the patient's age, condition, the care needed, hours and city. We shortlist qualified nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been checked. Home nurses handle injections, wound care, catheters, NG tubes and vital signs, and salaries start around PKR 60,000 a month."
+description: "Hire a verified home nurse in Pakistan for patient care, post surgery recovery and elderly care. Qualification checked private nurses, day or night shifts."
+answer: "To hire a home nurse in Pakistan through RX Direct, share the patient's age, condition, the care needed, hours and city. We shortlist qualified nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been checked. Home nurses handle injections, wound care, catheters, NG tubes and vital signs."
 updated: 2026-10-02
 faqs:
   - q: "How much does a home nurse cost in Pakistan?"
-    a: "A qualified home nurse in Pakistan usually starts at PKR 60,000 a month in 2026 for a 12 hour shift. Night duty, live-in care and ICU level experience typically cost PKR 65,000 to 100,000."
+    a: "It depends on the home nurse's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household."
   - q: "What can a home nurse do?"
     a: "A home nurse can give injections, manage IV drips and cannulas, dress wounds, care for catheters, colostomy bags and NG tubes, monitor blood pressure, sugar and oxygen, manage complex medicines and recognise when the patient needs hospital care."
   - q: "Do you check nursing qualifications?"
@@ -66,15 +66,9 @@ Our home nurse service in Pakistan is designed to move quickly, because medical 
 4. **Meet the nurse.** Speak with the nurse and confirm the care plan.
 5. **Placement.** The nurse starts, with our 6 month replacement guarantee for longer placements.
 
-## Home nurse salary in Pakistan in 2026
+## Home nurse salary in Pakistan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home nurse, 12 hour day shift | 60,000 to 70,000 |
-| Home nurse, night shift | 65,000 to 75,000 |
-| Live-in home nurse | 70,000 to 90,000 |
-| ICU or ventilator level care | 80,000 to 100,000 and above |
-| Short term, post surgery | Weekly or monthly rates agreed in advance |
+Pay for a home nurse is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 See our [Pricing page](/pricing) for more.
 

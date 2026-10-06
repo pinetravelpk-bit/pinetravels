@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Lahore | Verified House Maids | RX Direct"
 description: "Hire a verified house maid in Lahore for DHA, Gulberg, Model Town, Johar Town and Bahria Town. Live-in or live-out home maids, CNIC and reference checked."
-answer: "To hire a maid in Lahore, tell RX Direct your area, house size, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within 24 to 48 hours, and you hold a trial at home. Full-time house maids in Lahore usually start around PKR 42,000 to 48,000 a month."
+answer: "To hire a maid in Lahore, tell RX Direct your area, house size, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within 24 to 48 hours, and you hold a trial at home."
 updated: 2026-10-03
 faqs:
   - q: "What is a maid's salary in Lahore?"
-    a: "A full-time house maid in Lahore usually earns PKR 42,000 to 48,000 a month in 2026, more in DHA and Gulberg or for maids with cooking or childcare duties. Part-time maids usually earn PKR 16,000 to 25,000."
+    a: "It depends on the maid's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Lahore."
   - q: "Can I get a live-in maid in Lahore?"
     a: "Yes. Live-in maids are common in DHA, Bahria Town, Lake City and larger homes in Model Town and Gulberg. Many come from Kasur, Okara, Sheikhupura and South Punjab."
   - q: "Which areas of Lahore do you cover for maids?"
@@ -49,14 +49,9 @@ Every verified maid in Lahore placed by RX Direct goes through:
 
 Our maid service in Lahore follows five steps. You share your area, house size, household, duties, hours, arrangement and salary range. We send two or three verified maids, usually within 24 to 48 hours. You interview them by phone, video or in person. Your chosen maid works a trial day at home. Then you confirm, and the 6 month replacement guarantee begins. The shortlist and interviews are free.
 
-## Maid salary in Lahore in 2026
+## Maid salary in Lahore: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 16,000 to 25,000 |
-| Full-time live-out maid | 42,000 to 48,000 |
-| Full-time live-in maid | 42,000 to 52,000 |
-| Maid with cooking or childcare duties | 50,000 to 58,000 |
+Every household is different, so the salary for a maid in Lahore is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 DHA and Gulberg households are at the higher end. Most maids also expect an Eid bonus, a yearly increase and a weekly day off. See our [Pricing page](/pricing).
 

@@ -41,22 +41,22 @@ const rawServices: ServiceCategory[] = [
     },
     name: { en: "Cooks", ur: "باورچی" },
     shortDesc: {
-      en: "Home cooks for daily Pakistani, continental and family meals, on a monthly salary starting at PKR 35,000.",
-      ur: "روزمرہ پاکستانی، کانٹیننٹل اور خاندانی کھانوں کے لیے گھریلو باورچی، ماہانہ تنخواہ 35,000 روپے سے شروع۔",
+      en: "Home cooks for daily Pakistani, continental and family meals, live-in or live-out.",
+      ur: "روزمرہ پاکستانی، کانٹیننٹل اور خاندانی کھانوں کے لیے گھریلو باورچی، لِیو اِن یا لِیو آؤٹ۔",
     },
     intro: {
-      en: "A home cook handles your household's day-to-day meals, breakfast, lunch and dinner, prepared to your family's taste and dietary needs. RX Direct places experienced home cooks starting at PKR 35,000/month, background-checked and matched to your cuisine preferences, whether that's everyday desi cooking, continental dishes or diet-specific meals for elderly or unwell family members. Distinct from a professional chef, a home cook is the right fit for routine family meals rather than event catering or fine dining.",
-      ur: "گھریلو باورچی آپ کے گھر کے روزمرہ کھانوں, ناشتہ، دوپہر اور رات کا کھانا, آپ کے خاندان کے ذائقے اور غذائی ضروریات کے مطابق تیار کرتا ہے۔ آر ایکس ڈائریکٹ 35,000 روپے ماہانہ سے شروع ہونے والے تجربہ کار گھریلو باورچی فراہم کرتا ہے، جو پس منظر کی جانچ کے ساتھ آپ کے کھانے کی ترجیحات سے میل کھاتے ہیں, چاہے وہ روزمرہ دیسی کھانا ہو، کانٹیننٹل ڈشز ہوں یا بزرگ یا بیمار افراد کے لیے مخصوص خوراک۔ پیشہ ور شیف کے برعکس، گھریلو باورچی معمول کے خاندانی کھانوں کے لیے موزوں ہے نہ کہ تقریبات کی کیٹرنگ یا فائن ڈائننگ کے لیے۔",
+      en: "A home cook handles your household's day-to-day meals, breakfast, lunch and dinner, prepared to your family's taste and dietary needs. RX Direct places experienced home cooks, background-checked and matched to your cuisine preferences, whether that's everyday desi cooking, continental dishes or diet-specific meals for elderly or unwell family members. Distinct from a professional chef, a home cook is the right fit for routine family meals rather than event catering or fine dining.",
+      ur: "گھریلو باورچی آپ کے گھر کے روزمرہ کھانوں, ناشتہ، دوپہر اور رات کا کھانا, آپ کے خاندان کے ذائقے اور غذائی ضروریات کے مطابق تیار کرتا ہے۔ آر ایکس ڈائریکٹ تجربہ کار گھریلو باورچی فراہم کرتا ہے، جو پس منظر کی جانچ کے ساتھ آپ کے کھانے کی ترجیحات سے میل کھاتے ہیں, چاہے وہ روزمرہ دیسی کھانا ہو، کانٹیننٹل ڈشز ہوں یا بزرگ یا بیمار افراد کے لیے مخصوص خوراک۔ پیشہ ور شیف کے برعکس، گھریلو باورچی معمول کے خاندانی کھانوں کے لیے موزوں ہے نہ کہ تقریبات کی کیٹرنگ یا فائن ڈائننگ کے لیے۔",
     },
     benefits: {
       en: [
-        "Starting salary PKR 35,000/month, live-in or live-out",
+        "Live-in or live-out arrangements",
         "Daily Pakistani, continental and family-style cooking",
         "Trial period before permanent hiring",
         "Hygiene and food-safety trained",
       ],
       ur: [
-        "35,000 روپے ماہانہ سے شروع، لِیو اِن یا لِیو آؤٹ",
+        "لِیو اِن یا لِیو آؤٹ انتظام",
         "روزانہ پاکستانی، کانٹیننٹل اور خاندانی طرز کا کھانا",
         "مستقل تقرری سے پہلے آزمائشی مدت",
         "حفظانِ صحت اور فوڈ سیفٹی کی تربیت یافتہ",
@@ -87,22 +87,20 @@ const rawServices: ServiceCategory[] = [
     },
     name: { en: "Chefs", ur: "شیف" },
     shortDesc: {
-      en: "Professional chefs for entertaining, events and elevated household dining, starting at PKR 50,000/month.",
-      ur: "مہمان نوازی، تقریبات اور بلند معیار کے گھریلو کھانوں کے لیے پیشہ ور شیف، 50,000 روپے ماہانہ سے شروع۔",
+      en: "Professional chefs for entertaining, events and elevated household dining.",
+      ur: "مہمان نوازی، تقریبات اور بلند معیار کے گھریلو کھانوں کے لیے پیشہ ور شیف۔",
     },
     intro: {
-      en: "A professional chef brings a higher tier of culinary skill, ideal for households that entertain regularly, run a home-based catering setup, or simply want restaurant-quality meals every day. RX Direct places trained chefs starting at PKR 50,000/month with experience across Pakistani, continental, Chinese and fusion menus, multi-course planning and event-scale cooking. Every chef is interviewed, tested on practical skills and reference-checked before being shortlisted.",
-      ur: "پیشہ ور شیف اعلیٰ درجے کی پکوان مہارت لاتا ہے، ان گھرانوں کے لیے مثالی جو باقاعدگی سے مہمان نوازی کرتے ہیں، گھر سے کیٹرنگ چلاتے ہیں، یا روزانہ ریستوران جیسے معیار کا کھانا چاہتے ہیں۔ آر ایکس ڈائریکٹ 50,000 روپے ماہانہ سے شروع ہونے والے تربیت یافتہ شیف فراہم کرتا ہے جو پاکستانی، کانٹیننٹل، چائنیز اور فیوژن مینیو، ملٹی کورس منصوبہ بندی اور تقریباتی سطح کے کھانا پکانے کا تجربہ رکھتے ہیں۔ ہر شیف کو منتخب کرنے سے پہلے انٹرویو، عملی مہارت کا امتحان اور حوالہ جات کی جانچ سے گزارا جاتا ہے۔",
+      en: "A professional chef brings a higher tier of culinary skill, ideal for households that entertain regularly, run a home-based catering setup, or simply want restaurant-quality meals every day. RX Direct places trained chefs with experience across Pakistani, continental, Chinese and fusion menus, multi-course planning and event-scale cooking. Every chef is interviewed, tested on practical skills and reference-checked before being shortlisted.",
+      ur: "پیشہ ور شیف اعلیٰ درجے کی پکوان مہارت لاتا ہے، ان گھرانوں کے لیے مثالی جو باقاعدگی سے مہمان نوازی کرتے ہیں، گھر سے کیٹرنگ چلاتے ہیں، یا روزانہ ریستوران جیسے معیار کا کھانا چاہتے ہیں۔ آر ایکس ڈائریکٹ تربیت یافتہ شیف فراہم کرتا ہے جو پاکستانی، کانٹیننٹل، چائنیز اور فیوژن مینیو، ملٹی کورس منصوبہ بندی اور تقریباتی سطح کے کھانا پکانے کا تجربہ رکھتے ہیں۔ ہر شیف کو منتخب کرنے سے پہلے انٹرویو، عملی مہارت کا امتحان اور حوالہ جات کی جانچ سے گزارا جاتا ہے۔",
     },
     benefits: {
       en: [
-        "Starting salary PKR 50,000/month",
         "Experience with multi-course, event-scale and fusion menus",
         "Practical cooking skills test before shortlisting",
         "Suitable for households that entertain or host frequently",
       ],
       ur: [
-        "50,000 روپے ماہانہ سے شروع",
         "ملٹی کورس، تقریباتی سطح اور فیوژن مینیو کا تجربہ",
         "منتخب ہونے سے پہلے عملی کھانا پکانے کی مہارت کا امتحان",
         "اکثر مہمان نوازی کرنے والے گھرانوں کے لیے موزوں",
@@ -179,22 +177,20 @@ const rawServices: ServiceCategory[] = [
     },
     name: { en: "Maids", ur: "ملازمہ" },
     shortDesc: {
-      en: "Full household maids for cleaning, laundry and daily upkeep, starting at PKR 40,000/month.",
-      ur: "صفائی، کپڑے دھونے اور روزمرہ نگہداشت کے لیے مکمل گھریلو ملازمہ، 40,000 روپے ماہانہ سے شروع۔",
+      en: "Full household maids for cleaning, laundry and daily upkeep.",
+      ur: "صفائی، کپڑے دھونے اور روزمرہ نگہداشت کے لیے مکمل گھریلو ملازمہ۔",
     },
     intro: {
-      en: "A maid takes on the full spread of household upkeep, cleaning, laundry, ironing, bed-making and general tidying, so your home runs smoothly day to day. RX Direct places experienced maids starting at PKR 40,000/month, matched to your household's routine, language preference and live-in or live-out needs. Every maid is interviewed and reference-checked before being shortlisted, with a trial period before any long-term placement.",
-      ur: "ملازمہ گھر کی مکمل دیکھ بھال, صفائی، کپڑے دھونا، استری، بستر بنانا اور عمومی ترتیب, سنبھالتی ہے تاکہ آپ کا گھر روزانہ ہموار طریقے سے چلے۔ آر ایکس ڈائریکٹ 40,000 روپے ماہانہ سے شروع ہونے والی تجربہ کار ملازمہ فراہم کرتا ہے، جو آپ کے گھر کے معمول، زبان کی ترجیح اور لِیو اِن یا لِیو آؤٹ ضروریات کے مطابق منتخب کی جاتی ہیں۔ ہر ملازمہ کو منتخب کرنے سے پہلے انٹرویو اور حوالہ جات کی جانچ سے گزارا جاتا ہے، طویل مدتی تقرری سے پہلے آزمائشی مدت کے ساتھ۔",
+      en: "A maid takes on the full spread of household upkeep, cleaning, laundry, ironing, bed-making and general tidying, so your home runs smoothly day to day. RX Direct places experienced maids, matched to your household's routine, language preference and live-in or live-out needs. Every maid is interviewed and reference-checked before being shortlisted, with a trial period before any long-term placement.",
+      ur: "ملازمہ گھر کی مکمل دیکھ بھال, صفائی، کپڑے دھونا، استری، بستر بنانا اور عمومی ترتیب, سنبھالتی ہے تاکہ آپ کا گھر روزانہ ہموار طریقے سے چلے۔ آر ایکس ڈائریکٹ تجربہ کار ملازمہ فراہم کرتا ہے، جو آپ کے گھر کے معمول، زبان کی ترجیح اور لِیو اِن یا لِیو آؤٹ ضروریات کے مطابق منتخب کی جاتی ہیں۔ ہر ملازمہ کو منتخب کرنے سے پہلے انٹرویو اور حوالہ جات کی جانچ سے گزارا جاتا ہے، طویل مدتی تقرری سے پہلے آزمائشی مدت کے ساتھ۔",
     },
     benefits: {
       en: [
-        "Starting salary PKR 40,000/month",
         "Full household cleaning, laundry & upkeep",
         "Live-in or live-out options",
         "Matched to your household routine & language",
       ],
       ur: [
-        "40,000 روپے ماہانہ سے شروع",
         "مکمل گھریلو صفائی، کپڑے دھونا اور دیکھ بھال",
         "لِیو اِن یا لِیو آؤٹ کے اختیارات",
         "آپ کے گھریلو معمول اور زبان کے مطابق انتخاب",
@@ -225,22 +221,20 @@ const rawServices: ServiceCategory[] = [
     },
     name: { en: "Helpers", ur: "ہیلپرز" },
     shortDesc: {
-      en: "General & kitchen helpers for daily chores and support to your cook or maid, starting at PKR 25,000/month.",
-      ur: "روزمرہ کاموں اور آپ کے باورچی یا ملازمہ کی مدد کے لیے عمومی اور کچن ہیلپرز، 25,000 روپے ماہانہ سے شروع۔",
+      en: "General & kitchen helpers for daily chores and support to your cook or maid.",
+      ur: "روزمرہ کاموں اور آپ کے باورچی یا ملازمہ کی مدد کے لیے عمومی اور کچن ہیلپرز۔",
     },
     intro: {
-      en: "A helper supports the rest of your household staff or handles lighter daily chores on their own, dishwashing, kitchen prep, tidying, and running errands. Kitchen helpers specifically assist your cook with chopping, cleanup and prep work, ideal for busy households or when one cook alone can't keep up. RX Direct places helpers starting at PKR 25,000/month, background-checked and matched to your household's needs.",
-      ur: "ہیلپر آپ کے باقی گھریلو عملے کی مدد کرتا ہے یا خود ہلکے روزمرہ کام سنبھالتا ہے, برتن دھونا، کچن کی تیاری، ترتیب دینا اور کام نبٹانا۔ کچن ہیلپر خاص طور پر آپ کے باورچی کی کاٹنے، صفائی اور تیاری کے کام میں مدد کرتا ہے، مصروف گھرانوں کے لیے مثالی یا جب اکیلا باورچی سنبھال نہ سکے۔ آر ایکس ڈائریکٹ 25,000 روپے ماہانہ سے شروع ہونے والے ہیلپرز فراہم کرتا ہے، پس منظر کی جانچ کے ساتھ آپ کے گھر کی ضروریات سے مطابقت رکھتے ہوئے۔",
+      en: "A helper supports the rest of your household staff or handles lighter daily chores on their own, dishwashing, kitchen prep, tidying, and running errands. Kitchen helpers specifically assist your cook with chopping, cleanup and prep work, ideal for busy households or when one cook alone can't keep up. RX Direct places helpers, background-checked and matched to your household's needs.",
+      ur: "ہیلپر آپ کے باقی گھریلو عملے کی مدد کرتا ہے یا خود ہلکے روزمرہ کام سنبھالتا ہے, برتن دھونا، کچن کی تیاری، ترتیب دینا اور کام نبٹانا۔ کچن ہیلپر خاص طور پر آپ کے باورچی کی کاٹنے، صفائی اور تیاری کے کام میں مدد کرتا ہے، مصروف گھرانوں کے لیے مثالی یا جب اکیلا باورچی سنبھال نہ سکے۔ آر ایکس ڈائریکٹ ہیلپرز فراہم کرتا ہے، پس منظر کی جانچ کے ساتھ آپ کے گھر کی ضروریات سے مطابقت رکھتے ہوئے۔",
     },
     benefits: {
       en: [
-        "Starting salary PKR 25,000/month",
         "Kitchen prep, cleanup and general chore support",
         "Ideal alongside a cook, maid or larger household staff",
         "Live-in or live-out options",
       ],
       ur: [
-        "25,000 روپے ماہانہ سے شروع",
         "کچن کی تیاری، صفائی اور عمومی کاموں میں مدد",
         "باورچی، ملازمہ یا بڑے گھریلو عملے کے ساتھ مثالی",
         "لِیو اِن یا لِیو آؤٹ کے اختیارات",
@@ -639,22 +633,20 @@ const rawServices: ServiceCategory[] = [
     },
     name: { en: "Batman (Personal Attendant)", ur: "بیٹ مین (ذاتی معاون)" },
     shortDesc: {
-      en: "A dedicated personal attendant (batman/NCB) for daily errands, packing, scheduling and personal support, starting at PKR 35,000/month.",
-      ur: "روزمرہ کاموں، سامان کی تیاری، شیڈولنگ اور ذاتی معاونت کے لیے مخصوص ذاتی معاون (بیٹ مین/این سی بی)، 35,000 روپے ماہانہ سے شروع۔",
+      en: "A dedicated personal attendant (batman/NCB) for daily errands, packing, scheduling and personal support.",
+      ur: "روزمرہ کاموں، سامان کی تیاری، شیڈولنگ اور ذاتی معاونت کے لیے مخصوص ذاتی معاون (بیٹ مین/این سی بی)۔",
     },
     intro: {
-      en: "A batman, sometimes referred to as an NCB (non-combatant batman) in military and officer households, is a dedicated personal attendant who manages the day-to-day needs of the person they serve: laying out and caring for clothes, packing for travel, running errands, keeping personal spaces organized and assisting with schedules. It's a role common in officers' and executive households across Pakistan, distinct from a general household helper because the focus is on one individual's personal routine rather than the whole home. RX Direct places disciplined, reliable batmen starting at PKR 35,000/month, background-checked and reference-verified before placement.",
-      ur: "بیٹ مین، جسے فوجی اور افسر گھرانوں میں کبھی کبھی این سی بی (نان کمبیٹنٹ بیٹ مین) کہا جاتا ہے، ایک مخصوص ذاتی معاون ہے جو اپنے آجر کی روزمرہ ضروریات سنبھالتا ہے: کپڑوں کی ترتیب و دیکھ بھال، سفر کے لیے سامان کی تیاری، کام نبٹانا، ذاتی جگہوں کو منظم رکھنا اور شیڈول میں مدد۔ یہ کردار پاکستان بھر کے افسروں اور ایگزیکٹو گھرانوں میں عام ہے، عمومی گھریلو ہیلپر سے مختلف کیونکہ توجہ پورے گھر کے بجائے ایک فرد کے ذاتی معمول پر مرکوز ہوتی ہے۔ آر ایکس ڈائریکٹ 35,000 روپے ماہانہ سے شروع ہونے والے نظم و ضبط والے، قابلِ اعتماد بیٹ مین فراہم کرتا ہے، تقرری سے پہلے پس منظر کی جانچ اور حوالہ جات کی تصدیق کے ساتھ۔",
+      en: "A batman, sometimes referred to as an NCB (non-combatant batman) in military and officer households, is a dedicated personal attendant who manages the day-to-day needs of the person they serve: laying out and caring for clothes, packing for travel, running errands, keeping personal spaces organized and assisting with schedules. It's a role common in officers' and executive households across Pakistan, distinct from a general household helper because the focus is on one individual's personal routine rather than the whole home. RX Direct places disciplined, reliable batmen, background-checked and reference-verified before placement.",
+      ur: "بیٹ مین، جسے فوجی اور افسر گھرانوں میں کبھی کبھی این سی بی (نان کمبیٹنٹ بیٹ مین) کہا جاتا ہے، ایک مخصوص ذاتی معاون ہے جو اپنے آجر کی روزمرہ ضروریات سنبھالتا ہے: کپڑوں کی ترتیب و دیکھ بھال، سفر کے لیے سامان کی تیاری، کام نبٹانا، ذاتی جگہوں کو منظم رکھنا اور شیڈول میں مدد۔ یہ کردار پاکستان بھر کے افسروں اور ایگزیکٹو گھرانوں میں عام ہے، عمومی گھریلو ہیلپر سے مختلف کیونکہ توجہ پورے گھر کے بجائے ایک فرد کے ذاتی معمول پر مرکوز ہوتی ہے۔ آر ایکس ڈائریکٹ نظم و ضبط والے، قابلِ اعتماد بیٹ مین فراہم کرتا ہے، تقرری سے پہلے پس منظر کی جانچ اور حوالہ جات کی تصدیق کے ساتھ۔",
     },
     benefits: {
       en: [
-        "Starting salary PKR 35,000/month",
         "Dedicated one-on-one personal support, not shared household duties",
         "Experience with travel packing, errands and schedule management",
         "Disciplined, presentable and reliable candidates",
       ],
       ur: [
-        "35,000 روپے ماہانہ سے شروع",
         "مخصوص ذاتی معاونت، مشترکہ گھریلو ذمہ داریوں کے بجائے",
         "سفر کی تیاری، کاموں اور شیڈول کے انتظام کا تجربہ",
         "نظم و ضبط، خوش لباس اور قابلِ اعتماد امیدوار",

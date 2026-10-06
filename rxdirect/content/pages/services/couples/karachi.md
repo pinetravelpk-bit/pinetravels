@@ -1,11 +1,11 @@
 ---
 title: "Hire Domestic Couple in Karachi | Husband Wife Staff"
 description: "Hire a verified domestic couple in Karachi: husband and wife staff for bungalows in DHA and Clifton, large homes in PECHS and farmhouses on the Super Highway."
-answer: "To hire a domestic couple in Karachi, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days. Live-in domestic couples in Karachi usually start around PKR 63,000 to 73,000 a month combined."
+answer: "To hire a domestic couple in Karachi, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a domestic couple cost in Karachi?"
-    a: "Live-in domestic couples in Karachi usually start at PKR 63,000 to 73,000 a month combined in 2026. Couples with skilled roles such as cooking and driving typically earn PKR 73,000 to 100,000 together, plus accommodation."
+    a: "It depends on the domestic couple's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Karachi."
   - q: "Do you place couples for farmhouses on the Super Highway?"
     a: "Yes. Couples suit farmhouses along the Super Highway, Gadap and the Hub Road side, usually with the wife handling the house and the husband the gate, garden and maintenance."
   - q: "What accommodation does a live-in couple need?"
@@ -58,14 +58,9 @@ Interviewing each partner separately helps us understand whether both are genuin
 
 Our domestic couple service in Karachi follows five steps. First, you tell us about the property, the duties for each partner, the accommodation available, whether children can live on site and your budget. Second, we shortlist verified couples, usually within three to five days. Third, you interview both partners at the property or by video. Fourth, a short trial, during which the couple moves into the quarter. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Domestic couple salaries in Karachi in 2026
+## Domestic couple salaries in Karachi: what affects it
 
-| Arrangement | Typical combined monthly salary (PKR) |
-|---|---|
-| Maid and helper or gardener | 63,000 to 73,000 |
-| Cook and driver | 73,000 to 95,000 |
-| Housekeeper and guard for farmhouse | 68,000 to 90,000 |
-| Senior couple, large household | 90,000 to 100,000 and above |
+Pay for a domestic couple in Karachi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Accommodation, utilities and meals are usually provided. Some families pay each partner separately, others pay a combined salary. Agree this clearly. See our [Pricing page](/pricing).
 

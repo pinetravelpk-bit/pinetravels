@@ -137,7 +137,7 @@ Spending a modest amount on quarters often saves far more in replacement costs l
 
 ## Salaries for a household team
 
-When you plan a whole team, the monthly cost adds up quickly, so budget honestly. In Islamabad in 2026, expect roughly PKR 35,000 to 65,000 for a cook, PKR 40,000 to 55,000 for a full-time maid, PKR 35,000 to 55,000 for a driver, from PKR 25,000 for helpers and gardeners, and from PKR 25,000 per guard per shift. A combined cook and driver couple usually earns PKR 70,000 to 95,000 together. Add Eid bonuses, a yearly increase, food and utilities for live-in staff. Our [pricing page](/pricing) explains these figures by role.
+When you plan a whole team, the monthly cost adds up quickly, so budget honestly. Add Eid bonuses, a yearly increase, food and utilities for live-in staff. Remember that each role is paid on its own terms: a cook's pay depends on the number of meals and the cuisines, a driver's on hours and weekend duty, a maid's on the size of the house and whether she lives in. Our [pricing page](/pricing) explains what moves the salary for each role.
 
 ## Managing the team day to day
 

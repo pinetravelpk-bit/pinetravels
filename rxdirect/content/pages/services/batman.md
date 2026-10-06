@@ -1,13 +1,13 @@
 ---
 title: "Hire Personal Attendant in Pakistan | Batman for Home"
 description: "Hire a verified personal attendant (batman) in Pakistan for retired officers, senior family members and busy professionals. Household attendants checked."
-answer: "To hire a personal attendant in Pakistan through RX Direct, tell us who the attendant will serve, their routine, the duties and your city. We shortlist CNIC, address and reference checked attendants, many with experience serving retired officers. A batman for home handles clothes, shoes, medicines, errands and daily needs, and salaries start around PKR 35,000 a month."
+answer: "To hire a personal attendant in Pakistan through RX Direct, tell us who the attendant will serve, their routine, the duties and your city. We shortlist CNIC, address and reference checked attendants, many with experience serving retired officers. A batman for home handles clothes, shoes, medicines, errands and daily needs."
 updated: 2026-10-02
 faqs:
   - q: "What is a batman or personal attendant?"
     a: "A batman or personal attendant serves one person's daily needs: preparing clothes and uniforms, polishing shoes, managing their room, serving meals and tea, handling medicines on schedule, running personal errands and accompanying them when needed."
   - q: "How much does a personal attendant cost in Pakistan?"
-    a: "A personal attendant in Pakistan usually starts at PKR 35,000 a month in 2026. Live-in attendants and those serving senior officers or elderly people with care needs typically earn PKR 40,000 to 50,000."
+    a: "There is no single fixed figure. Pay for a batman varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do you provide attendants with army experience?"
     a: "Yes. Many of our attendants have served as batmen in the army or worked with retired officers, and understand the routines and standards expected."
   - q: "Is a personal attendant the same as a caretaker?"
@@ -66,14 +66,9 @@ Our personal attendant service in Pakistan follows simple steps:
 4. **Trial.** A trial period in the real routine.
 5. **Placement.** Confirm, with our 6 month replacement guarantee.
 
-## Personal attendant salaries in 2026
+## Personal attendant salaries: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out personal attendant | 35,000 to 42,000 |
-| Live-in personal attendant | 38,000 to 48,000 |
-| Attendant for elderly with care needs | 40,000 to 50,000 |
-| Attendant who also drives | 42,000 to 55,000 |
+Pay for a batman is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 See our [Pricing page](/pricing) for more.
 

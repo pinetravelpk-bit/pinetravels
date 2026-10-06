@@ -1,11 +1,11 @@
 ---
 title: "Hire Personal Attendant in Gujranwala | Batman for Home"
 description: "Hire a verified personal attendant (batman) in Gujranwala for elderly parents, business owners and retired officers in DHA, Model Town and Satellite Town."
-answer: "To hire a personal attendant in Gujranwala, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, usually within two to four days. Personal attendants in Gujranwala usually start around PKR 34,000 to 40,000 a month, and overseas families can arrange the hire remotely."
+answer: "To hire a personal attendant in Gujranwala, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a personal attendant cost in Gujranwala?"
-    a: "A personal attendant in Gujranwala usually starts at PKR 34,000 to 40,000 a month in 2026. Live-in attendants, ex-army batmen and attendants who also drive typically earn PKR 38,000 to 52,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can I hire an attendant for my father in Gujranwala while I live abroad?"
     a: "Yes. Many overseas families hire attendants for fathers or mothers in Gujranwala, with video interviews, a relative present at the trial and daily updates from the attendant."
   - q: "What does a batman for home do?"
@@ -45,14 +45,9 @@ A verified personal attendant in Gujranwala placed by RX Direct has passed:
 
 Our personal attendant service in Gujranwala follows five steps. First, tell us who the attendant will serve, their daily routine, the duties, hours and whether the attendant will live in. Second, we shortlist two or three verified attendants, usually within two to four days. Third, you interview them, and family members abroad join by video. Fourth, a short trial with a relative present. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Personal attendant salaries in Gujranwala in 2026
+## Personal attendant salaries in Gujranwala: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out personal attendant | 34,000 to 40,000 |
-| Live-in personal attendant | 37,000 to 46,000 |
-| Attendant for elderly with care needs | 39,000 to 48,000 |
-| Attendant who also drives | 41,000 to 52,000 |
+The salary for a batman in Gujranwala depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Uniforms, meals and accommodation for live-in attendants are usually provided by the family. See our [Pricing page](/pricing).
 

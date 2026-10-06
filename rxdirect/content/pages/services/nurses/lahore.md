@@ -1,11 +1,11 @@
 ---
 title: "Hire Home Nurse in Lahore | Verified Private Nurses"
 description: "Hire a verified home nurse in Lahore for patient care, post surgery recovery, elderly and palliative care in DHA, Gulberg, Model Town and Johar Town."
-answer: "To hire a home nurse in Lahore, share the patient's age, condition, the care needed, hours and area with RX Direct. We shortlist qualified nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been checked, usually within one to three days. Home nurses in Lahore usually start around PKR 60,000 to 70,000 a month for a 12 hour shift."
+answer: "To hire a home nurse in Lahore, share the patient's age, condition, the care needed, hours and area with RX Direct. We shortlist qualified nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been checked, usually within one to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a home nurse cost in Lahore?"
-    a: "A qualified home nurse in Lahore usually starts at PKR 60,000 to 70,000 a month in 2026 for a 12 hour shift. Night duty, live-in care and ICU level experience typically cost PKR 65,000 to 100,000."
+    a: "It depends on the home nurse's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Lahore."
   - q: "Can a home nurse take over care after discharge from a Lahore hospital?"
     a: "Yes. Whether the patient was treated at Services, Mayo, Jinnah, PIC, Shaukat Khanum, Doctors Hospital, Hameed Latif, Ittefaq or another hospital, share the discharge summary and medicine chart, and we will match a nurse with experience in that condition."
   - q: "Do you check nursing qualifications in Lahore?"
@@ -49,15 +49,9 @@ We ask previous hospitals and families very specific questions: Was the nurse pu
 
 Our home nurse service in Lahore follows five steps. First, share the patient's details: age, diagnosis, the discharge summary or doctor's notes, care needed, hours and area. Second, we shortlist qualified nurses with matching experience, usually within one to three days, and sooner when a discharge date is fixed. Third, you speak to or meet the nurses, at home or at the hospital. Fourth, the nurse starts with a trial shift, ideally with a family member present to hand over the patient's routine. Fifth, you confirm, and the 6 month replacement guarantee applies to monthly placements.
 
-## Home nurse salary in Lahore in 2026
+## Home nurse salary in Lahore: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home nurse, 12 hour day shift | 60,000 to 70,000 |
-| Home nurse, night shift | 65,000 to 75,000 |
-| Live-in home nurse | 70,000 to 90,000 |
-| ICU or ventilator level care | 80,000 to 100,000 and above |
-| Short term, post surgery | Weekly or monthly rates agreed in advance |
+We do not publish fixed salary figures, because the right pay for a home nurse in Lahore changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Medical supplies, medicines and equipment are bought by the family. Round the clock care needs two nurses on alternating shifts. See our [Pricing page](/pricing).
 

@@ -7,7 +7,7 @@ faqs:
   - q: "How do I hire domestic staff in Peshawar?"
     a: "Message RX Direct with your area in Peshawar, the role, hours, live-in or live-out preference and salary range. We shortlist verified candidates, usually within two to three days, you interview them and hold a trial before confirming."
   - q: "How much do domestic staff cost in Peshawar?"
-    a: "In 2026, helpers, cleaners and guards in Peshawar usually start around PKR 22,000 to 26,000, cooks and drivers around PKR 30,000 to 36,000, maids and nannies around PKR 35,000 to 42,000 and home nurses around PKR 55,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Which areas of Peshawar do you cover?"
     a: "Hayatabad Phases 1 to 7, University Town, DHA Peshawar, Regi Model Town, Peshawar Cantt, Warsak Road, Gulbahar, Dalazak Road, Ring Road societies and nearby areas."
   - q: "Can I hire Pashto speaking staff in Peshawar?"
@@ -77,18 +77,9 @@ As a household staff agency in Peshawar, we cover:
 - **Gulbahar, Dalazak Road and Ring Road areas**
 - **Board, Charsadda Road and nearby neighbourhoods**
 
-## Domestic staff salaries in Peshawar in 2026
+## Domestic staff salaries in Peshawar: what affects it
 
-| Role | Typical starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy | 22,000 to 26,000 |
-| Security guard (12 hour shift) | 22,000 to 28,000 |
-| Caretaker | 27,000 to 33,000 |
-| Cook, driver, personal attendant | 30,000 to 36,000 |
-| Maid, nanny | 35,000 to 42,000 |
-| Chef | 45,000 and above |
-| Home nurse | 55,000 and above |
-| Domestic couple (combined) | 55,000 and above |
+We do not publish fixed salary figures, because the right pay for a domestic worker in Peshawar changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 See our [Pricing page](/pricing) for more.
 

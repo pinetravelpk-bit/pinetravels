@@ -1,13 +1,13 @@
 ---
 title: "Hire Helper in Pakistan | Domestic and Kitchen Helpers"
-description: "Hire a verified domestic helper in Pakistan for kitchen help, dishes, errands and daily chores. Household helpers, live-in or live-out, from PKR 25,000 a month."
-answer: "To hire a helper in Pakistan through RX Direct, tell us your city, area, the chores you need help with and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within 24 to 48 hours. Helpers support your cook or maid with dishes, chopping, sweeping and errands, and salaries start around PKR 25,000 a month."
+description: "Hire a verified domestic helper in Pakistan for kitchen help, dishes, errands and daily chores. Household helpers, live-in or live-out, reference checked."
+answer: "To hire a helper in Pakistan through RX Direct, tell us your city, area, the chores you need help with and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within 24 to 48 hours. Helpers support your cook or maid with dishes, chopping, sweeping and errands."
 updated: 2026-10-02
 faqs:
   - q: "What does a domestic helper do?"
     a: "A domestic helper supports the household with lighter chores: washing dishes, kitchen prep, sweeping, dusting, taking out rubbish, carrying groceries, running errands and helping the cook or maid."
   - q: "How much does a helper cost in Pakistan?"
-    a: "Full-time helpers in Pakistan usually start at PKR 25,000 a month in 2026. Helpers with more responsibility, such as errands with cash or help with children, typically earn PKR 28,000 to 35,000."
+    a: "It depends on the helper's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household."
   - q: "What is the difference between a helper and a maid?"
     a: "A maid is responsible for the full cleaning and laundry of the house. A helper handles lighter or supporting tasks, often working alongside a maid or cook."
   - q: "Can a helper work in the kitchen?"
@@ -63,14 +63,9 @@ Our helper service in Pakistan follows a simple process:
 4. **Trial.** A short trial in your home.
 5. **Placement.** Confirm, with our 6 month replacement guarantee.
 
-## Helper salary in Pakistan in 2026
+## Helper salary in Pakistan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 12,000 to 18,000 |
-| Full-time live-out helper | 25,000 to 30,000 |
-| Full-time live-in helper | 25,000 to 32,000 |
-| Helper with errands, cash handling or child support | 28,000 to 35,000 |
+Every household is different, so the salary for a helper is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Helpers also expect an Eid bonus, a weekly day off and fair treatment. Salaries are a little higher in Islamabad, Lahore and Karachi. See [Pricing](/pricing) for more.
 

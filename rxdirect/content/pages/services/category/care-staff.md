@@ -1,13 +1,13 @@
 ---
 title: "Home Nursing Staff Pakistan | Nurses and Caretakers | RX Direct"
 description: "Home nursing staff and home care staff in Pakistan. Hire a verified home nurse or elderly caretaker for patients, post surgery care and senior parents."
-answer: "RX Direct places home nursing staff and home care staff in Pakistan. Home nurses handle medical tasks such as injections, wound dressing, catheter and NG tube care, and start around PKR 60,000 a month. Caretakers help elderly and recovering patients with walking, bathing, meals and medicines, and start around PKR 30,000 a month. Every nurse's qualification is checked."
+answer: "RX Direct places home nursing staff and home care staff in Pakistan. Home nurses handle medical tasks such as injections, wound dressing, catheter and NG tube care. Caretakers help elderly and recovering patients with walking, bathing, meals and medicines. Every nurse's qualification is checked."
 updated: 2026-10-02
 faqs:
   - q: "What is the difference between a home nurse and a caretaker?"
     a: "A home nurse is trained for medical tasks such as injections, IV lines, wound care, catheter care and monitoring vital signs. A caretaker helps with daily living: walking, bathing, toileting, feeding, giving medicines on time and keeping the patient company."
   - q: "How much does a home nurse cost in Pakistan?"
-    a: "A full-time home nurse usually starts around PKR 60,000 a month. Nurses for ICU level care, night duty or 24 hour live-in care cost more. Caretakers start around PKR 30,000 a month."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you check nursing qualifications?"
     a: "Yes. We check nursing diplomas or degrees and Pakistan Nursing Council registration where it applies, and we call previous hospitals or families where the nurse worked."
   - q: "Can I hire a nurse for a short period after surgery?"
@@ -89,13 +89,7 @@ Short placements of two to eight weeks are common. Share the discharge summary w
 
 ## Hire home nurse Pakistan: costs and arrangements
 
-| Arrangement | Starting salary (PKR per month) |
-|---|---|
-| Caretaker, day shift | 30,000 |
-| Caretaker, live-in | 35,000 to 45,000 |
-| Home nurse, 12 hour day shift | 60,000 |
-| Home nurse, night shift | 65,000 and above |
-| Home nurse, live-in or ICU level care | 70,000 to 100,000 |
+Pay for a domestic worker is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 When you hire a home nurse in Pakistan, the final salary depends on qualification, experience, the patient's condition and the hours. We share a clear figure before you meet candidates.
 

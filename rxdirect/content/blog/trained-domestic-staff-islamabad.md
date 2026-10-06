@@ -196,7 +196,7 @@ For more complex skills, consider short courses or online videos. Many cooks lea
 
 ## Paying for skills
 
-Trained domestic staff earn more, and should. In Islamabad in 2026, a cook with continental skills, a maid who also cooks, an English speaking nanny or a caretaker experienced with dementia will usually sit at the top of the salary range for their role. When a worker learns a valuable new skill with your support, a fair salary increase keeps them motivated. See our [pricing page](/pricing) for ranges by role.
+Trained domestic staff earn more, and should. In Islamabad in 2026, a cook with continental skills, a maid who also cooks, an English speaking nanny or a caretaker experienced with dementia will usually sit at the top of the salary range for their role. When a worker learns a valuable new skill with your support, a fair salary increase keeps them motivated. See our [pricing page](/pricing) for what moves pay in each role.
 
 ## How RX Direct checks training
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Home Nurse in Gujranwala | Verified Private Nurses"
 description: "Hire a verified home nurse in Gujranwala for patient care, post surgery recovery and elderly care in DHA, Model Town and for parents of families living abroad."
-answer: "To hire a home nurse in Gujranwala, share the patient's age, condition, the care needed, hours and area with RX Direct. We shortlist qualified nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been checked, usually within two to three days. Home nurses in Gujranwala usually start around PKR 58,000 to 66,000 a month, and overseas families can arrange care remotely."
+answer: "To hire a home nurse in Gujranwala, share the patient's age, condition, the care needed, hours and area with RX Direct. We shortlist qualified nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been checked, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a home nurse cost in Gujranwala?"
-    a: "A qualified home nurse in Gujranwala usually starts at PKR 58,000 to 66,000 a month in 2026 for a 12 hour shift. Night duty, live-in care and ICU level experience typically cost PKR 62,000 to 95,000."
+    a: "There is no single fixed figure. Pay for a home nurse in Gujranwala varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I arrange a home nurse for my parents in Gujranwala while I live abroad?"
     a: "Yes. Many overseas families hire home nurses for parents in Gujranwala through us, with video calls before placement, a relative present at the first shift and daily updates from the nurse."
   - q: "Do you check nursing qualifications in Gujranwala?"
@@ -49,15 +49,9 @@ We ask previous hospitals and families very specific questions: Was the nurse pu
 
 Our home nurse service in Gujranwala follows five steps. First, share the patient's details: age, diagnosis, the discharge summary or doctor's notes, care needed, hours and area. Second, we shortlist qualified nurses with matching experience, usually within two to three days, and sooner when a discharge date is fixed. Third, you speak to the nurses, and family members abroad can join by video. Fourth, the nurse starts with a trial shift, ideally with a relative present to hand over the patient's routine. Fifth, you confirm, and the 6 month replacement guarantee applies to monthly placements.
 
-## Home nurse salary in Gujranwala in 2026
+## Home nurse salary in Gujranwala: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home nurse, 12 hour day shift | 58,000 to 67,000 |
-| Home nurse, night shift | 62,000 to 72,000 |
-| Live-in home nurse | 66,000 to 85,000 |
-| ICU or ventilator level care | 78,000 to 95,000 and above |
-| Short term, post surgery | Weekly or monthly rates agreed in advance |
+Pay for a home nurse in Gujranwala is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Medical supplies, medicines and equipment are bought by the family. Overseas families often send the salary and a medical budget through a relative. Round the clock care needs two nurses on alternating shifts. See our [Pricing page](/pricing).
 

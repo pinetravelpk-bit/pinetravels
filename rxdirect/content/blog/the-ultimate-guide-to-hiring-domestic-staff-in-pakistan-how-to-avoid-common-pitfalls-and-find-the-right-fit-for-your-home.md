@@ -81,22 +81,9 @@ Only candidates who clear every step are shortlisted for placement, which is als
 
 ## What to expect to pay
 
-Salaries vary by role, city and whether the arrangement is live-in or live-out, but here's a realistic starting point across the categories we place most often:
+Pay for a domestic worker is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
-- [Cooks](/services/cooks): starting around PKR 35,000/month
-- [Chefs](/services/chefs): starting around PKR 50,000/month
-- [Drivers](/services/drivers): starting around PKR 35,000/month
-- [Maids](/services/maids): starting around PKR 40,000/month
-- [Helpers](/services/helpers): starting around PKR 25,000/month
-- [Cleaners](/services/cleaners): starting around PKR 25,000/month
-- [Security guards](/services/security-guards): starting around PKR 25,000/month
-- [Office boys](/services/office-boys): starting around PKR 25,000/month
-- [Caretakers](/services/caretakers): starting around PKR 30,000/month
-- [Batman / personal attendants](/services/batman): starting around PKR 35,000/month
-- [Gardeners](/services/gardeners): starting around PKR 25,000/month
-- [Domestic couples](/services/couples): starting around PKR 60,000/month combined
-
-See our full [pricing page](/pricing) for details on how quotes are put together for your specific city and requirements. Offering below these ranges is one of the more common reasons a placement falls through early, either the candidate leaves for a better offer or the low pay signals a household worth avoiding.
+See our full [pricing page](/pricing) for details on how quotes are put together for your specific city and requirements.
 
 ## Structuring a fair trial period
 

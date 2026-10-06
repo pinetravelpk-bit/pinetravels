@@ -13,19 +13,32 @@ declare global {
 }
 
 export default function BlogSearch({
-  posts,
   onFilter,
 }: {
-  posts: BlogPostMeta[];
   onFilter: (filtered: BlogPostMeta[] | null, query: string) => void;
 }) {
   const { t } = useTranslation();
   const [query, setQuery] = useState("");
+  const [posts, setPosts] = useState<BlogPostMeta[] | null>(null);
   const trackedRef = useRef<string | null>(null);
+  const loadingRef = useRef(false);
+
+  // The blog is paginated, so search loads the full post list on first use.
+  useEffect(() => {
+    if (posts || loadingRef.current || query.trim().length < 2) return;
+    loadingRef.current = true;
+    fetch("/blog-search.json")
+      .then((r) => (r.ok ? r.json() : []))
+      .then((list: BlogPostMeta[]) => setPosts(list))
+      .catch(() => setPosts([]))
+      .finally(() => {
+        loadingRef.current = false;
+      });
+  }, [query, posts]);
 
   const filtered = useMemo(() => {
     const q = query.trim();
-    if (q.length < 2) return null;
+    if (q.length < 2 || !posts) return null;
     return posts.filter((p) => postMatchesQuery(p, q));
   }, [query, posts]);
 

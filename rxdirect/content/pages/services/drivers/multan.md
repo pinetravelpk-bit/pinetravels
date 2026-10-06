@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Multan | Verified Family Drivers | RX Direct"
 description: "Hire a verified family driver in Multan. Licence checked, road tested personal drivers for DHA Multan, Gulgasht, Cantt and farm trips across South Punjab."
-answer: "To hire a driver in Multan, tell RX Direct your area, car type, daily routes and hours, including any farm or out of city trips. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test, usually within two to three days. Family drivers in Multan usually start around PKR 30,000 to 35,000 a month."
+answer: "To hire a driver in Multan, tell RX Direct your area, car type, daily routes and hours, including any farm or out of city trips. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a family driver cost in Multan?"
-    a: "A family driver in Multan usually starts at PKR 30,000 to 35,000 a month in 2026. Drivers with long days, regular farm trips or motorway travel typically earn PKR 36,000 to 46,000, or receive agreed overtime."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do your Multan drivers handle rural and farm roads?"
     a: "Yes. Many families need drivers for trips to farms in Muzaffargarh, Khanewal, Lodhran and Vehari, and we look for drivers experienced on rural roads."
   - q: "Which areas of Multan do you cover for drivers?"
@@ -52,14 +52,9 @@ Our driver service in Multan follows five steps. First, you share your area, car
 
 There is no charge for the shortlist or interviews. The placement fee applies only once you confirm.
 
-## Driver salary in Multan in 2026
+## Driver salary in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 30,000 to 35,000 |
-| Family driver, long days or regular farm trips | 35,000 to 42,000 |
-| Live-in driver | 33,000 to 42,000 |
-| Executive driver or regular motorway duty | 38,000 to 46,000 |
+We do not publish fixed salary figures, because the right pay for a driver in Multan changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Overtime for late nights and out of city trips is usually paid separately, along with meal allowances on long days. See our [Pricing page](/pricing).
 

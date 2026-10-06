@@ -1,11 +1,11 @@
 ---
 title: "Hire Chef in Karachi | Private and Home Chefs | RX Direct"
 description: "Hire a verified private chef in Karachi for Clifton, DHA, PECHS and Bahria Town. Home chefs for seafood, biryani, continental menus and events, tested first."
-answer: "To hire a chef in Karachi, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, catering or large household experience who have passed a practical cooking test. Full-time private chefs in Karachi usually start around PKR 55,000 a month."
+answer: "To hire a chef in Karachi, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, catering or large household experience who have passed a practical cooking test."
 updated: 2026-10-03
 faqs:
   - q: "How much does a private chef cost in Karachi?"
-    a: "A full-time private chef in Karachi usually starts around PKR 55,000 a month. Chefs with five star hotel, seafood specialist or multi-cuisine experience typically earn PKR 75,000 to 120,000 or more."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do your Karachi chefs cook seafood well?"
     a: "Yes. We look for chefs comfortable with fish, prawns and crab, including Karachi favourites like fried fish, prawn karahi and grilled seafood, and test them on it when families want."
   - q: "Can I hire a chef for an event in Karachi?"
@@ -63,14 +63,9 @@ As a chef provider in Karachi, we follow four steps:
 3. **Tasting trial.** The chef cooks a meal in your kitchen.
 4. **Placement.** Confirm, with our 6 month replacement guarantee for full-time placements.
 
-## Home chef Karachi: salary guide for 2026
+## Home chef Karachi: salary and terms
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home chef, Pakistani and continental | 55,000 to 75,000 |
-| Chef with hotel or seafood specialist background | 75,000 to 110,000 |
-| Senior chef, several cuisines, kitchen management | 110,000 and above |
-| Event chef | Priced per event |
+Pay for a chef in Karachi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 A home chef in Karachi earns more in Clifton, DHA and corporate households. See our [Pricing page](/pricing).
 

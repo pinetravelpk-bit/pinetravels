@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Islamabad | Verified House Maids | RX Direct"
 description: "Hire a verified house maid in Islamabad for cleaning, laundry and daily upkeep. Live-in or live-out home maids for F, E and G sectors, DHA and Bahria Town."
-answer: "To hire a maid in Islamabad, tell RX Direct your sector, house size, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within 24 to 48 hours, and you hold a trial at home. Full-time house maids in Islamabad usually start around PKR 42,000 to 48,000 a month."
+answer: "To hire a maid in Islamabad, tell RX Direct your sector, house size, duties and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within 24 to 48 hours, and you hold a trial at home."
 updated: 2026-10-03
 faqs:
   - q: "What is a maid's salary in Islamabad?"
-    a: "A full-time house maid in Islamabad usually earns PKR 42,000 to 48,000 a month in 2026, more for live-in maids in large houses or maids who also cook or help with children. Part-time maids for a few hours a day usually earn PKR 18,000 to 26,000."
+    a: "There is no single fixed figure. Pay for a maid in Islamabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I get a live-in maid in Islamabad?"
     a: "Yes. Live-in maids are common in F-6, F-7, E-7, DHA and Bahria Town homes with servant quarters. Many come from Rawalpindi, Kashmir, Punjab and Khyber Pakhtunkhwa."
   - q: "Do you have maids for expat and diplomatic homes?"
@@ -51,14 +51,9 @@ Honesty is the first worry families have about maids, so we ask references direc
 
 Our maid service in Islamabad follows five steps. You share your sector, house size, number of people, duties, hours, live-in or live-out and salary range. We send two or three verified maids, usually within 24 to 48 hours. You interview them by phone or in person. Your chosen maid works a trial day at home, so you can see her standards in your real routine. Then you confirm, and the 6 month replacement guarantee begins. The shortlist and interviews are free.
 
-## Maid salary in Islamabad in 2026
+## Maid salary in Islamabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 18,000 to 26,000 |
-| Full-time live-out maid | 42,000 to 48,000 |
-| Full-time live-in maid | 42,000 to 52,000 |
-| Maid with cooking or childcare duties | 50,000 to 58,000 |
+Every household is different, so the salary for a maid in Islamabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Islamabad salaries are among the highest in Pakistan. Most maids also expect an Eid bonus, a yearly increase and one day off a week. See our [Pricing page](/pricing).
 

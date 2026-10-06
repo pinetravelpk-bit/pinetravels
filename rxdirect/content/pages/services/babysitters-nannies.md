@@ -1,11 +1,11 @@
 ---
 title: "Hire Nanny in Pakistan | Verified Nannies and Babysitters"
-description: "Hire a verified nanny or babysitter in Pakistan for newborns, toddlers and school children. Reference checked childcare staff, live-in or day, from PKR 40,000."
-answer: "To hire a nanny in Pakistan through RX Direct, share your city, your children's ages, hours, live-in or day care, and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions. Full-time nanny salaries start around PKR 40,000 a month, with a 6 month replacement guarantee."
+description: "Hire a verified nanny or babysitter in Pakistan for newborns, toddlers and school children. Reference checked childcare staff, live-in or day shifts."
+answer: "To hire a nanny in Pakistan through RX Direct, share your city, your children's ages, hours, live-in or day care, and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions."
 updated: 2026-10-02
 faqs:
   - q: "How much does a nanny cost in Pakistan?"
-    a: "A full-time nanny in Pakistan usually starts at PKR 40,000 a month in 2026. Nannies for newborns, twins, night duty or live-in care typically earn PKR 50,000 to 65,000. Babysitters for occasional hours are paid per visit."
+    a: "It depends on the nanny's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household."
   - q: "What is the difference between a nanny and a babysitter?"
     a: "A nanny provides regular, ongoing childcare, often full time, and becomes part of the child's daily routine. A babysitter looks after children occasionally, such as evenings or a few hours while parents are out."
   - q: "Do you have nannies with newborn experience?"
@@ -73,15 +73,9 @@ Our nanny service in Pakistan follows careful steps:
 4. **Trial with you at home.** The nanny spends a day caring for your child while you are present.
 5. **Placement.** Confirm, with our 6 month replacement guarantee.
 
-## Nanny salary in Pakistan in 2026
+## Nanny salary in Pakistan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day nanny, toddler or school child | 40,000 to 48,000 |
-| Newborn nanny | 48,000 to 60,000 |
-| Live-in nanny | 45,000 to 60,000 |
-| Nanny for twins or night duty | 55,000 to 65,000 |
-| Babysitter, occasional | Per visit or hourly |
+Every household is different, so the salary for a nanny is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 English speaking nannies and nannies with formal childcare training are at the higher end. See our [Pricing page](/pricing) for more.
 

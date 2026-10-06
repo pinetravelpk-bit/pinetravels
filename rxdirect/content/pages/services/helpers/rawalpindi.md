@@ -1,11 +1,11 @@
 ---
 title: "Hire Helper in Rawalpindi | Domestic and Kitchen Helpers"
 description: "Hire a verified domestic helper in Rawalpindi for kitchen help, dishes, errands and chores in Bahria Town, DHA, Satellite Town and joint family homes."
-answer: "To hire a helper in Rawalpindi, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. Our Chandni Chowk office interviews every helper in person and checks CNIC, address and references. Most families get a shortlist within 24 to 48 hours, and full-time home helpers in Rawalpindi usually start around PKR 25,000 to 28,000 a month."
+answer: "To hire a helper in Rawalpindi, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. Our Chandni Chowk office interviews every helper in person and checks CNIC, address and references. Most families get a shortlist within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a helper cost in Rawalpindi?"
-    a: "A full-time domestic helper in Rawalpindi usually starts at PKR 25,000 to 28,000 a month in 2026. Helpers trusted with errands, cash or children typically earn PKR 28,000 to 35,000."
+    a: "It depends on the helper's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Rawalpindi."
   - q: "Do you have helpers for joint family homes?"
     a: "Yes. Many Rawalpindi homes are joint families where the cook and maid need support. Helpers take on dishes, prep, errands and lighter cleaning."
   - q: "Which areas of Rawalpindi do you cover for helpers?"
@@ -46,14 +46,9 @@ A verified helper in Rawalpindi placed through RX Direct has passed:
 
 Our helper service in Rawalpindi follows five steps. You tell us your area, main chores, who the helper will work with, hours and salary range. We send two or three verified helpers, usually within 24 to 48 hours. You meet them at home or at our office, ideally with your cook or maid. A short trial follows. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Helper salary in Rawalpindi in 2026
+## Helper salary in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 12,000 to 18,000 |
-| Full-time live-out helper | 25,000 to 30,000 |
-| Full-time live-in helper | 25,000 to 32,000 |
-| Helper with errands, cash or child support | 28,000 to 35,000 |
+The salary for a helper in Rawalpindi depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing).
 

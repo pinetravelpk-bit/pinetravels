@@ -42,7 +42,7 @@ For common roles such as cooks, maids, drivers and helpers in Islamabad, Rawalpi
 
 **How much work can one maid handle?** A full-time maid can usually manage cleaning, laundry and ironing for a typical family home. If she is also expected to cook and look after children, add a helper or a cook.
 
-**What salary should I offer?** Full-time maids usually earn PKR 40,000 to 55,000 a month in 2026, depending on the city, house size and duties.
+Every household is different, so the salary for a domestic worker is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 These are the maid hiring questions in Pakistan we hear every week. Our [maids page](/services/maids) has much more detail.
 

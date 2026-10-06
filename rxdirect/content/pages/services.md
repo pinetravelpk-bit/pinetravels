@@ -28,29 +28,29 @@ RX Direct places 18 types of workers in eight cities. Below you will find each s
 
 Household roles make up most of our placements. These are the people who keep a home running day to day.
 
-**[Cooks](/services/cooks).** A home cook prepares breakfast, lunch and dinner to your family's taste. Most cooks we place handle desi food confidently, and many can also manage continental, Chinese or diet specific meals. Starting salary is around PKR 35,000 a month.
+**[Cooks](/services/cooks).** A home cook prepares breakfast, lunch and dinner to your family's taste. Most cooks we place handle desi food confidently, and many can also manage continental, Chinese or diet specific meals.
 
-**[Chefs](/services/chefs).** A chef is for families who entertain often, want restaurant level food at home, or run a small home catering setup. Chefs plan menus, manage a larger kitchen and cook for events. Starting salary is around PKR 50,000 a month.
+**[Chefs](/services/chefs).** A chef is for families who entertain often, want restaurant level food at home, or run a small home catering setup. Chefs plan menus, manage a larger kitchen and cook for events.
 
-**[Maids](/services/maids).** A maid handles cleaning, laundry, ironing, bed making and the general order of the house. Maids can be live-in or live-out. Starting salary is around PKR 40,000 a month.
+**[Maids](/services/maids).** A maid handles cleaning, laundry, ironing, bed making and the general order of the house. Maids can be live-in or live-out.
 
-**[Helpers](/services/helpers).** A helper supports your cook or maid with dishes, chopping, sweeping, errands and lighter chores. Helpers are often the right first hire for busy families. Starting salary is around PKR 25,000 a month.
+**[Helpers](/services/helpers).** A helper supports your cook or maid with dishes, chopping, sweeping, errands and lighter chores. Helpers are often the right first hire for busy families.
 
-**[Cleaners](/services/cleaners).** Cleaners come daily, weekly or for a one time deep clean. They suit working couples, offices and people who rent out apartments. Starting salary for a full-time cleaner is around PKR 25,000 a month.
+**[Cleaners](/services/cleaners).** Cleaners come daily, weekly or for a one time deep clean. They suit working couples, offices and people who rent out apartments.
 
-**[Babysitters and nannies](/services/babysitters-nannies).** Nannies look after newborns, toddlers and school going children. Duties include feeding, bathing, play, nap routines and homework help. Starting salary is around PKR 40,000 a month.
+**[Babysitters and nannies](/services/babysitters-nannies).** Nannies look after newborns, toddlers and school going children. Duties include feeding, bathing, play, nap routines and homework help.
 
-**[Gardeners](/services/gardeners).** A mali looks after your lawn, plants, hedges and seasonal planting. Many families share a gardener on a visit basis. Full-time gardeners start around PKR 25,000 a month.
+**[Gardeners](/services/gardeners).** A mali looks after your lawn, plants, hedges and seasonal planting. Many families share a gardener on a visit basis.
 
-**[Domestic couples](/services/couples).** A husband and wife who work together, usually with one cooking and cleaning and the other driving, gardening or handling security. Couples suit large houses and farmhouses. Combined salary starts around PKR 60,000 a month.
+**[Domestic couples](/services/couples).** A husband and wife who work together, usually with one cooking and cleaning and the other driving, gardening or handling security. Couples suit large houses and farmhouses.
 
-**[Personal attendants](/services/batman).** Often called a batman, a personal attendant looks after one person, usually a senior family member: clothes, shoes, medicines, errands and daily needs. Starting salary is around PKR 35,000 a month.
+**[Personal attendants](/services/batman).** Often called a batman, a personal attendant looks after one person, usually a senior family member: clothes, shoes, medicines, errands and daily needs.
 
 ## Home staff services Pakistan families need for care
 
-**[Home nurses](/services/nurses).** Qualified nurses for post surgery recovery, wound care, injections, catheter care, bedridden patients and long term illness. We check nursing qualifications and Pakistan Nursing Council registration where it applies. Starting salary is around PKR 60,000 a month.
+**[Home nurses](/services/nurses).** Qualified nurses for post surgery recovery, wound care, injections, catheter care, bedridden patients and long term illness. We check nursing qualifications and Pakistan Nursing Council registration where it applies.
 
-**[Caretakers](/services/caretakers).** Caretakers support elderly people with daily living: help with walking, bathing, meals, medicines on schedule and company. They are not nurses, but they are trained to handle the routine care most older people need. Starting salary is around PKR 30,000 a month.
+**[Caretakers](/services/caretakers).** Caretakers support elderly people with daily living: help with walking, bathing, meals, medicines on schedule and company. They are not nurses, but they are trained to handle the routine care most older people need.
 
 If you are not sure whether your parent needs a nurse or a caretaker, call us. A simple rule: if the care involves medical procedures, you need a nurse. If it is about daily help and supervision, a caretaker is usually enough.
 
@@ -58,11 +58,11 @@ If you are not sure whether your parent needs a nurse or a caretaker, call us. A
 
 Some of our roles work as well in an office as in a home.
 
-**[Drivers](/services/drivers).** Family drivers for school runs, office drops and errands, and corporate drivers for executives and company cars. Every driver's licence is checked and their driving is tested before placement. Starting salary is around PKR 35,000 a month.
+**[Drivers](/services/drivers).** Family drivers for school runs, office drops and errands, and corporate drivers for executives and company cars. Every driver's licence is checked and their driving is tested before placement.
 
-**[Security guards](/services/security-guards).** Guards for homes, offices, warehouses and housing society gates. We require a police character certificate, and ex-army guards are available for many requests. Starting salary is around PKR 25,000 a month.
+**[Security guards](/services/security-guards).** Guards for homes, offices, warehouses and housing society gates. We require a police character certificate, and ex-army guards are available for many requests.
 
-**[Office boys](/services/office-boys).** Office boys manage the pantry, serve tea, run errands, handle courier and banking runs and keep the office tidy. Starting salary is around PKR 25,000 a month.
+**[Office boys](/services/office-boys).** Office boys manage the pantry, serve tea, run errands, handle courier and banking runs and keep the office tidy.
 
 ## Home repair and trade staff
 

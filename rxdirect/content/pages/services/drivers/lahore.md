@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Lahore | Verified Family Drivers | RX Direct"
 description: "Hire a verified family driver in Lahore. Licence checked, road tested personal drivers for DHA, Gulberg, Model Town, Johar Town and Bahria Town school runs."
-answer: "To hire a driver in Lahore, tell RX Direct your area, car type, daily routes and hours. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test on Lahore's roads, usually within 24 to 48 hours. Family drivers in Lahore usually start around PKR 36,000 to 42,000 a month."
+answer: "To hire a driver in Lahore, tell RX Direct your area, car type, daily routes and hours. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test on Lahore's roads, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a family driver cost in Lahore?"
-    a: "A family driver in Lahore usually starts at PKR 36,000 to 42,000 a month in 2026. Drivers with long days, weekend duty or corporate experience typically earn PKR 45,000 to 55,000, or receive agreed overtime."
+    a: "There is no single fixed figure. Pay for a driver in Lahore varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do your drivers know Lahore's routes?"
     a: "Yes. We test drivers on Canal Road, Ferozepur Road, the Ring Road, Main Boulevard Gulberg, DHA's main boulevards and the routes to major schools and hospitals."
   - q: "Which areas of Lahore do you cover for drivers?"
@@ -61,14 +61,9 @@ Our driver service in Lahore follows five steps:
 4. **Trial.** A day or two on your real schedule.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Driver salary in Lahore in 2026
+## Driver salary in Lahore: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 36,000 to 42,000 |
-| Family driver, long days or weekends | 42,000 to 50,000 |
-| Live-in driver | 40,000 to 50,000 |
-| Corporate or executive driver | 45,000 to 55,000 |
+Every household is different, so the salary for a driver in Lahore is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Overtime for late nights, weddings and out of city trips is usually paid separately. See our [Pricing page](/pricing).
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Office Boy in Pakistan | Verified Office Support Staff"
 description: "Hire a verified office boy in Pakistan for pantry, tea, errands, filing and banking. Office helpers and pantry boys, CNIC and reference checked."
-answer: "To hire an office boy in Pakistan through RX Direct, share your city, office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within 24 to 48 hours. Office boy salaries start around PKR 25,000 a month, with a 6 month replacement guarantee."
+answer: "To hire an office boy in Pakistan through RX Direct, share your city, office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within 24 to 48 hours."
 updated: 2026-10-02
 faqs:
   - q: "How much does an office boy cost in Pakistan?"
-    a: "An office boy in Pakistan usually starts at PKR 25,000 a month in 2026. Office boys with reception, banking or courier duties across the city typically earn PKR 28,000 to 35,000, plus a transport allowance for errands."
+    a: "There is no single fixed figure. Pay for an office boy varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "What does an office boy do?"
     a: "An office boy manages the pantry, serves tea and refreshments, runs errands, handles courier and bank visits, photocopies and files documents, and keeps the office tidy."
   - q: "Can an office boy also clean the office?"
@@ -67,14 +67,9 @@ Our office boy service in Pakistan works like this:
 
 For companies needing several staff, we can coordinate placements across branches.
 
-## Office boy salary in Pakistan in 2026
+## Office boy salary in Pakistan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Office boy, standard hours | 25,000 to 30,000 |
-| Pantry boy, large office | 25,000 to 30,000 |
-| Office boy with reception or banking duties | 28,000 to 35,000 |
-| Office boy with motorbike for errands | 30,000 to 38,000 plus fuel |
+The salary for an office boy depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Most offices also pay a transport allowance for errands, provide lunch or a lunch allowance, and give an Eid bonus. See our [Pricing page](/pricing) for more.
 

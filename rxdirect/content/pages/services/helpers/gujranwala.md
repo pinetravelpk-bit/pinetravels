@@ -1,11 +1,11 @@
 ---
 title: "Hire Helper in Gujranwala | Domestic and Kitchen Helpers"
 description: "Hire a verified domestic helper in Gujranwala for kitchen help, errands and chores in DHA, Model Town and Satellite Town, and for parents living alone."
-answer: "To hire a helper in Gujranwala, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within two to three days. Full-time home helpers in Gujranwala usually start around PKR 22,000 to 26,000 a month, and overseas families can arrange the hire remotely."
+answer: "To hire a helper in Gujranwala, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a helper cost in Gujranwala?"
-    a: "A full-time domestic helper in Gujranwala usually starts at PKR 22,000 to 26,000 a month in 2026. Helpers trusted with errands, cash or caring for parents typically earn PKR 26,000 to 32,000."
+    a: "There is no single fixed figure. Pay for a helper in Gujranwala varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I hire a helper for my parents in Gujranwala while I live abroad?"
     a: "Yes. Many overseas families hire helpers for parents in Gujranwala through us, with video interviews, a relative at the trial and updates after placement."
   - q: "Which areas of Gujranwala do you cover for helpers?"
@@ -46,14 +46,9 @@ A verified helper in Gujranwala placed through RX Direct has passed:
 
 Our helper service in Gujranwala follows five steps. You tell us your area, household, main chores, who the helper will work with, hours and salary range. We send two or three verified helpers, usually within two to three days. You interview them, and family members abroad can join by video. A short trial follows, ideally with a relative present if parents live alone. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Helper salary in Gujranwala in 2026
+## Helper salary in Gujranwala: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 10,000 to 16,000 |
-| Full-time live-out helper | 22,000 to 27,000 |
-| Full-time live-in helper | 22,000 to 29,000 |
-| Helper with errands, cash or parent support | 26,000 to 32,000 |
+Every household is different, so the salary for a helper in Gujranwala is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 See our [Pricing page](/pricing).
 

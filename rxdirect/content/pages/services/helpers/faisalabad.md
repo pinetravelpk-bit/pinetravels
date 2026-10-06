@@ -1,11 +1,11 @@
 ---
 title: "Hire Helper in Faisalabad | Domestic and Kitchen Helpers"
 description: "Hire a verified domestic helper in Faisalabad for kitchen help, dishes, errands and chores in Peoples Colony, Madina Town, Wapda City and joint family homes."
-answer: "To hire a helper in Faisalabad, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within two to three days. Full-time home helpers in Faisalabad usually start around PKR 22,000 to 26,000 a month."
+answer: "To hire a helper in Faisalabad, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a helper cost in Faisalabad?"
-    a: "A full-time domestic helper in Faisalabad usually starts at PKR 22,000 to 26,000 a month in 2026. Helpers trusted with errands, cash, tiffin deliveries or children typically earn PKR 26,000 to 32,000."
+    a: "It depends on the helper's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Faisalabad."
   - q: "Do you have helpers for large joint family homes?"
     a: "Yes. Helpers are one of the most useful hires for Faisalabad's joint families, supporting the cook and maid with dishes, prep, laundry and errands."
   - q: "Which areas of Faisalabad do you cover for helpers?"
@@ -46,14 +46,9 @@ A verified helper in Faisalabad placed through RX Direct has passed:
 
 Our helper service in Faisalabad follows five steps. You tell us your area, main chores, who the helper will work with, hours and salary range. We send two or three verified helpers, usually within two to three days. You interview them, ideally with your cook or maid present. A short trial follows. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Helper salary in Faisalabad in 2026
+## Helper salary in Faisalabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 10,000 to 16,000 |
-| Full-time live-out helper | 22,000 to 27,000 |
-| Full-time live-in helper | 22,000 to 29,000 |
-| Helper with errands, cash or tiffin deliveries | 26,000 to 32,000 |
+We do not publish fixed salary figures, because the right pay for a helper in Faisalabad changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 See our [Pricing page](/pricing).
 

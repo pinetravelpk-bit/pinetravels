@@ -156,7 +156,7 @@ Specialised roles such as experienced nurses, English speaking nannies or chefs 
 
 ## What it costs
 
-Salaries are paid by you to the worker and follow the market. In Islamabad in 2026, expect around PKR 25,000 and up for helpers and cleaners, PKR 35,000 and up for cooks and drivers, PKR 40,000 and up for maids and nannies and PKR 60,000 and up for home nurses. The placement fee is separate and varies by role. Ask for it upfront. Our [pricing page](/pricing) explains both.
+Salaries are paid by you to the worker and follow the market. They depend on the role, experience, hours, duties and whether the worker lives in, and a good agency will advise you on a fair offer rather than simply quoting the lowest figure it can find. The placement fee is separate and varies by role, because finding and checking a qualified nurse takes more work than finding a helper. Ask for it upfront. Our [pricing page](/pricing) explains both.
 
 ## Reading reviews and recommendations
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Caretaker in Gujranwala | Elderly and Patient Caretakers"
 description: "Hire a verified elderly or patient caretaker in Gujranwala for senior parents, stroke and dementia care in DHA, Model Town, Satellite Town and Citi Housing."
-answer: "To hire a caretaker in Gujranwala, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients, usually within two to three days. Day shift caretakers in Gujranwala usually start around PKR 30,000 to 35,000 a month, and overseas families can arrange the hire remotely."
+answer: "To hire a caretaker in Gujranwala, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a caretaker cost in Gujranwala?"
-    a: "A day shift caretaker in Gujranwala usually starts at PKR 30,000 to 35,000 a month in 2026. Live-in caretakers typically earn PKR 34,000 to 44,000, and caretakers for dementia or limited mobility earn PKR 38,000 to 48,000."
+    a: "There is no single fixed figure. Pay for a caretaker in Gujranwala varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I hire a caretaker for my parents in Gujranwala while I live abroad?"
     a: "Yes. This is one of our most common placements. Overseas families join the interview by video, a relative attends the trial, and the caretaker sends daily updates and arranges weekly video calls with your parents."
   - q: "What does an elderly caretaker do?"
@@ -49,14 +49,9 @@ We ask references very specific questions: How did the caretaker treat your pare
 
 Our caretaker service in Gujranwala follows five steps. First, tell us about the person: age, health conditions, mobility, memory, daily routine and the help needed, plus hours and whether the caretaker will live in. Second, we shortlist two or three verified caretakers with matching experience, usually within two to three days. Third, you interview them, and family members abroad join by video. Fourth, a trial day or two with a trusted relative present. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Caretaker salary in Gujranwala in 2026
+## Caretaker salary in Gujranwala: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day shift caretaker | 30,000 to 36,000 |
-| Live-in caretaker | 34,000 to 44,000 |
-| Caretaker for dementia or limited mobility | 38,000 to 48,000 |
-| Night caretaker | 32,000 to 40,000 |
+Pay for a caretaker in Gujranwala is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Overseas families often send the salary and a household budget through a relative or bank transfer on a fixed date. Round the clock care usually needs a live-in caretaker with relief cover. See our [Pricing page](/pricing).
 

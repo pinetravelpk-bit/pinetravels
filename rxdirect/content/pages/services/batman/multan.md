@@ -1,11 +1,11 @@
 ---
 title: "Hire Personal Attendant in Multan | Batman for Home"
 description: "Hire a verified personal attendant (batman) in Multan for retired officers in the Cantt, elderly landowners and busy professionals in DHA Multan and Bosan Road."
-answer: "To hire a personal attendant in Multan, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, many with army experience, usually within two to four days. Personal attendants in Multan usually start around PKR 34,000 to 40,000 a month."
+answer: "To hire a personal attendant in Multan, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, many with army experience, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a personal attendant cost in Multan?"
-    a: "A personal attendant in Multan usually starts at PKR 34,000 to 40,000 a month in 2026. Live-in attendants, ex-army batmen and attendants who also drive typically earn PKR 38,000 to 52,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "What does a batman for home do?"
     a: "A batman serves one person's daily needs: preparing clothes, polishing shoes, keeping their room in order, serving tea and meals, managing medicines on schedule, running personal errands and accompanying them when needed."
   - q: "Do you provide ex-army attendants in Multan?"
@@ -45,14 +45,9 @@ A verified personal attendant in Multan placed by RX Direct has passed:
 
 Our personal attendant service in Multan follows five steps. First, tell us who the attendant will serve, their daily routine, the duties, hours and whether the attendant will live in. Second, we shortlist two or three verified attendants, usually within two to four days. Third, you interview them at home or by video. Fourth, a short trial so you can see how they work and present themselves. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Personal attendant salaries in Multan in 2026
+## Personal attendant salaries in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out personal attendant | 34,000 to 40,000 |
-| Live-in personal attendant | 37,000 to 46,000 |
-| Attendant for elderly with care needs | 39,000 to 48,000 |
-| Attendant who also drives | 41,000 to 52,000 |
+Every household is different, so the salary for a batman in Multan is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Uniforms, meals and accommodation for live-in attendants are usually provided by the family. See our [Pricing page](/pricing).
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Chef in Peshawar | Private and Home Chefs | RX Direct"
 description: "Hire a verified private chef in Peshawar for Hayatabad, University Town, DHA and Cantt homes. Home chefs for hujra dinners, weddings and Peshawari cuisine."
-answer: "To hire a chef in Peshawar, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, catering or large household experience who have passed a practical cooking test. Full-time private chefs in Peshawar usually start around PKR 45,000 to 50,000 a month."
+answer: "To hire a chef in Peshawar, tell RX Direct your area, how often you entertain, the cuisines you want and whether you need a full-time or event chef. We shortlist verified chefs with hotel, restaurant, catering or large household experience who have passed a practical cooking test."
 updated: 2026-10-03
 faqs:
   - q: "How much does a private chef cost in Peshawar?"
-    a: "A full-time private chef in Peshawar usually starts around PKR 45,000 to 50,000 a month. Chefs with hotel, catering or multi-cuisine experience typically earn PKR 60,000 to 90,000."
+    a: "It depends on the chef's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Peshawar."
   - q: "Do your Peshawar chefs cook traditional Peshawari food?"
     a: "Yes. We test chefs on namkeen gosht, chapli kabab, karahi, kabuli pulao, tikka and other Peshawari dishes, alongside continental and Chinese menus if wanted."
   - q: "Can I hire a chef for a wedding or jirga gathering?"
@@ -63,14 +63,9 @@ As a chef provider in Peshawar, we follow four steps:
 3. **Tasting trial.** The chef cooks a meal in your kitchen.
 4. **Placement.** Confirm, with our 6 month replacement guarantee for full-time placements.
 
-## Home chef Peshawar: salary guide for 2026
+## Home chef Peshawar: salary and terms
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home chef, Peshawari and continental | 45,000 to 60,000 |
-| Chef with hotel or catering background | 60,000 to 85,000 |
-| Senior chef managing a large kitchen | 85,000 and above |
-| Event chef | Priced per event |
+Every household is different, so the salary for a chef in Peshawar is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 See our [Pricing page](/pricing) for more.
 

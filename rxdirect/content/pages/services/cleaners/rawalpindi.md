@@ -1,11 +1,11 @@
 ---
 title: "Hire Cleaner in Rawalpindi | Verified House Cleaners | RX Direct"
 description: "Hire a verified home cleaner in Rawalpindi for daily, weekly or deep cleaning in Bahria Town, DHA, Satellite Town, Saddar and offices on Murree Road."
-answer: "To hire a cleaner in Rawalpindi, tell RX Direct your area, property size and how often you need cleaning. Our Chandni Chowk office interviews every cleaner in person and checks CNIC, address and references. Most families get a shortlist within 24 to 48 hours. Full-time home cleaners in Rawalpindi usually start around PKR 25,000 to 28,000 a month, and deep cleans are quoted by size."
+answer: "To hire a cleaner in Rawalpindi, tell RX Direct your area, property size and how often you need cleaning. Our Chandni Chowk office interviews every cleaner in person and checks CNIC, address and references. Most families get a shortlist within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a house cleaner cost in Rawalpindi?"
-    a: "A full-time cleaner in Rawalpindi usually starts at PKR 25,000 to 28,000 a month in 2026. Part-time cleaners cost less, and one-time deep cleans are quoted by property size and condition."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you offer deep cleaning before Eid in Rawalpindi?"
     a: "Yes. Pre-Eid, pre-wedding, move-in and post-renovation deep cleans are available, with teams for larger houses. Book early before Eid."
   - q: "Do you provide office cleaners in Rawalpindi?"
@@ -50,14 +50,9 @@ Our cleaner service in Rawalpindi offers daily cleaners for larger homes, part-t
 
 As a cleaner provider in Rawalpindi, our process is simple. You tell us your area, property type and size, frequency, hours and budget. We shortlist verified cleaners, usually within 24 to 48 hours. You meet them at home or at our office, and the cleaner does a trial session. Then you confirm, and the 6 month replacement guarantee applies to regular placements. For deep cleans, we confirm scope and price, schedule the team, and you pay after the job.
 
-## Cleaner salaries and prices in Rawalpindi in 2026
+## Cleaner salaries and prices in Rawalpindi: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time daily cleaner | 25,000 to 32,000 per month |
-| Part-time, 3 days a week | 12,000 to 18,000 per month |
-| Part-time, 2 hours daily | 10,000 to 15,000 per month |
-| One-time deep clean | Quoted by size and condition |
+Pay for a cleaner in Rawalpindi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 See our [Pricing page](/pricing).
 

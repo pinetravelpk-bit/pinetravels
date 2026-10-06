@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Pakistan | Verified Home Cooks | RX Direct"
-description: "Hire a cook in Pakistan for daily family meals. Verified home cooks, live-in or live-out, tested in the kitchen before placement. From PKR 35,000 a month."
-answer: "To hire a cook in Pakistan through RX Direct, share your city, family size, cuisine, meals needed and timing. We shortlist CNIC, address and reference checked cooks who have passed a cooking test, usually within 24 to 48 hours. You hold a trial at home, and home cook salaries start around PKR 35,000 a month, with a 6 month replacement guarantee."
+description: "Hire a cook in Pakistan for daily family meals. Verified home cooks, live-in or live-out, tested in the kitchen before placement, shortlist in 48 hours."
+answer: "To hire a cook in Pakistan through RX Direct, share your city, family size, cuisine, meals needed and timing. We shortlist CNIC, address and reference checked cooks who have passed a cooking test, usually within 24 to 48 hours. You hold a trial at home."
 updated: 2026-10-02
 faqs:
   - q: "How much does a home cook cost in Pakistan?"
-    a: "A home cook in Pakistan usually starts at PKR 35,000 a month in 2026. Cooks handling three meals for a large family, or with continental and Chinese skills, typically earn PKR 45,000 to 65,000. Part-time cooks for one meal a day earn around PKR 18,000 to 25,000."
+    a: "There is no single fixed figure. Pay for a cook varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "What is the difference between a cook and a chef?"
     a: "A cook prepares daily family meals to your taste. A chef works at a higher level, planning menus and cooking for events and guests. Most households need a cook rather than a chef."
   - q: "Do you test cooks before sending them?"
@@ -66,17 +66,11 @@ Our cook service in Pakistan follows five simple steps:
 
 Shortlists and interviews are free. The placement fee applies only once you confirm a cook.
 
-## Cook salary in Pakistan in 2026
+## Cook salary in Pakistan: what affects it
 
-Salaries have risen with inflation. Families who still budget on 2020 figures struggle to hire good cooks. These are the ranges we see in 2026:
+Salaries have risen with inflation. Families who still budget on 2020 figures struggle to hire good cooks.
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time cook, one meal a day | 18,000 to 25,000 |
-| Live-out cook, two meals a day | 35,000 to 42,000 |
-| Live-out cook, three meals a day | 40,000 to 50,000 |
-| Live-in cook | 38,000 to 55,000 |
-| Senior cook, continental or Chinese skills | 50,000 to 65,000 |
+We do not publish fixed salary figures, because the right pay for a cook changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Islamabad, Lahore and Karachi are at the higher end. Faisalabad, Multan, Gujranwala and Peshawar are usually a few thousand rupees lower. Most cooks also expect an Eid bonus, a yearly increase and one day off a week. See our [Pricing page](/pricing) for details.
 

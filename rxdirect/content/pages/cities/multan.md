@@ -7,7 +7,7 @@ faqs:
   - q: "How do I hire domestic staff in Multan?"
     a: "Message RX Direct with your area in Multan, the role, hours, live-in or live-out preference and salary range. We shortlist verified candidates, usually within two to three days, you interview them and hold a trial before confirming."
   - q: "How much do domestic staff cost in Multan?"
-    a: "In 2026, helpers, cleaners and guards in Multan usually start around PKR 22,000 to 26,000, cooks and drivers around PKR 30,000 to 35,000, maids and nannies around PKR 35,000 to 40,000 and home nurses around PKR 55,000."
+    a: "It depends on the domestic worker's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Multan."
   - q: "Which areas of Multan do you cover?"
     a: "DHA Multan, Gulgasht Colony, Multan Cantt, Wapda Town, Citi Housing Multan, Bosan Road, Shah Rukn-e-Alam Colony, New Multan, Model Town, Officers Colony and nearby areas."
   - q: "Can I get Saraiki speaking staff in Multan?"
@@ -77,18 +77,9 @@ As a household staff agency in Multan, we cover:
 - **New Multan, Model Town and Mumtazabad**
 - **Northern Bypass and Vehari Road areas**
 
-## Domestic staff salaries in Multan in 2026
+## Domestic staff salaries in Multan: what affects it
 
-| Role | Typical starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy | 22,000 to 26,000 |
-| Security guard (12 hour shift) | 22,000 to 28,000 |
-| Caretaker | 27,000 to 33,000 |
-| Cook, driver, personal attendant | 30,000 to 35,000 |
-| Maid, nanny | 35,000 to 40,000 |
-| Chef | 45,000 and above |
-| Home nurse | 55,000 and above |
-| Domestic couple (combined) | 55,000 and above |
+The salary for a domestic worker in Multan depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing) for more.
 

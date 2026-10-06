@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Multan | Verified Home Cooks | RX Direct"
 description: "Hire a verified home cook in Multan for DHA Multan, Gulgasht, Cantt, Wapda Town and Bosan Road. Saraiki and Punjabi speaking cooks, tested before placement."
-answer: "To hire a cook in Multan, send RX Direct your area, family size, meals needed and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days. Home cooks in Multan usually start around PKR 30,000 to 35,000 a month, and Saraiki speaking cooks are available."
+answer: "To hire a cook in Multan, send RX Direct your area, family size, meals needed and timing. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a cook cost in Multan?"
-    a: "A live-out home cook in Multan usually starts at PKR 30,000 to 35,000 a month. Live-in cooks and cooks for large families typically earn PKR 36,000 to 48,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you have Saraiki speaking cooks in Multan?"
     a: "Yes. Many of our Multan cooks speak Saraiki as well as Urdu and Punjabi, which older family members often prefer."
   - q: "Which areas of Multan do you cover for cooks?"
@@ -62,15 +62,9 @@ Our cook service in Multan follows five steps:
 4. **Trial.** The cook prepares your family's normal meals at home.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Cook salary in Multan in 2026
+## Cook salary in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time cook, one meal | 15,000 to 20,000 |
-| Live-out cook, two meals | 30,000 to 35,000 |
-| Live-out cook, three meals | 33,000 to 40,000 |
-| Live-in cook | 35,000 to 45,000 |
-| Senior cook, large household | 40,000 to 50,000 |
+Every household is different, so the salary for a cook in Multan is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Most cooks also expect an Eid bonus, a yearly increase and a weekly day off. See our [Pricing page](/pricing).
 

@@ -102,18 +102,9 @@ Islamabad has many homes owned by families who live in the Gulf, the UK, North A
 
 ## What salaries look like in Islamabad
 
-Salaries vary with skills, hours and whether the worker lives in. As a rough guide for 2026:
+Salaries vary with skills, hours and whether the worker lives in.
 
-| Role | Typical monthly salary in Islamabad |
-|---|---|
-| Part-time maid | PKR 15,000 to 25,000 |
-| Full-time maid | PKR 40,000 to 55,000 |
-| Cook | PKR 35,000 to 65,000 |
-| Driver | PKR 35,000 to 55,000 |
-| Nanny | PKR 40,000 to 65,000 |
-| Caretaker | PKR 30,000 to 45,000 |
-| Home nurse | PKR 60,000 and above |
-| Helper or gardener | From PKR 25,000 |
+Every household is different, so the salary for a domestic worker in Islamabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Islamabad salaries are usually at the higher end of the national range because of living costs. See the [pricing page](/pricing) for more detail and for how our placement fee works.
 

@@ -70,7 +70,7 @@ Big houses in E-7, F-6, F-7, F-8, Bani Gala, Chak Shahzad, Park Road and the lar
 
 ## How much do domestic helpers in Islamabad earn?
 
-In 2026, a full-time helper in Islamabad usually starts at around PKR 25,000 a month, with experienced helpers or those trusted with cash, shopping and children earning more. Live-in helpers receive food and accommodation in addition to salary. Helpers who also wash several cars or handle garden work regularly should be paid for the extra load.
+Live-in helpers receive food and accommodation in addition to salary. Helpers who also wash several cars or handle garden work regularly should be paid for the extra load.
 
 Add the usual extras: an Eid bonus, a yearly increase, a weekly day off and paid leave. Our [pricing page](/pricing) shows how helper salaries compare with other roles.
 

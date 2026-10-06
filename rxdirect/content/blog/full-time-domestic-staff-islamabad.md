@@ -74,18 +74,9 @@ Whatever you choose, be consistent and keep a note. Workers notice fairness.
 
 ## Salary for full-time domestic staff Islamabad families pay
 
-Full-time salaries in Islamabad in 2026 usually look like this:
+The salary for a domestic worker in Islamabad depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
-| Role | Starting salary | Common range |
-|---|---|---|
-| Maid | PKR 40,000 | PKR 40,000 to 55,000 |
-| Cook | PKR 35,000 | PKR 35,000 to 65,000 |
-| Driver | PKR 35,000 | PKR 35,000 to 55,000 |
-| Nanny | PKR 40,000 | PKR 40,000 to 65,000 |
-| Helper | PKR 25,000 | PKR 25,000 to 35,000 |
-| Security guard | PKR 25,000 | PKR 25,000 to 40,000 |
-
-Skills, experience, languages and the size of the household move the salary within these ranges. See our [pricing page](/pricing) for detail.
+For full-time staff, the things that move the salary most are the length of the working day, whether there is regular evening or weekend work, how many people live in the house, extra duties such as cooking alongside cleaning, and experience with households like yours. A full-time worker should be able to live on the salary from your household alone, because they have no time for a second job. See our [pricing page](/pricing) for detail.
 
 ## Leave and holidays
 

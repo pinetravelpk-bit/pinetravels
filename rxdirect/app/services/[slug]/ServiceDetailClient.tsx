@@ -7,7 +7,6 @@ import { CheckCircle2, ShieldCheck, ChevronRight, ArrowRight, MapPin } from "luc
 import type { ServiceCategory } from "@/data/services";
 import { cities } from "@/data/cities";
 import { services } from "@/data/services";
-import { getSalaryForService } from "@/data/salaries";
 import { whatsappLink } from "@/data/business";
 import { useTranslation } from "@/i18n/LanguageContext";
 import { ServiceIcon, WhatsAppIcon } from "@/components/icons";
@@ -24,7 +23,6 @@ import {
 
 export default function ServiceDetailClient({ service, article }: { service: ServiceCategory; article?: ReactNode }) {
   const { t, locale } = useTranslation();
-  const salary = getSalaryForService(service.slug);
   const related = services.filter((s) => s.slug !== service.slug).slice(0, 3);
   const process = serviceOverviewProcessParagraph(service);
   const audience = serviceOverviewAudienceParagraph(service);
@@ -55,16 +53,6 @@ export default function ServiceDetailClient({ service, article }: { service: Ser
             {service.name[locale]}
           </h1>
           <p className="mt-4 text-balance text-lg text-gray-600">{service.shortDesc[locale]}</p>
-          {salary && (
-            <div className="mt-5 inline-flex items-center gap-2 rounded-full bg-brand-50 px-4 py-2 text-sm font-semibold text-brand-700">
-              {salary.amount
-                ? `PKR ${salary.amount.toLocaleString("en-US")}/${salary.unit === "month" ? (locale === "ur" ? "ماہ" : "mo") : ""}`
-                : locale === "ur"
-                  ? "فی کام قیمت"
-                  : "Priced per job"}
-              <span className="text-xs font-normal text-brand-600">{salary.note[locale]}</span>
-            </div>
-          )}
           <p className="mt-5 leading-relaxed text-gray-600">{service.intro[locale]}</p>
           <a
             href={whatsappLink(`Hi RX Direct, I need to hire ${service.name.en}.`)}

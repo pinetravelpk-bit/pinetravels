@@ -1,11 +1,11 @@
 ---
 title: "Hire Cleaner in Pakistan | Verified House Cleaners | RX Direct"
-description: "Hire a verified home cleaner in Pakistan for daily, weekly or deep cleaning. House and office cleaners, CNIC and reference checked, from PKR 25,000 a month."
-answer: "To hire a cleaner in Pakistan through RX Direct, tell us your city, area, property size and how often you need cleaning: daily, a few days a week, or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within 24 to 48 hours. Full-time domestic cleaners start around PKR 25,000 a month, and one-time deep cleans are quoted by size."
+description: "Hire a verified home cleaner in Pakistan for daily, weekly or deep cleaning. House and office cleaners, CNIC and reference checked before placement."
+answer: "To hire a cleaner in Pakistan through RX Direct, tell us your city, area, property size and how often you need cleaning: daily, a few days a week, or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within 24 to 48 hours."
 updated: 2026-10-02
 faqs:
   - q: "How much does a house cleaner cost in Pakistan?"
-    a: "A full-time cleaner in Pakistan usually starts at PKR 25,000 a month in 2026. Part-time cleaners coming two or three days a week cost less, and one-time deep cleans are quoted based on the size and condition of the property."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "What does a home cleaner do?"
     a: "A home cleaner sweeps, mops, dusts, cleans bathrooms and kitchens, wipes surfaces, cleans fans and windows on schedule, and takes out rubbish. Laundry and cooking are not normally part of the role."
   - q: "Do you offer one-time deep cleaning?"
@@ -75,15 +75,9 @@ As a cleaner provider in Pakistan, we keep it simple:
 
 For one-time deep cleans, we confirm the scope and price, schedule the team and you pay after the job is done.
 
-## Cleaner salaries and prices in 2026
+## Cleaner salaries and prices: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time daily cleaner | 25,000 to 35,000 per month |
-| Part-time, 3 days a week | 12,000 to 18,000 per month |
-| Part-time, 2 hours daily | 10,000 to 15,000 per month |
-| One-time deep clean, apartment | Quoted by size and condition |
-| One-time deep clean, large house | Quoted by size, usually a team |
+The salary for a cleaner depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Prices are a little higher in Islamabad, Lahore and Karachi. See our [Pricing page](/pricing) for more.
 

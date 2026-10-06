@@ -1,11 +1,11 @@
 ---
 title: "Hire Office Boy in Peshawar | Verified Office Support Staff"
 description: "Hire a verified office boy in Peshawar for pantry, tea, errands, banking and filing in University Town, Saddar, the Cantt and Hayatabad. Carefully checked."
-answer: "To hire an office boy in Peshawar, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist office support staff whose CNIC, address and references have been carefully checked, usually within two to three days. Office boys in Peshawar usually start around PKR 25,000 to 28,000 a month, plus a transport allowance for errands, with a 6 month replacement guarantee."
+answer: "To hire an office boy in Peshawar, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist office support staff whose CNIC, address and references have been carefully checked, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does an office boy cost in Peshawar?"
-    a: "An office boy in Peshawar usually starts at PKR 25,000 to 28,000 a month in 2026. Office boys with banking, courier or reception duties typically earn PKR 28,000 to 33,000, plus a transport allowance for errands."
+    a: "There is no single fixed figure. Pay for an office boy in Peshawar varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do you provide office boys for NGOs and development organisations in Peshawar?"
     a: "Yes. We place office support staff for NGOs, development projects, consultancies and international organisations in University Town, Hayatabad and the Cantt."
   - q: "Do your office boys speak Pashto?"
@@ -48,14 +48,9 @@ Office boys see files, visitors and money, so references are asked specifically 
 
 Our office boy service in Peshawar follows five steps. You tell us your office location, working hours, team size, main duties and salary range. We shortlist verified office boys, usually within two to three days. You interview them at your office or by video. A short trial follows so you can see how they work with your team. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Office boy salary in Peshawar in 2026
+## Office boy salary in Peshawar: what affects it
 
-| Role | Typical monthly salary (PKR) |
-|---|---|
-| Office boy, small office | 25,000 to 28,000 |
-| Pantry boy, larger office or project | 26,000 to 30,000 |
-| Office boy with banking and courier duties | 28,000 to 33,000 |
-| Office boy with reception and basic English | 29,000 to 34,000 |
+Every household is different, so the salary for an office boy in Peshawar is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 A transport allowance or fuel for errands is usually paid on top. If the office boy uses their own motorcycle, agree a fixed monthly fuel amount. See our [Pricing page](/pricing).
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Security Guard in Pakistan | Verified Home Guards"
-description: "Hire a verified security guard in Pakistan for homes, offices and gates. Police certificate checked residential and private security guards, from PKR 25,000."
-answer: "To hire a security guard in Pakistan through RX Direct, share your city, premises type, shift timings and number of guards needed. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds. Residential security guard salaries start around PKR 25,000 a month for a 12 hour shift."
+description: "Hire a verified security guard in Pakistan for homes, offices and gates. Police certificate checked residential and private security guards, day or night."
+answer: "To hire a security guard in Pakistan through RX Direct, share your city, premises type, shift timings and number of guards needed. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds."
 updated: 2026-10-02
 faqs:
   - q: "How much does a security guard cost in Pakistan?"
-    a: "A security guard in Pakistan usually starts at PKR 25,000 a month for a 12 hour shift in 2026. Night guards, ex-army guards and guards for larger premises typically earn PKR 30,000 to 40,000. Round the clock cover needs two guards."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do your guards have police certificates?"
     a: "Yes. A police character certificate is required for every security guard we place, along with CNIC, address and reference checks."
   - q: "Do you provide ex-army guards?"
@@ -65,14 +65,9 @@ Our security guard service in Pakistan follows clear steps:
 4. **Interview and trial.** Meet the guards and start with a trial shift.
 5. **Placement.** Confirm, with our 6 month replacement guarantee. Relief guards can be arranged for days off and leave.
 
-## Security guard salary in Pakistan in 2026
+## Security guard salary in Pakistan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day guard, 12 hour shift | 25,000 to 32,000 |
-| Night guard, 12 hour shift | 28,000 to 35,000 |
-| Ex-army or ex-FC guard | 30,000 to 40,000 |
-| Supervisor for a team of guards | 40,000 and above |
+Pay for a security guard is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Salaries are paid directly by the client. Uniforms, a torch, a whistle and a basic shelter at the gate are usually provided by the client. See our [Pricing page](/pricing) for more.
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Cleaner in Lahore | Verified House Cleaners | RX Direct"
 description: "Hire a verified home cleaner in Lahore for daily, weekly or deep cleaning in DHA, Gulberg, Model Town, Johar Town, Bahria Town and offices across the city."
-answer: "To hire a cleaner in Lahore, tell RX Direct your area, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within 24 to 48 hours. Full-time home cleaners in Lahore usually start around PKR 26,000 to 30,000 a month, and deep cleans are quoted by size."
+answer: "To hire a cleaner in Lahore, tell RX Direct your area, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a house cleaner cost in Lahore?"
-    a: "A full-time cleaner in Lahore usually starts at PKR 26,000 to 30,000 a month in 2026. Part-time cleaners cost less, and one-time deep cleans are quoted by property size and condition."
+    a: "It depends on the cleaner's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Lahore."
   - q: "Do you offer deep cleaning in Lahore?"
     a: "Yes. We arrange deep cleaning before Eid and weddings, for moving in or out, after renovation and when tenants leave, with teams for larger houses."
   - q: "How should cleaning change during Lahore's smog season?"
@@ -50,14 +50,9 @@ Our cleaner service in Lahore offers daily cleaners for larger homes, part-time 
 
 As a cleaner provider in Lahore, we keep it simple. You tell us your area, property type and size, frequency, hours and budget. We shortlist verified cleaners, usually within 24 to 48 hours. The cleaner does a trial session. Then you confirm, and the 6 month replacement guarantee applies to regular placements. For deep cleans, we confirm scope and price, schedule the team, and you pay after the job.
 
-## Cleaner salaries and prices in Lahore in 2026
+## Cleaner salaries and prices in Lahore: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time daily cleaner | 26,000 to 34,000 per month |
-| Part-time, 3 days a week | 13,000 to 19,000 per month |
-| Part-time, 2 hours daily | 11,000 to 16,000 per month |
-| One-time deep clean | Quoted by size and condition |
+The salary for a cleaner in Lahore depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing).
 

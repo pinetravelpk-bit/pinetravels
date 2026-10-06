@@ -1,11 +1,11 @@
 ---
 title: "Hire Helper in Lahore | Domestic and Kitchen Helpers"
 description: "Hire a verified domestic helper in Lahore for kitchen help, dishes, errands and chores in DHA, Gulberg, Model Town, Johar Town and Bahria Town homes."
-answer: "To hire a helper in Lahore, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within 24 to 48 hours. Full-time home helpers in Lahore usually start around PKR 26,000 to 30,000 a month."
+answer: "To hire a helper in Lahore, tell RX Direct your area, the chores you need help with, who the helper will work alongside and the hours. We shortlist CNIC, address and reference checked domestic helpers, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a helper cost in Lahore?"
-    a: "A full-time domestic helper in Lahore usually starts at PKR 26,000 to 30,000 a month in 2026. Helpers trusted with errands, cash or children typically earn PKR 30,000 to 36,000."
+    a: "There is no single fixed figure. Pay for a helper in Lahore varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can a helper support my cook during dawats?"
     a: "Yes. Kitchen helpers are popular in Lahore homes that entertain, handling prep, serving and washing up so the cook can focus on the food."
   - q: "Which areas of Lahore do you cover for helpers?"
@@ -48,14 +48,9 @@ Helpers are often young, so we focus on attitude, honesty and references rather 
 
 Our helper service in Lahore follows five steps. You tell us your area, main chores, who the helper will work with, hours and salary range. We send two or three verified helpers, usually within 24 to 48 hours. You interview them, ideally with your cook or maid present. A short trial follows. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Helper salary in Lahore in 2026
+## Helper salary in Lahore: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time helper | 12,000 to 19,000 |
-| Full-time live-out helper | 26,000 to 31,000 |
-| Full-time live-in helper | 26,000 to 33,000 |
-| Helper with errands, cash or child support | 30,000 to 36,000 |
+Every household is different, so the salary for a helper in Lahore is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 See our [Pricing page](/pricing).
 

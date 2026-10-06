@@ -1,11 +1,11 @@
 ---
 title: "Hire Nanny in Multan | Verified Nannies and Babysitters"
 description: "Hire a verified nanny or babysitter in Multan for newborns, toddlers and school children in DHA Multan, Bosan Road, Gulgasht and the Cantt. Day or live-in."
-answer: "To hire a nanny in Multan, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within three to five days. Full-time nannies in Multan usually start around PKR 38,000 to 44,000 a month."
+answer: "To hire a nanny in Multan, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a nanny cost in Multan?"
-    a: "A full-time day nanny in Multan usually starts at PKR 38,000 to 44,000 a month in 2026. Newborn nannies and live-in nannies typically earn PKR 45,000 to 58,000. Babysitters for occasional hours are paid per visit."
+    a: "It depends on the nanny's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Multan."
   - q: "How should a nanny protect children in Multan's summer heat?"
     a: "A nanny should keep children indoors in the hottest hours, dress them lightly, make sure they drink water often, keep rooms cool and watch for signs of heat exhaustion such as tiredness, headache or vomiting."
   - q: "Do you have nannies with newborn experience in Multan?"
@@ -53,15 +53,9 @@ We ask references very specific questions: How did the children react to her? Di
 
 Our nanny service in Multan follows five careful steps. First, your brief: children's ages, routines, hours, live-in or day, special needs and preferences. Second, a shortlist of two or three verified nannies with relevant experience, usually within three to five days. Third, interviews, ideally with your child present for part of the meeting. Fourth, a trial at home with you present. Fifth, placement, with our 6 month replacement guarantee.
 
-## Nanny salary in Multan in 2026
+## Nanny salary in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day nanny, toddler or school child | 38,000 to 45,000 |
-| Newborn nanny | 45,000 to 55,000 |
-| Live-in nanny | 43,000 to 55,000 |
-| Nanny for twins or night duty | 50,000 to 58,000 |
-| Babysitter, occasional | Per visit or hourly |
+The salary for a nanny in Multan depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Nannies who travel with the family to the farm or other cities, and nannies with formal childcare training, are at the higher end. See our [Pricing page](/pricing) for more.
 

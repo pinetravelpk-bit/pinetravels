@@ -1,11 +1,11 @@
 ---
 title: "Hire Caretaker in Multan | Elderly and Patient Caretakers"
 description: "Hire a verified elderly or patient caretaker in Multan for senior parents, stroke and dementia care in DHA Multan, Bosan Road, Gulgasht, Cantt and Wapda Town."
-answer: "To hire a caretaker in Multan, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients, usually within two to three days. Day shift caretakers in Multan usually start around PKR 30,000 to 35,000 a month, and live-in caretakers earn more."
+answer: "To hire a caretaker in Multan, tell RX Direct the person's age, health, mobility, the help needed, hours and your area. We shortlist CNIC, address and reference checked caretakers with experience caring for elderly or recovering patients, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a caretaker cost in Multan?"
-    a: "A day shift caretaker in Multan usually starts at PKR 30,000 to 35,000 a month in 2026. Live-in caretakers typically earn PKR 34,000 to 44,000, and caretakers for dementia or limited mobility earn PKR 38,000 to 48,000."
+    a: "It depends on the caretaker's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Multan."
   - q: "How can a caretaker protect my elderly parent in Multan's heat?"
     a: "A caretaker keeps your parent indoors in the hottest hours, offers water often, keeps the room cool with fans, curtains and damp cloths during power cuts, and watches for dizziness, confusion and very dark urine."
   - q: "Can I hire a caretaker for my parents in Multan while I live abroad?"
@@ -49,14 +49,9 @@ We ask references very specific questions: How did the caretaker treat your pare
 
 Our caretaker service in Multan follows five steps. First, tell us about the person: age, health conditions, mobility, memory, daily routine and the help needed, plus hours and whether the caretaker will live in. Second, we shortlist two or three verified caretakers with matching experience, usually within two to three days. Third, you interview them at home or by video, and family members abroad can join. Fourth, a trial day or two with a family member present. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Caretaker salary in Multan in 2026
+## Caretaker salary in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day shift caretaker | 30,000 to 36,000 |
-| Live-in caretaker | 34,000 to 44,000 |
-| Caretaker for dementia or limited mobility | 38,000 to 48,000 |
-| Night caretaker | 32,000 to 40,000 |
+We do not publish fixed salary figures, because the right pay for a caretaker in Multan changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Round the clock care usually needs a live-in caretaker with relief cover, or two caretakers on alternating shifts. See our [Pricing page](/pricing).
 

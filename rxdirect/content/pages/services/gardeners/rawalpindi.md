@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Rawalpindi | Verified Mali for Home | RX Direct"
 description: "Hire a verified gardener (mali) in Rawalpindi for lawns, hedges, trees and seasonal flowers in Bahria Town, DHA, Askari, Satellite Town and the Cantt."
-answer: "To hire a gardener in Rawalpindi, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. Our Chandni Chowk office interviews every gardener in person and checks CNIC, address and references. Most families get a shortlist within two to three days. Full-time gardeners in Rawalpindi usually start around PKR 25,000 to 28,000 a month, and visit based gardeners cost less."
+answer: "To hire a gardener in Rawalpindi, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. Our Chandni Chowk office interviews every gardener in person and checks CNIC, address and references. Most families get a shortlist within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a mali cost in Rawalpindi?"
-    a: "A full-time gardener in Rawalpindi usually starts at PKR 25,000 to 28,000 a month in 2026. Gardeners for large plots and farmhouses typically earn PKR 28,000 to 35,000. Visit based malis coming two or three times a week cost PKR 7,000 to 16,000 a month, depending on garden size."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can I meet the gardener at your office?"
     a: "Yes. Many Rawalpindi families meet shortlisted gardeners at our Al-Bilal Plaza office in Chandni Chowk before a trial visit."
   - q: "Do you provide gardeners for new houses in Bahria Town and DHA?"
@@ -50,15 +50,9 @@ Our gardener service in Rawalpindi offers three main arrangements. A **full-time
 
 As a gardener provider in Rawalpindi, we keep the process simple. You tell us your area, garden size, what you grow, how often you need help and your budget. We shortlist verified gardeners, usually within two to three days. You meet them at home or at our office, and the gardener walks through the garden with you and suggests what needs doing. A short trial follows. Then you confirm, and the 6 month replacement guarantee applies to full-time placements.
 
-## Gardener salary in Rawalpindi in 2026
+## Gardener salary in Rawalpindi: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 25,000 to 32,000 per month |
-| Large plot or farmhouse gardener | 28,000 to 35,000 per month |
-| Gardener visiting 3 times a week | 10,000 to 16,000 per month |
-| Gardener visiting twice a week | 7,000 to 12,000 per month |
-| Seasonal or one-time work | Quoted by job |
+Every household is different, so the salary for a gardener in Rawalpindi is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Seeds, plants, fertiliser and tools are usually bought by the family. See our [Pricing page](/pricing).
 

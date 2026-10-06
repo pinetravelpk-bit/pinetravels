@@ -1,11 +1,11 @@
 ---
 title: "Hire Personal Attendant in Karachi | Batman for Home"
 description: "Hire a verified personal attendant (batman) in Karachi for retired officers, elderly parents and senior executives in DHA, Clifton, PECHS and Askari."
-answer: "To hire a personal attendant in Karachi, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, many with experience serving officers and executives, usually within two to four days. Personal attendants in Karachi usually start around PKR 37,000 to 44,000 a month."
+answer: "To hire a personal attendant in Karachi, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, many with experience serving officers and executives, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a personal attendant cost in Karachi?"
-    a: "A personal attendant in Karachi usually starts at PKR 37,000 to 44,000 a month in 2026. Live-in attendants, ex-forces batmen and attendants who also drive typically earn PKR 42,000 to 58,000."
+    a: "It depends on the batman's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Karachi."
   - q: "What does a batman for home do?"
     a: "A batman serves one person's daily needs: preparing clothes and uniforms, polishing shoes, keeping their room in order, serving tea and meals, managing medicines on schedule, running personal errands and accompanying them when needed."
   - q: "Do you provide attendants with navy or army experience in Karachi?"
@@ -49,14 +49,9 @@ An attendant sees a great deal of a person's private life, so references are ask
 
 Our personal attendant service in Karachi follows five steps. First, tell us who the attendant will serve, their daily routine, the duties, hours and whether the attendant will live in. Second, we shortlist two or three verified attendants, usually within two to four days. Third, you interview them at home or by video. Fourth, a short trial so you can see how they work and present themselves. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Personal attendant salaries in Karachi in 2026
+## Personal attendant salaries in Karachi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out personal attendant | 37,000 to 44,000 |
-| Live-in personal attendant | 40,000 to 50,000 |
-| Attendant for elderly with care needs | 42,000 to 52,000 |
-| Attendant who also drives | 44,000 to 58,000 |
+The salary for a batman in Karachi depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Uniforms, meals and accommodation for live-in attendants are usually provided by the family. Day attendants commuting long distances may ask for a travel allowance. See our [Pricing page](/pricing).
 

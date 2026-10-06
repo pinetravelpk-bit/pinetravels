@@ -1,11 +1,11 @@
 ---
 title: "Hire Cook in Peshawar | Verified Home Cooks | RX Direct"
 description: "Hire a verified home cook in Peshawar for Hayatabad, University Town, DHA and Cantt. Cooks skilled in Peshawari food, female cooks available, checked first."
-answer: "To hire a cook in Peshawar, send RX Direct your area, family size, the dishes you eat, timing and whether you prefer a male or female cook. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days. Home cooks in Peshawar usually start around PKR 30,000 to 36,000 a month."
+answer: "To hire a cook in Peshawar, send RX Direct your area, family size, the dishes you eat, timing and whether you prefer a male or female cook. We shortlist cooks whose CNIC, address and references have been checked and who have passed a cooking test, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a cook cost in Peshawar?"
-    a: "A live-out home cook in Peshawar usually starts at PKR 30,000 to 36,000 a month. Live-in cooks and cooks for large families or frequent guests typically earn PKR 38,000 to 50,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can your cooks make Peshawari dishes?"
     a: "Yes. Many of our Peshawar cooks are skilled in chapli kabab, namkeen gosht, karahi, kabuli pulao and fresh naan, as well as everyday daal and sabzi."
   - q: "Do you have female cooks in Peshawar?"
@@ -64,15 +64,9 @@ Our cook service in Peshawar follows five steps:
 4. **Trial.** The cook prepares your family's meals at home.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Cook salary in Peshawar in 2026
+## Cook salary in Peshawar: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time cook, one meal | 15,000 to 20,000 |
-| Live-out cook, two meals | 30,000 to 36,000 |
-| Live-out cook, three meals | 33,000 to 42,000 |
-| Live-in cook | 35,000 to 45,000 |
-| Senior cook, frequent guests or large family | 42,000 to 52,000 |
+We do not publish fixed salary figures, because the right pay for a cook in Peshawar changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 See our [Pricing page](/pricing) for more.
 

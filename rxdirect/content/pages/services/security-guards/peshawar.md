@@ -1,11 +1,11 @@
 ---
 title: "Hire Security Guard in Peshawar | Verified Home Guards"
 description: "Hire a verified security guard in Peshawar for homes, offices and hujras in Hayatabad, University Town, DHA and Cantt. Police certificate and service checked."
-answer: "To hire a security guard in Peshawar, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, carefully confirmed address, references and a police character certificate, many with army, FC or police backgrounds, usually within two to three days. Residential guards in Peshawar usually start around PKR 25,000 to 30,000 a month for a 12 hour shift."
+answer: "To hire a security guard in Peshawar, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, carefully confirmed address, references and a police character certificate, many with army, FC or police backgrounds, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a security guard cost in Peshawar?"
-    a: "A residential security guard in Peshawar usually starts at PKR 25,000 to 30,000 a month for a 12 hour shift in 2026. Night guards and ex-forces guards typically earn PKR 28,000 to 38,000. Round the clock cover needs two guards."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you place ex-FC and ex-army guards in Peshawar?"
     a: "Yes. Many guards in Peshawar have served in the army, Frontier Corps, Levies or police. We check their discharge book or service record and still require a police character certificate."
   - q: "Do your guards speak Pashto?"
@@ -50,14 +50,9 @@ We also brief every guard before placement on visitor logs, ID checks, emergency
 
 Our security guard service in Peshawar follows five steps. First, we assess your needs: premises type, size, number of gates, whether there is a hujra, shift timings and any specific concerns. Second, we recommend how many guards and which shifts make sense. Third, we shortlist verified guards, usually within two to three days. Fourth, you interview them in person or by video and start with a trial shift. Fifth, you confirm, and the 6 month replacement guarantee begins. Relief guards can be arranged for days off and leave.
 
-## Security guard salary in Peshawar in 2026
+## Security guard salary in Peshawar: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day guard, 12 hour shift | 25,000 to 31,000 |
-| Night guard, 12 hour shift | 28,000 to 34,000 |
-| Ex-army, FC or police guard | 30,000 to 38,000 |
-| Supervisor for a team of guards | 40,000 and above |
+The salary for a security guard in Peshawar depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Salaries are paid directly by the client. Uniforms, a torch, a whistle, a raincoat, warm clothing and a heater for winter nights and a basic shelter at the gate are usually provided by the client. See our [Pricing page](/pricing) for more.
 

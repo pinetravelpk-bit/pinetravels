@@ -58,7 +58,7 @@ Results are recorded and shared with you. Workers who pass receive an RX Direct 
 
 ## How to hire a maid Pakistan: an example
 
-Maids are our most requested role, so here is how to hire a maid in Pakistan through this process in practice. You message us: "Need a live-in maid in DHA Lahore, family of five, cleaning and laundry, some help with two children, budget around 45,000." Your coordinator asks a few follow up questions about the size of the house, whether there is a servant quarter, and whether another woman is at home during the day.
+Maids are our most requested role, so here is how to hire a maid in Pakistan through this process in practice.
 
 Within a day or two you receive three profiles. One maid has worked six years with a family in Gulberg and left because they moved abroad. Another has three years in DHA and a reference who praises her honesty. You interview both by phone, invite one for a trial, and watch how she handles the bedrooms, the laundry and the children's afternoon routine. If you are happy, she starts the following week.
 

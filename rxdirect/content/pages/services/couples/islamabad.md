@@ -1,11 +1,11 @@
 ---
 title: "Hire Domestic Couple in Islamabad | Husband Wife Staff"
 description: "Hire a verified domestic couple in Islamabad: husband and wife staff for large homes, farmhouses on Park Road and Chak Shahzad, and houses of families abroad."
-answer: "To hire a domestic couple in Islamabad, tell RX Direct your sector, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days. Live-in domestic couples in Islamabad usually start around PKR 62,000 to 72,000 a month combined."
+answer: "To hire a domestic couple in Islamabad, tell RX Direct your sector, property type, the duties for each partner and the accommodation available. We shortlist husband and wife staff whose CNICs, marriage, address and references have been checked, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a domestic couple cost in Islamabad?"
-    a: "Live-in domestic couples in Islamabad usually start at PKR 62,000 to 72,000 a month combined in 2026. Couples with skilled roles such as cooking and driving typically earn PKR 72,000 to 98,000 together, plus accommodation."
+    a: "There is no single fixed figure. Pay for a domestic couple in Islamabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "What accommodation does a live-in couple need?"
     a: "A private servant quarter with its own bathroom, a fan and heater, basic furniture, a place to cook or meals provided, and electricity and water. A couple will not stay long without privacy."
   - q: "Do you place couples for farmhouses near Islamabad?"
@@ -58,14 +58,9 @@ Interviewing each partner separately helps us understand whether both are genuin
 
 Our domestic couple service in Islamabad follows five steps. First, you tell us about the property, the duties for each partner, the accommodation available, whether children can live on site and your budget. Second, we shortlist verified couples, usually within three to five days. Third, you interview both partners, at the property, at our Chandni Chowk office in Rawalpindi or by video, and family members abroad can join. Fourth, a short trial, during which the couple moves into the quarter. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Domestic couple salaries in Islamabad in 2026
+## Domestic couple salaries in Islamabad: what affects it
 
-| Arrangement | Typical combined monthly salary (PKR) |
-|---|---|
-| Maid and helper or gardener | 62,000 to 72,000 |
-| Cook and driver | 72,000 to 92,000 |
-| Housekeeper and guard for farmhouse | 67,000 to 88,000 |
-| Senior couple, large household | 88,000 to 98,000 and above |
+The salary for a domestic couple in Islamabad depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Accommodation, utilities and meals are usually provided. Some families pay each partner separately, others pay a combined salary. Agree this clearly. See our [Pricing page](/pricing).
 

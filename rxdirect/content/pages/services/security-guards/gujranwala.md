@@ -1,11 +1,11 @@
 ---
 title: "Hire Security Guard in Gujranwala | Verified Home Guards"
 description: "Hire a verified security guard in Gujranwala for homes, factories and houses of families abroad in DHA, Model Town and Satellite Town. Police checked."
-answer: "To hire a security guard in Gujranwala, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds, usually within two to three days. Residential guards in Gujranwala usually start around PKR 25,000 to 30,000 a month, and overseas families can arrange the hire remotely."
+answer: "To hire a security guard in Gujranwala, tell RX Direct your area, premises type, shift timings and how many guards you need. We shortlist guards with verified CNIC, address, references and a police character certificate, many with army or FC backgrounds, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a security guard cost in Gujranwala?"
-    a: "A residential security guard in Gujranwala usually starts at PKR 25,000 to 30,000 a month for a 12 hour shift in 2026. Night guards and ex-army guards typically earn PKR 28,000 to 38,000. Round the clock cover needs two guards."
+    a: "There is no single fixed figure. Pay for a security guard in Gujranwala varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I hire a guard for my house in Gujranwala while I live abroad?"
     a: "Yes. Many overseas families hire live-in guards for empty houses or parents' homes in Gujranwala, with video interviews, a relative at the trial and regular photo or video updates."
   - q: "Do you provide guards for factories in Gujranwala?"
@@ -50,14 +50,9 @@ We also brief every guard before placement on visitor logs, ID checks, emergency
 
 Our security guard service in Gujranwala follows five steps. First, we assess your needs: premises type, size, number of gates, shift timings and any specific concerns. Second, we recommend how many guards and which shifts make sense. Third, we shortlist verified guards, usually within two to three days. Fourth, you interview them, and family members abroad can join by video. A trial shift follows, ideally with a relative present if the house is empty or parents live alone. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Security guard salary in Gujranwala in 2026
+## Security guard salary in Gujranwala: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day guard, 12 hour shift | 25,000 to 31,000 |
-| Night guard, 12 hour shift | 28,000 to 34,000 |
-| Ex-army or ex-FC guard | 30,000 to 38,000 |
-| Live-in guard for an empty house | 26,000 to 34,000 plus accommodation |
+We do not publish fixed salary figures, because the right pay for a security guard in Gujranwala changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Salaries are paid directly by the client. Uniforms, a torch, a whistle, a raincoat, winter clothing and a basic shelter at the gate are usually provided by the client. Overseas families often send the salary through a relative or bank transfer on a fixed date. See our [Pricing page](/pricing) for more.
 

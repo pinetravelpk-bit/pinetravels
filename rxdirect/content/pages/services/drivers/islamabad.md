@@ -1,11 +1,11 @@
 ---
 title: "Hire Driver in Islamabad | Verified Family Drivers | RX Direct"
 description: "Hire a verified family driver in Islamabad. Licence checked, road tested personal drivers for school runs, offices, airport trips and diplomatic homes."
-answer: "To hire a driver in Islamabad, tell RX Direct your sector, car type, daily routes and hours. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test on Islamabad roads, usually within 24 to 48 hours. Family drivers in Islamabad usually start around PKR 37,000 to 42,000 a month."
+answer: "To hire a driver in Islamabad, tell RX Direct your sector, car type, daily routes and hours. We shortlist drivers whose CNIC, licence, address and references have been checked and who have passed a road test on Islamabad roads, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does a family driver cost in Islamabad?"
-    a: "A family driver in Islamabad usually starts at PKR 37,000 to 42,000 a month in 2026. Drivers with long days, weekend duty, airport runs or diplomatic experience typically earn PKR 45,000 to 60,000, or receive agreed overtime."
+    a: "There is no single fixed figure. Pay for a driver in Islamabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Do you check Islamabad driving licences?"
     a: "Yes. We check the licence category, validity and photo against the CNIC, and verify Islamabad licences through the ICT licensing system where possible."
   - q: "Do your drivers know Islamabad's routes?"
@@ -61,14 +61,9 @@ Our driver service in Islamabad follows five steps:
 4. **Trial.** A day or two on your real schedule.
 5. **Placement.** Confirm, and the 6 month replacement guarantee starts.
 
-## Driver salary in Islamabad in 2026
+## Driver salary in Islamabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Family driver, fixed hours | 37,000 to 42,000 |
-| Family driver, long days or weekends | 42,000 to 52,000 |
-| Live-in driver | 40,000 to 52,000 |
-| Executive or diplomatic driver | 45,000 to 60,000 |
+We do not publish fixed salary figures, because the right pay for a driver in Islamabad changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Overtime for late nights, airport runs and out of city trips is usually paid separately. See our [Pricing page](/pricing).
 

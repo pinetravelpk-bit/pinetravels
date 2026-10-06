@@ -13,7 +13,7 @@ faqs:
   - q: "What checks are done on your domestic staff?"
     a: "Every candidate goes through CNIC verification, an address check, reference calls to previous employers and a face to face interview. Security guards also need a police character certificate, and nurses must show their nursing qualification."
   - q: "How much does it cost to hire domestic staff in Pakistan?"
-    a: "Starting monthly salaries are around PKR 25,000 for helpers, cleaners and guards, PKR 35,000 for cooks and drivers, PKR 40,000 for maids and nannies and PKR 60,000 for home nurses. Our placement fee is separate and is only charged once you confirm a placement."
+    a: "There is no single fixed figure. Pay for a domestic worker varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "What if the staff member leaves or is not suitable?"
     a: "Every placement has a 6 month replacement guarantee from the start date. If the worker leaves or does not suit your household, we find a replacement without charging another placement fee."
   - q: "Which cities does RX Direct cover?"
@@ -111,17 +111,9 @@ For overseas Pakistanis who need a caretaker or driver for parents back home, we
 
 ## What domestic staff cost in Pakistan
 
-Salaries depend on city, experience, hours and whether the worker lives in. These are the starting monthly salaries we see most often in 2026. Senior and specialised staff earn more.
+Salaries depend on city, experience, hours and whether the worker lives in. Senior and specialised staff earn more.
 
-| Role | Starting salary (PKR per month) |
-|---|---|
-| Helper, cleaner, gardener, office boy, guard | 25,000 |
-| Caretaker | 30,000 |
-| Cook, driver, personal attendant | 35,000 |
-| Maid, nanny | 40,000 |
-| Chef | 50,000 |
-| Home nurse, domestic couple (combined) | 60,000 |
-| Electrician, plumber, carpenter, painter | Priced per job |
+Pay for a domestic worker is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Our [Pricing page](/pricing) explains how salaries and placement fees work, including Eid bonuses, leave and yearly increases.
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Nanny in Faisalabad | Verified Nannies and Babysitters"
 description: "Hire a verified nanny or babysitter in Faisalabad for newborns, toddlers and school children in Madina Town, Peoples Colony and Canal Road. Day or live-in."
-answer: "To hire a nanny in Faisalabad, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within three to five days. Full-time nannies in Faisalabad usually start around PKR 38,000 to 44,000 a month."
+answer: "To hire a nanny in Faisalabad, tell RX Direct your area, your children's ages, hours, live-in or day care and any special needs. We shortlist nannies and babysitters whose CNIC, address and childcare references have been checked and who have answered practical childcare questions, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a nanny cost in Faisalabad?"
-    a: "A full-time day nanny in Faisalabad usually starts at PKR 38,000 to 44,000 a month in 2026. Newborn nannies and live-in nannies typically earn PKR 45,000 to 58,000. Babysitters for occasional hours are paid per visit."
+    a: "It depends on the nanny's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Faisalabad."
   - q: "Can I find a babysitter in Faisalabad for a wedding?"
     a: "Yes. We arrange babysitters for weddings, family functions and evenings out. Tell us the dates early, especially in the winter wedding season."
   - q: "Do you have nannies with newborn experience in Faisalabad?"
@@ -53,15 +53,9 @@ We ask references very specific questions: How did the children react to her? Di
 
 Our nanny service in Faisalabad follows five careful steps. First, your brief: children's ages, routines, hours, live-in or day, special needs and preferences. Second, a shortlist of two or three verified nannies with relevant experience, usually within three to five days. Third, interviews, ideally with your child present for part of the meeting. Fourth, a trial at home with you present. Fifth, placement, with our 6 month replacement guarantee.
 
-## Nanny salary in Faisalabad in 2026
+## Nanny salary in Faisalabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Day nanny, toddler or school child | 38,000 to 45,000 |
-| Newborn nanny | 45,000 to 55,000 |
-| Live-in nanny | 43,000 to 55,000 |
-| Nanny for twins or night duty | 50,000 to 58,000 |
-| Babysitter, occasional | Per visit or hourly |
+Pay for a nanny in Faisalabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 English speaking nannies and nannies with formal childcare training are at the higher end. See our [Pricing page](/pricing) for more.
 

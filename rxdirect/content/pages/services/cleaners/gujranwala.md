@@ -1,11 +1,11 @@
 ---
 title: "Hire Cleaner in Gujranwala | Verified House Cleaners | RX Direct"
 description: "Hire a verified home cleaner in Gujranwala for daily, weekly or deep cleaning in DHA, Model Town, Satellite Town, Citi Housing and for homes of families abroad."
-answer: "To hire a cleaner in Gujranwala, tell RX Direct your area, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within two to three days. Full-time home cleaners in Gujranwala usually start around PKR 25,000 to 28,000 a month, and overseas families can arrange cleaning remotely."
+answer: "To hire a cleaner in Gujranwala, tell RX Direct your area, property size and how often you need cleaning: daily, a few days a week or a one-time deep clean. We shortlist CNIC, address and reference checked cleaners, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a house cleaner cost in Gujranwala?"
-    a: "A full-time cleaner in Gujranwala usually starts at PKR 25,000 to 28,000 a month in 2026. Part-time cleaners cost less, and one-time deep cleans are quoted by property size and condition."
+    a: "There is no single fixed figure. Pay for a cleaner in Gujranwala varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can I arrange cleaning for my house in Gujranwala while I live abroad?"
     a: "Yes. Many overseas families book regular cleaning for parents' homes or closed houses through us, with a relative present at the first visit and photo updates afterwards."
   - q: "Do you offer deep cleaning before family visits from abroad?"
@@ -52,14 +52,9 @@ Our cleaner service in Gujranwala offers four arrangements. **Daily cleaners** c
 
 As a cleaner provider in Gujranwala, we keep the process simple. You tell us your area, property type and size, frequency, hours and budget. We shortlist verified cleaners, usually within two to three days. Family members abroad can join the interview by video. The cleaner does a trial session, ideally with a relative present if parents live alone or the house is closed. Then you confirm, and the 6 month replacement guarantee applies to regular placements. For deep cleans, we confirm scope and price, schedule the team, and you pay after the job is done.
 
-## Cleaner salaries and prices in Gujranwala in 2026
+## Cleaner salaries and prices in Gujranwala: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time daily cleaner | 25,000 to 32,000 per month |
-| Part-time, 3 days a week | 12,000 to 18,000 per month |
-| Part-time, 2 hours daily | 10,000 to 15,000 per month |
-| One-time deep clean | Quoted by size and condition |
+The salary for a cleaner in Gujranwala depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 See our [Pricing page](/pricing).
 

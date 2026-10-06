@@ -1,7 +1,7 @@
 ---
 title: "Office and Security Staff Pakistan | Drivers, Guards, Office Boys"
 description: "Office staff provider and security staff provider in Pakistan. Hire verified office boys, drivers and security guards for offices, shops and homes."
-answer: "RX Direct is an office and security staff provider in Pakistan. We place verified office boys, corporate and family drivers, and security guards for offices, clinics, schools, shops, warehouses and homes. Guards need a police character certificate, drivers a valid licence and driving test, and starting salaries are around PKR 25,000 for guards and office boys and PKR 35,000 for drivers."
+answer: "RX Direct is an office and security staff provider in Pakistan. We place verified office boys, corporate and family drivers, and security guards for offices, clinics, schools, shops, warehouses and homes. Guards need a police character certificate, drivers a valid licence and driving test."
 updated: 2026-10-02
 faqs:
   - q: "Which staff are included in office and security staff?"
@@ -13,7 +13,7 @@ faqs:
   - q: "Are your guards armed?"
     a: "We place unarmed guards as standard. Armed guard requirements involve licensing rules, so we discuss them case by case and only where the guard holds a valid licence and the client's premises qualify."
   - q: "How much does a corporate driver cost in Pakistan?"
-    a: "Corporate drivers usually start around PKR 35,000 a month, with overtime for late evenings and out of city trips agreed in advance."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you replace office staff who leave?"
     a: "Yes. The 6 month replacement guarantee applies to office and security placements in the same way as household placements."
 ---
@@ -26,11 +26,11 @@ When these people are reliable, the business runs quietly. When they are not, sm
 
 ## Office and security staff Pakistan: the three roles
 
-**[Office boys](/services/office-boys).** Pantry management, tea and refreshments for staff and visitors, photocopying, filing, courier runs, banking, utility bill payments and keeping the office tidy. Some also handle basic reception duties. Starting salary is around PKR 25,000 a month.
+**[Office boys](/services/office-boys).** Pantry management, tea and refreshments for staff and visitors, photocopying, filing, courier runs, banking, utility bill payments and keeping the office tidy. Some also handle basic reception duties.
 
-**[Drivers](/services/drivers).** Corporate drivers for executives and pool cars, delivery drivers for small businesses, and family drivers for school and office runs. Every driver's licence is checked and their driving is tested in real traffic. Starting salary is around PKR 35,000 a month.
+**[Drivers](/services/drivers).** Corporate drivers for executives and pool cars, delivery drivers for small businesses, and family drivers for school and office runs. Every driver's licence is checked and their driving is tested in real traffic.
 
-**[Security guards](/services/security-guards).** Guards for office gates, reception areas, shops, warehouses, construction sites, housing society entrances and private homes. Day, night and 24 hour cover. Starting salary is around PKR 25,000 a month.
+**[Security guards](/services/security-guards).** Guards for office gates, reception areas, shops, warehouses, construction sites, housing society entrances and private homes. Day, night and 24 hour cover.
 
 ## Security staff provider Pakistan: what we check
 
@@ -99,12 +99,12 @@ Companies get a single point of contact on our team, monthly follow ups and clea
 
 ## Office boy and security guard agency Pakistan: salary guide
 
-| Role | Starting salary (PKR per month) | Notes |
-|---|---|---|
-| Office boy | 25,000 | More for longer hours or reception duties |
-| Security guard (12 hour shift) | 25,000 | More for night shifts and ex-army guards |
-| Family driver | 35,000 | Overtime for late nights and out of city trips |
-| Corporate driver | 35,000 | Higher for executive and airport duty |
+| Role | Notes |
+|---|---|
+| Office boy | More for longer hours or reception duties |
+| Security guard (12 hour shift) | More for night shifts and ex-army guards |
+| Family driver | Overtime for late nights and out of city trips |
+| Corporate driver | Higher for executive and airport duty |
 
 Salaries are paid directly by the client to the staff member. As an office boy and security guard agency in Pakistan, we charge a placement fee, which is shared clearly before you confirm a candidate. See [Pricing](/pricing) for more.
 

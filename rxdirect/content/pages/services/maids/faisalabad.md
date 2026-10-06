@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Faisalabad | Verified House Maids | RX Direct"
 description: "Hire a verified house maid in Faisalabad for Peoples Colony, Madina Town, Wapda City and Canal Road. Home maids for large joint family houses, checked first."
-answer: "To hire a maid in Faisalabad, tell RX Direct your area, house size, household and duties, and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within two to three days, and you hold a trial at home. Full-time house maids in Faisalabad usually start around PKR 35,000 to 42,000 a month."
+answer: "To hire a maid in Faisalabad, tell RX Direct your area, house size, household and duties, and whether you need a live-in or live-out maid. We shortlist maids whose CNIC, address and references have been checked, usually within two to three days, and you hold a trial at home."
 updated: 2026-10-03
 faqs:
   - q: "What is a maid's salary in Faisalabad?"
-    a: "A full-time house maid in Faisalabad usually earns PKR 35,000 to 42,000 a month in 2026, more for live-in maids in large joint family homes or maids with extra duties. Part-time maids usually earn PKR 14,000 to 22,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you have maids for large joint family homes?"
     a: "Yes. Many Faisalabad homes are joint families, and we shortlist maids experienced with big households, often suggesting a helper or second maid alongside."
   - q: "Which areas of Faisalabad do you cover for maids?"
@@ -49,14 +49,9 @@ Every verified maid in Faisalabad placed by RX Direct goes through:
 
 Our maid service in Faisalabad follows five steps. You share your area, house size, household, duties, hours, arrangement and salary range. We send two or three verified maids, usually within two to three days. You interview them. Your chosen maid works a trial day at home. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Maid salary in Faisalabad in 2026
+## Maid salary in Faisalabad: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 14,000 to 22,000 |
-| Full-time live-out maid | 35,000 to 42,000 |
-| Full-time live-in maid | 35,000 to 45,000 |
-| Maid for large joint family or extra duties | 42,000 to 50,000 |
+Pay for a maid in Faisalabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 See our [Pricing page](/pricing).
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Home Nurse in Peshawar | Verified Private Nurses"
 description: "Hire a verified home nurse in Peshawar for patient care, post surgery recovery and elderly care in Hayatabad, University Town, DHA Peshawar and the Cantt."
-answer: "To hire a home nurse in Peshawar, share the patient's age, condition, the care needed, hours and area with RX Direct. We shortlist qualified Pashto and Urdu speaking nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been carefully checked, usually within two to three days. Home nurses in Peshawar usually start around PKR 58,000 to 66,000 a month for a 12 hour shift."
+answer: "To hire a home nurse in Peshawar, share the patient's age, condition, the care needed, hours and area with RX Direct. We shortlist qualified Pashto and Urdu speaking nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been carefully checked, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a home nurse cost in Peshawar?"
-    a: "A qualified home nurse in Peshawar usually starts at PKR 58,000 to 66,000 a month in 2026 for a 12 hour shift. Night duty, live-in care and ICU level experience typically cost PKR 62,000 to 95,000."
+    a: "It depends on the home nurse's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Peshawar."
   - q: "Can a home nurse take over care after discharge from a Peshawar hospital?"
     a: "Yes. Whether the patient was treated at Lady Reading, Khyber Teaching, Hayatabad Medical Complex, Rehman Medical Institute, Northwest General or another hospital, share the discharge summary and medicine chart, and we will match a nurse with experience in that condition."
   - q: "Can I get a female nurse for a female patient in Peshawar?"
@@ -49,15 +49,9 @@ We ask previous hospitals and families very specific questions: Was the nurse pu
 
 Our home nurse service in Peshawar follows five steps. First, share the patient's details: age, diagnosis, the discharge summary or doctor's notes, care needed, hours and area. Second, we shortlist qualified nurses with matching experience, usually within two to three days, and sooner when a discharge date is fixed. Third, you speak to or meet the nurses. Fourth, the nurse starts with a trial shift, ideally with a family member present to hand over the patient's routine. Fifth, you confirm, and the 6 month replacement guarantee applies to monthly placements.
 
-## Home nurse salary in Peshawar in 2026
+## Home nurse salary in Peshawar: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home nurse, 12 hour day shift | 58,000 to 67,000 |
-| Home nurse, night shift | 62,000 to 72,000 |
-| Live-in home nurse | 66,000 to 85,000 |
-| ICU or ventilator level care | 78,000 to 95,000 and above |
-| Short term, post surgery | Weekly or monthly rates agreed in advance |
+Every household is different, so the salary for a home nurse in Peshawar is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Medical supplies, medicines and equipment are bought by the family. Round the clock care needs two nurses on alternating shifts. See our [Pricing page](/pricing).
 

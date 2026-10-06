@@ -1,11 +1,11 @@
 ---
 title: "Hire Personal Attendant in Rawalpindi | Batman for Home"
 description: "Hire a verified personal attendant (batman) in Rawalpindi for retired officers in the Cantt, Askari, Chaklala, DHA and Bahria Town. Ex-army batmen available."
-answer: "To hire a personal attendant in Rawalpindi, tell RX Direct who the attendant will serve, their routine, the duties and your area. Our Chandni Chowk office interviews every attendant in person and checks CNIC, address, references and service records for ex-army candidates. Most families get a shortlist within two to four days. Personal attendants in Rawalpindi usually start around PKR 35,000 to 42,000 a month."
+answer: "To hire a personal attendant in Rawalpindi, tell RX Direct who the attendant will serve, their routine, the duties and your area. Our Chandni Chowk office interviews every attendant in person and checks CNIC, address, references and service records for ex-army candidates. Most families get a shortlist within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a personal attendant cost in Rawalpindi?"
-    a: "A personal attendant in Rawalpindi usually starts at PKR 35,000 to 42,000 a month in 2026. Live-in attendants, ex-army batmen and attendants who also drive typically earn PKR 40,000 to 55,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Do you provide ex-army batmen in Rawalpindi?"
     a: "Yes. Rawalpindi has a large pool of retired soldiers who served as batmen or orderlies. We check their discharge book or service record and still verify references and address."
   - q: "Can I meet the attendant at your office?"
@@ -49,14 +49,9 @@ An attendant sees a great deal of a person's private life, so references are ask
 
 Our personal attendant service in Rawalpindi follows five steps. First, tell us who the attendant will serve, their daily routine, the duties, hours and whether the attendant will live in. Second, we shortlist two or three verified attendants, usually within two to four days. Third, you meet them at home or at our office. Fourth, a short trial so you can see how they work and present themselves. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Personal attendant salaries in Rawalpindi in 2026
+## Personal attendant salaries in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out personal attendant | 35,000 to 42,000 |
-| Live-in personal attendant | 38,000 to 48,000 |
-| Attendant for elderly with care needs | 40,000 to 50,000 |
-| Attendant who also drives | 42,000 to 55,000 |
+We do not publish fixed salary figures, because the right pay for a batman in Rawalpindi changes with skills, hours, live-in or live-out arrangements and the size of the household. Share your requirement and we will guide you on a fair salary before interviews.
 
 Uniforms, meals and accommodation for live-in attendants are usually provided by the family. See our [Pricing page](/pricing).
 

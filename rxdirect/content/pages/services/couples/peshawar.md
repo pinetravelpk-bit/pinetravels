@@ -1,11 +1,11 @@
 ---
 title: "Hire Domestic Couple in Peshawar | Husband Wife Staff"
 description: "Hire a verified domestic couple in Peshawar: husband and wife staff for large homes with a hujra in Hayatabad, University Town, DHA and the Cantt."
-answer: "To hire a domestic couple in Peshawar, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist Pashto speaking husband and wife staff whose CNICs, marriage, address and references have been carefully checked, usually within three to five days. Live-in domestic couples in Peshawar usually start around PKR 58,000 to 68,000 a month combined."
+answer: "To hire a domestic couple in Peshawar, tell RX Direct your area, property type, the duties for each partner and the accommodation available. We shortlist Pashto speaking husband and wife staff whose CNICs, marriage, address and references have been carefully checked, usually within three to five days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a domestic couple cost in Peshawar?"
-    a: "Live-in domestic couples in Peshawar usually start at PKR 58,000 to 68,000 a month combined in 2026. Couples with skilled roles such as cooking and driving typically earn PKR 68,000 to 90,000 together, plus accommodation."
+    a: "It depends on the domestic couple's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Peshawar."
   - q: "Why do Peshawar families prefer domestic couples?"
     a: "A couple lets the wife work on the family side of the house with the women, while the husband handles the hujra, gate, driving and outdoor work. This respects purdah and keeps both sides of the house covered."
   - q: "What accommodation does a live-in couple need?"
@@ -58,14 +58,9 @@ Security matters a great deal in Peshawar, so we take address and reference chec
 
 Our domestic couple service in Peshawar follows five steps. First, you tell us about the property, the duties for each partner, the accommodation available, whether children can live on site and your budget. Second, we shortlist verified couples, usually within three to five days. Third, you interview both partners, with the wife usually met by the women of the family. Fourth, a short trial, during which the couple moves into the quarter. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Domestic couple salaries in Peshawar in 2026
+## Domestic couple salaries in Peshawar: what affects it
 
-| Arrangement | Typical combined monthly salary (PKR) |
-|---|---|
-| Maid and helper or hujra attendant | 58,000 to 68,000 |
-| Cook and driver | 68,000 to 86,000 |
-| Housekeeper and guard for large house or farmhouse | 62,000 to 82,000 |
-| Senior couple, large household | 82,000 to 90,000 and above |
+Every household is different, so the salary for a domestic couple in Peshawar is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Accommodation, utilities and meals are usually provided. Some families pay each partner separately, others pay a combined salary. Agree this clearly. See our [Pricing page](/pricing).
 

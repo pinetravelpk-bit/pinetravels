@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Faisalabad | Verified Mali for Home | RX Direct"
 description: "Hire a verified gardener (mali) in Faisalabad for lawns, hedges, trees and seasonal flowers in Madina Town, Peoples Colony, Canal Road and farmhouses."
-answer: "To hire a gardener in Faisalabad, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Faisalabad's plants and seasons, usually within two to three days. Full-time gardeners in Faisalabad usually start around PKR 25,000 to 28,000 a month, and visit based gardeners cost less."
+answer: "To hire a gardener in Faisalabad, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Faisalabad's plants and seasons, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a mali cost in Faisalabad?"
-    a: "A full-time gardener in Faisalabad usually starts at PKR 25,000 to 28,000 a month in 2026. Gardeners for farmhouses and large plots typically earn PKR 28,000 to 34,000. Visit based malis coming two or three times a week cost PKR 7,000 to 15,000 a month, depending on garden size."
+    a: "There is no single fixed figure. Pay for a gardener in Faisalabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "When should I plant winter flowers in Faisalabad?"
     a: "Winter annuals such as petunias, calendula, pansies, dianthus and stock are usually sown or planted in October and November in Faisalabad, so they flower from January to March."
   - q: "Do you provide gardeners for farmhouses near Faisalabad?"
@@ -50,15 +50,9 @@ Our gardener service in Faisalabad offers three main arrangements. A **full-time
 
 As a gardener provider in Faisalabad, we keep the process simple. You tell us your area, garden size, what you grow, how often you need help and your budget. We shortlist verified gardeners, usually within two to three days. The gardener walks through the garden with you and suggests what needs doing, which tells you a lot about their knowledge. A short trial follows. Then you confirm, and the 6 month replacement guarantee applies to full-time placements.
 
-## Gardener salary in Faisalabad in 2026
+## Gardener salary in Faisalabad: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 25,000 to 31,000 per month |
-| Farmhouse or large plot gardener | 28,000 to 34,000 per month |
-| Gardener visiting 3 times a week | 10,000 to 15,000 per month |
-| Gardener visiting twice a week | 7,000 to 11,000 per month |
-| Seasonal or one-time work | Quoted by job |
+Pay for a gardener in Faisalabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Seeds, plants, fertiliser and tools are usually bought by the family. See our [Pricing page](/pricing).
 

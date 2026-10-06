@@ -1,11 +1,11 @@
 ---
 title: "Hire Maid in Rawalpindi | Verified House Maids | RX Direct"
 description: "Hire a verified house maid in Rawalpindi for Bahria Town, DHA, Askari, Satellite Town and Saddar. Live-in or live-out home maids, interviewed in person."
-answer: "To hire a maid in Rawalpindi, tell RX Direct your area, house size, duties and whether you need a live-in or live-out maid. Our Chandni Chowk office interviews every maid in person and checks CNIC, address and references. Most families get a shortlist within 24 to 48 hours, and full-time house maids in Rawalpindi usually start around PKR 40,000 to 45,000 a month."
+answer: "To hire a maid in Rawalpindi, tell RX Direct your area, house size, duties and whether you need a live-in or live-out maid. Our Chandni Chowk office interviews every maid in person and checks CNIC, address and references. Most families get a shortlist within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "What is a maid's salary in Rawalpindi?"
-    a: "A full-time house maid in Rawalpindi usually earns PKR 40,000 to 45,000 a month in 2026, more for live-in maids in large houses or maids with cooking or childcare duties. Part-time maids usually earn PKR 15,000 to 24,000."
+    a: "It depends on the maid's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Rawalpindi."
   - q: "Can I meet the maid at your office?"
     a: "Yes. Many Rawalpindi families meet shortlisted maids at our Al-Bilal Plaza office in Chandni Chowk before the home trial."
   - q: "Do you have maids for joint family homes?"
@@ -49,14 +49,9 @@ Every verified maid in Rawalpindi placed by RX Direct goes through:
 
 Our maid service in Rawalpindi follows five steps. You share your area, house size, household, duties, hours, arrangement and salary range. We send two or three verified maids, usually within 24 to 48 hours. You meet them at home, by phone or at our office. Your chosen maid works a trial day so you can see her standards. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Maid salary in Rawalpindi in 2026
+## Maid salary in Rawalpindi: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Part-time maid, 3 to 4 hours daily | 15,000 to 24,000 |
-| Full-time live-out maid | 40,000 to 45,000 |
-| Full-time live-in maid | 40,000 to 48,000 |
-| Maid with cooking or childcare duties | 48,000 to 55,000 |
+Pay for a maid in Rawalpindi is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Most maids expect an Eid bonus, a yearly increase and a weekly day off. See our [Pricing page](/pricing).
 

@@ -1,11 +1,11 @@
 ---
 title: "Hire Personal Attendant in Lahore | Batman for Home"
 description: "Hire a verified personal attendant (batman) in Lahore for retired officers in the Cantt, DHA and Askari, elderly parents and senior professionals in Gulberg."
-answer: "To hire a personal attendant in Lahore, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, many with experience serving retired officers, usually within two to four days. Personal attendants in Lahore usually start around PKR 35,000 to 42,000 a month."
+answer: "To hire a personal attendant in Lahore, tell RX Direct who the attendant will serve, their routine, the duties and your area. We shortlist CNIC, address and reference checked attendants, many with experience serving retired officers, usually within two to four days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a personal attendant cost in Lahore?"
-    a: "A personal attendant in Lahore usually starts at PKR 35,000 to 42,000 a month in 2026. Live-in attendants, ex-army batmen and attendants who also drive typically earn PKR 40,000 to 55,000."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "What does a batman for home do?"
     a: "A batman serves one person's daily needs: preparing clothes and uniforms, polishing shoes, keeping their room in order, serving tea and meals, managing medicines on schedule, running personal errands and accompanying them when needed."
   - q: "Do you provide ex-army attendants in Lahore?"
@@ -49,14 +49,9 @@ An attendant sees a great deal of a person's private life, so references are ask
 
 Our personal attendant service in Lahore follows five steps. First, tell us who the attendant will serve, their daily routine, the duties, hours and whether the attendant will live in. Second, we shortlist two or three verified attendants, usually within two to four days. Third, you interview them at home or by video. Fourth, a short trial so you can see how they work and present themselves. Fifth, you confirm, and the 6 month replacement guarantee begins.
 
-## Personal attendant salaries in Lahore in 2026
+## Personal attendant salaries in Lahore: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Live-out personal attendant | 35,000 to 42,000 |
-| Live-in personal attendant | 38,000 to 48,000 |
-| Attendant for elderly with care needs | 40,000 to 50,000 |
-| Attendant who also drives | 42,000 to 55,000 |
+The salary for a batman in Lahore depends on experience, working hours, duties and whether the worker lives in. Tell us what you need and we will advise on a fair figure for your household before you meet anyone.
 
 Uniforms, meals and accommodation for live-in attendants are usually provided by the family. See our [Pricing page](/pricing).
 

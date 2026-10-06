@@ -115,9 +115,9 @@ Live-in staff need time away to see family, meet friends and rest. Agree:
 
 Many live-in staff in Islamabad come from distant villages and prefer to save their leave for longer trips home. Some families allow staff to combine leave into one longer visit each year.
 
-## Salary for live-in domestic staff Islamabad rates in 2026
+## Salary for live-in domestic staff Islamabad families agree
 
-Live-in staff receive food and accommodation, but they are also available for more hours. As a result, the cash salary is often similar to live-out staff, and sometimes higher for demanding roles. In 2026, expect live-in maids to earn around PKR 40,000 to 55,000, live-in cooks PKR 40,000 to 65,000 depending on skills, live-in nannies PKR 50,000 to 65,000, live-in caretakers PKR 35,000 to 45,000 and domestic couples PKR 70,000 to 95,000 combined. Our [pricing page](/pricing) has more detail.
+Live-in staff receive food and accommodation, but they are also available for more hours. As a result, the cash salary is often similar to live-out staff, and sometimes higher for demanding roles. Our [pricing page](/pricing) has more detail.
 
 ## Privacy on both sides
 

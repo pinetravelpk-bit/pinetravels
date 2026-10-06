@@ -1,11 +1,11 @@
 ---
 title: "Hire Home Nurse in Multan | Verified Private Nurses"
 description: "Hire a verified home nurse in Multan for patient care, post surgery recovery and elderly care in DHA Multan, Bosan Road, Gulgasht, Cantt and Wapda Town."
-answer: "To hire a home nurse in Multan, share the patient's age, condition, the care needed, hours and area with RX Direct. We shortlist qualified nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been checked, usually within two to three days. Home nurses in Multan usually start around PKR 58,000 to 66,000 a month for a 12 hour shift."
+answer: "To hire a home nurse in Multan, share the patient's age, condition, the care needed, hours and area with RX Direct. We shortlist qualified nurses whose nursing diploma or degree, CNIC, address and hospital or family references have been checked, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a home nurse cost in Multan?"
-    a: "A qualified home nurse in Multan usually starts at PKR 58,000 to 66,000 a month in 2026 for a 12 hour shift. Night duty, live-in care and ICU level experience typically cost PKR 62,000 to 95,000."
+    a: "It depends on the home nurse's experience, the hours and duties, and whether they live in. Send us your requirement on WhatsApp and we will advise on a fair salary for your household in Multan."
   - q: "Can a home nurse take over care after discharge from Nishtar Hospital?"
     a: "Yes. Whether the patient was treated at Nishtar, the Multan Institute of Cardiology, Children's Hospital or a private hospital, share the discharge summary and medicine chart, and we will match a nurse with experience in that condition."
   - q: "Do you check nursing qualifications in Multan?"
@@ -49,15 +49,9 @@ We ask previous hospitals and families very specific questions: Was the nurse pu
 
 Our home nurse service in Multan follows five steps. First, share the patient's details: age, diagnosis, the discharge summary or doctor's notes, care needed, hours and area. Second, we shortlist qualified nurses with matching experience, usually within two to three days, and sooner when a discharge date is fixed. Third, you speak to or meet the nurses. Fourth, the nurse starts with a trial shift, ideally with a family member present to hand over the patient's routine. Fifth, you confirm, and the 6 month replacement guarantee applies to monthly placements.
 
-## Home nurse salary in Multan in 2026
+## Home nurse salary in Multan: what affects it
 
-| Arrangement | Typical monthly salary (PKR) |
-|---|---|
-| Home nurse, 12 hour day shift | 58,000 to 67,000 |
-| Home nurse, night shift | 62,000 to 72,000 |
-| Live-in home nurse | 66,000 to 85,000 |
-| ICU or ventilator level care | 78,000 to 95,000 and above |
-| Short term, post surgery | Weekly or monthly rates agreed in advance |
+Pay for a home nurse in Multan is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 Medical supplies, medicines and equipment are bought by the family. Round the clock care needs two nurses on alternating shifts. See our [Pricing page](/pricing).
 

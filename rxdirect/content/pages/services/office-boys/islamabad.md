@@ -1,11 +1,11 @@
 ---
 title: "Hire Office Boy in Islamabad | Verified Office Support Staff"
 description: "Hire a verified office boy in Islamabad for pantry, tea, errands, banking and filing in Blue Area, F-6, F-7, G-8, I-8 and the business parks. Reference checked."
-answer: "To hire an office boy in Islamabad, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within 24 to 48 hours. Office boys in Islamabad usually start around PKR 26,000 to 30,000 a month, plus a transport allowance for errands, with a 6 month replacement guarantee."
+answer: "To hire an office boy in Islamabad, tell RX Direct your office location, working hours and duties such as pantry, errands, banking or filing. We shortlist CNIC, address and reference checked office support staff, usually within 24 to 48 hours."
 updated: 2026-10-03
 faqs:
   - q: "How much does an office boy cost in Islamabad?"
-    a: "An office boy in Islamabad usually starts at PKR 26,000 to 30,000 a month in 2026. Office boys with banking, courier or reception duties typically earn PKR 30,000 to 36,000, plus a transport allowance for errands."
+    a: "There is no single fixed figure. Pay for an office boy in Islamabad varies with skills, working hours, family size and live-in or live-out arrangements, and we guide you on a fair offer once we know your requirement."
   - q: "Can an office boy handle bank and government office errands in Islamabad?"
     a: "Yes. Experienced office boys handle bank deposits, utility bills, courier drop-offs and document submission at offices in the F and G sectors and Blue Area. We look for references that confirm honesty with money."
   - q: "Do you provide office boys for embassies, NGOs and international organisations?"
@@ -48,14 +48,9 @@ Office boys handle cash, cheques and confidential documents, so references are a
 
 Our office boy service in Islamabad follows five steps. You tell us your office location, working hours, team size, main duties and salary range. We shortlist verified office boys, usually within 24 to 48 hours. You interview them at your office, at our Chandni Chowk office in Rawalpindi or by video. A short trial follows so you can see how they work with your team. Then you confirm, and the 6 month replacement guarantee begins.
 
-## Office boy salary in Islamabad in 2026
+## Office boy salary in Islamabad: what affects it
 
-| Role | Typical monthly salary (PKR) |
-|---|---|
-| Office boy, small office | 26,000 to 30,000 |
-| Pantry boy, corporate floor | 27,000 to 32,000 |
-| Office boy with banking and courier duties | 30,000 to 36,000 |
-| Office boy with reception and basic English | 32,000 to 38,000 |
+Pay for an office boy in Islamabad is agreed between you and the worker, and it varies with experience, duties, hours and accommodation. When you send your requirement, we suggest a fair range for your situation so you can make a realistic offer.
 
 A transport allowance or fuel for errands is usually paid on top. If the office boy uses their own motorcycle, agree a fixed monthly fuel amount. See our [Pricing page](/pricing).
 

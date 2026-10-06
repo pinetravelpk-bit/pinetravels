@@ -41,17 +41,9 @@ A clear job description does two things. It helps you compare candidates fairly,
 
 ## Step 2: Set a realistic budget
 
-The fastest way to fail at hiring is to offer a salary from five years ago. Salaries in Islamabad have risen with inflation, rent and transport costs. As a guide for 2026:
+The fastest way to fail at hiring is to offer a salary from five years ago. Salaries in Islamabad have risen with inflation, rent and transport costs.
 
-| Role | Starting salary per month |
-|---|---|
-| Helper, cleaner, gardener | From PKR 25,000 |
-| Cook | From PKR 35,000 |
-| Driver | From PKR 35,000 |
-| Full-time maid | PKR 40,000 to 55,000 |
-| Nanny | From PKR 40,000 |
-| Caretaker | From PKR 30,000 |
-| Home nurse | From PKR 60,000 |
+Every household is different, so the salary for a domestic worker in Islamabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Experienced workers, live-in roles with long hours and staff with special skills earn more. Also budget for an Eid bonus, a yearly increase and food. See our [pricing page](/pricing) for the full picture.
 

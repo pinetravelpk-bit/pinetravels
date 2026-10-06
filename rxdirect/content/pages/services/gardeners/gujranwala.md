@@ -1,11 +1,11 @@
 ---
 title: "Hire Gardener in Gujranwala | Verified Mali for Home | RX Direct"
 description: "Hire a verified gardener (mali) in Gujranwala for lawns, hedges, trees and seasonal flowers in DHA, Model Town, Satellite Town, Citi Housing and empty homes."
-answer: "To hire a gardener in Gujranwala, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Gujranwala's plants and seasons, usually within two to three days. Full-time gardeners in Gujranwala usually start around PKR 25,000 to 28,000 a month, and overseas families can arrange the hire remotely."
+answer: "To hire a gardener in Gujranwala, tell RX Direct your area, garden size and whether you need a full-time mali or visits a few times a week. We shortlist CNIC, address and reference checked gardeners who know Gujranwala's plants and seasons, usually within two to three days."
 updated: 2026-10-03
 faqs:
   - q: "How much does a mali cost in Gujranwala?"
-    a: "A full-time gardener in Gujranwala usually starts at PKR 25,000 to 28,000 a month in 2026. Gardeners for large plots and farmhouses typically earn PKR 28,000 to 34,000. Visit based malis coming two or three times a week cost PKR 7,000 to 15,000 a month, depending on garden size."
+    a: "Salary is agreed between you and the worker and depends on experience, duties, hours and accommodation. Share your needs with us and we will suggest a fair range before you interview anyone."
   - q: "Can a gardener look after my house garden while I live abroad?"
     a: "Yes. Many overseas families hire a visit based or full-time mali for their Gujranwala homes, with a relative checking in and photos of the garden sent every week."
   - q: "When should I plant winter flowers in Gujranwala?"
@@ -50,15 +50,9 @@ Our gardener service in Gujranwala offers three main arrangements. A **full-time
 
 As a gardener provider in Gujranwala, we keep the process simple. You tell us your area, garden size, what you grow, how often you need help and your budget. We shortlist verified gardeners, usually within two to three days. The gardener walks through the garden with you or a relative and suggests what needs doing. Family members abroad can join by video. A short trial follows. Then you confirm, and the 6 month replacement guarantee applies to full-time placements.
 
-## Gardener salary in Gujranwala in 2026
+## Gardener salary in Gujranwala: what affects it
 
-| Arrangement | Typical cost (PKR) |
-|---|---|
-| Full-time gardener | 25,000 to 31,000 per month |
-| Large plot or farmhouse gardener | 28,000 to 34,000 per month |
-| Gardener visiting 3 times a week | 10,000 to 15,000 per month |
-| Gardener visiting twice a week | 7,000 to 11,000 per month |
-| Seasonal or one-time work | Quoted by job |
+Every household is different, so the salary for a gardener in Gujranwala is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Seeds, plants, fertiliser and tools are usually bought by the family. Overseas families often send the salary and a small monthly garden budget through a relative. See our [Pricing page](/pricing).
 

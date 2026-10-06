@@ -93,15 +93,9 @@ A quick look around before the worker leaves, at least in the first weeks, helps
 
 ## What part-time domestic staff Islamabad workers earn
 
-Part-time salaries depend on hours, days and duties. As a guide for 2026:
+Part-time salaries depend on hours, days and duties.
 
-| Arrangement | Typical pay |
-|---|---|
-| Part-time maid, 3 to 4 hours daily, 6 days | PKR 15,000 to 25,000 a month |
-| Part-time cook, one meal daily | PKR 18,000 to 25,000 a month |
-| Cleaner, per visit | Agreed per visit, depending on house size |
-| Gardener, weekly visits | Fixed monthly amount or per visit |
-| Babysitter, evenings | Per hour or per evening, agreed in advance |
+Every household is different, so the salary for a domestic worker in Islamabad is set after looking at the hours, duties, experience required and whether food and accommodation are provided. Message us with your needs and we will help you settle on a fair offer.
 
 Part-time workers often earn more per hour than full-time staff, because they have travel time between homes and no food or accommodation. Our [pricing page](/pricing) has more detail.
 

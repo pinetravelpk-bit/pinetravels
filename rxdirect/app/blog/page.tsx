@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getAllPostsMeta, getAllCitySlugsWithPosts, getAllServiceSlugsWithPosts } from "@/lib/markdown";
+import { getBlogPage, getBlogPageCount, getAllCitySlugsWithPosts, getAllServiceSlugsWithPosts } from "@/lib/markdown";
 import { cities } from "@/data/cities";
 import { services } from "@/data/services";
 import BlogPageClient from "./BlogPageClient";
@@ -16,13 +16,13 @@ export const metadata: Metadata = pageMetadata("/blog", {
 });
 
 export default function BlogPage() {
-  const posts = getAllPostsMeta();
+  const posts = getBlogPage(1);
   const browseCities = cities.filter((c) => getAllCitySlugsWithPosts().includes(c.slug));
   const browseServices = services.filter((s) => getAllServiceSlugsWithPosts().includes(s.slug));
   return (
     <>
       <PageFaqSchema route="/blog" />
-      <BlogPageClient posts={posts} browseCities={browseCities} browseServices={browseServices} />
+      <BlogPageClient posts={posts} page={1} pageCount={getBlogPageCount()} browseCities={browseCities} browseServices={browseServices} />
       <PageArticle page={getPageContent("/blog")} />
     </>
   );
