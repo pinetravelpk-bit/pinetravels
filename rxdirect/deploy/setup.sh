@@ -256,8 +256,15 @@ remote="\$(git ls-remote '$REPO' "refs/heads/\$BRANCH" | cut -f1)"
 [ -n "\$remote" ] || exit 0
 # An update is already running (manual or earlier timer run): check again later.
 flock -n /var/lock/rxdirect-setup.lock true || exit 0
-[ "\$remote" = "\$(cat $HOME_DIR/deployed-commit 2>/dev/null || true)" ] && exit 0
-[ "\$remote" = "\$(cat $HOME_DIR/attempted-commit 2>/dev/null || true)" ] && exit 0
+# A scheduled blog post (publish_at) whose time has come also needs a rebuild,
+# even with no new commit. Each due time is attempted once.
+next="\$(cat $HOME_DIR/next-publish 2>/dev/null || true)"
+if [ -n "\$next" ] && [ "\$(date +%s)" -ge "\$next" ] && [ "\$next" != "\$(cat $HOME_DIR/attempted-publish 2>/dev/null || true)" ]; then
+  echo "\$next" > $HOME_DIR/attempted-publish
+else
+  [ "\$remote" = "\$(cat $HOME_DIR/deployed-commit 2>/dev/null || true)" ] && exit 0
+  [ "\$remote" = "\$(cat $HOME_DIR/attempted-commit 2>/dev/null || true)" ] && exit 0
+fi
 echo "\$remote" > $HOME_DIR/attempted-commit
 cd /root && FOREGROUND=1 RXDIRECT_DETACHED=1 bash /root/setup.sh > $LOG_FILE 2>&1
 AUTO
@@ -322,7 +329,11 @@ cp "$APP_DIR/deploy/setup.sh" /root/setup.sh.new && mv /root/setup.sh.new /root/
 say "Building the site (about 2,100 pages; 20-60 minutes on a 1-CPU server)"
 # Lint is skipped on the server (it runs in development); type checks still run.
 # Page-generation progress is copied into the status file as it happens.
-as_app "cd '$APP_DIR' && npm ci --no-audit --no-fund && NODE_OPTIONS=--max-old-space-size=3072 npm run build -- --no-lint" 2>&1 |
+# Note the next scheduled blog post before building: one that falls due while
+# the build runs is then picked up by the update timer straight after.
+as_app "cd '$APP_DIR' && npm ci --no-audit --no-fund"
+NEXT_PUBLISH="$(as_app "cd '$APP_DIR' && node scripts/next-scheduled-post.mjs" || true)"
+as_app "cd '$APP_DIR' && NODE_OPTIONS=--max-old-space-size=3072 npm run build -- --no-lint" 2>&1 |
   while IFS= read -r line; do
     printf '%s\n' "$line"
     case "$line" in
@@ -343,6 +354,7 @@ for _ in $(seq 1 10); do curl -fs -o /dev/null "http://127.0.0.1:$API_PORT/.netl
 echo "  API -> $(code '/.netlify/functions/list-comments?pageId=x')"
 
 runuser -u "$APP_USER" -- git -C "$SRC_DIR" rev-parse HEAD > "$HOME_DIR/deployed-commit" 2>/dev/null || true
+printf '%s' "$NEXT_PUBLISH" > "$HOME_DIR/next-publish"
 
 say "Done"
 status "DONE - the new version is live.

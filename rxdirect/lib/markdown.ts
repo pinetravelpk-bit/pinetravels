@@ -9,12 +9,23 @@ import { slugifyTag } from "@/lib/slug";
 
 const BLOG_DIR = path.join(process.cwd(), "content", "blog");
 
+// A post with a future `publish_at` (ISO date-time in front matter) stays out
+// of every page, list and sitemap until a build runs after that moment. The
+// server rebuilds when the next one is due (see scripts/next-scheduled-post.mjs).
+function isPublished(slug: string): boolean {
+  const at = readRaw(slug).data.publish_at;
+  if (!at) return true;
+  const t = new Date(at as string).getTime();
+  return Number.isNaN(t) || t <= Date.now();
+}
+
 function readSlugs(): string[] {
   if (!fs.existsSync(BLOG_DIR)) return [];
   return fs
     .readdirSync(BLOG_DIR)
     .filter((f) => f.endsWith(".md"))
-    .map((f) => f.replace(/\.md$/, ""));
+    .map((f) => f.replace(/\.md$/, ""))
+    .filter(isPublished);
 }
 
 function readRaw(slug: string) {
@@ -83,7 +94,7 @@ export function getPostSlugs(): string[] {
 }
 
 export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
-  if (!fs.existsSync(path.join(BLOG_DIR, `${slug}.md`))) return null;
+  if (!fs.existsSync(path.join(BLOG_DIR, `${slug}.md`)) || !isPublished(slug)) return null;
   const { data, content } = readRaw(slug);
   const processed = await remark().use(html).process(content);
   const { html: contentHtml, headings } = withHeadingIds(processed.toString());
