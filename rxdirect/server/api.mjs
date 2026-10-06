@@ -705,6 +705,30 @@ const server = http.createServer(async (req, res) => {
 });
 server.requestTimeout = 120_000;
 
+// One open job per service (server/seed-jobs.json), added once. Each seed is
+// remembered in seeded-jobs.json, so jobs the admin edits, closes or deletes
+// are never brought back, and new seeds added later are posted on next start.
+await update("jobs.json", [], (list) => {
+  const done = new Set(load("seeded-jobs.json", []));
+  let seeds = [];
+  try {
+    seeds = JSON.parse(readFileSync(new URL("./seed-jobs.json", import.meta.url), "utf8"));
+  } catch {
+    return;
+  }
+  const fresh = seeds.filter((s) => !done.has(s.seedKey));
+  if (!fresh.length) return;
+  const stamp = Date.now();
+  fresh.forEach((s, i) => {
+    // Slightly different times keep the seed order on the newest-first board.
+    const at = new Date(stamp - i * 1000).toISOString();
+    list.push({ id: randomUUID(), ...s, createdAt: at, updatedAt: at });
+    done.add(s.seedKey);
+  });
+  save("seeded-jobs.json", [...done]);
+  console.log(`Posted ${fresh.length} starter job(s) from seed-jobs.json`);
+});
+
 server.listen(PORT, HOST, () => {
   console.log(`RX Direct API on http://${HOST}:${PORT} (data: ${DATA_DIR})`);
   if (!ADMIN_PASSWORD) console.log("ADMIN_PASSWORD not set: admin endpoints are disabled.");
