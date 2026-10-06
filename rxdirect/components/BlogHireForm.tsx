@@ -6,6 +6,7 @@ import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 import { business, telLink, whatsappLink } from "@/data/business";
 import { useTranslation } from "@/i18n/LanguageContext";
+import { trackLeadConversion } from "@/lib/analytics";
 import { WhatsAppIcon } from "@/components/icons";
 
 const inputClass =
@@ -50,6 +51,7 @@ export default function BlogHireForm({
       if (!res.ok) throw new Error(String(res.status));
       formEl.reset();
       setStatus("done");
+      trackLeadConversion();
     } catch {
       setStatus("error");
     }

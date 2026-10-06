@@ -37,6 +37,8 @@ const notoNastaliq = localFont({
 });
 
 const GA_ID = "G-L8M3D1L9PB";
+// Google Ads account; the lead form conversion event is in lib/analytics.ts.
+const ADS_ID = "AW-18304128353";
 
 export const metadata: Metadata = {
   // Google Search Console ownership check (google-site-verification meta tag).
@@ -83,7 +85,8 @@ export default function RootLayout({
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '${GA_ID}');`,
+  gtag('config', '${GA_ID}');
+  gtag('config', '${ADS_ID}');`,
           }}
         />
       </head>

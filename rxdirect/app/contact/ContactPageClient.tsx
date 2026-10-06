@@ -7,6 +7,7 @@ import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 import { useTranslation } from "@/i18n/LanguageContext";
 import { WhatsAppIcon } from "@/components/icons";
+import { trackLeadConversion } from "@/lib/analytics";
 import SectionHeading from "@/components/SectionHeading";
 
 type Status = "idle" | "submitting" | "success" | "error";
@@ -31,6 +32,7 @@ export default function ContactPageClient() {
       if (res.ok) {
         setStatus("success");
         form.reset();
+        trackLeadConversion();
       } else {
         setStatus("error");
       }
