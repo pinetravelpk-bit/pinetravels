@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 import Image from "next/image";
 import { ArrowRight, Calendar } from "lucide-react";
 import type { BlogPostMeta } from "@/lib/types";

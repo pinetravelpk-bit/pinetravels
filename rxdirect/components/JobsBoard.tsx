@@ -1,11 +1,11 @@
 "use client";
 
 import { useEffect, useMemo, useState, type FormEvent } from "react";
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 import { BadgeCheck, Banknote, Briefcase, CheckCircle2, ChevronDown, Clock, Loader2, MapPin } from "lucide-react";
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 import { apiGet, apiPostForm, type Job } from "@/lib/api";
 import { ErrorNote, Field, FileField, Honeypot, inputClass } from "@/components/FormKit";
 
@@ -29,7 +29,7 @@ export default function JobsBoard() {
       });
   }, []);
 
-  const serviceName = (slug: string) => services.find((s) => s.slug === slug)?.name[locale] ?? slug;
+  const serviceName = (slug: string) => pick(services.find((s) => s.slug === slug)?.name, locale) ?? slug;
   const categories = useMemo(() => Array.from(new Set((jobs ?? []).map((j) => j.category).filter(Boolean))), [jobs]);
   const shown = (jobs ?? []).filter((j) => filter === "all" || j.category === filter);
   const typeLabel = (type: string) => t(`jobsBoard.types.${type}`);
@@ -206,20 +206,20 @@ export default function JobsBoard() {
               </Field>
               <Field label={t("jobsBoard.role")}>
                 <select name="role" className={inputClass} defaultValue="">
-                  <option value="">{locale === "ur" ? "منتخب کریں" : "Select"}</option>
+                  <option value="">{locale === "ur" ? "منتخب کریں" : locale === "roman" ? "Chunein" : "Select"}</option>
                   {services.map((s) => (
                     <option key={s.slug} value={s.slug}>
-                      {s.name[locale]}
+                      {pick(s.name, locale)}
                     </option>
                   ))}
                 </select>
               </Field>
               <Field label={t("jobsBoard.city")}>
                 <select name="city" className={inputClass} defaultValue="">
-                  <option value="">{locale === "ur" ? "منتخب کریں" : "Select"}</option>
+                  <option value="">{locale === "ur" ? "منتخب کریں" : locale === "roman" ? "Chunein" : "Select"}</option>
                   {cities.map((c) => (
                     <option key={c.slug} value={c.name.en}>
-                      {c.name[locale]}
+                      {pick(c.name, locale)}
                     </option>
                   ))}
                 </select>

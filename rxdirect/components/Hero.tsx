@@ -1,14 +1,15 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
+import { localizeHref } from "@/lib/i18nRoutes";
 import { useRouter } from "next/navigation";
 import { ArrowRight, MapPin, Phone, Users } from "lucide-react";
 import { business, telLink, whatsappLink } from "@/data/business";
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 import { WhatsAppIcon } from "@/components/icons";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 import HeroSlider, { HERO_SLIDE_MS, heroSlides } from "@/components/HeroSlider";
 
 // Types the role name letter by letter whenever the slide changes.
@@ -56,10 +57,10 @@ export default function Hero() {
   // so the search just routes to the most specific existing page.
   function onSearch(e: React.FormEvent) {
     e.preventDefault();
-    if (role && city) router.push(`/services/${role}/${city}`);
-    else if (role) router.push(`/services/${role}`);
-    else if (city) router.push(`/cities/${city}`);
-    else router.push("/services");
+    if (role && city) router.push(localizeHref(`/services/${role}/${city}`, locale));
+    else if (role) router.push(localizeHref(`/services/${role}`, locale));
+    else if (city) router.push(localizeHref(`/cities/${city}`, locale));
+    else router.push(localizeHref("/services", locale));
   }
 
   return (
@@ -72,7 +73,7 @@ export default function Hero() {
             {t("home.heroTitle")}
           </h1>
           <p className="mt-4 text-2xl font-extrabold text-navy sm:text-3xl" aria-live="polite">
-            {t("heroSlider.typedPrefix")} <TypedRole text={slideService?.name[locale] ?? ""} />
+            {t("heroSlider.typedPrefix")} <TypedRole text={pick(slideService?.name, locale) ?? ""} />
           </p>
           <p className="mt-5 max-w-xl text-balance text-base text-gray-600 sm:text-lg rtl:leading-loose">
             {t("home.heroSubtitle")}
@@ -126,7 +127,7 @@ export default function Hero() {
                 <option value="">{t("redesign.selectRole")}</option>
                 {services.map((s) => (
                   <option key={s.slug} value={s.slug}>
-                    {s.name[locale]}
+                    {pick(s.name, locale)}
                   </option>
                 ))}
               </select>
@@ -144,7 +145,7 @@ export default function Hero() {
                 <option value="">{t("redesign.selectCity")}</option>
                 {cities.map((c) => (
                   <option key={c.slug} value={c.slug}>
-                    {c.name[locale]}
+                    {pick(c.name, locale)}
                   </option>
                 ))}
               </select>

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 
 // Official RX Direct logo (public/brand/rxdirect-logo.*, transparent
 // background). WebP for modern browsers, PNG fallback; width/height are set

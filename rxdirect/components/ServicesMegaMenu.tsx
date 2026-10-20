@@ -1,11 +1,11 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 import { Home, Building2 } from "lucide-react";
 import { serviceGroups } from "@/data/serviceGroups";
 import { services } from "@/data/services";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 import { ServiceIcon } from "@/components/icons";
 
 const groupIcon = { "household-staff": Home, "office-security-staff": Building2 } as const;
@@ -37,7 +37,7 @@ export default function ServicesMegaMenu({ onNavigate }: { onNavigate: () => voi
               }`}
             >
               <Icon className="h-4 w-4 shrink-0" />
-              {g.name[locale]}
+              {pick(g.name, locale)}
             </Link>
           );
         })}
@@ -56,10 +56,10 @@ export default function ServicesMegaMenu({ onNavigate }: { onNavigate: () => voi
               </span>
               <span>
                 <span className="block text-sm font-semibold text-gray-900">
-                  {s.name[locale]}
+                  {pick(s.name, locale)}
                 </span>
                 <span className="line-clamp-2 block text-xs text-gray-500">
-                  {s.shortDesc[locale]}
+                  {pick(s.shortDesc, locale)}
                 </span>
               </span>
             </Link>

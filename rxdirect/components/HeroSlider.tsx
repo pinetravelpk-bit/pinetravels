@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 import { ArrowRight } from "lucide-react";
 import { CookScene, DriverScene, NurseScene, OfficeBoyScene } from "@/components/HeroScenes";
 import { useTranslation } from "@/i18n/LanguageContext";

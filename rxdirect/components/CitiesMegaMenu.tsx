@@ -1,10 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 import { MapPin } from "lucide-react";
 import { cities } from "@/data/cities";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 
 export default function CitiesMegaMenu({ onNavigate }: { onNavigate: () => void }) {
   const { t, locale } = useTranslation();
@@ -31,14 +31,14 @@ export default function CitiesMegaMenu({ onNavigate }: { onNavigate: () => void 
               }`}
             >
               <MapPin className="h-4 w-4 shrink-0" />
-              {c.name[locale]}
+              {pick(c.name, locale)}
             </Link>
           );
         })}
       </div>
       <div className="flex-1 p-4">
         <p className="px-2 pb-2 text-xs font-semibold uppercase tracking-wide text-gray-400">
-          {t("citiesPage.societiesSubtitle", { city: city.name[locale] })}
+          {t("citiesPage.societiesSubtitle", { city: pick(city.name, locale) })}
         </p>
         <div className="grid grid-cols-2 gap-1">
           {city.societies.map((s) => (
@@ -48,7 +48,7 @@ export default function CitiesMegaMenu({ onNavigate }: { onNavigate: () => void 
               onClick={onNavigate}
               className="rounded-lg px-3 py-2 text-sm font-medium text-gray-700 hover:bg-brand-50 hover:text-brand-700"
             >
-              {s.name[locale]}
+              {pick(s.name, locale)}
             </Link>
           ))}
         </div>
@@ -57,7 +57,7 @@ export default function CitiesMegaMenu({ onNavigate }: { onNavigate: () => void 
           onClick={onNavigate}
           className="mt-3 block rounded-xl bg-gray-50 px-3 py-2.5 text-center text-sm font-semibold text-brand-700 hover:bg-brand-50"
         >
-          {t("citiesPage.viewCityOverview", { city: city.name[locale] })}
+          {t("citiesPage.viewCityOverview", { city: pick(city.name, locale) })}
         </Link>
       </div>
     </div>

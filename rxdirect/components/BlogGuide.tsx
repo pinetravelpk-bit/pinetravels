@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState, type ReactNode } from "react";
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 import {
   BadgeCheck,
   ClipboardList,
@@ -17,7 +17,7 @@ import kindsData from "@/data/blogKinds.json";
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 import { whatsappLink } from "@/data/business";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 import { ServiceIcon, WhatsAppIcon } from "@/components/icons";
 
 interface Kind {
@@ -89,7 +89,7 @@ function HiringWidget({ accent, serviceSlug, cityName, run, replay }: { accent: 
     { icon: UserCheck, title: t("home.how4Title"), desc: t("home.how4Desc") },
   ];
   const title = svc
-    ? `${t("guide.hiringTitle", { service: svc.name[locale] })}${cityName ? ` ${t("guide.inCity", { city: cityName })}` : ""}`
+    ? `${t("guide.hiringTitle", { service: pick(svc.name, locale) })}${cityName ? ` ${t("guide.inCity", { city: cityName })}` : ""}`
     : t("guide.hiringTitleGeneric");
   return (
     <Panel title={title} accent={accent} icon={svc ? <ServiceIcon name={svc.icon} className="h-5 w-5" /> : <Sparkles className="h-5 w-5" />} onReplay={replay} replayLabel={t("guide.replay")}>
@@ -121,8 +121,8 @@ function HiringWidget({ accent, serviceSlug, cityName, run, replay }: { accent: 
 function ChecksWidget({ accent, kindKey, serviceSlug, run, replay }: { accent: string; kindKey: string; serviceSlug?: string; run: number; replay: () => void }) {
   const { t, locale } = useTranslation();
   const svc = services.find((s) => s.slug === serviceSlug);
-  const checks = svc?.checks[locale]?.length ? svc.checks[locale] : services[0].checks[locale];
-  const serviceName = svc ? svc.name[locale] : t("guide.allStaff");
+  const checks = svc && pick(svc.checks, locale).length ? pick(svc.checks, locale) : pick(services[0].checks, locale);
+  const serviceName = svc ? pick(svc.name, locale) : t("guide.allStaff");
   const titleKey = ["verify", "red-flags", "interview", "why-agency", "become-verified"].includes(kindKey) ? kindKey : "default";
   const isStaff = kindKey === "become-verified";
   return (
@@ -258,7 +258,7 @@ export default function BlogGuide({
   const kind = kindFor(slug);
   const { ref, run, replay } = usePlay<HTMLElement>();
   const service = serviceSlugs.find((s) => services.some((x) => x.slug === s));
-  const cityName = cities.find((c) => citySlugs.includes(c.slug))?.name[locale];
+  const cityName = pick(cities.find((c) => citySlugs.includes(c.slug))?.name, locale);
   // Salary figures are not shown on the site, so salary posts get the hiring widget.
   const widget = kind.widget === "salary" ? "hiring" : kind.widget;
 
@@ -267,7 +267,7 @@ export default function BlogGuide({
       <div className="flex items-center gap-2 px-4 pb-2 pt-3">
         <span className="h-2 w-2 animate-pulse rounded-full" style={{ background: kind.color }} />
         <span className="text-xs font-bold uppercase tracking-widest" style={{ color: kind.color }}>
-          {t("guide.title")} · {kind.label[locale]}
+          {t("guide.title")} · {pick(kind.label, locale)}
         </span>
       </div>
       <div className={`grid gap-3 p-2 ${headings.length >= 2 ? "xl:grid-cols-2" : ""}`}>

@@ -8,7 +8,8 @@
     "prebuild": "node scripts/list-public-images.mjs && node scripts/generate-blog-covers.mjs",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postbuild": "cp out/page-not-found.html out/404.html"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

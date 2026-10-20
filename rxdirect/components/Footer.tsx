@@ -1,12 +1,12 @@
 "use client";
 
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 import { ArrowRight, Mail, MapPin, Phone, ShieldCheck } from "lucide-react";
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 import { serviceGroups } from "@/data/serviceGroups";
 import { business, telLink, whatsappLink } from "@/data/business";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 import Logo from "@/components/Logo";
 import {
   WhatsAppIcon,
@@ -83,7 +83,7 @@ export default function Footer() {
           <Column title={t("nav.services")}>
             {services.slice(0, 8).map((s) => (
               <FooterLink key={s.slug} href={`/services/${s.slug}`}>
-                {s.name[locale]}
+                {pick(s.name, locale)}
               </FooterLink>
             ))}
             <FooterLink href="/services">{t("nav.viewAllServices")}</FooterLink>
@@ -92,7 +92,7 @@ export default function Footer() {
           <Column title={t("redesign.forBusinesses")}>
             {serviceGroups.map((g) => (
               <FooterLink key={g.slug} href={`/services/category/${g.slug}`}>
-                {g.name[locale]}
+                {pick(g.name, locale)}
               </FooterLink>
             ))}
             <FooterLink href="/pricing">{t("pricingPage.title")}</FooterLink>
@@ -101,7 +101,7 @@ export default function Footer() {
           <Column title={t("redesign.locations")}>
             {cities.map((c) => (
               <FooterLink key={c.slug} href={`/cities/${c.slug}`}>
-                {c.name[locale]}
+                {pick(c.name, locale)}
               </FooterLink>
             ))}
           </Column>
@@ -145,7 +145,7 @@ export default function Footer() {
                 </a>
               </li>
               <li className="flex items-start gap-2">
-                <MapPin className="mt-0.5 h-4 w-4 shrink-0" /> {business.address[locale]}
+                <MapPin className="mt-0.5 h-4 w-4 shrink-0" /> {pick(business.address, locale)}
               </li>
             </ul>
           </div>

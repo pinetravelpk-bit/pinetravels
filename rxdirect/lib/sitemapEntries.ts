@@ -6,6 +6,7 @@ import { slugifyTag } from "@/lib/slug";
 import { business } from "@/data/business";
 import type { BlogPostMeta } from "@/lib/types";
 import { getPageContent } from "@/lib/pageContent";
+import { HTML_LANG, isLocalized, LOCALES, localePath, parseLocalePath } from "@/lib/i18nRoutes";
 
 // Sitemaps are rebuilt on every deploy (and the VPS auto-deploys every new
 // commit), so a new post, city or service shows up automatically.
@@ -182,17 +183,46 @@ export function getBlogArchiveEntries(): SitemapEntry[] {
 const xmlEscape = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
 
+// The Urdu and Roman Urdu versions of the main pages (/urdu, /roman-urdu).
+export function getUrduEntries(): SitemapEntry[] {
+  const routes = [
+    "/", "/hire-staff", "/services", "/cities", "/contact", "/about", "/how-it-works", "/faqs", "/jobs", "/pricing",
+    ...services.map((s) => `/services/${s.slug}`),
+    ...cities.map((c) => `/cities/${c.slug}`),
+  ];
+  return (["ur", "roman"] as const).flatMap((locale) =>
+    routes.map((route) => ({
+      url: url(localePath(route, locale)),
+      lastmod: SITE_UPDATED,
+      changeFrequency: "monthly" as const,
+      priority: route === "/" ? 0.8 : 0.6,
+    }))
+  );
+}
+
+// hreflang links (xhtml:link) for every URL that has Urdu and Roman Urdu versions.
+function languageLinks(entryUrl: string): string {
+  const { route } = parseLocalePath(entryUrl.slice(base.length) || "/");
+  if (!isLocalized(route)) return "";
+  const links = LOCALES.map((l) => `    <xhtml:link rel="alternate" hreflang="${HTML_LANG[l]}" href="${xmlEscape(url(localePath(route, l)))}"/>`);
+  links.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${xmlEscape(url(route))}"/>`);
+  return `\n${links.join("\n")}`;
+}
+
 export function toSitemapXml(entries: SitemapEntry[]): string {
   const hasImages = entries.some((e) => e.images?.length);
+  let hasLanguages = false;
   const urls = entries
     .map((e) => {
+      const langs = languageLinks(e.url);
+      if (langs) hasLanguages = true;
       const images = (e.images ?? [])
         .map((i) => `    <image:image>\n      <image:loc>${xmlEscape(i.loc)}</image:loc>${i.title ? `\n      <image:title>${xmlEscape(i.title)}</image:title>` : ""}\n    </image:image>`)
         .join("\n");
-      return `  <url>\n    <loc>${xmlEscape(e.url)}</loc>\n    <lastmod>${e.lastmod}</lastmod>\n    <changefreq>${e.changeFrequency}</changefreq>\n    <priority>${e.priority.toFixed(1)}</priority>${images ? `\n${images}` : ""}\n  </url>`;
+      return `  <url>\n    <loc>${xmlEscape(e.url)}</loc>\n    <lastmod>${e.lastmod}</lastmod>\n    <changefreq>${e.changeFrequency}</changefreq>\n    <priority>${e.priority.toFixed(1)}</priority>${langs}${images ? `\n${images}` : ""}\n  </url>`;
     })
     .join("\n");
-  const ns = `xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"${hasImages ? ' xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"' : ""}`;
+  const ns = `xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"${hasImages ? ' xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"' : ""}${hasLanguages ? ' xmlns:xhtml="http://www.w3.org/1999/xhtml"' : ""}`;
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset ${ns}>\n${urls}\n</urlset>\n`;
 }
 
@@ -205,6 +235,7 @@ export const SITEMAPS: { file: string; entries: () => SitemapEntry[] }[] = [
   { file: "sitemap-cities.xml", entries: getCityEntries },
   { file: "sitemap-blog.xml", entries: getBlogPostEntries },
   { file: "sitemap-blog-archives.xml", entries: getBlogArchiveEntries },
+  { file: "sitemap-urdu.xml", entries: getUrduEntries },
 ];
 
 export function sitemapResponse(entries: SitemapEntry[]): Response {

@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
 import type { FAQ } from "@/data/faqs";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 
 export default function FAQAccordion({ items }: { items: FAQ[] }) {
   const { locale } = useTranslation();
@@ -22,7 +22,7 @@ export default function FAQAccordion({ items }: { items: FAQ[] }) {
               aria-expanded={isOpen}
             >
               <span className="text-sm font-semibold text-gray-900 sm:text-base">
-                {item.question[locale]}
+                {pick(item.question, locale)}
               </span>
               <ChevronDown
                 className={`h-5 w-5 shrink-0 text-brand-600 transition-transform ${
@@ -32,7 +32,7 @@ export default function FAQAccordion({ items }: { items: FAQ[] }) {
             </button>
             {isOpen && (
               <div className="px-5 pb-4 text-sm leading-relaxed text-gray-600 sm:text-base">
-                {item.answer[locale]}
+                {pick(item.answer, locale)}
               </div>
             )}
           </div>

@@ -5,7 +5,7 @@ import { BadgeCheck, CheckCircle2, Loader2, Phone, ShieldCheck, RefreshCcw } fro
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 import { business, telLink, whatsappLink } from "@/data/business";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 import { trackLeadConversion } from "@/lib/analytics";
 import { WhatsAppIcon } from "@/components/icons";
 
@@ -92,7 +92,7 @@ export default function BlogHireForm({
                 <option value="">{t("blogForm.any")}</option>
                 {services.map((s) => (
                   <option key={s.slug} value={s.slug}>
-                    {s.name[locale]}
+                    {pick(s.name, locale)}
                   </option>
                 ))}
               </select>
@@ -103,7 +103,7 @@ export default function BlogHireForm({
                 <option value="">{t("blogForm.any")}</option>
                 {cities.map((c) => (
                   <option key={c.slug} value={c.name.en}>
-                    {c.name[locale]}
+                    {pick(c.name, locale)}
                   </option>
                 ))}
               </select>

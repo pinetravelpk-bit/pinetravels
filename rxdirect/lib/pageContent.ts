@@ -6,6 +6,7 @@ import gfm from "remark-gfm";
 import html from "remark-html";
 import type { Metadata } from "next";
 import keywordMap from "@/data/pageKeywords.json";
+import { languageAlternates } from "@/lib/i18nRoutes";
 import { canonicalUrl } from "@/data/business";
 
 // Long-form page copy lives in content/pages, one Markdown file per route:
@@ -98,7 +99,7 @@ export function pageMetadata(route: string, fallback: Metadata = {}): Metadata {
     ...(title ? { title: { absolute: title } } : {}),
     ...(description ? { description } : {}),
     ...(page?.keywords.length ? { keywords: page.keywords } : {}),
-    alternates: { canonical: canonicalUrl(route), ...(fallback.alternates ?? {}) },
+    alternates: { canonical: canonicalUrl(route), languages: languageAlternates(route), ...(fallback.alternates ?? {}) },
     openGraph: { ...(fallback.openGraph ?? {}), ...(title ? { title } : {}), ...(description ? { description } : {}), url: canonicalUrl(route), ...(images ? { images } : {}) },
     twitter: { card: "summary_large_image", ...(fallback.twitter ?? {}), ...(title ? { title } : {}), ...(description ? { description } : {}) },
   };

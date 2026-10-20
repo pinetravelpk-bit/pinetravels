@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import Link from "next/link";
+import Link from "@/components/LocaleLink";
 import { usePathname } from "next/navigation";
 import {
   ArrowRight,
@@ -26,7 +26,7 @@ import { serviceGroups } from "@/data/serviceGroups";
 import { services } from "@/data/services";
 import { cities } from "@/data/cities";
 import { business, telLink } from "@/data/business";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import Logo from "@/components/Logo";
 import ServicesMegaMenu from "@/components/ServicesMegaMenu";
@@ -67,7 +67,7 @@ export default function Navbar() {
     };
   }, []);
 
-  const serviceName = (slug: string) => services.find((s) => s.slug === slug)?.name[locale] ?? slug;
+  const serviceName = (slug: string) => pick(services.find((s) => s.slug === slug)?.name, locale) ?? slug;
   const officeGroup = serviceGroups.find((g) => g.slug === "office-security-staff");
 
   // Upper line: every page that isn't one of the four mega menus.
@@ -84,12 +84,12 @@ export default function Navbar() {
 
   const businessColumns: MegaColumn[] = [
     {
-      heading: officeGroup?.name[locale] ?? "Office & Security Staff",
+      heading: pick(officeGroup?.name, locale) ?? "Office & Security Staff",
       items: [
-        { href: "/services/category/office-security-staff", title: officeGroup?.name[locale] ?? "Office & Security Staff", desc: t("menu.officeDesc"), icon: Building2 },
-        { href: "/services/office-boys", title: serviceName("office-boys"), desc: services.find((s) => s.slug === "office-boys")?.shortDesc[locale], icon: Briefcase },
-        { href: "/services/security-guards", title: serviceName("security-guards"), desc: services.find((s) => s.slug === "security-guards")?.shortDesc[locale], icon: ShieldCheck },
-        { href: "/services/drivers", title: serviceName("drivers"), desc: services.find((s) => s.slug === "drivers")?.shortDesc[locale], icon: Car },
+        { href: "/services/category/office-security-staff", title: pick(officeGroup?.name, locale) ?? "Office & Security Staff", desc: t("menu.officeDesc"), icon: Building2 },
+        { href: "/services/office-boys", title: serviceName("office-boys"), desc: pick(services.find((s) => s.slug === "office-boys")?.shortDesc, locale), icon: Briefcase },
+        { href: "/services/security-guards", title: serviceName("security-guards"), desc: pick(services.find((s) => s.slug === "security-guards")?.shortDesc, locale), icon: ShieldCheck },
+        { href: "/services/drivers", title: serviceName("drivers"), desc: pick(services.find((s) => s.slug === "drivers")?.shortDesc, locale), icon: Car },
       ],
     },
     {
@@ -251,9 +251,9 @@ export default function Navbar() {
             const expanded = mobileSection === m.key;
             const links =
               m.key === "services"
-                ? [...services.map((s) => ({ href: `/services/${s.slug}`, label: s.name[locale] })), ...serviceGroups.map((g) => ({ href: `/services/category/${g.slug}`, label: g.name[locale] })), { href: "/services", label: t("nav.viewAllServices") }]
+                ? [...services.map((s) => ({ href: `/services/${s.slug}`, label: pick(s.name, locale) })), ...serviceGroups.map((g) => ({ href: `/services/category/${g.slug}`, label: pick(g.name, locale) })), { href: "/services", label: t("nav.viewAllServices") }]
                 : m.key === "locations"
-                ? [...cities.map((c) => ({ href: `/cities/${c.slug}`, label: c.name[locale] })), { href: "/cities", label: t("nav.viewAllCities") }]
+                ? [...cities.map((c) => ({ href: `/cities/${c.slug}`, label: pick(c.name, locale) })), { href: "/cities", label: t("nav.viewAllCities") }]
                 : (m.key === "business" ? businessColumns : aboutColumns).flatMap((c) => c.items.map((i) => ({ href: i.href, label: i.title })));
             return (
               <div key={m.key} className="border-b border-gray-100">

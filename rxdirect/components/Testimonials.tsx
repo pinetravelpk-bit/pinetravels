@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { Star, Quote } from "lucide-react";
 import { testimonials } from "@/data/testimonials";
-import { useTranslation } from "@/i18n/LanguageContext";
+import { useTranslation, pick } from "@/i18n/LanguageContext";
 import SectionHeading from "@/components/SectionHeading";
 
 export default function Testimonials() {
@@ -24,7 +24,7 @@ export default function Testimonials() {
             >
               <Quote className="h-6 w-6 text-brand-300" />
               <p className="mt-3 flex-1 text-sm leading-relaxed text-gray-700">
-                &ldquo;{item.quote[locale]}&rdquo;
+                &ldquo;{pick(item.quote, locale)}&rdquo;
               </p>
               <div className="mt-4 flex items-center gap-0.5">
                 {Array.from({ length: item.rating }).map((_, i) => (
@@ -38,7 +38,7 @@ export default function Testimonials() {
                 <div>
                   <p className="text-sm font-bold text-gray-900">{item.name}</p>
                   <p className="text-xs text-gray-500">
-                    {item.role[locale]} &middot; {item.city[locale]}
+                    {pick(item.role, locale)} &middot; {pick(item.city, locale)}
                   </p>
                 </div>
               </div>

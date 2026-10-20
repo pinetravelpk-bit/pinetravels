@@ -4,10 +4,12 @@ import type { City, Society } from "@/data/cities";
 import { cities } from "@/data/cities";
 
 type Locale = "en" | "ur";
-type L = { en: string; ur: string };
+// roman: Roman Urdu, set on the templates used by the /roman-urdu pages.
+type L = { en: string; ur: string; roman?: string };
 
-function join(items: string[], locale: Locale) {
+function join(items: string[], locale: Locale | "roman") {
   if (items.length <= 1) return items[0] ?? "";
+  if (locale === "roman") return items.slice(0, -1).join(", ") + " aur " + items[items.length - 1];
   if (locale === "ur") return items.slice(0, -1).join("، ") + " اور " + items[items.length - 1];
   return items.slice(0, -1).join(", ") + " and " + items[items.length - 1];
 }
@@ -42,6 +44,7 @@ export function variedServiceTitle(serviceNameEn: string, placeEn: string, seedK
 
 export function cityProcessParagraph(city: City): L {
   return {
+    roman: `${city.name.en} mein kisi bhi qisam ka staff rakhna, chahe cook ho, driver, cleaner ya nanny, ek hi aasaan tareeqe se hota hai. Apni society ya sector, zaroori kaam aur auqat ke saath WhatsApp par message karein, aur hamari maqami ${city.name.en} team chand ghanton mein pehle se check shuda candidates ki shortlist bhejti hai. Aap har ek ka khud interview karte hain aur munasib fard ko confirm karte hain, aam tor par pehle message ke 24 se 48 ghante ke andar, aur placement confirm hone tak koi fee nahi.`,
     en: `Hiring any category of staff in ${city.name.en}, whether it's a cook, driver, cleaner or nanny, follows the same simple process. Message us on WhatsApp with your society or sector, the role you need and your schedule, and our local ${city.name.en} team sends a shortlist of pre-vetted candidates within a few hours. You interview each one directly and confirm the person who fits, usually within 24 to 48 hours of your first message, and there's no fee until a placement is actually confirmed.`,
     ur: `${city.name.ur} میں کسی بھی قسم کے عملے کی خدمات حاصل کرنا، چاہے وہ باورچی ہو، ڈرائیور ہو، صفائی کرنے والا ہو یا آیا، ایک ہی آسان طریقے سے ہوتا ہے۔ اپنی سوسائٹی یا سیکٹر، درکار کردار اور شیڈول کے ساتھ واٹس ایپ پر پیغام بھیجیں، اور ہماری مقامی ${city.name.ur} ٹیم چند گھنٹوں کے اندر پہلے سے جانچے گئے امیدواروں کی فہرست بھیجتی ہے۔ آپ ہر ایک سے براہ راست انٹرویو لیتے ہیں اور موزوں شخص کی تصدیق کرتے ہیں، عام طور پر پہلے پیغام کے 24 سے 48 گھنٹوں کے اندر، اور جب تک تقرری کی تصدیق نہیں ہوتی کوئی فیس نہیں لی جاتی۔`,
   };
@@ -51,6 +54,7 @@ export function cityAudienceParagraph(city: City): L {
   const societyNames = city.societies.slice(0, 3).map((s) => s.name.en);
   const societyNamesUr = city.societies.slice(0, 3).map((s) => s.name.ur);
   return {
+    roman: `${city.name.en} bhar ke clients, ${join(societyNames, "roman")} ki purani families se le kar poori staff team chahne wale corporate gharon tak, sab ek hi background check ke maiyar se guzarte hain. Hum ghar ke size, budget aur aap ke ilaqe ke mutabiq match karte hain, kyunke jo staff pehle se ${city.name.en} ke traffic, gate ke tareeqon aur maqami dukanon se waqif ho, woh bahar se aane wale ke muqable mein jaldi adjust ho jata hai.`,
     en: `Clients across ${city.name.en}, from established families in ${join(
       societyNames,
       "en"
@@ -66,6 +70,7 @@ export function cityServicesParagraph(city: City): L {
   const names = services.map((s) => s.name.en);
   const namesUr = services.map((s) => s.name.ur);
   return {
+    roman: `${city.name.en} ke ghar aur karobar hamari kisi bhi category ki request kar sakte hain: ${join(names, "roman")}. Har category mein CNIC aur reference check ke ilawa us kaam ke mutabiq apne verification ke qadam hain: driver ka road test aur licence check, cook ka amli cooking interview, electrician ke auzaar aur hifazat ki jaanch, taake verification hamesha asal kaam ke mutabiq ho.`,
     en: `Households and businesses in ${city.name.en} can request any category we place: ${join(
       names,
       "en"
@@ -100,6 +105,7 @@ export function serviceOverviewCitiesParagraph(service: ServiceCategory): L {
   const names = cities.map((c) => c.name.en);
   const namesUr = cities.map((c) => c.name.ur);
   return {
+    roman: `Hum is waqt ${join(names, "roman")} mein ${service.name.en.toLowerCase()} lagate hain, har shehar mein aisi maqami team ke saath jo pehle se ilaqe ki housing societies, sectors aur aane jane ke raston ko jaanti hai. Agar aap in shehron se bahar hain to bhi message karein, aksar jagah ke mutabiq intezam ho jata hai.`,
     en: `We currently place ${service.name.en.toLowerCase()} in ${join(
       names,
       "en"
@@ -110,6 +116,7 @@ export function serviceOverviewCitiesParagraph(service: ServiceCategory): L {
 
 export function cityTrustParagraph(city: City): L {
   return {
+    roman: `${city.name.en} mein hum jo bhi candidate shortlist karte hain, kaam koi bhi ho, client se milwane se pehle us ka CNIC aur pata verify hota hai, pichle malikan se references check hote hain aur ru-ba-ru interview hota hai. Yeh maiyar society ya sector ke hisaab se nahi badalta: ${city.name.en} ke purane ilaqon ke ghar ko bhi wohi jaanch milti hai jo nayi development ke ghar ko. Agar placement munasib na ho to placement ke 6 maah ke andar hum muft replacement dete hain, aur jab tak aap mutmain na hon talash ki koi fee nahi.`,
     en: `Every candidate we shortlist in ${city.name.en}, regardless of role, goes through CNIC and address verification, reference checks with previous employers, and an in-person interview before we ever introduce them to a client. That standard doesn't change based on which society or sector you're in, a household near the older, established parts of ${city.name.en} gets the same vetting as one in a newer development. If a placement isn't the right fit, we arrange a free replacement within 6 months of placement, and there's no charge to search until you're satisfied with the result.`,
     ur: `${city.name.ur} میں ہم جو بھی امیدوار منتخب کرتے ہیں، کردار سے قطع نظر، کلائنٹ سے متعارف کرانے سے پہلے شناختی کارڈ اور پتے کی تصدیق، سابقہ آجروں سے حوالہ جات کی جانچ، اور ذاتی انٹرویو سے گزرتا ہے۔ یہ معیار اس بات سے تبدیل نہیں ہوتا کہ آپ کس سوسائٹی یا سیکٹر میں ہیں، ${city.name.ur} کے پرانے، مستحکم علاقوں کے قریب گھرانے کو بھی وہی جانچ ملتی ہے جو نئی ڈویلپمنٹ میں گھرانے کو ملتی ہے۔ اگر تقرری موزوں ثابت نہ ہو تو ہم ضمانتی مدت کے اندر مفت متبادل فراہم کرتے ہیں، اور جب تک آپ نتیجے سے مطمئن نہ ہوں تلاش کے لیے کوئی چارج نہیں۔`,
   };
@@ -128,6 +135,7 @@ export function societyTrustParagraph(city: City, society: Society): L {
 
 export function serviceOverviewTrustParagraph(service: ServiceCategory): L {
   return {
+    roman: `Hum jo bhi ${service.name.en.toLowerCase()} candidate shortlist karte hain woh usi ${service.checks.en.length} qadam ki verification se guzarta hai, chahe aap kisi bhi shehar mein staff rakh rahe hon. Is mein CNIC aur pate ki verification, pichle malikan se reference check aur client se milwane se pehle ru-ba-ru interview shamil hai. Agar placement munasib na ho to placement ke 6 maah ke andar hum muft replacement dete hain, aur jab tak aap mutmain na hon talash ki koi fee nahi.`,
     en: `Every ${service.name.en.toLowerCase()} candidate we shortlist goes through the same ${service.checks.en.length}-step verification process, regardless of which city you're hiring in. That includes CNIC and address verification, reference checks with previous employers, and an in-person interview before we ever introduce them to a client. If a placement isn't the right fit, we arrange a free replacement within 6 months of placement, and there's no charge to search until you're satisfied with the result.`,
     ur: `ہم جو بھی ${service.name.ur} امیدوار منتخب کرتے ہیں وہ اسی ${service.checks.ur.length}-مرحلہ تصدیقی عمل سے گزرتا ہے، چاہے آپ کسی بھی شہر میں تقرری کر رہے ہوں۔ اس میں شناختی کارڈ اور پتے کی تصدیق، سابقہ آجروں سے حوالہ جات کی جانچ، اور ذاتی انٹرویو شامل ہے۔ اگر تقرری موزوں ثابت نہ ہو تو ہم ضمانتی مدت کے اندر مفت متبادل فراہم کرتے ہیں، اور جب تک آپ نتیجے سے مطمئن نہ ہوں تلاش کے لیے کوئی چارج نہیں۔`,
   };
@@ -137,40 +145,48 @@ export function cityFaqs(city: City): { question: L; answer: L }[] {
   return [
     {
       question: {
+        roman: `${city.name.en} mein main kitni jaldi gharelu staff rakh sakta hoon?`,
         en: `How quickly can I hire domestic staff in ${city.name.en}?`,
         ur: `میں ${city.name.ur} میں گھریلو عملہ کتنی جلدی حاصل کر سکتا ہوں؟`,
       },
       answer: {
+        roman: `${city.name.en} mein zyada tar requests chand ghanton mein shortlist se, aur 24 se 48 ghante mein confirm placement se match ho jati hain.`,
         en: `Most requests in ${city.name.en} are matched with a shortlist within a few hours, and a confirmed placement within 24 to 48 hours.`,
         ur: `${city.name.ur} میں زیادہ تر درخواستوں کے لیے چند گھنٹوں کے اندر فہرست فراہم کر دی جاتی ہے، اور 24 سے 48 گھنٹوں کے اندر تقرری کی تصدیق ہو جاتی ہے۔`,
       },
     },
     {
       question: {
+        roman: `Kya aap ${city.name.en} ki har housing society mein kaam karte hain?`,
         en: `Do you cover every housing society in ${city.name.en}?`,
         ur: `کیا آپ ${city.name.ur} کی ہر ہاؤسنگ سوسائٹی کا احاطہ کرتے ہیں؟`,
       },
       answer: {
+        roman: `Hum ${city.name.en} ki ${city.societies.length} bari housing societies aur sectors mein staff lagate hain, aur aam tor par qareebi ilaqon ka intezam bhi kar lete hain.`,
         en: `We actively place staff across ${city.name.en}'s ${city.societies.length} major housing societies and sectors, and can usually arrange coverage for nearby areas too.`,
         ur: `ہم ${city.name.ur} کی ${city.societies.length} بڑی ہاؤسنگ سوسائٹیز اور سیکٹرز میں فعال طور پر عملہ تعینات کرتے ہیں، اور عام طور پر قریبی علاقوں کا احاطہ بھی کر سکتے ہیں۔`,
       },
     },
     {
       question: {
+        roman: `Kya main ${city.name.en} mein staff ke liye khatoon candidate mangwa sakta hoon?`,
         en: `Can I request a female candidate for staff in ${city.name.en}?`,
         ur: `کیا میں ${city.name.ur} میں عملے کے لیے خاتون امیدوار کی درخواست کر سکتا ہوں؟`,
       },
       answer: {
+        roman: `Ji haan, message karte waqt bata dein, hamari ${city.name.en} team usi ke mutabiq shortlist karegi. Hum ghar ki zaroorat ke mutabiq mard aur khatoon dono candidates lagate hain.`,
         en: `Yes, just mention your gender preference when you message us and our ${city.name.en} team will shortlist accordingly, we place both male and female candidates depending on what the household needs.`,
         ur: `جی ہاں، پیغام بھیجتے وقت اپنی صنفی ترجیح بتائیں اور ہماری ${city.name.ur} ٹیم اسی کے مطابق فہرست تیار کرے گی، ہم گھرانے کی ضرورت کے مطابق مرد اور خاتون دونوں امیدوار فراہم کرتے ہیں۔`,
       },
     },
     {
       question: {
+        roman: `Agar ${city.name.en} mein lagaya gaya staff munasib na ho to?`,
         en: `What if the staff member placed in ${city.name.en} isn't a good fit?`,
         ur: `اگر ${city.name.ur} میں تعینات عملہ رکن مناسب ثابت نہ ہو تو کیا ہوگا؟`,
       },
       answer: {
+        roman: `Placement ke 6 maah ke andar hum muft replacement dete hain, koi extra fee nahi.`,
         en: `We arrange a free replacement within 6 months of placement, no extra charges.`,
         ur: `ہم ضمانتی مدت کے اندر مفت متبادل کا انتظام کرتے ہیں، کوئی اضافی چارجز نہیں۔`,
       },
@@ -251,6 +267,7 @@ export function societyFaqs(city: City, society: Society): { question: L; answer
 
 export function serviceOverviewProcessParagraph(service: ServiceCategory): L {
   return {
+    roman: `RX Direct ke zariye ${service.name.en.toLowerCase()} rakhna har shehar mein ek hi seedha tareeqa hai. Apne shehar, auqat aur ghar ki zaroorat ke saath WhatsApp par message karein, aur hamari maqami team aam tor par chand ghanton mein do ya teen pehle se check shuda candidates ki shortlist bhejti hai. Aap har ek ka khud interview karte hain, un ki pichli naukriyon ke baare mein poochhte hain aur behtareen ko confirm karte hain. Zyada tar clients 24 se 48 ghante mein poora kaam mukammal kar lete hain, aur placement confirm karne tak koi fee nahi.`,
     en: `Hiring ${service.name.en.toLowerCase()} through RX Direct follows the same straightforward process in every city we serve. Message us on WhatsApp with your city, schedule and household requirements, and our local team sends a shortlist of two or three pre-vetted candidates, usually within a few hours. You interview each one directly, ask about their previous placements, and confirm who fits best, most clients complete the whole process within 24 to 48 hours, and there's no fee until you actually confirm a placement.`,
     ur: `آر ایکس ڈائریکٹ کے ذریعے ${service.name.ur} کی خدمات حاصل کرنا ہمارے ہر شہر میں ایک ہی سیدھے طریقے سے ہوتا ہے۔ اپنے شہر، شیڈول اور گھریلو ضروریات کے ساتھ واٹس ایپ پر پیغام بھیجیں، اور ہماری مقامی ٹیم چند گھنٹوں کے اندر دو یا تین پہلے سے جانچے گئے امیدواروں کی فہرست بھیجتی ہے۔ آپ ہر ایک سے براہ راست انٹرویو لیتے ہیں، ان کی سابقہ تقرریوں کے بارے میں پوچھتے ہیں، اور موزوں ترین شخص کی تصدیق کرتے ہیں، زیادہ تر کلائنٹس پورا عمل 24 سے 48 گھنٹوں کے اندر مکمل کر لیتے ہیں، اور جب تک تقرری کی تصدیق نہیں ہوتی کوئی فیس نہیں لی جاتی۔`,
   };
@@ -258,6 +275,7 @@ export function serviceOverviewProcessParagraph(service: ServiceCategory): L {
 
 export function serviceOverviewAudienceParagraph(service: ServiceCategory): L {
   return {
+    roman: `Families aur karobar mukhtalif wajoohat se ${service.name.en.toLowerCase()} mangwate hain: barhte hue ghar jinhein roz musalsal madad chahiye, kaam karne wale miyan biwi jinhein office ke auqat mein bharosemand madad chahiye, aur karobar jinhein anjaan candidate ke bajaye background check shuda bharosemand fard chahiye. Wajah jo bhi ho, hum aap ke batae hue auqat, zuban ki pasand aur ghar ke size ke mutabiq match karte hain, aam profile ke mutabiq nahi, is liye zyada tar placements trial ke baad bhi lambe arse chalti hain.`,
     en: `Families and businesses request a ${service.name.en.toLowerCase().replace(/s$/, "")} for a range of reasons: growing households that need consistent daily help, working couples who need reliable coverage during office hours, and businesses that need a dependable, background-checked hire rather than an unknown candidate. Whatever the reason, we match based on the specific schedule, language preference and household size you describe, not a generic profile, so most placements last well beyond the initial trial period.`,
     ur: `خاندان اور کاروبار مختلف وجوہات کی بنا پر ${service.name.ur} کی خدمات کی درخواست کرتے ہیں: بڑھتے ہوئے گھرانے جنہیں مستقل روزانہ مدد درکار ہے، کام کرنے والے جوڑے جنہیں دفتری اوقات میں قابلِ اعتماد کوریج چاہیے، اور کاروبار جنہیں کسی نامعلوم امیدوار کے بجائے ایک قابلِ بھروسہ، پس منظر کی جانچ شدہ تقرری چاہیے۔ وجہ کچھ بھی ہو، ہم آپ کے بتائے گئے مخصوص شیڈول، زبان کی ترجیح اور گھرانے کے سائز کی بنیاد پر مماثلت کرتے ہیں، یہی وجہ ہے کہ زیادہ تر تقرریاں آزمائشی مدت سے کہیں آگے تک قائم رہتی ہیں۔`,
   };
@@ -269,50 +287,60 @@ export function serviceOverviewFaqs(service: ServiceCategory): { question: L; an
   return [
     {
       question: {
+        roman: `${svcEn} rakhne ka kharch kitna hai?`,
         en: `How much does it cost to hire ${svcEn.toLowerCase()}?`,
         ur: `${svcUr} کی خدمات حاصل کرنے کی لاگت کیا ہے؟`,
       },
       answer: {
+        roman: `Yeh tajurbe, shehar aur live-in ya live-out kaam par depend karta hai. Apni zaroorat ke saath WhatsApp par message karein, faisle se pehle hum saaf maloomat dein ge.`,
         en: `Pricing depends on experience level, city and whether the role is live-in or live-out. Message us on WhatsApp with your requirements and we'll share a clear quote before you commit to anything.`,
         ur: `قیمت تجربے کی سطح، شہر اور یہ کہ کردار لِیو اِن ہے یا لِیو آؤٹ، اس پر منحصر ہے۔ اپنی ضروریات کے ساتھ واٹس ایپ پر پیغام بھیجیں اور ہم عزم کرنے سے پہلے واضح قیمت فراہم کریں گے۔`,
       },
     },
     {
       question: {
+        roman: `Aap kin shehron mein ${svcEn.toLowerCase()} dete hain?`,
         en: `Which cities do you offer ${svcEn.toLowerCase()} in?`,
         ur: `آپ کن شہروں میں ${svcUr} فراہم کرتے ہیں؟`,
       },
       answer: {
+        roman: `Hum apne tamam bare shehron mein ${svcEn.toLowerCase()} lagate hain, aisi maqami teams ke saath jo har shehar ki societies aur sectors jaanti hain.`,
         en: `We place ${svcEn.toLowerCase()} across all major cities we serve, with dedicated local teams who already know each city's societies and sectors.`,
         ur: `ہم اپنے تمام بڑے شہروں میں ${svcUr} تعینات کرتے ہیں، مقامی ٹیموں کے ساتھ جو پہلے سے ہر شہر کی سوسائٹیز اور سیکٹرز سے واقف ہیں۔`,
       },
     },
     {
       question: {
+        roman: `Kya main ${svcEn.toLowerCase()} ke liye khatoon candidate mangwa sakta hoon?`,
         en: `Can I request a female candidate for ${svcEn.toLowerCase()}?`,
         ur: `کیا میں ${svcUr} کے لیے خاتون امیدوار کی درخواست کر سکتا ہوں؟`,
       },
       answer: {
+        roman: `Ji haan, message karte waqt bata dein, hum usi ke mutabiq shortlist karein ge. Hum ghar ki zaroorat ke mutabiq mard aur khatoon dono candidates lagate hain.`,
         en: `Yes, just mention your gender preference when you message us and we'll shortlist accordingly, we place both male and female candidates depending on what the household needs.`,
         ur: `جی ہاں، پیغام بھیجتے وقت اپنی صنفی ترجیح بتائیں اور ہم اسی کے مطابق فہرست تیار کریں گے، ہم گھرانے کی ضرورت کے مطابق مرد اور خاتون دونوں امیدوار فراہم کرتے ہیں۔`,
       },
     },
     {
       question: {
+        roman: `Kya aap ke ${svcEn.toLowerCase()} candidates ka background check hota hai?`,
         en: `Are your ${svcEn.toLowerCase()} candidates background-checked?`,
         ur: `کیا آپ کے ${svcUr} امیدواروں کی پس منظر جانچ کی جاتی ہے؟`,
       },
       answer: {
+        roman: `Ji haan, har candidate ka CNIC aur pata verify hota hai, pichle malikan se references check hote hain aur shortlist se pehle ru-ba-ru interview hota hai.`,
         en: `Yes, every candidate goes through CNIC and address verification, reference checks with previous employers, and an in-person interview before being shortlisted.`,
         ur: `جی ہاں، ہر امیدوار کو منتخب کیے جانے سے پہلے شناختی کارڈ اور پتے کی تصدیق، سابقہ آجروں سے حوالہ جات کی جانچ، اور ذاتی طور پر انٹرویو سے گزارا جاتا ہے۔`,
       },
     },
     {
       question: {
+        roman: `Agar ${svcEn.toLowerCase()} munasib na ho to kya replacement mil sakta hai?`,
         en: `Can I get a replacement if the ${svcEn.toLowerCase()} isn't a good fit?`,
         ur: `اگر ${svcUr} مناسب ثابت نہ ہو تو کیا مجھے متبادل مل سکتا ہے؟`,
       },
       answer: {
+        roman: `Ji haan, har placement ke 6 maah ke andar hum muft replacement dete hain, koi extra fee nahi.`,
         en: `Yes, we offer a free replacement within 6 months of placement for every placement, no extra fees.`,
         ur: `جی ہاں، ہم ہر تقرری کے لیے ضمانتی مدت کے اندر مفت متبادل فراہم کرتے ہیں، کوئی اضافی فیس نہیں۔`,
       },
