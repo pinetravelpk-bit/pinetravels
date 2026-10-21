@@ -5,7 +5,7 @@
   "scripts": {
     "predev": "node scripts/list-public-images.mjs && node scripts/generate-blog-covers.mjs",
     "dev": "next dev",
-    "prebuild": "node scripts/list-public-images.mjs && node scripts/generate-blog-covers.mjs",
+    "prebuild": "node scripts/fetch-service-images.mjs && node scripts/list-public-images.mjs && node scripts/generate-blog-covers.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",

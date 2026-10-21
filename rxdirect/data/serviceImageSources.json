@@ -1,0 +1,92 @@
+{
+  "cooks": {
+    "pexelsId": 4910234,
+    "alt": "Woman in a hijab cooking rice in a modern home kitchen",
+    "page": "https://www.pexels.com/photo/a-woman-cooking-in-the-kitchen-4910234/"
+  },
+  "chefs": {
+    "pexelsId": 38304929,
+    "alt": "Chef doing a flamb\u00e9 in a professional kitchen in Islamabad",
+    "page": "https://www.pexels.com/photo/chef-flambe-cooking-in-islamabad-kitchen-38304929/"
+  },
+  "drivers": {
+    "pexelsId": 15774577,
+    "alt": "Chauffeur opening the car door for a passenger",
+    "page": "https://www.pexels.com/photo/man-opening-car-door-for-woman-15774577/"
+  },
+  "maids": {
+    "pexelsId": 9462667,
+    "alt": "Housekeeper in uniform ironing clothes at home",
+    "page": "https://www.pexels.com/photo/a-person-ironing-clothes-9462667/"
+  },
+  "helpers": {
+    "pexelsId": 5904031,
+    "alt": "Helper washing dishes at the kitchen sink",
+    "page": "https://www.pexels.com/photo/man-cleaning-dishes-on-kitchen-sink-5904031/"
+  },
+  "cleaners": {
+    "pexelsId": 6197116,
+    "alt": "Cleaning team mopping and sanitising a modern home",
+    "page": "https://www.pexels.com/photo/woman-holding-a-mop-6197116/"
+  },
+  "security-guards": {
+    "pexelsId": 35562107,
+    "alt": "Security guard in uniform standing alert at a building entrance",
+    "page": "https://www.pexels.com/photo/professional-security-guard-at-entrance-35562107/"
+  },
+  "office-boys": {
+    "pexelsId": 6170396,
+    "alt": "Office assistant carrying a delivery box in a modern office",
+    "page": "https://www.pexels.com/photo/man-in-jacket-holding-cardboard-box-6170396/"
+  },
+  "babysitters-nannies": {
+    "pexelsId": 7491734,
+    "alt": "Woman playing with a baby with wooden toys at home",
+    "page": "https://www.pexels.com/photo/a-woman-playing-with-her-baby-while-sitting-on-the-floor-7491734/"
+  },
+  "gardeners": {
+    "pexelsId": 38936351,
+    "alt": "Gardener trimming a hedge with shears",
+    "page": "https://www.pexels.com/photo/gardener-trimming-hedge-with-shears-outdoors-38936351/"
+  },
+  "nurses": {
+    "pexelsId": 18271866,
+    "alt": "Nurse caring for a senior patient",
+    "page": "https://www.pexels.com/photo/18271866/"
+  },
+  "caretakers": {
+    "pexelsId": 16364307,
+    "alt": "Caretaker helping an elderly woman drink tea",
+    "page": "https://www.pexels.com/photo/caretaker-giving-tea-to-elderly-patient-16364307/"
+  },
+  "couples": {
+    "pexelsId": 9492952,
+    "alt": "Husband and wife working together in a kitchen",
+    "page": "https://www.pexels.com/photo/a-couple-wearing-chefs-uniforms-and-toques-9492952/"
+  },
+  "batman": {
+    "pexelsId": 8899943,
+    "alt": "Personal attendant polishing a black leather shoe",
+    "page": "https://www.pexels.com/photo/a-person-holding-a-black-leather-shoe-8899943/"
+  },
+  "electricians": {
+    "pexelsId": 27928762,
+    "alt": "Electrician working on a circuit breaker panel",
+    "page": "https://www.pexels.com/photo/a-man-is-working-on-an-electrical-panel-27928762/"
+  },
+  "plumbers": {
+    "pexelsId": 6419128,
+    "alt": "Plumber installing pipe fittings",
+    "page": "https://www.pexels.com/photo/plumber-installs-pipe-fittings-6419128/"
+  },
+  "carpenters": {
+    "pexelsId": 18947369,
+    "alt": "Carpenter working with wood in a workshop",
+    "page": "https://www.pexels.com/photo/a-carpenter-working-with-wood-in-a-workshop-18947369/"
+  },
+  "painters": {
+    "pexelsId": 7218578,
+    "alt": "Painter applying paint to an interior wall with a roller",
+    "page": "https://www.pexels.com/photo/person-painting-the-wall-with-a-roller-7218578/"
+  }
+}

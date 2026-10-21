@@ -23,7 +23,9 @@ function usable(override?: ImageOverride): ImageOverride | undefined {
   const src = override?.image?.trim();
   if (!src) return override?.alt ? { alt: override.alt } : undefined;
   if (/^https?:\/\//.test(src) || availableImages.has(src)) return override;
-  return override?.alt ? { alt: override.alt } : undefined;
+  // The photo isn't there (e.g. not downloaded yet): keep the default photo
+  // and its own alt text, since this alt describes the missing photo.
+  return undefined;
 }
 
 export function imageExists(src: string): boolean {

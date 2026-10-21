@@ -36,3 +36,6 @@ yarn-error.log*
 next-env.d.ts
 /content/settings/available-images.json
 /public/images/blog-covers/
+
+# service photos, downloaded at build time (scripts/fetch-service-images.mjs)
+/public/images/services/photos/
