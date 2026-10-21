@@ -1,6 +1,7 @@
 import raw from "@/content/settings/images.json";
 // Generated before every dev/build by scripts/list-public-images.mjs.
 import available from "@/content/settings/available-images.json";
+import serviceSources from "@/data/serviceImageSources.json";
 
 interface ImageOverride {
   image?: string;
@@ -41,8 +42,20 @@ export const heroImage = {
     "Happy family at home with trusted domestic staff support",
 };
 
+const pexels = serviceSources as Record<string, { pexelsId: number; alt: string }>;
+
+// A service's photo: the downloaded copy in public/images/services/photos
+// when the build fetched it (scripts/fetch-service-images.mjs), otherwise the
+// same free Pexels photo straight from Pexels, so the new photo shows either way.
 export function getServiceImageOverride(slug: string): ImageOverride | undefined {
-  return usable(siteImages.services?.[slug]);
+  const local = usable(siteImages.services?.[slug]);
+  if (local?.image) return local;
+  const src = pexels[slug];
+  if (!src) return local;
+  return {
+    image: `https://images.pexels.com/photos/${src.pexelsId}/pexels-photo-${src.pexelsId}.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop`,
+    alt: src.alt,
+  };
 }
 
 export function getCityImageOverride(slug: string): ImageOverride | undefined {
