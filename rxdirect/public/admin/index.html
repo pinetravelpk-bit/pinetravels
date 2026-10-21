@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RX Direct | Admin</title>
+    <link rel="icon" href="/icon.png" />
+    <link rel="stylesheet" href="/admin/admin.css" />
+  </head>
+  <body>
+    <form id="login" class="login" hidden>
+      <div class="login-logo">RX<span>/</span> DIRECT</div>
+      <h1>Admin panel</h1>
+      <label>Admin password<input type="password" id="pw" autocomplete="current-password" required /></label>
+      <p class="err" id="login-err"></p>
+      <button class="btn primary block">Log in</button>
+    </form>
+
+    <div id="app" class="app" hidden>
+      <aside class="sidebar">
+        <div class="brand">RX<span>/</span> DIRECT <small>Admin</small></div>
+        <nav id="nav">
+          <a data-view="dashboard">Dashboard</a>
+          <a data-view="staff">Staff verification <b class="pill" data-count="staffPending"></b></a>
+          <a data-view="jobs">Jobs</a>
+          <a data-view="applications">Applications <b class="pill" data-count="appsNew"></b></a>
+          <a data-view="leads">Leads <b class="pill" data-count="leadsNew"></b></a>
+          <a data-view="team">Team</a>
+          <a data-view="comments">Blog comments <b class="pill" data-count="commentsPending"></b></a>
+        </nav>
+        <div class="sidebar-foot">
+          <a href="/" target="_blank" rel="noopener">View website ↗</a>
+          <button id="logout" class="btn ghost">Log out</button>
+        </div>
+      </aside>
+      <main>
+        <header class="topbar">
+          <button id="menu-toggle" class="btn ghost menu-toggle" aria-label="Menu">☰</button>
+          <h1 id="view-title">Dashboard</h1>
+          <div id="view-actions"></div>
+        </header>
+        <section id="view" class="view"></section>
+      </main>
+    </div>
+
+    <div id="modal" class="modal" hidden>
+      <div class="modal-box" role="dialog" aria-modal="true">
+        <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+    <div id="toast" class="toast" hidden></div>
+
+    <script src="/admin/admin.js"></script>
+  </body>
+</html>

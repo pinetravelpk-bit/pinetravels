@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "image": "/images/blog/chatgpt-image-jul-26-2026-01_29_09-am.png",
+    "alt": "Happy family at home with trusted domestic staff support"
+  },
+  "services": {
+    "cooks": {
+      "image": "/images/services/photos/cooks.jpg",
+      "alt": "Woman in a hijab cooking rice in a modern home kitchen"
+    },
+    "chefs": {
+      "image": "/images/services/photos/chefs.jpg",
+      "alt": "Chef doing a flamb\u00e9 in a professional kitchen in Islamabad"
+    },
+    "drivers": {
+      "image": "/images/services/photos/drivers.jpg",
+      "alt": "Chauffeur opening the car door for a passenger"
+    },
+    "maids": {
+      "image": "/images/services/photos/maids.jpg",
+      "alt": "Housekeeper in uniform ironing clothes at home"
+    },
+    "helpers": {
+      "image": "/images/services/photos/helpers.jpg",
+      "alt": "Helper washing dishes at the kitchen sink"
+    },
+    "cleaners": {
+      "image": "/images/services/photos/cleaners.jpg",
+      "alt": "Cleaning team mopping and sanitising a modern home"
+    },
+    "security-guards": {
+      "image": "/images/services/photos/security-guards.jpg",
+      "alt": "Security guard in uniform standing alert at a building entrance"
+    },
+    "office-boys": {
+      "image": "/images/services/photos/office-boys.jpg",
+      "alt": "Office assistant carrying a delivery box in a modern office"
+    },
+    "babysitters-nannies": {
+      "image": "/images/services/photos/babysitters-nannies.jpg",
+      "alt": "Woman playing with a baby with wooden toys at home"
+    },
+    "gardeners": {
+      "image": "/images/services/photos/gardeners.jpg",
+      "alt": "Gardener trimming a hedge with shears"
+    },
+    "nurses": {
+      "image": "/images/services/photos/nurses.jpg",
+      "alt": "Nurse caring for a senior patient"
+    },
+    "caretakers": {
+      "image": "/images/services/photos/caretakers.jpg",
+      "alt": "Caretaker helping an elderly woman drink tea"
+    },
+    "couples": {
+      "image": "/images/services/photos/couples.jpg",
+      "alt": "Husband and wife working together in a kitchen"
+    },
+    "batman": {
+      "image": "/images/services/photos/batman.jpg",
+      "alt": "Personal attendant polishing a black leather shoe"
+    },
+    "electricians": {
+      "image": "/images/services/photos/electricians.jpg",
+      "alt": "Electrician working on a circuit breaker panel"
+    },
+    "plumbers": {
+      "image": "/images/services/photos/plumbers.jpg",
+      "alt": "Plumber installing pipe fittings"
+    },
+    "carpenters": {
+      "image": "/images/services/photos/carpenters.jpg",
+      "alt": "Carpenter working with wood in a workshop"
+    },
+    "painters": {
+      "image": "/images/services/photos/painters.jpg",
+      "alt": "Painter applying paint to an interior wall with a roller"
+    }
+  },
+  "cities": {}
+}

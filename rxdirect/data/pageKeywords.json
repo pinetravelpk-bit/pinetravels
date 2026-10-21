@@ -1,0 +1,3232 @@
+{
+ "/": {
+  "name": "Home",
+  "type": "Core Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "domestic staffing agency Pakistan",
+   "domestic staff provider Pakistan",
+   "hire domestic staff Pakistan",
+   "verified domestic staff Pakistan",
+   "household staff agency Pakistan",
+   "home staff provider Pakistan",
+   "background checked domestic staff Pakistan",
+   "domestic staffing services Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services": {
+  "name": "All Services",
+  "type": "Core Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "domestic staff services Pakistan",
+   "household staffing services Pakistan",
+   "home staff services Pakistan",
+   "verified staff services Pakistan",
+   "domestic worker services Pakistan",
+   "staff provider for home Pakistan",
+   "professional domestic staff Pakistan",
+   "hire household staff Pakistan"
+  ],
+  "intent": "Commercial"
+ },
+ "/services/category/household-staff": {
+  "name": "Household Staff",
+  "type": "Category Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "household staff agency Pakistan",
+   "hire household staff Pakistan",
+   "household staff provider Pakistan",
+   "home staff agency Pakistan",
+   "verified household staff Pakistan",
+   "domestic household staff Pakistan",
+   "full time household staff Pakistan",
+   "live in household staff Pakistan"
+  ],
+  "intent": "Commercial"
+ },
+ "/services/category/office-security-staff": {
+  "name": "Office & Security Staff",
+  "type": "Category Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "office staff provider Pakistan",
+   "security staff provider Pakistan",
+   "office and security staff Pakistan",
+   "hire office support staff Pakistan",
+   "hire security staff Pakistan",
+   "verified office staff Pakistan",
+   "corporate support staff Pakistan",
+   "office boy and security guard agency Pakistan"
+  ],
+  "intent": "Commercial"
+ },
+ "/services/category/care-staff": {
+  "name": "Nursing & Care Staff",
+  "type": "Category Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "home nursing staff Pakistan",
+   "home care staff Pakistan",
+   "nursing staff agency Pakistan",
+   "elderly care staff Pakistan",
+   "patient care staff Pakistan",
+   "hire home nurse Pakistan",
+   "caretaker service Pakistan",
+   "home caregiver agency Pakistan"
+  ],
+  "intent": "Commercial"
+ },
+ "/services/category/home-repair-trade-staff": {
+  "name": "Home Repair & Trade Staff",
+  "type": "Category Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "home repair staff Pakistan",
+   "trade staff services Pakistan",
+   "home maintenance staff Pakistan",
+   "electrician plumber carpenter painter Pakistan",
+   "home repair service provider Pakistan",
+   "skilled trade staff Pakistan",
+   "house maintenance workers Pakistan",
+   "verified technicians Pakistan"
+  ],
+  "intent": "Commercial"
+ },
+ "/pricing": {
+  "name": "Pricing",
+  "type": "Core Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "domestic staff salary Pakistan",
+   "domestic staff price Pakistan",
+   "maid salary Pakistan",
+   "cook salary Pakistan",
+   "driver salary Pakistan",
+   "nanny salary Pakistan",
+   "home nurse salary Pakistan",
+   "domestic staff hiring cost Pakistan"
+  ],
+  "intent": "Commercial Investigation"
+ },
+ "/cities": {
+  "name": "Cities We Serve",
+  "type": "Core Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "domestic staff services Pakistan cities",
+   "domestic staffing agency near me Pakistan",
+   "domestic staff Islamabad Rawalpindi Lahore Karachi",
+   "household staff services Pakistan",
+   "verified domestic staff by city Pakistan",
+   "home staff agency Pakistan cities",
+   "staff provider across Pakistan",
+   "domestic staff placement Pakistan"
+  ],
+  "intent": "Local Commercial"
+ },
+ "/about": {
+  "name": "About",
+  "type": "Trust Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "RX Direct Pakistan",
+   "RX Direct domestic staffing",
+   "registered staffing agency Pakistan",
+   "verified domestic staffing company Pakistan",
+   "domestic staff company Pakistan",
+   "SECP registered staffing agency Pakistan",
+   "RX Direct staffing agency",
+   "about RX Direct"
+  ],
+  "intent": "Branded / Trust"
+ },
+ "/team": {
+  "name": "Our Team",
+  "type": "Trust Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "RX Direct team",
+   "domestic staffing recruitment team Pakistan",
+   "staff verification team Pakistan",
+   "recruitment agency team Pakistan",
+   "domestic staff recruiters Pakistan",
+   "RX Direct recruiters",
+   "staff placement team Pakistan",
+   "verified staffing team Pakistan"
+  ],
+  "intent": "Branded / Trust"
+ },
+ "/how-it-works": {
+  "name": "How It Works",
+  "type": "Trust Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "how to hire domestic staff Pakistan",
+   "domestic staff hiring process Pakistan",
+   "how to hire a maid Pakistan",
+   "verified staff hiring process",
+   "domestic worker verification process Pakistan",
+   "hire household staff safely Pakistan",
+   "background checked staff hiring Pakistan",
+   "staff placement process Pakistan"
+  ],
+  "intent": "Informational / Commercial"
+ },
+ "/registration": {
+  "name": "Registration & Authenticity",
+  "type": "Trust Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "SECP registered staffing agency Pakistan",
+   "registered domestic staff agency Pakistan",
+   "RX Direct registration",
+   "RX Direct SECP registration",
+   "verified staffing company Pakistan",
+   "legal staffing agency Pakistan",
+   "registered recruitment company Pakistan",
+   "RX Direct authenticity"
+  ],
+  "intent": "Branded / Trust"
+ },
+ "/blog": {
+  "name": "Blog",
+  "type": "Content Hub",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "domestic staff hiring guide Pakistan",
+   "maid hiring tips Pakistan",
+   "cook hiring guide Pakistan",
+   "driver hiring tips Pakistan",
+   "domestic staffing blog Pakistan",
+   "household staff guide Pakistan",
+   "how to find domestic staff Pakistan",
+   "staff verification tips Pakistan"
+  ],
+  "intent": "Informational"
+ },
+ "/faqs": {
+  "name": "FAQs",
+  "type": "Support Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "domestic staff FAQs Pakistan",
+   "maid hiring questions Pakistan",
+   "domestic staff agency questions",
+   "how to hire verified staff Pakistan",
+   "domestic staff replacement policy Pakistan",
+   "staff hiring FAQ Pakistan",
+   "household staff questions Pakistan",
+   "RX Direct FAQs"
+  ],
+  "intent": "Informational"
+ },
+ "/contact": {
+  "name": "Contact",
+  "type": "Lead Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "contact domestic staff agency Pakistan",
+   "domestic staffing agency contact Pakistan",
+   "RX Direct contact",
+   "hire domestic staff contact",
+   "domestic staff provider phone Pakistan",
+   "staffing agency Rawalpindi contact",
+   "staffing agency Islamabad contact",
+   "contact RX Direct Pakistan"
+  ],
+  "intent": "Transactional / Branded"
+ },
+ "/jobs": {
+  "name": "Jobs",
+  "type": "Job Seeker Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "domestic staff jobs Pakistan",
+   "maid jobs Pakistan",
+   "cook jobs Pakistan",
+   "driver jobs Pakistan",
+   "nanny jobs Pakistan",
+   "home nurse jobs Pakistan",
+   "domestic worker jobs Pakistan",
+   "staff jobs near me Pakistan"
+  ],
+  "intent": "Job Seeker"
+ },
+ "/staff/register": {
+  "name": "Staff Verification Registration",
+  "type": "Staff Verification Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "domestic staff verification Pakistan",
+   "register domestic worker Pakistan",
+   "verified staff ID Pakistan",
+   "staff background verification Pakistan",
+   "domestic worker verification service",
+   "maid verification Pakistan",
+   "driver verification Pakistan",
+   "RX Direct staff verification"
+  ],
+  "intent": "Job Seeker / Trust"
+ },
+ "/staff/status": {
+  "name": "Verification Status",
+  "type": "Staff Verification Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "check staff verification status",
+   "RX Direct verification status",
+   "check verified staff ID",
+   "domestic staff verification status Pakistan",
+   "verify domestic worker Pakistan",
+   "staff ID verification Pakistan",
+   "check RX Direct staff ID",
+   "verified worker status"
+  ],
+  "intent": "Navigational / Trust"
+ },
+ "/privacy": {
+  "name": "Privacy Policy",
+  "type": "Legal Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "RX Direct privacy policy",
+   "domestic staffing privacy policy Pakistan",
+   "staffing agency privacy Pakistan",
+   "RX Direct data privacy",
+   "domestic staff data policy",
+   "recruitment privacy policy Pakistan",
+   "staff verification data privacy",
+   "RX Direct personal data policy"
+  ],
+  "intent": "Navigational"
+ },
+ "/terms": {
+  "name": "Terms of Service",
+  "type": "Legal Page",
+  "service": null,
+  "city": "Pakistan",
+  "keywords": [
+   "RX Direct terms of service",
+   "domestic staffing terms Pakistan",
+   "staff placement terms Pakistan",
+   "domestic staff agency terms",
+   "RX Direct service terms",
+   "staffing agency terms and conditions Pakistan",
+   "domestic worker placement terms",
+   "RX Direct terms and conditions"
+  ],
+  "intent": "Navigational"
+ },
+ "/services/cooks": {
+  "name": "Cooks",
+  "type": "Service Page",
+  "service": "Cooks",
+  "city": "Pakistan",
+  "keywords": [
+   "hire cook in Pakistan",
+   "home cook Pakistan",
+   "verified cook Pakistan",
+   "cook service Pakistan",
+   "cook provider Pakistan",
+   "cook for home Pakistan",
+   "cook near me",
+   "family cook Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/chefs": {
+  "name": "Chefs",
+  "type": "Service Page",
+  "service": "Chefs",
+  "city": "Pakistan",
+  "keywords": [
+   "hire chef in Pakistan",
+   "private chef Pakistan",
+   "verified chef Pakistan",
+   "chef service Pakistan",
+   "chef provider Pakistan",
+   "home chef Pakistan",
+   "chef near me",
+   "personal chef Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/drivers": {
+  "name": "Drivers",
+  "type": "Service Page",
+  "service": "Drivers",
+  "city": "Pakistan",
+  "keywords": [
+   "hire driver in Pakistan",
+   "family driver Pakistan",
+   "verified driver Pakistan",
+   "driver service Pakistan",
+   "driver provider Pakistan",
+   "personal driver Pakistan",
+   "driver near me",
+   "private driver Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/maids": {
+  "name": "Maids",
+  "type": "Service Page",
+  "service": "Maids",
+  "city": "Pakistan",
+  "keywords": [
+   "hire maid in Pakistan",
+   "house maid Pakistan",
+   "verified maid Pakistan",
+   "maid service Pakistan",
+   "maid provider Pakistan",
+   "home maid Pakistan",
+   "maid near me",
+   "domestic maid Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/helpers": {
+  "name": "Helpers",
+  "type": "Service Page",
+  "service": "Helpers",
+  "city": "Pakistan",
+  "keywords": [
+   "hire helper in Pakistan",
+   "domestic helper Pakistan",
+   "verified helper Pakistan",
+   "helper service Pakistan",
+   "helper provider Pakistan",
+   "home helper Pakistan",
+   "helper near me",
+   "household helper Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/cleaners": {
+  "name": "Cleaners",
+  "type": "Service Page",
+  "service": "Cleaners",
+  "city": "Pakistan",
+  "keywords": [
+   "hire cleaner in Pakistan",
+   "home cleaner Pakistan",
+   "verified cleaner Pakistan",
+   "cleaner service Pakistan",
+   "cleaner provider Pakistan",
+   "house cleaner Pakistan",
+   "cleaner near me",
+   "domestic cleaner Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/security-guards": {
+  "name": "Security Guards",
+  "type": "Service Page",
+  "service": "Security Guards",
+  "city": "Pakistan",
+  "keywords": [
+   "hire security guard in Pakistan",
+   "home security guard Pakistan",
+   "verified security guard Pakistan",
+   "security guard service Pakistan",
+   "security guard provider Pakistan",
+   "private security guard Pakistan",
+   "security guard near me",
+   "residential security guard Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/office-boys": {
+  "name": "Office Boys",
+  "type": "Service Page",
+  "service": "Office Boys",
+  "city": "Pakistan",
+  "keywords": [
+   "hire office boy in Pakistan",
+   "office helper Pakistan",
+   "verified office boy Pakistan",
+   "office boy service Pakistan",
+   "office boy provider Pakistan",
+   "office support staff Pakistan",
+   "office boy near me",
+   "pantry boy Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/babysitters-nannies": {
+  "name": "Babysitters & Nannies",
+  "type": "Service Page",
+  "service": "Babysitters & Nannies",
+  "city": "Pakistan",
+  "keywords": [
+   "hire nanny in Pakistan",
+   "babysitter Pakistan",
+   "verified nanny Pakistan",
+   "nanny service Pakistan",
+   "nanny provider Pakistan",
+   "baby sitter Pakistan",
+   "nanny near me",
+   "childcare staff Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/gardeners": {
+  "name": "Gardeners",
+  "type": "Service Page",
+  "service": "Gardeners",
+  "city": "Pakistan",
+  "keywords": [
+   "hire gardener in Pakistan",
+   "mali Pakistan",
+   "verified gardener Pakistan",
+   "gardener service Pakistan",
+   "gardener provider Pakistan",
+   "home gardener Pakistan",
+   "gardener near me",
+   "garden maintenance staff Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/nurses": {
+  "name": "Nurses",
+  "type": "Service Page",
+  "service": "Nurses",
+  "city": "Pakistan",
+  "keywords": [
+   "hire home nurse in Pakistan",
+   "private nurse Pakistan",
+   "verified home nurse Pakistan",
+   "home nurse service Pakistan",
+   "home nurse provider Pakistan",
+   "patient care nurse Pakistan",
+   "home nurse near me",
+   "elderly care nurse Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/caretakers": {
+  "name": "Caretakers",
+  "type": "Service Page",
+  "service": "Caretakers",
+  "city": "Pakistan",
+  "keywords": [
+   "hire caretaker in Pakistan",
+   "elderly caretaker Pakistan",
+   "verified caretaker Pakistan",
+   "caretaker service Pakistan",
+   "caretaker provider Pakistan",
+   "patient caretaker Pakistan",
+   "caretaker near me",
+   "home caregiver Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/couples": {
+  "name": "Domestic Couples",
+  "type": "Service Page",
+  "service": "Domestic Couples",
+  "city": "Pakistan",
+  "keywords": [
+   "hire domestic couple in Pakistan",
+   "husband wife staff Pakistan",
+   "verified domestic couple Pakistan",
+   "domestic couple service Pakistan",
+   "domestic couple provider Pakistan",
+   "live in domestic couple Pakistan",
+   "domestic couple near me",
+   "household couple Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/batman": {
+  "name": "Batman (Personal Attendant)",
+  "type": "Service Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Pakistan",
+  "keywords": [
+   "hire personal attendant in Pakistan",
+   "batman for home Pakistan",
+   "verified personal attendant Pakistan",
+   "personal attendant service Pakistan",
+   "personal attendant provider Pakistan",
+   "personal helper Pakistan",
+   "personal attendant near me",
+   "household attendant Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/electricians": {
+  "name": "Electricians",
+  "type": "Service Page",
+  "service": "Electricians",
+  "city": "Pakistan",
+  "keywords": [
+   "hire electrician in Pakistan",
+   "home electrician Pakistan",
+   "verified electrician Pakistan",
+   "electrician service Pakistan",
+   "electrician provider Pakistan",
+   "residential electrician Pakistan",
+   "electrician near me",
+   "electrical technician Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/plumbers": {
+  "name": "Plumbers",
+  "type": "Service Page",
+  "service": "Plumbers",
+  "city": "Pakistan",
+  "keywords": [
+   "hire plumber in Pakistan",
+   "home plumber Pakistan",
+   "verified plumber Pakistan",
+   "plumber service Pakistan",
+   "plumber provider Pakistan",
+   "plumbing service Pakistan",
+   "plumber near me",
+   "plumbing technician Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/carpenters": {
+  "name": "Carpenters",
+  "type": "Service Page",
+  "service": "Carpenters",
+  "city": "Pakistan",
+  "keywords": [
+   "hire carpenter in Pakistan",
+   "home carpenter Pakistan",
+   "verified carpenter Pakistan",
+   "carpenter service Pakistan",
+   "carpenter provider Pakistan",
+   "furniture carpenter Pakistan",
+   "carpenter near me",
+   "woodwork carpenter Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/services/painters": {
+  "name": "Painters",
+  "type": "Service Page",
+  "service": "Painters",
+  "city": "Pakistan",
+  "keywords": [
+   "hire painter in Pakistan",
+   "house painter Pakistan",
+   "verified painter Pakistan",
+   "painter service Pakistan",
+   "painter provider Pakistan",
+   "home painter Pakistan",
+   "painter near me",
+   "wall painter Pakistan"
+  ],
+  "intent": "Commercial / Transactional"
+ },
+ "/cities/islamabad": {
+  "name": "Domestic Staff in Islamabad",
+  "type": "City Page",
+  "service": "All Domestic Staff",
+  "city": "Islamabad",
+  "keywords": [
+   "domestic staffing agency Islamabad",
+   "hire domestic staff Islamabad",
+   "domestic staff provider Islamabad",
+   "household staff agency Islamabad",
+   "verified domestic staff Islamabad",
+   "home staff provider Islamabad",
+   "domestic staff near me Islamabad",
+   "background checked staff Islamabad"
+  ],
+  "intent": "Local Commercial / Transactional"
+ },
+ "/cities/rawalpindi": {
+  "name": "Domestic Staff in Rawalpindi",
+  "type": "City Page",
+  "service": "All Domestic Staff",
+  "city": "Rawalpindi",
+  "keywords": [
+   "domestic staffing agency Rawalpindi",
+   "hire domestic staff Rawalpindi",
+   "domestic staff provider Rawalpindi",
+   "household staff agency Rawalpindi",
+   "verified domestic staff Rawalpindi",
+   "home staff provider Rawalpindi",
+   "domestic staff near me Rawalpindi",
+   "background checked staff Rawalpindi"
+  ],
+  "intent": "Local Commercial / Transactional"
+ },
+ "/cities/lahore": {
+  "name": "Domestic Staff in Lahore",
+  "type": "City Page",
+  "service": "All Domestic Staff",
+  "city": "Lahore",
+  "keywords": [
+   "domestic staffing agency Lahore",
+   "hire domestic staff Lahore",
+   "domestic staff provider Lahore",
+   "household staff agency Lahore",
+   "verified domestic staff Lahore",
+   "home staff provider Lahore",
+   "domestic staff near me Lahore",
+   "background checked staff Lahore"
+  ],
+  "intent": "Local Commercial / Transactional"
+ },
+ "/cities/karachi": {
+  "name": "Domestic Staff in Karachi",
+  "type": "City Page",
+  "service": "All Domestic Staff",
+  "city": "Karachi",
+  "keywords": [
+   "domestic staffing agency Karachi",
+   "hire domestic staff Karachi",
+   "domestic staff provider Karachi",
+   "household staff agency Karachi",
+   "verified domestic staff Karachi",
+   "home staff provider Karachi",
+   "domestic staff near me Karachi",
+   "background checked staff Karachi"
+  ],
+  "intent": "Local Commercial / Transactional"
+ },
+ "/cities/faisalabad": {
+  "name": "Domestic Staff in Faisalabad",
+  "type": "City Page",
+  "service": "All Domestic Staff",
+  "city": "Faisalabad",
+  "keywords": [
+   "domestic staffing agency Faisalabad",
+   "hire domestic staff Faisalabad",
+   "domestic staff provider Faisalabad",
+   "household staff agency Faisalabad",
+   "verified domestic staff Faisalabad",
+   "home staff provider Faisalabad",
+   "domestic staff near me Faisalabad",
+   "background checked staff Faisalabad"
+  ],
+  "intent": "Local Commercial / Transactional"
+ },
+ "/cities/multan": {
+  "name": "Domestic Staff in Multan",
+  "type": "City Page",
+  "service": "All Domestic Staff",
+  "city": "Multan",
+  "keywords": [
+   "domestic staffing agency Multan",
+   "hire domestic staff Multan",
+   "domestic staff provider Multan",
+   "household staff agency Multan",
+   "verified domestic staff Multan",
+   "home staff provider Multan",
+   "domestic staff near me Multan",
+   "background checked staff Multan"
+  ],
+  "intent": "Local Commercial / Transactional"
+ },
+ "/cities/peshawar": {
+  "name": "Domestic Staff in Peshawar",
+  "type": "City Page",
+  "service": "All Domestic Staff",
+  "city": "Peshawar",
+  "keywords": [
+   "domestic staffing agency Peshawar",
+   "hire domestic staff Peshawar",
+   "domestic staff provider Peshawar",
+   "household staff agency Peshawar",
+   "verified domestic staff Peshawar",
+   "home staff provider Peshawar",
+   "domestic staff near me Peshawar",
+   "background checked staff Peshawar"
+  ],
+  "intent": "Local Commercial / Transactional"
+ },
+ "/cities/gujranwala": {
+  "name": "Domestic Staff in Gujranwala",
+  "type": "City Page",
+  "service": "All Domestic Staff",
+  "city": "Gujranwala",
+  "keywords": [
+   "domestic staffing agency Gujranwala",
+   "hire domestic staff Gujranwala",
+   "domestic staff provider Gujranwala",
+   "household staff agency Gujranwala",
+   "verified domestic staff Gujranwala",
+   "home staff provider Gujranwala",
+   "domestic staff near me Gujranwala",
+   "background checked staff Gujranwala"
+  ],
+  "intent": "Local Commercial / Transactional"
+ },
+ "/services/cooks/islamabad": {
+  "name": "Cooks in Islamabad",
+  "type": "Service + City Page",
+  "service": "Cooks",
+  "city": "Islamabad",
+  "keywords": [
+   "hire cook in Islamabad",
+   "home cook Islamabad",
+   "verified cook Islamabad",
+   "cook service Islamabad",
+   "cook provider Islamabad",
+   "cook for home Islamabad",
+   "cook required in Islamabad",
+   "cook near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cooks/rawalpindi": {
+  "name": "Cooks in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Cooks",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire cook in Rawalpindi",
+   "home cook Rawalpindi",
+   "verified cook Rawalpindi",
+   "cook service Rawalpindi",
+   "cook provider Rawalpindi",
+   "cook for home Rawalpindi",
+   "cook required in Rawalpindi",
+   "cook near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cooks/lahore": {
+  "name": "Cooks in Lahore",
+  "type": "Service + City Page",
+  "service": "Cooks",
+  "city": "Lahore",
+  "keywords": [
+   "hire cook in Lahore",
+   "home cook Lahore",
+   "verified cook Lahore",
+   "cook service Lahore",
+   "cook provider Lahore",
+   "cook for home Lahore",
+   "cook required in Lahore",
+   "cook near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cooks/karachi": {
+  "name": "Cooks in Karachi",
+  "type": "Service + City Page",
+  "service": "Cooks",
+  "city": "Karachi",
+  "keywords": [
+   "hire cook in Karachi",
+   "home cook Karachi",
+   "verified cook Karachi",
+   "cook service Karachi",
+   "cook provider Karachi",
+   "cook for home Karachi",
+   "cook required in Karachi",
+   "cook near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cooks/faisalabad": {
+  "name": "Cooks in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Cooks",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire cook in Faisalabad",
+   "home cook Faisalabad",
+   "verified cook Faisalabad",
+   "cook service Faisalabad",
+   "cook provider Faisalabad",
+   "cook for home Faisalabad",
+   "cook required in Faisalabad",
+   "cook near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cooks/multan": {
+  "name": "Cooks in Multan",
+  "type": "Service + City Page",
+  "service": "Cooks",
+  "city": "Multan",
+  "keywords": [
+   "hire cook in Multan",
+   "home cook Multan",
+   "verified cook Multan",
+   "cook service Multan",
+   "cook provider Multan",
+   "cook for home Multan",
+   "cook required in Multan",
+   "cook near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cooks/peshawar": {
+  "name": "Cooks in Peshawar",
+  "type": "Service + City Page",
+  "service": "Cooks",
+  "city": "Peshawar",
+  "keywords": [
+   "hire cook in Peshawar",
+   "home cook Peshawar",
+   "verified cook Peshawar",
+   "cook service Peshawar",
+   "cook provider Peshawar",
+   "cook for home Peshawar",
+   "cook required in Peshawar",
+   "cook near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cooks/gujranwala": {
+  "name": "Cooks in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Cooks",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire cook in Gujranwala",
+   "home cook Gujranwala",
+   "verified cook Gujranwala",
+   "cook service Gujranwala",
+   "cook provider Gujranwala",
+   "cook for home Gujranwala",
+   "cook required in Gujranwala",
+   "cook near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/chefs/islamabad": {
+  "name": "Chefs in Islamabad",
+  "type": "Service + City Page",
+  "service": "Chefs",
+  "city": "Islamabad",
+  "keywords": [
+   "hire chef in Islamabad",
+   "private chef Islamabad",
+   "verified chef Islamabad",
+   "chef service Islamabad",
+   "chef provider Islamabad",
+   "home chef Islamabad",
+   "chef required in Islamabad",
+   "chef near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/chefs/rawalpindi": {
+  "name": "Chefs in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Chefs",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire chef in Rawalpindi",
+   "private chef Rawalpindi",
+   "verified chef Rawalpindi",
+   "chef service Rawalpindi",
+   "chef provider Rawalpindi",
+   "home chef Rawalpindi",
+   "chef required in Rawalpindi",
+   "chef near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/chefs/lahore": {
+  "name": "Chefs in Lahore",
+  "type": "Service + City Page",
+  "service": "Chefs",
+  "city": "Lahore",
+  "keywords": [
+   "hire chef in Lahore",
+   "private chef Lahore",
+   "verified chef Lahore",
+   "chef service Lahore",
+   "chef provider Lahore",
+   "home chef Lahore",
+   "chef required in Lahore",
+   "chef near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/chefs/karachi": {
+  "name": "Chefs in Karachi",
+  "type": "Service + City Page",
+  "service": "Chefs",
+  "city": "Karachi",
+  "keywords": [
+   "hire chef in Karachi",
+   "private chef Karachi",
+   "verified chef Karachi",
+   "chef service Karachi",
+   "chef provider Karachi",
+   "home chef Karachi",
+   "chef required in Karachi",
+   "chef near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/chefs/faisalabad": {
+  "name": "Chefs in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Chefs",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire chef in Faisalabad",
+   "private chef Faisalabad",
+   "verified chef Faisalabad",
+   "chef service Faisalabad",
+   "chef provider Faisalabad",
+   "home chef Faisalabad",
+   "chef required in Faisalabad",
+   "chef near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/chefs/multan": {
+  "name": "Chefs in Multan",
+  "type": "Service + City Page",
+  "service": "Chefs",
+  "city": "Multan",
+  "keywords": [
+   "hire chef in Multan",
+   "private chef Multan",
+   "verified chef Multan",
+   "chef service Multan",
+   "chef provider Multan",
+   "home chef Multan",
+   "chef required in Multan",
+   "chef near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/chefs/peshawar": {
+  "name": "Chefs in Peshawar",
+  "type": "Service + City Page",
+  "service": "Chefs",
+  "city": "Peshawar",
+  "keywords": [
+   "hire chef in Peshawar",
+   "private chef Peshawar",
+   "verified chef Peshawar",
+   "chef service Peshawar",
+   "chef provider Peshawar",
+   "home chef Peshawar",
+   "chef required in Peshawar",
+   "chef near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/chefs/gujranwala": {
+  "name": "Chefs in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Chefs",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire chef in Gujranwala",
+   "private chef Gujranwala",
+   "verified chef Gujranwala",
+   "chef service Gujranwala",
+   "chef provider Gujranwala",
+   "home chef Gujranwala",
+   "chef required in Gujranwala",
+   "chef near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/drivers/islamabad": {
+  "name": "Drivers in Islamabad",
+  "type": "Service + City Page",
+  "service": "Drivers",
+  "city": "Islamabad",
+  "keywords": [
+   "hire driver in Islamabad",
+   "family driver Islamabad",
+   "verified driver Islamabad",
+   "driver service Islamabad",
+   "driver provider Islamabad",
+   "personal driver Islamabad",
+   "driver required in Islamabad",
+   "driver near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/drivers/rawalpindi": {
+  "name": "Drivers in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Drivers",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire driver in Rawalpindi",
+   "family driver Rawalpindi",
+   "verified driver Rawalpindi",
+   "driver service Rawalpindi",
+   "driver provider Rawalpindi",
+   "personal driver Rawalpindi",
+   "driver required in Rawalpindi",
+   "driver near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/drivers/lahore": {
+  "name": "Drivers in Lahore",
+  "type": "Service + City Page",
+  "service": "Drivers",
+  "city": "Lahore",
+  "keywords": [
+   "hire driver in Lahore",
+   "family driver Lahore",
+   "verified driver Lahore",
+   "driver service Lahore",
+   "driver provider Lahore",
+   "personal driver Lahore",
+   "driver required in Lahore",
+   "driver near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/drivers/karachi": {
+  "name": "Drivers in Karachi",
+  "type": "Service + City Page",
+  "service": "Drivers",
+  "city": "Karachi",
+  "keywords": [
+   "hire driver in Karachi",
+   "family driver Karachi",
+   "verified driver Karachi",
+   "driver service Karachi",
+   "driver provider Karachi",
+   "personal driver Karachi",
+   "driver required in Karachi",
+   "driver near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/drivers/faisalabad": {
+  "name": "Drivers in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Drivers",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire driver in Faisalabad",
+   "family driver Faisalabad",
+   "verified driver Faisalabad",
+   "driver service Faisalabad",
+   "driver provider Faisalabad",
+   "personal driver Faisalabad",
+   "driver required in Faisalabad",
+   "driver near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/drivers/multan": {
+  "name": "Drivers in Multan",
+  "type": "Service + City Page",
+  "service": "Drivers",
+  "city": "Multan",
+  "keywords": [
+   "hire driver in Multan",
+   "family driver Multan",
+   "verified driver Multan",
+   "driver service Multan",
+   "driver provider Multan",
+   "personal driver Multan",
+   "driver required in Multan",
+   "driver near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/drivers/peshawar": {
+  "name": "Drivers in Peshawar",
+  "type": "Service + City Page",
+  "service": "Drivers",
+  "city": "Peshawar",
+  "keywords": [
+   "hire driver in Peshawar",
+   "family driver Peshawar",
+   "verified driver Peshawar",
+   "driver service Peshawar",
+   "driver provider Peshawar",
+   "personal driver Peshawar",
+   "driver required in Peshawar",
+   "driver near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/drivers/gujranwala": {
+  "name": "Drivers in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Drivers",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire driver in Gujranwala",
+   "family driver Gujranwala",
+   "verified driver Gujranwala",
+   "driver service Gujranwala",
+   "driver provider Gujranwala",
+   "personal driver Gujranwala",
+   "driver required in Gujranwala",
+   "driver near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/maids/islamabad": {
+  "name": "Maids in Islamabad",
+  "type": "Service + City Page",
+  "service": "Maids",
+  "city": "Islamabad",
+  "keywords": [
+   "hire maid in Islamabad",
+   "house maid Islamabad",
+   "verified maid Islamabad",
+   "maid service Islamabad",
+   "maid provider Islamabad",
+   "home maid Islamabad",
+   "maid required in Islamabad",
+   "maid near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/maids/rawalpindi": {
+  "name": "Maids in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Maids",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire maid in Rawalpindi",
+   "house maid Rawalpindi",
+   "verified maid Rawalpindi",
+   "maid service Rawalpindi",
+   "maid provider Rawalpindi",
+   "home maid Rawalpindi",
+   "maid required in Rawalpindi",
+   "maid near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/maids/lahore": {
+  "name": "Maids in Lahore",
+  "type": "Service + City Page",
+  "service": "Maids",
+  "city": "Lahore",
+  "keywords": [
+   "hire maid in Lahore",
+   "house maid Lahore",
+   "verified maid Lahore",
+   "maid service Lahore",
+   "maid provider Lahore",
+   "home maid Lahore",
+   "maid required in Lahore",
+   "maid near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/maids/karachi": {
+  "name": "Maids in Karachi",
+  "type": "Service + City Page",
+  "service": "Maids",
+  "city": "Karachi",
+  "keywords": [
+   "hire maid in Karachi",
+   "house maid Karachi",
+   "verified maid Karachi",
+   "maid service Karachi",
+   "maid provider Karachi",
+   "home maid Karachi",
+   "maid required in Karachi",
+   "maid near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/maids/faisalabad": {
+  "name": "Maids in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Maids",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire maid in Faisalabad",
+   "house maid Faisalabad",
+   "verified maid Faisalabad",
+   "maid service Faisalabad",
+   "maid provider Faisalabad",
+   "home maid Faisalabad",
+   "maid required in Faisalabad",
+   "maid near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/maids/multan": {
+  "name": "Maids in Multan",
+  "type": "Service + City Page",
+  "service": "Maids",
+  "city": "Multan",
+  "keywords": [
+   "hire maid in Multan",
+   "house maid Multan",
+   "verified maid Multan",
+   "maid service Multan",
+   "maid provider Multan",
+   "home maid Multan",
+   "maid required in Multan",
+   "maid near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/maids/peshawar": {
+  "name": "Maids in Peshawar",
+  "type": "Service + City Page",
+  "service": "Maids",
+  "city": "Peshawar",
+  "keywords": [
+   "hire maid in Peshawar",
+   "house maid Peshawar",
+   "verified maid Peshawar",
+   "maid service Peshawar",
+   "maid provider Peshawar",
+   "home maid Peshawar",
+   "maid required in Peshawar",
+   "maid near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/maids/gujranwala": {
+  "name": "Maids in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Maids",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire maid in Gujranwala",
+   "house maid Gujranwala",
+   "verified maid Gujranwala",
+   "maid service Gujranwala",
+   "maid provider Gujranwala",
+   "home maid Gujranwala",
+   "maid required in Gujranwala",
+   "maid near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/helpers/islamabad": {
+  "name": "Helpers in Islamabad",
+  "type": "Service + City Page",
+  "service": "Helpers",
+  "city": "Islamabad",
+  "keywords": [
+   "hire helper in Islamabad",
+   "domestic helper Islamabad",
+   "verified helper Islamabad",
+   "helper service Islamabad",
+   "helper provider Islamabad",
+   "home helper Islamabad",
+   "helper required in Islamabad",
+   "helper near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/helpers/rawalpindi": {
+  "name": "Helpers in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Helpers",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire helper in Rawalpindi",
+   "domestic helper Rawalpindi",
+   "verified helper Rawalpindi",
+   "helper service Rawalpindi",
+   "helper provider Rawalpindi",
+   "home helper Rawalpindi",
+   "helper required in Rawalpindi",
+   "helper near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/helpers/lahore": {
+  "name": "Helpers in Lahore",
+  "type": "Service + City Page",
+  "service": "Helpers",
+  "city": "Lahore",
+  "keywords": [
+   "hire helper in Lahore",
+   "domestic helper Lahore",
+   "verified helper Lahore",
+   "helper service Lahore",
+   "helper provider Lahore",
+   "home helper Lahore",
+   "helper required in Lahore",
+   "helper near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/helpers/karachi": {
+  "name": "Helpers in Karachi",
+  "type": "Service + City Page",
+  "service": "Helpers",
+  "city": "Karachi",
+  "keywords": [
+   "hire helper in Karachi",
+   "domestic helper Karachi",
+   "verified helper Karachi",
+   "helper service Karachi",
+   "helper provider Karachi",
+   "home helper Karachi",
+   "helper required in Karachi",
+   "helper near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/helpers/faisalabad": {
+  "name": "Helpers in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Helpers",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire helper in Faisalabad",
+   "domestic helper Faisalabad",
+   "verified helper Faisalabad",
+   "helper service Faisalabad",
+   "helper provider Faisalabad",
+   "home helper Faisalabad",
+   "helper required in Faisalabad",
+   "helper near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/helpers/multan": {
+  "name": "Helpers in Multan",
+  "type": "Service + City Page",
+  "service": "Helpers",
+  "city": "Multan",
+  "keywords": [
+   "hire helper in Multan",
+   "domestic helper Multan",
+   "verified helper Multan",
+   "helper service Multan",
+   "helper provider Multan",
+   "home helper Multan",
+   "helper required in Multan",
+   "helper near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/helpers/peshawar": {
+  "name": "Helpers in Peshawar",
+  "type": "Service + City Page",
+  "service": "Helpers",
+  "city": "Peshawar",
+  "keywords": [
+   "hire helper in Peshawar",
+   "domestic helper Peshawar",
+   "verified helper Peshawar",
+   "helper service Peshawar",
+   "helper provider Peshawar",
+   "home helper Peshawar",
+   "helper required in Peshawar",
+   "helper near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/helpers/gujranwala": {
+  "name": "Helpers in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Helpers",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire helper in Gujranwala",
+   "domestic helper Gujranwala",
+   "verified helper Gujranwala",
+   "helper service Gujranwala",
+   "helper provider Gujranwala",
+   "home helper Gujranwala",
+   "helper required in Gujranwala",
+   "helper near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cleaners/islamabad": {
+  "name": "Cleaners in Islamabad",
+  "type": "Service + City Page",
+  "service": "Cleaners",
+  "city": "Islamabad",
+  "keywords": [
+   "hire cleaner in Islamabad",
+   "home cleaner Islamabad",
+   "verified cleaner Islamabad",
+   "cleaner service Islamabad",
+   "cleaner provider Islamabad",
+   "house cleaner Islamabad",
+   "cleaner required in Islamabad",
+   "cleaner near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cleaners/rawalpindi": {
+  "name": "Cleaners in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Cleaners",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire cleaner in Rawalpindi",
+   "home cleaner Rawalpindi",
+   "verified cleaner Rawalpindi",
+   "cleaner service Rawalpindi",
+   "cleaner provider Rawalpindi",
+   "house cleaner Rawalpindi",
+   "cleaner required in Rawalpindi",
+   "cleaner near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cleaners/lahore": {
+  "name": "Cleaners in Lahore",
+  "type": "Service + City Page",
+  "service": "Cleaners",
+  "city": "Lahore",
+  "keywords": [
+   "hire cleaner in Lahore",
+   "home cleaner Lahore",
+   "verified cleaner Lahore",
+   "cleaner service Lahore",
+   "cleaner provider Lahore",
+   "house cleaner Lahore",
+   "cleaner required in Lahore",
+   "cleaner near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cleaners/karachi": {
+  "name": "Cleaners in Karachi",
+  "type": "Service + City Page",
+  "service": "Cleaners",
+  "city": "Karachi",
+  "keywords": [
+   "hire cleaner in Karachi",
+   "home cleaner Karachi",
+   "verified cleaner Karachi",
+   "cleaner service Karachi",
+   "cleaner provider Karachi",
+   "house cleaner Karachi",
+   "cleaner required in Karachi",
+   "cleaner near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cleaners/faisalabad": {
+  "name": "Cleaners in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Cleaners",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire cleaner in Faisalabad",
+   "home cleaner Faisalabad",
+   "verified cleaner Faisalabad",
+   "cleaner service Faisalabad",
+   "cleaner provider Faisalabad",
+   "house cleaner Faisalabad",
+   "cleaner required in Faisalabad",
+   "cleaner near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cleaners/multan": {
+  "name": "Cleaners in Multan",
+  "type": "Service + City Page",
+  "service": "Cleaners",
+  "city": "Multan",
+  "keywords": [
+   "hire cleaner in Multan",
+   "home cleaner Multan",
+   "verified cleaner Multan",
+   "cleaner service Multan",
+   "cleaner provider Multan",
+   "house cleaner Multan",
+   "cleaner required in Multan",
+   "cleaner near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cleaners/peshawar": {
+  "name": "Cleaners in Peshawar",
+  "type": "Service + City Page",
+  "service": "Cleaners",
+  "city": "Peshawar",
+  "keywords": [
+   "hire cleaner in Peshawar",
+   "home cleaner Peshawar",
+   "verified cleaner Peshawar",
+   "cleaner service Peshawar",
+   "cleaner provider Peshawar",
+   "house cleaner Peshawar",
+   "cleaner required in Peshawar",
+   "cleaner near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/cleaners/gujranwala": {
+  "name": "Cleaners in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Cleaners",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire cleaner in Gujranwala",
+   "home cleaner Gujranwala",
+   "verified cleaner Gujranwala",
+   "cleaner service Gujranwala",
+   "cleaner provider Gujranwala",
+   "house cleaner Gujranwala",
+   "cleaner required in Gujranwala",
+   "cleaner near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/security-guards/islamabad": {
+  "name": "Security Guards in Islamabad",
+  "type": "Service + City Page",
+  "service": "Security Guards",
+  "city": "Islamabad",
+  "keywords": [
+   "hire security guard in Islamabad",
+   "home security guard Islamabad",
+   "verified security guard Islamabad",
+   "security guard service Islamabad",
+   "security guard provider Islamabad",
+   "private security guard Islamabad",
+   "security guard required in Islamabad",
+   "security guard near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/security-guards/rawalpindi": {
+  "name": "Security Guards in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Security Guards",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire security guard in Rawalpindi",
+   "home security guard Rawalpindi",
+   "verified security guard Rawalpindi",
+   "security guard service Rawalpindi",
+   "security guard provider Rawalpindi",
+   "private security guard Rawalpindi",
+   "security guard required in Rawalpindi",
+   "security guard near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/security-guards/lahore": {
+  "name": "Security Guards in Lahore",
+  "type": "Service + City Page",
+  "service": "Security Guards",
+  "city": "Lahore",
+  "keywords": [
+   "hire security guard in Lahore",
+   "home security guard Lahore",
+   "verified security guard Lahore",
+   "security guard service Lahore",
+   "security guard provider Lahore",
+   "private security guard Lahore",
+   "security guard required in Lahore",
+   "security guard near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/security-guards/karachi": {
+  "name": "Security Guards in Karachi",
+  "type": "Service + City Page",
+  "service": "Security Guards",
+  "city": "Karachi",
+  "keywords": [
+   "hire security guard in Karachi",
+   "home security guard Karachi",
+   "verified security guard Karachi",
+   "security guard service Karachi",
+   "security guard provider Karachi",
+   "private security guard Karachi",
+   "security guard required in Karachi",
+   "security guard near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/security-guards/faisalabad": {
+  "name": "Security Guards in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Security Guards",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire security guard in Faisalabad",
+   "home security guard Faisalabad",
+   "verified security guard Faisalabad",
+   "security guard service Faisalabad",
+   "security guard provider Faisalabad",
+   "private security guard Faisalabad",
+   "security guard required in Faisalabad",
+   "security guard near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/security-guards/multan": {
+  "name": "Security Guards in Multan",
+  "type": "Service + City Page",
+  "service": "Security Guards",
+  "city": "Multan",
+  "keywords": [
+   "hire security guard in Multan",
+   "home security guard Multan",
+   "verified security guard Multan",
+   "security guard service Multan",
+   "security guard provider Multan",
+   "private security guard Multan",
+   "security guard required in Multan",
+   "security guard near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/security-guards/peshawar": {
+  "name": "Security Guards in Peshawar",
+  "type": "Service + City Page",
+  "service": "Security Guards",
+  "city": "Peshawar",
+  "keywords": [
+   "hire security guard in Peshawar",
+   "home security guard Peshawar",
+   "verified security guard Peshawar",
+   "security guard service Peshawar",
+   "security guard provider Peshawar",
+   "private security guard Peshawar",
+   "security guard required in Peshawar",
+   "security guard near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/security-guards/gujranwala": {
+  "name": "Security Guards in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Security Guards",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire security guard in Gujranwala",
+   "home security guard Gujranwala",
+   "verified security guard Gujranwala",
+   "security guard service Gujranwala",
+   "security guard provider Gujranwala",
+   "private security guard Gujranwala",
+   "security guard required in Gujranwala",
+   "security guard near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/office-boys/islamabad": {
+  "name": "Office Boys in Islamabad",
+  "type": "Service + City Page",
+  "service": "Office Boys",
+  "city": "Islamabad",
+  "keywords": [
+   "hire office boy in Islamabad",
+   "office helper Islamabad",
+   "verified office boy Islamabad",
+   "office boy service Islamabad",
+   "office boy provider Islamabad",
+   "office support staff Islamabad",
+   "office boy required in Islamabad",
+   "office boy near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/office-boys/rawalpindi": {
+  "name": "Office Boys in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Office Boys",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire office boy in Rawalpindi",
+   "office helper Rawalpindi",
+   "verified office boy Rawalpindi",
+   "office boy service Rawalpindi",
+   "office boy provider Rawalpindi",
+   "office support staff Rawalpindi",
+   "office boy required in Rawalpindi",
+   "office boy near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/office-boys/lahore": {
+  "name": "Office Boys in Lahore",
+  "type": "Service + City Page",
+  "service": "Office Boys",
+  "city": "Lahore",
+  "keywords": [
+   "hire office boy in Lahore",
+   "office helper Lahore",
+   "verified office boy Lahore",
+   "office boy service Lahore",
+   "office boy provider Lahore",
+   "office support staff Lahore",
+   "office boy required in Lahore",
+   "office boy near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/office-boys/karachi": {
+  "name": "Office Boys in Karachi",
+  "type": "Service + City Page",
+  "service": "Office Boys",
+  "city": "Karachi",
+  "keywords": [
+   "hire office boy in Karachi",
+   "office helper Karachi",
+   "verified office boy Karachi",
+   "office boy service Karachi",
+   "office boy provider Karachi",
+   "office support staff Karachi",
+   "office boy required in Karachi",
+   "office boy near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/office-boys/faisalabad": {
+  "name": "Office Boys in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Office Boys",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire office boy in Faisalabad",
+   "office helper Faisalabad",
+   "verified office boy Faisalabad",
+   "office boy service Faisalabad",
+   "office boy provider Faisalabad",
+   "office support staff Faisalabad",
+   "office boy required in Faisalabad",
+   "office boy near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/office-boys/multan": {
+  "name": "Office Boys in Multan",
+  "type": "Service + City Page",
+  "service": "Office Boys",
+  "city": "Multan",
+  "keywords": [
+   "hire office boy in Multan",
+   "office helper Multan",
+   "verified office boy Multan",
+   "office boy service Multan",
+   "office boy provider Multan",
+   "office support staff Multan",
+   "office boy required in Multan",
+   "office boy near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/office-boys/peshawar": {
+  "name": "Office Boys in Peshawar",
+  "type": "Service + City Page",
+  "service": "Office Boys",
+  "city": "Peshawar",
+  "keywords": [
+   "hire office boy in Peshawar",
+   "office helper Peshawar",
+   "verified office boy Peshawar",
+   "office boy service Peshawar",
+   "office boy provider Peshawar",
+   "office support staff Peshawar",
+   "office boy required in Peshawar",
+   "office boy near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/office-boys/gujranwala": {
+  "name": "Office Boys in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Office Boys",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire office boy in Gujranwala",
+   "office helper Gujranwala",
+   "verified office boy Gujranwala",
+   "office boy service Gujranwala",
+   "office boy provider Gujranwala",
+   "office support staff Gujranwala",
+   "office boy required in Gujranwala",
+   "office boy near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/babysitters-nannies/islamabad": {
+  "name": "Babysitters & Nannies in Islamabad",
+  "type": "Service + City Page",
+  "service": "Babysitters & Nannies",
+  "city": "Islamabad",
+  "keywords": [
+   "hire nanny in Islamabad",
+   "babysitter Islamabad",
+   "verified nanny Islamabad",
+   "nanny service Islamabad",
+   "nanny provider Islamabad",
+   "baby sitter Islamabad",
+   "nanny required in Islamabad",
+   "nanny near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/babysitters-nannies/rawalpindi": {
+  "name": "Babysitters & Nannies in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Babysitters & Nannies",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire nanny in Rawalpindi",
+   "babysitter Rawalpindi",
+   "verified nanny Rawalpindi",
+   "nanny service Rawalpindi",
+   "nanny provider Rawalpindi",
+   "baby sitter Rawalpindi",
+   "nanny required in Rawalpindi",
+   "nanny near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/babysitters-nannies/lahore": {
+  "name": "Babysitters & Nannies in Lahore",
+  "type": "Service + City Page",
+  "service": "Babysitters & Nannies",
+  "city": "Lahore",
+  "keywords": [
+   "hire nanny in Lahore",
+   "babysitter Lahore",
+   "verified nanny Lahore",
+   "nanny service Lahore",
+   "nanny provider Lahore",
+   "baby sitter Lahore",
+   "nanny required in Lahore",
+   "nanny near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/babysitters-nannies/karachi": {
+  "name": "Babysitters & Nannies in Karachi",
+  "type": "Service + City Page",
+  "service": "Babysitters & Nannies",
+  "city": "Karachi",
+  "keywords": [
+   "hire nanny in Karachi",
+   "babysitter Karachi",
+   "verified nanny Karachi",
+   "nanny service Karachi",
+   "nanny provider Karachi",
+   "baby sitter Karachi",
+   "nanny required in Karachi",
+   "nanny near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/babysitters-nannies/faisalabad": {
+  "name": "Babysitters & Nannies in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Babysitters & Nannies",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire nanny in Faisalabad",
+   "babysitter Faisalabad",
+   "verified nanny Faisalabad",
+   "nanny service Faisalabad",
+   "nanny provider Faisalabad",
+   "baby sitter Faisalabad",
+   "nanny required in Faisalabad",
+   "nanny near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/babysitters-nannies/multan": {
+  "name": "Babysitters & Nannies in Multan",
+  "type": "Service + City Page",
+  "service": "Babysitters & Nannies",
+  "city": "Multan",
+  "keywords": [
+   "hire nanny in Multan",
+   "babysitter Multan",
+   "verified nanny Multan",
+   "nanny service Multan",
+   "nanny provider Multan",
+   "baby sitter Multan",
+   "nanny required in Multan",
+   "nanny near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/babysitters-nannies/peshawar": {
+  "name": "Babysitters & Nannies in Peshawar",
+  "type": "Service + City Page",
+  "service": "Babysitters & Nannies",
+  "city": "Peshawar",
+  "keywords": [
+   "hire nanny in Peshawar",
+   "babysitter Peshawar",
+   "verified nanny Peshawar",
+   "nanny service Peshawar",
+   "nanny provider Peshawar",
+   "baby sitter Peshawar",
+   "nanny required in Peshawar",
+   "nanny near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/babysitters-nannies/gujranwala": {
+  "name": "Babysitters & Nannies in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Babysitters & Nannies",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire nanny in Gujranwala",
+   "babysitter Gujranwala",
+   "verified nanny Gujranwala",
+   "nanny service Gujranwala",
+   "nanny provider Gujranwala",
+   "baby sitter Gujranwala",
+   "nanny required in Gujranwala",
+   "nanny near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/gardeners/islamabad": {
+  "name": "Gardeners in Islamabad",
+  "type": "Service + City Page",
+  "service": "Gardeners",
+  "city": "Islamabad",
+  "keywords": [
+   "hire gardener in Islamabad",
+   "mali Islamabad",
+   "verified gardener Islamabad",
+   "gardener service Islamabad",
+   "gardener provider Islamabad",
+   "home gardener Islamabad",
+   "gardener required in Islamabad",
+   "gardener near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/gardeners/rawalpindi": {
+  "name": "Gardeners in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Gardeners",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire gardener in Rawalpindi",
+   "mali Rawalpindi",
+   "verified gardener Rawalpindi",
+   "gardener service Rawalpindi",
+   "gardener provider Rawalpindi",
+   "home gardener Rawalpindi",
+   "gardener required in Rawalpindi",
+   "gardener near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/gardeners/lahore": {
+  "name": "Gardeners in Lahore",
+  "type": "Service + City Page",
+  "service": "Gardeners",
+  "city": "Lahore",
+  "keywords": [
+   "hire gardener in Lahore",
+   "mali Lahore",
+   "verified gardener Lahore",
+   "gardener service Lahore",
+   "gardener provider Lahore",
+   "home gardener Lahore",
+   "gardener required in Lahore",
+   "gardener near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/gardeners/karachi": {
+  "name": "Gardeners in Karachi",
+  "type": "Service + City Page",
+  "service": "Gardeners",
+  "city": "Karachi",
+  "keywords": [
+   "hire gardener in Karachi",
+   "mali Karachi",
+   "verified gardener Karachi",
+   "gardener service Karachi",
+   "gardener provider Karachi",
+   "home gardener Karachi",
+   "gardener required in Karachi",
+   "gardener near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/gardeners/faisalabad": {
+  "name": "Gardeners in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Gardeners",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire gardener in Faisalabad",
+   "mali Faisalabad",
+   "verified gardener Faisalabad",
+   "gardener service Faisalabad",
+   "gardener provider Faisalabad",
+   "home gardener Faisalabad",
+   "gardener required in Faisalabad",
+   "gardener near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/gardeners/multan": {
+  "name": "Gardeners in Multan",
+  "type": "Service + City Page",
+  "service": "Gardeners",
+  "city": "Multan",
+  "keywords": [
+   "hire gardener in Multan",
+   "mali Multan",
+   "verified gardener Multan",
+   "gardener service Multan",
+   "gardener provider Multan",
+   "home gardener Multan",
+   "gardener required in Multan",
+   "gardener near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/gardeners/peshawar": {
+  "name": "Gardeners in Peshawar",
+  "type": "Service + City Page",
+  "service": "Gardeners",
+  "city": "Peshawar",
+  "keywords": [
+   "hire gardener in Peshawar",
+   "mali Peshawar",
+   "verified gardener Peshawar",
+   "gardener service Peshawar",
+   "gardener provider Peshawar",
+   "home gardener Peshawar",
+   "gardener required in Peshawar",
+   "gardener near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/gardeners/gujranwala": {
+  "name": "Gardeners in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Gardeners",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire gardener in Gujranwala",
+   "mali Gujranwala",
+   "verified gardener Gujranwala",
+   "gardener service Gujranwala",
+   "gardener provider Gujranwala",
+   "home gardener Gujranwala",
+   "gardener required in Gujranwala",
+   "gardener near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/nurses/islamabad": {
+  "name": "Nurses in Islamabad",
+  "type": "Service + City Page",
+  "service": "Nurses",
+  "city": "Islamabad",
+  "keywords": [
+   "hire home nurse in Islamabad",
+   "private nurse Islamabad",
+   "verified home nurse Islamabad",
+   "home nurse service Islamabad",
+   "home nurse provider Islamabad",
+   "patient care nurse Islamabad",
+   "home nurse required in Islamabad",
+   "home nurse near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/nurses/rawalpindi": {
+  "name": "Nurses in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Nurses",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire home nurse in Rawalpindi",
+   "private nurse Rawalpindi",
+   "verified home nurse Rawalpindi",
+   "home nurse service Rawalpindi",
+   "home nurse provider Rawalpindi",
+   "patient care nurse Rawalpindi",
+   "home nurse required in Rawalpindi",
+   "home nurse near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/nurses/lahore": {
+  "name": "Nurses in Lahore",
+  "type": "Service + City Page",
+  "service": "Nurses",
+  "city": "Lahore",
+  "keywords": [
+   "hire home nurse in Lahore",
+   "private nurse Lahore",
+   "verified home nurse Lahore",
+   "home nurse service Lahore",
+   "home nurse provider Lahore",
+   "patient care nurse Lahore",
+   "home nurse required in Lahore",
+   "home nurse near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/nurses/karachi": {
+  "name": "Nurses in Karachi",
+  "type": "Service + City Page",
+  "service": "Nurses",
+  "city": "Karachi",
+  "keywords": [
+   "hire home nurse in Karachi",
+   "private nurse Karachi",
+   "verified home nurse Karachi",
+   "home nurse service Karachi",
+   "home nurse provider Karachi",
+   "patient care nurse Karachi",
+   "home nurse required in Karachi",
+   "home nurse near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/nurses/faisalabad": {
+  "name": "Nurses in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Nurses",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire home nurse in Faisalabad",
+   "private nurse Faisalabad",
+   "verified home nurse Faisalabad",
+   "home nurse service Faisalabad",
+   "home nurse provider Faisalabad",
+   "patient care nurse Faisalabad",
+   "home nurse required in Faisalabad",
+   "home nurse near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/nurses/multan": {
+  "name": "Nurses in Multan",
+  "type": "Service + City Page",
+  "service": "Nurses",
+  "city": "Multan",
+  "keywords": [
+   "hire home nurse in Multan",
+   "private nurse Multan",
+   "verified home nurse Multan",
+   "home nurse service Multan",
+   "home nurse provider Multan",
+   "patient care nurse Multan",
+   "home nurse required in Multan",
+   "home nurse near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/nurses/peshawar": {
+  "name": "Nurses in Peshawar",
+  "type": "Service + City Page",
+  "service": "Nurses",
+  "city": "Peshawar",
+  "keywords": [
+   "hire home nurse in Peshawar",
+   "private nurse Peshawar",
+   "verified home nurse Peshawar",
+   "home nurse service Peshawar",
+   "home nurse provider Peshawar",
+   "patient care nurse Peshawar",
+   "home nurse required in Peshawar",
+   "home nurse near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/nurses/gujranwala": {
+  "name": "Nurses in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Nurses",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire home nurse in Gujranwala",
+   "private nurse Gujranwala",
+   "verified home nurse Gujranwala",
+   "home nurse service Gujranwala",
+   "home nurse provider Gujranwala",
+   "patient care nurse Gujranwala",
+   "home nurse required in Gujranwala",
+   "home nurse near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/caretakers/islamabad": {
+  "name": "Caretakers in Islamabad",
+  "type": "Service + City Page",
+  "service": "Caretakers",
+  "city": "Islamabad",
+  "keywords": [
+   "hire caretaker in Islamabad",
+   "elderly caretaker Islamabad",
+   "verified caretaker Islamabad",
+   "caretaker service Islamabad",
+   "caretaker provider Islamabad",
+   "patient caretaker Islamabad",
+   "caretaker required in Islamabad",
+   "caretaker near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/caretakers/rawalpindi": {
+  "name": "Caretakers in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Caretakers",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire caretaker in Rawalpindi",
+   "elderly caretaker Rawalpindi",
+   "verified caretaker Rawalpindi",
+   "caretaker service Rawalpindi",
+   "caretaker provider Rawalpindi",
+   "patient caretaker Rawalpindi",
+   "caretaker required in Rawalpindi",
+   "caretaker near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/caretakers/lahore": {
+  "name": "Caretakers in Lahore",
+  "type": "Service + City Page",
+  "service": "Caretakers",
+  "city": "Lahore",
+  "keywords": [
+   "hire caretaker in Lahore",
+   "elderly caretaker Lahore",
+   "verified caretaker Lahore",
+   "caretaker service Lahore",
+   "caretaker provider Lahore",
+   "patient caretaker Lahore",
+   "caretaker required in Lahore",
+   "caretaker near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/caretakers/karachi": {
+  "name": "Caretakers in Karachi",
+  "type": "Service + City Page",
+  "service": "Caretakers",
+  "city": "Karachi",
+  "keywords": [
+   "hire caretaker in Karachi",
+   "elderly caretaker Karachi",
+   "verified caretaker Karachi",
+   "caretaker service Karachi",
+   "caretaker provider Karachi",
+   "patient caretaker Karachi",
+   "caretaker required in Karachi",
+   "caretaker near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/caretakers/faisalabad": {
+  "name": "Caretakers in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Caretakers",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire caretaker in Faisalabad",
+   "elderly caretaker Faisalabad",
+   "verified caretaker Faisalabad",
+   "caretaker service Faisalabad",
+   "caretaker provider Faisalabad",
+   "patient caretaker Faisalabad",
+   "caretaker required in Faisalabad",
+   "caretaker near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/caretakers/multan": {
+  "name": "Caretakers in Multan",
+  "type": "Service + City Page",
+  "service": "Caretakers",
+  "city": "Multan",
+  "keywords": [
+   "hire caretaker in Multan",
+   "elderly caretaker Multan",
+   "verified caretaker Multan",
+   "caretaker service Multan",
+   "caretaker provider Multan",
+   "patient caretaker Multan",
+   "caretaker required in Multan",
+   "caretaker near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/caretakers/peshawar": {
+  "name": "Caretakers in Peshawar",
+  "type": "Service + City Page",
+  "service": "Caretakers",
+  "city": "Peshawar",
+  "keywords": [
+   "hire caretaker in Peshawar",
+   "elderly caretaker Peshawar",
+   "verified caretaker Peshawar",
+   "caretaker service Peshawar",
+   "caretaker provider Peshawar",
+   "patient caretaker Peshawar",
+   "caretaker required in Peshawar",
+   "caretaker near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/caretakers/gujranwala": {
+  "name": "Caretakers in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Caretakers",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire caretaker in Gujranwala",
+   "elderly caretaker Gujranwala",
+   "verified caretaker Gujranwala",
+   "caretaker service Gujranwala",
+   "caretaker provider Gujranwala",
+   "patient caretaker Gujranwala",
+   "caretaker required in Gujranwala",
+   "caretaker near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/couples/islamabad": {
+  "name": "Domestic Couples in Islamabad",
+  "type": "Service + City Page",
+  "service": "Domestic Couples",
+  "city": "Islamabad",
+  "keywords": [
+   "hire domestic couple in Islamabad",
+   "husband wife staff Islamabad",
+   "verified domestic couple Islamabad",
+   "domestic couple service Islamabad",
+   "domestic couple provider Islamabad",
+   "live in domestic couple Islamabad",
+   "domestic couple required in Islamabad",
+   "domestic couple near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/couples/rawalpindi": {
+  "name": "Domestic Couples in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Domestic Couples",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire domestic couple in Rawalpindi",
+   "husband wife staff Rawalpindi",
+   "verified domestic couple Rawalpindi",
+   "domestic couple service Rawalpindi",
+   "domestic couple provider Rawalpindi",
+   "live in domestic couple Rawalpindi",
+   "domestic couple required in Rawalpindi",
+   "domestic couple near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/couples/lahore": {
+  "name": "Domestic Couples in Lahore",
+  "type": "Service + City Page",
+  "service": "Domestic Couples",
+  "city": "Lahore",
+  "keywords": [
+   "hire domestic couple in Lahore",
+   "husband wife staff Lahore",
+   "verified domestic couple Lahore",
+   "domestic couple service Lahore",
+   "domestic couple provider Lahore",
+   "live in domestic couple Lahore",
+   "domestic couple required in Lahore",
+   "domestic couple near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/couples/karachi": {
+  "name": "Domestic Couples in Karachi",
+  "type": "Service + City Page",
+  "service": "Domestic Couples",
+  "city": "Karachi",
+  "keywords": [
+   "hire domestic couple in Karachi",
+   "husband wife staff Karachi",
+   "verified domestic couple Karachi",
+   "domestic couple service Karachi",
+   "domestic couple provider Karachi",
+   "live in domestic couple Karachi",
+   "domestic couple required in Karachi",
+   "domestic couple near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/couples/faisalabad": {
+  "name": "Domestic Couples in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Domestic Couples",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire domestic couple in Faisalabad",
+   "husband wife staff Faisalabad",
+   "verified domestic couple Faisalabad",
+   "domestic couple service Faisalabad",
+   "domestic couple provider Faisalabad",
+   "live in domestic couple Faisalabad",
+   "domestic couple required in Faisalabad",
+   "domestic couple near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/couples/multan": {
+  "name": "Domestic Couples in Multan",
+  "type": "Service + City Page",
+  "service": "Domestic Couples",
+  "city": "Multan",
+  "keywords": [
+   "hire domestic couple in Multan",
+   "husband wife staff Multan",
+   "verified domestic couple Multan",
+   "domestic couple service Multan",
+   "domestic couple provider Multan",
+   "live in domestic couple Multan",
+   "domestic couple required in Multan",
+   "domestic couple near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/couples/peshawar": {
+  "name": "Domestic Couples in Peshawar",
+  "type": "Service + City Page",
+  "service": "Domestic Couples",
+  "city": "Peshawar",
+  "keywords": [
+   "hire domestic couple in Peshawar",
+   "husband wife staff Peshawar",
+   "verified domestic couple Peshawar",
+   "domestic couple service Peshawar",
+   "domestic couple provider Peshawar",
+   "live in domestic couple Peshawar",
+   "domestic couple required in Peshawar",
+   "domestic couple near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/couples/gujranwala": {
+  "name": "Domestic Couples in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Domestic Couples",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire domestic couple in Gujranwala",
+   "husband wife staff Gujranwala",
+   "verified domestic couple Gujranwala",
+   "domestic couple service Gujranwala",
+   "domestic couple provider Gujranwala",
+   "live in domestic couple Gujranwala",
+   "domestic couple required in Gujranwala",
+   "domestic couple near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/batman/islamabad": {
+  "name": "Batman (Personal Attendant) in Islamabad",
+  "type": "Service + City Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Islamabad",
+  "keywords": [
+   "hire personal attendant in Islamabad",
+   "batman for home Islamabad",
+   "verified personal attendant Islamabad",
+   "personal attendant service Islamabad",
+   "personal attendant provider Islamabad",
+   "personal helper Islamabad",
+   "personal attendant required in Islamabad",
+   "personal attendant near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/batman/rawalpindi": {
+  "name": "Batman (Personal Attendant) in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire personal attendant in Rawalpindi",
+   "batman for home Rawalpindi",
+   "verified personal attendant Rawalpindi",
+   "personal attendant service Rawalpindi",
+   "personal attendant provider Rawalpindi",
+   "personal helper Rawalpindi",
+   "personal attendant required in Rawalpindi",
+   "personal attendant near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/batman/lahore": {
+  "name": "Batman (Personal Attendant) in Lahore",
+  "type": "Service + City Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Lahore",
+  "keywords": [
+   "hire personal attendant in Lahore",
+   "batman for home Lahore",
+   "verified personal attendant Lahore",
+   "personal attendant service Lahore",
+   "personal attendant provider Lahore",
+   "personal helper Lahore",
+   "personal attendant required in Lahore",
+   "personal attendant near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/batman/karachi": {
+  "name": "Batman (Personal Attendant) in Karachi",
+  "type": "Service + City Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Karachi",
+  "keywords": [
+   "hire personal attendant in Karachi",
+   "batman for home Karachi",
+   "verified personal attendant Karachi",
+   "personal attendant service Karachi",
+   "personal attendant provider Karachi",
+   "personal helper Karachi",
+   "personal attendant required in Karachi",
+   "personal attendant near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/batman/faisalabad": {
+  "name": "Batman (Personal Attendant) in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire personal attendant in Faisalabad",
+   "batman for home Faisalabad",
+   "verified personal attendant Faisalabad",
+   "personal attendant service Faisalabad",
+   "personal attendant provider Faisalabad",
+   "personal helper Faisalabad",
+   "personal attendant required in Faisalabad",
+   "personal attendant near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/batman/multan": {
+  "name": "Batman (Personal Attendant) in Multan",
+  "type": "Service + City Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Multan",
+  "keywords": [
+   "hire personal attendant in Multan",
+   "batman for home Multan",
+   "verified personal attendant Multan",
+   "personal attendant service Multan",
+   "personal attendant provider Multan",
+   "personal helper Multan",
+   "personal attendant required in Multan",
+   "personal attendant near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/batman/peshawar": {
+  "name": "Batman (Personal Attendant) in Peshawar",
+  "type": "Service + City Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Peshawar",
+  "keywords": [
+   "hire personal attendant in Peshawar",
+   "batman for home Peshawar",
+   "verified personal attendant Peshawar",
+   "personal attendant service Peshawar",
+   "personal attendant provider Peshawar",
+   "personal helper Peshawar",
+   "personal attendant required in Peshawar",
+   "personal attendant near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/batman/gujranwala": {
+  "name": "Batman (Personal Attendant) in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Batman (Personal Attendant)",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire personal attendant in Gujranwala",
+   "batman for home Gujranwala",
+   "verified personal attendant Gujranwala",
+   "personal attendant service Gujranwala",
+   "personal attendant provider Gujranwala",
+   "personal helper Gujranwala",
+   "personal attendant required in Gujranwala",
+   "personal attendant near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/electricians/islamabad": {
+  "name": "Electricians in Islamabad",
+  "type": "Service + City Page",
+  "service": "Electricians",
+  "city": "Islamabad",
+  "keywords": [
+   "hire electrician in Islamabad",
+   "home electrician Islamabad",
+   "verified electrician Islamabad",
+   "electrician service Islamabad",
+   "electrician provider Islamabad",
+   "residential electrician Islamabad",
+   "electrician required in Islamabad",
+   "electrician near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/electricians/rawalpindi": {
+  "name": "Electricians in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Electricians",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire electrician in Rawalpindi",
+   "home electrician Rawalpindi",
+   "verified electrician Rawalpindi",
+   "electrician service Rawalpindi",
+   "electrician provider Rawalpindi",
+   "residential electrician Rawalpindi",
+   "electrician required in Rawalpindi",
+   "electrician near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/electricians/lahore": {
+  "name": "Electricians in Lahore",
+  "type": "Service + City Page",
+  "service": "Electricians",
+  "city": "Lahore",
+  "keywords": [
+   "hire electrician in Lahore",
+   "home electrician Lahore",
+   "verified electrician Lahore",
+   "electrician service Lahore",
+   "electrician provider Lahore",
+   "residential electrician Lahore",
+   "electrician required in Lahore",
+   "electrician near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/electricians/karachi": {
+  "name": "Electricians in Karachi",
+  "type": "Service + City Page",
+  "service": "Electricians",
+  "city": "Karachi",
+  "keywords": [
+   "hire electrician in Karachi",
+   "home electrician Karachi",
+   "verified electrician Karachi",
+   "electrician service Karachi",
+   "electrician provider Karachi",
+   "residential electrician Karachi",
+   "electrician required in Karachi",
+   "electrician near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/electricians/faisalabad": {
+  "name": "Electricians in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Electricians",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire electrician in Faisalabad",
+   "home electrician Faisalabad",
+   "verified electrician Faisalabad",
+   "electrician service Faisalabad",
+   "electrician provider Faisalabad",
+   "residential electrician Faisalabad",
+   "electrician required in Faisalabad",
+   "electrician near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/electricians/multan": {
+  "name": "Electricians in Multan",
+  "type": "Service + City Page",
+  "service": "Electricians",
+  "city": "Multan",
+  "keywords": [
+   "hire electrician in Multan",
+   "home electrician Multan",
+   "verified electrician Multan",
+   "electrician service Multan",
+   "electrician provider Multan",
+   "residential electrician Multan",
+   "electrician required in Multan",
+   "electrician near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/electricians/peshawar": {
+  "name": "Electricians in Peshawar",
+  "type": "Service + City Page",
+  "service": "Electricians",
+  "city": "Peshawar",
+  "keywords": [
+   "hire electrician in Peshawar",
+   "home electrician Peshawar",
+   "verified electrician Peshawar",
+   "electrician service Peshawar",
+   "electrician provider Peshawar",
+   "residential electrician Peshawar",
+   "electrician required in Peshawar",
+   "electrician near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/electricians/gujranwala": {
+  "name": "Electricians in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Electricians",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire electrician in Gujranwala",
+   "home electrician Gujranwala",
+   "verified electrician Gujranwala",
+   "electrician service Gujranwala",
+   "electrician provider Gujranwala",
+   "residential electrician Gujranwala",
+   "electrician required in Gujranwala",
+   "electrician near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/plumbers/islamabad": {
+  "name": "Plumbers in Islamabad",
+  "type": "Service + City Page",
+  "service": "Plumbers",
+  "city": "Islamabad",
+  "keywords": [
+   "hire plumber in Islamabad",
+   "home plumber Islamabad",
+   "verified plumber Islamabad",
+   "plumber service Islamabad",
+   "plumber provider Islamabad",
+   "plumbing service Islamabad",
+   "plumber required in Islamabad",
+   "plumber near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/plumbers/rawalpindi": {
+  "name": "Plumbers in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Plumbers",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire plumber in Rawalpindi",
+   "home plumber Rawalpindi",
+   "verified plumber Rawalpindi",
+   "plumber service Rawalpindi",
+   "plumber provider Rawalpindi",
+   "plumbing service Rawalpindi",
+   "plumber required in Rawalpindi",
+   "plumber near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/plumbers/lahore": {
+  "name": "Plumbers in Lahore",
+  "type": "Service + City Page",
+  "service": "Plumbers",
+  "city": "Lahore",
+  "keywords": [
+   "hire plumber in Lahore",
+   "home plumber Lahore",
+   "verified plumber Lahore",
+   "plumber service Lahore",
+   "plumber provider Lahore",
+   "plumbing service Lahore",
+   "plumber required in Lahore",
+   "plumber near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/plumbers/karachi": {
+  "name": "Plumbers in Karachi",
+  "type": "Service + City Page",
+  "service": "Plumbers",
+  "city": "Karachi",
+  "keywords": [
+   "hire plumber in Karachi",
+   "home plumber Karachi",
+   "verified plumber Karachi",
+   "plumber service Karachi",
+   "plumber provider Karachi",
+   "plumbing service Karachi",
+   "plumber required in Karachi",
+   "plumber near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/plumbers/faisalabad": {
+  "name": "Plumbers in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Plumbers",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire plumber in Faisalabad",
+   "home plumber Faisalabad",
+   "verified plumber Faisalabad",
+   "plumber service Faisalabad",
+   "plumber provider Faisalabad",
+   "plumbing service Faisalabad",
+   "plumber required in Faisalabad",
+   "plumber near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/plumbers/multan": {
+  "name": "Plumbers in Multan",
+  "type": "Service + City Page",
+  "service": "Plumbers",
+  "city": "Multan",
+  "keywords": [
+   "hire plumber in Multan",
+   "home plumber Multan",
+   "verified plumber Multan",
+   "plumber service Multan",
+   "plumber provider Multan",
+   "plumbing service Multan",
+   "plumber required in Multan",
+   "plumber near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/plumbers/peshawar": {
+  "name": "Plumbers in Peshawar",
+  "type": "Service + City Page",
+  "service": "Plumbers",
+  "city": "Peshawar",
+  "keywords": [
+   "hire plumber in Peshawar",
+   "home plumber Peshawar",
+   "verified plumber Peshawar",
+   "plumber service Peshawar",
+   "plumber provider Peshawar",
+   "plumbing service Peshawar",
+   "plumber required in Peshawar",
+   "plumber near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/plumbers/gujranwala": {
+  "name": "Plumbers in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Plumbers",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire plumber in Gujranwala",
+   "home plumber Gujranwala",
+   "verified plumber Gujranwala",
+   "plumber service Gujranwala",
+   "plumber provider Gujranwala",
+   "plumbing service Gujranwala",
+   "plumber required in Gujranwala",
+   "plumber near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/carpenters/islamabad": {
+  "name": "Carpenters in Islamabad",
+  "type": "Service + City Page",
+  "service": "Carpenters",
+  "city": "Islamabad",
+  "keywords": [
+   "hire carpenter in Islamabad",
+   "home carpenter Islamabad",
+   "verified carpenter Islamabad",
+   "carpenter service Islamabad",
+   "carpenter provider Islamabad",
+   "furniture carpenter Islamabad",
+   "carpenter required in Islamabad",
+   "carpenter near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/carpenters/rawalpindi": {
+  "name": "Carpenters in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Carpenters",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire carpenter in Rawalpindi",
+   "home carpenter Rawalpindi",
+   "verified carpenter Rawalpindi",
+   "carpenter service Rawalpindi",
+   "carpenter provider Rawalpindi",
+   "furniture carpenter Rawalpindi",
+   "carpenter required in Rawalpindi",
+   "carpenter near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/carpenters/lahore": {
+  "name": "Carpenters in Lahore",
+  "type": "Service + City Page",
+  "service": "Carpenters",
+  "city": "Lahore",
+  "keywords": [
+   "hire carpenter in Lahore",
+   "home carpenter Lahore",
+   "verified carpenter Lahore",
+   "carpenter service Lahore",
+   "carpenter provider Lahore",
+   "furniture carpenter Lahore",
+   "carpenter required in Lahore",
+   "carpenter near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/carpenters/karachi": {
+  "name": "Carpenters in Karachi",
+  "type": "Service + City Page",
+  "service": "Carpenters",
+  "city": "Karachi",
+  "keywords": [
+   "hire carpenter in Karachi",
+   "home carpenter Karachi",
+   "verified carpenter Karachi",
+   "carpenter service Karachi",
+   "carpenter provider Karachi",
+   "furniture carpenter Karachi",
+   "carpenter required in Karachi",
+   "carpenter near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/carpenters/faisalabad": {
+  "name": "Carpenters in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Carpenters",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire carpenter in Faisalabad",
+   "home carpenter Faisalabad",
+   "verified carpenter Faisalabad",
+   "carpenter service Faisalabad",
+   "carpenter provider Faisalabad",
+   "furniture carpenter Faisalabad",
+   "carpenter required in Faisalabad",
+   "carpenter near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/carpenters/multan": {
+  "name": "Carpenters in Multan",
+  "type": "Service + City Page",
+  "service": "Carpenters",
+  "city": "Multan",
+  "keywords": [
+   "hire carpenter in Multan",
+   "home carpenter Multan",
+   "verified carpenter Multan",
+   "carpenter service Multan",
+   "carpenter provider Multan",
+   "furniture carpenter Multan",
+   "carpenter required in Multan",
+   "carpenter near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/carpenters/peshawar": {
+  "name": "Carpenters in Peshawar",
+  "type": "Service + City Page",
+  "service": "Carpenters",
+  "city": "Peshawar",
+  "keywords": [
+   "hire carpenter in Peshawar",
+   "home carpenter Peshawar",
+   "verified carpenter Peshawar",
+   "carpenter service Peshawar",
+   "carpenter provider Peshawar",
+   "furniture carpenter Peshawar",
+   "carpenter required in Peshawar",
+   "carpenter near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/carpenters/gujranwala": {
+  "name": "Carpenters in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Carpenters",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire carpenter in Gujranwala",
+   "home carpenter Gujranwala",
+   "verified carpenter Gujranwala",
+   "carpenter service Gujranwala",
+   "carpenter provider Gujranwala",
+   "furniture carpenter Gujranwala",
+   "carpenter required in Gujranwala",
+   "carpenter near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/painters/islamabad": {
+  "name": "Painters in Islamabad",
+  "type": "Service + City Page",
+  "service": "Painters",
+  "city": "Islamabad",
+  "keywords": [
+   "hire painter in Islamabad",
+   "house painter Islamabad",
+   "verified painter Islamabad",
+   "painter service Islamabad",
+   "painter provider Islamabad",
+   "home painter Islamabad",
+   "painter required in Islamabad",
+   "painter near me Islamabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/painters/rawalpindi": {
+  "name": "Painters in Rawalpindi",
+  "type": "Service + City Page",
+  "service": "Painters",
+  "city": "Rawalpindi",
+  "keywords": [
+   "hire painter in Rawalpindi",
+   "house painter Rawalpindi",
+   "verified painter Rawalpindi",
+   "painter service Rawalpindi",
+   "painter provider Rawalpindi",
+   "home painter Rawalpindi",
+   "painter required in Rawalpindi",
+   "painter near me Rawalpindi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/painters/lahore": {
+  "name": "Painters in Lahore",
+  "type": "Service + City Page",
+  "service": "Painters",
+  "city": "Lahore",
+  "keywords": [
+   "hire painter in Lahore",
+   "house painter Lahore",
+   "verified painter Lahore",
+   "painter service Lahore",
+   "painter provider Lahore",
+   "home painter Lahore",
+   "painter required in Lahore",
+   "painter near me Lahore"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/painters/karachi": {
+  "name": "Painters in Karachi",
+  "type": "Service + City Page",
+  "service": "Painters",
+  "city": "Karachi",
+  "keywords": [
+   "hire painter in Karachi",
+   "house painter Karachi",
+   "verified painter Karachi",
+   "painter service Karachi",
+   "painter provider Karachi",
+   "home painter Karachi",
+   "painter required in Karachi",
+   "painter near me Karachi"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/painters/faisalabad": {
+  "name": "Painters in Faisalabad",
+  "type": "Service + City Page",
+  "service": "Painters",
+  "city": "Faisalabad",
+  "keywords": [
+   "hire painter in Faisalabad",
+   "house painter Faisalabad",
+   "verified painter Faisalabad",
+   "painter service Faisalabad",
+   "painter provider Faisalabad",
+   "home painter Faisalabad",
+   "painter required in Faisalabad",
+   "painter near me Faisalabad"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/painters/multan": {
+  "name": "Painters in Multan",
+  "type": "Service + City Page",
+  "service": "Painters",
+  "city": "Multan",
+  "keywords": [
+   "hire painter in Multan",
+   "house painter Multan",
+   "verified painter Multan",
+   "painter service Multan",
+   "painter provider Multan",
+   "home painter Multan",
+   "painter required in Multan",
+   "painter near me Multan"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/painters/peshawar": {
+  "name": "Painters in Peshawar",
+  "type": "Service + City Page",
+  "service": "Painters",
+  "city": "Peshawar",
+  "keywords": [
+   "hire painter in Peshawar",
+   "house painter Peshawar",
+   "verified painter Peshawar",
+   "painter service Peshawar",
+   "painter provider Peshawar",
+   "home painter Peshawar",
+   "painter required in Peshawar",
+   "painter near me Peshawar"
+  ],
+  "intent": "Local Transactional"
+ },
+ "/services/painters/gujranwala": {
+  "name": "Painters in Gujranwala",
+  "type": "Service + City Page",
+  "service": "Painters",
+  "city": "Gujranwala",
+  "keywords": [
+   "hire painter in Gujranwala",
+   "house painter Gujranwala",
+   "verified painter Gujranwala",
+   "painter service Gujranwala",
+   "painter provider Gujranwala",
+   "home painter Gujranwala",
+   "painter required in Gujranwala",
+   "painter near me Gujranwala"
+  ],
+  "intent": "Local Transactional"
+ }
+}

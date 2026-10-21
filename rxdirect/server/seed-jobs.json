@@ -1,0 +1,308 @@
+[
+  {
+    "seedKey": "service-cooks",
+    "title": "Home Cook",
+    "category": "cooks",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "live-in",
+    "salary": "",
+    "description": "Families need experienced home cooks for daily breakfast, lunch and dinner. You will plan meals with the family, prepare desi dishes to their taste, keep the kitchen clean and help when guests visit. Live-in and live-out positions are available in good homes, with a weekly day off and salary agreed with the family before you start.",
+    "requirements": [
+      "At least 2 years of cooking in a home or restaurant",
+      "Can cook everyday desi food: salans, dal, rice, roti, chicken and meat",
+      "Clean and careful in the kitchen",
+      "Valid CNIC and references from previous employers",
+      "Continental, Chinese or baking skills are a plus"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-chefs",
+    "title": "Professional Chef for Private Home",
+    "category": "chefs",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "full-time",
+    "salary": "",
+    "description": "Households that entertain often are looking for trained chefs to plan menus, cook for family and guests, and run the kitchen to a high standard. Some roles include event cooking and managing a kitchen helper.",
+    "requirements": [
+      "Restaurant, hotel, embassy or large household experience",
+      "Pakistani plus continental, Chinese or fusion menus",
+      "Menu planning, food costing and hygiene knowledge",
+      "Valid CNIC and work references",
+      "Able to cook for events and large dinners"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-drivers",
+    "title": "Family Driver",
+    "category": "drivers",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "full-time",
+    "salary": "",
+    "description": "Families need careful, honest drivers for school runs, office drops, shopping and occasional out of city trips. You will keep the car clean, do basic daily checks and keep fuel records.",
+    "requirements": [
+      "Valid driving licence (LTV)",
+      "At least 2 years of driving in the city",
+      "Knows main routes in your city",
+      "Calm, safe driving and no phone use while driving",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-maids",
+    "title": "House Maid",
+    "category": "maids",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "live-in",
+    "salary": "",
+    "description": "Homes need maids for cleaning, laundry, ironing, making beds and keeping rooms in order. Both live-in and live-out jobs are available. Female workers can ask for homes where another woman is present.",
+    "requirements": [
+      "Experience of cleaning and laundry in homes",
+      "Knows how to clean bathrooms, floors and kitchens properly",
+      "Can wash and iron different fabrics",
+      "Honest and respectful with family members",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-helpers",
+    "title": "Domestic Helper",
+    "category": "helpers",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "full-time",
+    "salary": "",
+    "description": "Large homes need helpers for outdoor cleaning, porch and garage, rubbish, errands to the market, carrying groceries and helping the cook in the kitchen.",
+    "requirements": [
+      "Fit and willing to do physical work",
+      "Honest with money and shopping",
+      "Basic kitchen help experience is a plus",
+      "Respectful towards the family and other staff",
+      "Valid CNIC and at least one reference"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-cleaners",
+    "title": "House and Office Cleaner",
+    "category": "cleaners",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "part-time",
+    "salary": "",
+    "description": "Homes and offices need cleaners for daily, weekly or deep cleaning. Work includes floors, bathrooms, kitchens, windows, dusting and cleaning after renovation. Part-time and full-time work available.",
+    "requirements": [
+      "Experience of home or office cleaning",
+      "Knows cleaning products and how to use them safely",
+      "Careful with furniture and belongings",
+      "Punctual and reliable",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-security-guards",
+    "title": "Security Guard",
+    "category": "security-guards",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "full-time",
+    "salary": "",
+    "description": "Homes, offices and businesses need trained guards for gate duty, visitor checks, receiving deliveries and night watch. Day and night shifts available.",
+    "requirements": [
+      "Ex-army or security company experience preferred",
+      "Alert and disciplined, especially on night shifts",
+      "Basic reading to keep a visitor register",
+      "Police character certificate",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-office-boys",
+    "title": "Office Boy",
+    "category": "office-boys",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "full-time",
+    "salary": "",
+    "description": "Offices need office boys for pantry and tea service, cleaning, filing, photocopying, bank and courier runs, and helping staff through the day.",
+    "requirements": [
+      "Basic reading and writing in Urdu, some English is a plus",
+      "Neat, polite and punctual",
+      "Honest with cash and errands",
+      "Motorbike and licence is a plus for errands",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-babysitters-nannies",
+    "title": "Nanny / Babysitter",
+    "category": "babysitters-nannies",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "live-in",
+    "salary": "",
+    "description": "Families need caring nannies for newborns, toddlers and school going children. You will handle feeding, bathing, naps, play and safe supervision, and keep parents informed every day.",
+    "requirements": [
+      "Experience caring for babies or young children",
+      "Knows safe feeding, sleeping and hygiene for children",
+      "Patient, gentle and never harsh with children",
+      "Basic first aid knowledge is a plus",
+      "Valid CNIC and references from families with children"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-gardeners",
+    "title": "Gardener (Mali)",
+    "category": "gardeners",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "full-time",
+    "salary": "",
+    "description": "Homes need gardeners for lawns, hedges, flower beds, pots, kitchen gardens and seasonal planting. Full-time and visit based jobs available.",
+    "requirements": [
+      "Experience of lawn and plant care",
+      "Knows watering, cutting, fertiliser and seasonal planting",
+      "Can use garden tools and a lawn mower",
+      "Honest and reliable",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-nurses",
+    "title": "Home Nurse",
+    "category": "nurses",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "full-time",
+    "salary": "",
+    "description": "Patients at home need qualified nurses for post surgery care, injections, wound dressing, catheter and NG tube care, vital signs and medicines. Day, night and live-in shifts available.",
+    "requirements": [
+      "Nursing diploma or degree, or LHV training",
+      "Registration with the nursing council where applicable",
+      "Hospital or home care experience",
+      "Calm, patient and careful with records",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-caretakers",
+    "title": "Elderly Caretaker",
+    "category": "caretakers",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "live-in",
+    "salary": "",
+    "description": "Families need caretakers for elderly parents: help with walking, bathing, dressing, meals, medicines on time and company through the day. Live-in and day shift jobs available.",
+    "requirements": [
+      "Experience caring for elderly people or patients",
+      "Patient, gentle and respectful",
+      "Can help with safe walking, bathing and transfers",
+      "Gives medicines on time from a chart",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-couples",
+    "title": "Domestic Couple (Husband and Wife)",
+    "category": "couples",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "live-in",
+    "salary": "",
+    "description": "Large homes and farmhouses need husband and wife couples to live in the staff quarters, usually as cook and driver, or maid and helper. Quarters and meals provided.",
+    "requirements": [
+      "Married couple, both with valid CNICs",
+      "Experience in household work as a couple or separately",
+      "One partner can cook or drive",
+      "Honest and able to look after the house when the family travels",
+      "References from previous employers"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-batman",
+    "title": "Personal Attendant (Batman)",
+    "category": "batman",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "full-time",
+    "salary": "",
+    "description": "Officer and executive households need disciplined personal attendants to care for clothes and uniforms, pack for travel, run errands, keep personal spaces in order and help with daily routines.",
+    "requirements": [
+      "Experience as a batman or personal attendant",
+      "Disciplined, neat and discreet",
+      "Can iron uniforms and polish shoes to a high standard",
+      "Reliable with errands and schedules",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-electricians",
+    "title": "Electrician",
+    "category": "electricians",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "contract",
+    "salary": "",
+    "description": "We send electricians to homes and offices for wiring faults, switches and sockets, fans and lights, UPS and inverter installation, breaker problems and earthing. Work is per job.",
+    "requirements": [
+      "Trade training or proven experience",
+      "Safe working with mains electricity",
+      "Own basic tools",
+      "Honest pricing and clean work",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-plumbers",
+    "title": "Plumber",
+    "category": "plumbers",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "contract",
+    "salary": "",
+    "description": "We send plumbers for leaks, blockages, motors and pumps, geyser installation and servicing, tank cleaning and bathroom fittings in homes and buildings. Work is per job.",
+    "requirements": [
+      "Proven plumbing experience",
+      "Can find leaks before breaking walls",
+      "Knows gas geyser safety",
+      "Own basic tools",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-carpenters",
+    "title": "Carpenter",
+    "category": "carpenters",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "contract",
+    "salary": "",
+    "description": "We send carpenters for door repairs, wardrobes, kitchen cabinets, furniture repair, fitting and polish work in homes and offices. Work is per job.",
+    "requirements": [
+      "Proven carpentry experience",
+      "Accurate measuring, joints and fitting",
+      "Own basic and power tools",
+      "Clean, careful work in homes",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  },
+  {
+    "seedKey": "service-painters",
+    "title": "Painter",
+    "category": "painters",
+    "city": "Islamabad, Rawalpindi, Lahore, Karachi and other cities",
+    "type": "contract",
+    "salary": "",
+    "description": "We send painters for interior and exterior painting, damp treatment, distemper, emulsion and wood polish in homes and offices. Work is per job.",
+    "requirements": [
+      "Proven painting experience",
+      "Proper surface preparation and neat finish",
+      "Protects floors and furniture while working",
+      "Reliable and punctual",
+      "Valid CNIC and references"
+    ],
+    "status": "open"
+  }
+]
