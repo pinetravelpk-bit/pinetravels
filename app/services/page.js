@@ -9,6 +9,7 @@ export const metadata = {
   title: "Services",
   description:
     "Group, family, customized and corporate tours, Nikah & destination weddings, conferences, hotel booking, rent a car & jeep, guest houses and local guides across Northern Pakistan.",
+  alternates: { canonical: "/services" },
 };
 
 export default function ServicesPage() {

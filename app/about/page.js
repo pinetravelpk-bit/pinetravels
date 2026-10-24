@@ -9,6 +9,7 @@ import { Check } from "lucide-react";
 export const metadata = {
   title: "About",
   description: "Pine Travel is a Rawalpindi-based travel company specialising in tours, weddings and travel services across Northern Pakistan.",
+  alternates: { canonical: "/about" },
 };
 
 const values = [
